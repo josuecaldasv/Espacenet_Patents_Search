@@ -1,0 +1,145 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118281261",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118281261",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/  0438            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04664            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04992            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410442807",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410442807",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "202410442807.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410442807",
+                            "date": "20240412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "YUTONG BUS CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "宇通客车股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHAO YAXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU YANGYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAI YONGCHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG PENGFAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JIANGCHUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵亚欣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "余阳阳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邰永超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张鹏凡, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李江川"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fuel cell leakage judgment method and device",
+                    "一种燃料电池泄漏判断方法和装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a method and a device for judging leakage of a fuel cell, and belongs to the technical field of fuel cells of new energy automobiles. According to the method, an ideal pressure value is subtracted from actual pressure values of three position pressures, namely, hydrogen low-pressure pressure of a vehicle-mounted hydrogen system, hydrogen pressure of a hydrogen injection inlet and pressure of an electric pile inlet, to obtain a difference value; and then the difference value is compared with the fault threshold values of different fault conditions at the corresponding positions, so that whether the fuel cell has an inner leakage fault or an outer leakage fault is identified, the hydrogen leakage type of the fuel cell is distinguished through the fault threshold values under the different fault conditions, the hydrogen leakage detection precision of the fuel cell is improved, and the detection efficiency is improved. Therefore, targeted troubleshooting can be carried out, and the workload of maintenance personnel is reduced."
+                },
+                {
+                    "p": "本发明涉及一种燃料电池泄漏判断方法和装置，属于新能源汽车燃料电池技术领域，本发明通过利用车载氢系统氢气低压压力、氢喷入口氢气压力、电堆入口压力三个位置压力的实际压力值减去理想压力值得到差值，再使用差值与对应位置不同故障情况的故障阈值进行对比，从而识别燃料电池出现内漏故障还是外漏故障，通过不同故障情况下的故障阈值对燃料电池氢气泄漏的类型进行区分，提升了燃料电池氢气泄漏检测的精度，使得能够进行针对性的故障检修，减少了维修人员的工作量。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118149268",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118149268",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F17C   5/    06            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    02            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410271916",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410271916",
+                            "date": "20240311"
+                        },
+                        {
+                            "doc-number": "202410271916.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410271916",
+                            "date": "20240311"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ENRIC LANGFANG ENERGY EQUIPMENT INTEGRATION CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " CIMC ENRIC INVESTMENT HOLDINGS SHENZHEN CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " CHINA INT MARINE CONTAINERS GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "安瑞科（廊坊）能源装备集成有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中集安瑞科投资控股（深圳）有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国国际海运集装箱（集团）股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LU BAIJI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG LIMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LU XINZHE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI HUAIEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO XIUPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG PENGNA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG JINFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卢百吉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张丽敏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卢欣喆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李怀恩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭秀平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张鹏娜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张金锋"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogenation control method and system and electronic equipment",
+                    "加氢控制方法、系统和电子设备"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a hydrogenation control method and system and electronic equipment, and belongs to the technical field of hydrogenation. According to the method, initial state information of a to-be-filled vehicle-mounted bottle and end state information at the filling end moment are firstly obtained, so that the to-be-filled vehicle-mounted bottle can be filled according to the initial state information and the end state information of the to-be-filled vehicle-mounted bottle, the heat transfer coefficient of the to-be-filled vehicle-mounted bottle to air, the air source temperature, the air source constant-pressure heat capacity and the environment temperature; and the filling rate corresponding to the vehicle-mounted bottle to be filled is obtained through prediction. In order to meet the filling rate, the pressure switching point of the hydrogen storage cylinder group can be calculated according to the first pressure of the to-be-filled vehicle-mounted cylinder, the second pressure of the hydrogen storage cylinder group and the target pressure difference between the to-be-filled vehicle-mounted cylinder and the hydrogen storage cylinder group. And the pressure switching points of the hydrogen storage bottle groups are sent to the hydrogen storage bottle group controller, so that the hydrogen storage bottle group controller can control the corresponding valves according to the pressure switching points to switch the corresponding hydrogen storage bottle groups to supply hydrogen. By controlling the hydrogenation process, both high efficiency and safety in the hydrogenation process can be considered."
+                },
+                {
+                    "p": "本申请提出一种加氢控制方法、系统和电子设备，属于加氢技术领域。该方法先获取待充注车载瓶的初始状态信息和充注结束时刻的终止状态信息，从而可根据待充注车载瓶的初始状态信息、终止状态信息、待充注车载瓶对空气的传热系数以及气源温度、气源恒压热容和环境温度，预测得到待充注车载瓶对应的充注速率。为满足该充注速率，可根据待充注车载瓶的第一压力、储氢瓶组的第二压力以及待充注车载瓶与储氢瓶组的目标压差，计算出储氢瓶组的压力切换点。再将储氢瓶组的压力切换点发送至储氢瓶组控制器，从而使得储氢瓶组控制器可根据压力切换点控制相应阀门以切换相应储氢瓶组进行供氢。通过对加氢过程的控制，能够兼顾加氢过程中的高效性和安全性。"
+                }
+            ]
+        }
+    }
+}

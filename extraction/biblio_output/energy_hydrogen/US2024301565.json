@@ -1,0 +1,203 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2024301565",
+                            "kind": "A1",
+                            "date": "20240912"
+                        },
+                        {
+                            "doc-number": "US2024301565",
+                            "date": "20240912"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/   042            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    73            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/   021            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    08            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "042",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "73",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "021",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "083",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "202418597298",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US202418597298",
+                            "date": "20240306"
+                        },
+                        {
+                            "doc-number": "18597298"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US202363450730P",
+                                    "date": "20230308"
+                                },
+                                {
+                                    "doc-number": "63450730"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": {
+                                "doc-number": "US202418597298",
+                                "date": "20240306"
+                            }
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BLOOM ENERGY CORP [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "BLOOM ENERGY CORPORATION"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DOTY JESSE [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " EDMONSTON DAVID [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LAVERNIA ALEJANDRO CARLOS [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " STANTON MARK [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEINGAERTNER DAVID [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BELL SHANNON [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "DOTY, Jesse, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "EDMONSTON, David, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "LAVERNIA, Alejandro Carlos, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "STANTON, Mark, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "WEINGAERTNER, David, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "BELL, Shannon"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "ELECTROLYZER SYSTEM INCLUDING THERMAL CONTROL COMPONENTS AND METHOD OF OPERATING SAME"
+            },
+            "abstract": {
+                "p": "An electrolyzer system includes electrolyzer cell columns each containing at least one stack of electrolyzer cells that are configured to receive a steam inlet stream and an air inlet stream, and to generate a hydrogen exhaust stream and an oxygen exhaust stream, an air recuperator heat exchanger surrounded by the electrolyzer cell columns and configured to heat the air inlet stream using the oxygen exhaust stream, a steam recuperator heat exchanger surrounded by the electrolyzer cell columns and configured to heat the steam inlet stream using the hydrogen exhaust stream, an outer column heater located radially outward of the electrolyzer cell columns and configured to radiate heat toward radially outward surfaces of the electrolyzer cell columns, and an inner column heater located radially inward of the electrolyzer cell columns, surrounding the air recuperator heat exchanger and the steam recuperator heat exchanger, and configured to radiate heat toward radially inward surfaces of the electrolyzer cell columns."
+            }
+        }
+    }
+}

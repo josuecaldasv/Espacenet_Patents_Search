@@ -1,0 +1,228 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116593600",
+                            "kind": "A",
+                            "date": "20230815"
+                        },
+                        {
+                            "doc-number": "CN116593600",
+                            "date": "20230815"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G01N  30/    02            A I                    "
+                        },
+                        {
+                            "text": "G01N  30/    66            A I                    "
+                        },
+                        {
+                            "text": "G01N  30/    68            A I                    "
+                        },
+                        {
+                            "text": "G01N  30/    86            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "30",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "30",
+                            "subgroup": "66",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "30",
+                            "subgroup": "68",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "30",
+                            "subgroup": "8631",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "A",
+                            "main-group": "50",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310326263",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310326263",
+                            "date": "20230329"
+                        },
+                        {
+                            "doc-number": "202310326263.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310326263",
+                            "date": "20230329"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ANHUI ZHONGHE TONGYUAN TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "安徽中核桐源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG FUXING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG FEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TANG JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " REN YING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIONG WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU HAIBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YE YIMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LYU WEIXING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张福星, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王飞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "唐俊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任英, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "熊伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "喻海波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "叶一鸣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吕卫星"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for detecting purity of carbon monoxide isotope product",
+                    "一种一氧化碳同位素产品纯度的检测方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of chromatographic analysis, and particularly discloses a method for detecting the purity of a carbon monoxide isotope product. Specific chromatographic working parameters are set, a standard mixed gas is detected in a mode that a thermal conductivity detector and a hydrogen flame ionization detector are connected in parallel, drawing of a standard curve is completed, then a carbon monoxide isotope product is guided into a chromatographic device, detection data of the detectors are collected, an analysis chromatogram is obtained, and the carbon monoxide isotope analysis result is obtained. Comparing with the retention time of standard mixed gas, carrying out qualitative analysis, then obtaining the component content according to a standard curve, and carrying out percentage normalization processing to obtain a quantitative analysis result. According to the invention, chromatographic parameters are optimized, the test accuracy is improved, and qualitative and quantitative analysis can be carried out on each component; the chromatographic device disclosed by the invention is simple, easy to operate and low in labor cost, and can provide technical support for production of carbon monoxide isotopes."
+                },
+                {
+                    "p": "本发明属于色谱分析技术领域，具体公开了一种一氧化碳同位素产品纯度的检测方法。本发明通过设置特定的色谱工作参数，并通过热导检测器和氢火焰离子化检测器并联的方式对标准混合气进行检测，完成标准曲线的绘制，再将一氧化碳同位素产品导入色谱装置，采集检测器的检测数据，得到分析色谱图，根据与标准混合气体的保留时间对比，进行定性分析，然后根据标准曲线得到组分含量，进行百分归一化处理得到定量分析结果。本发明对色谱参数进行了优化，提高了测试准确性，能够对各组分进行定性定量分析；本发明公开的色谱装置简单，易操作，人工成本低，能够对一氧化碳同位素的生产提供技术支持。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2024195218",
+                            "kind": "A1",
+                            "date": "20240613"
+                        },
+                        {
+                            "doc-number": "US2024195218",
+                            "date": "20240613"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   7/    34            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "7",
+                            "subgroup": "345",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "7",
+                            "subgroup": "345",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2207",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "30",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "202318536297",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US202318536297",
+                            "date": "20231212"
+                        },
+                        {
+                            "doc-number": "18536297"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US202263431850P",
+                                    "date": "20221212"
+                                },
+                                {
+                                    "doc-number": "63431850"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": {
+                                "doc-number": "US202318536297",
+                                "date": "20231212"
+                            }
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HERNANDEZ MILLAN RAFAEL [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "Hernandez Millan Rafael"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HERNANDEZ MILLAN RAFAEL [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "Hernandez Millan, Rafael"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Hybrid Energy Storage and Management System"
+            },
+            "abstract": {
+                "p": "A hybrid energy storage and management system is disclosed. The system includes fuel cells, working in conjunction with one or more electrolyzers to split water into hydrogen gas and oxygen gas. The gases are then stored for later use in generating electricity by fuel cells. The system uses heat management, ensuring the efficient utilization of heat produced by fuel cells and electrolyzers. The system incorporates batteries for electricity storage and super-capacitors to offer rapid response to electrical demands. In some embodiments, the system includes AC/DC, DC/DC, DC/AC converters to meet requirements of different large scale and small scale applications."
+            }
+        }
+    }
+}

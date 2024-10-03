@@ -1,0 +1,191 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "114389300",
+                            "kind": "A",
+                            "date": "20220422"
+                        },
+                        {
+                            "doc-number": "CN114389300",
+                            "date": "20220422"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    24            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "388",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "24",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "28",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "30",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202011111400",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202011111400",
+                            "date": "20201016"
+                        },
+                        {
+                            "doc-number": "202011111400.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202011111400",
+                            "date": "20201016"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANGHAI GREEN GIANT JUSTICIA ENERGY SCIENCE AND TECH LIMITED COMPANY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "上海绿巨人爱爵能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "QU CHAOJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "瞿超杰"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Off-grid micro-grid water electrolysis hydrogen production system and control method thereof",
+                    "一种离网型微电网电解水制氢系统及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "According to the off-grid micro-grid water electrolysis hydrogen production system and the control method thereof provided by the invention, the photovoltaic power generation module, the wind power generation module, the energy storage module and the standby power supply are arranged; intelligent switching among a green energy hydrogen production mode, a wind and light storage combined hydrogen production mode, a maximum hydrogen production mode, a minimum hydrogen production mode, an independent energy storage hydrogen production mode and a standby hydrogen production mode is achieved, and the problem that photovoltaic power and wind power cannot work stably for a long time due to weather when working independently is solved. The annual effective utilization rate of hydrogen production equipment is greatly improved, and the hydrogen production cost is reduced; voltage and frequency signals of the alternating-current bus are collected in real time through the control module, when wind power or photovoltaic power fluctuates, the alternating-current bus is compensated, the voltage and frequency fluctuations of the alternating-current bus are always within the standard range, the problems that hydrogen production equipment is frequently started and shut down and damaged due to independent wind power or photovoltaic hydrogen production are solved, and the safety of the hydrogen production equipment is improved. And the service life of the electrolytic bath is prolonged."
+                },
+                {
+                    "p": "本发明提供一种离网型微电网电解水制氢系统及其控制方法，通过设置光伏发电模块、风力发电模块、储能模块及备用电源，可根据天气情况及设备运行状态，在绿色能源制氢模式、风光储联合制氢模式、最大制氢模式、最小制氢模式、单独储能制氢模式及备用制氢模式之间智能切换，解决了光伏、风电单独工作时受天气影响不能长期、稳定工作的问题，大幅提高了制氢设备的年有效利用率、降低了制氢成本；还通过控制模块实时采集交流母线的电压与频率信号，当风电或光伏出现功率波动时，对交流母线进行补偿，使其电压与频率波动始终处于标准范围内，解决了单独风电或光伏制氢引起制氢设备频繁启动与关停、损坏制氢设备的问题，提高了电解槽的使用寿命。"
+                }
+            ]
+        }
+    }
+}

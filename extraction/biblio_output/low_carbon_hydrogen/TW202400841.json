@@ -1,0 +1,179 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "TW",
+                            "doc-number": "202400841",
+                            "kind": "A",
+                            "date": "20240101"
+                        },
+                        {
+                            "doc-number": "TW202400841",
+                            "date": "20240101"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C23C  16/    22            A I                    "
+                        },
+                        {
+                            "text": "C23C  16/    52            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "16",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "30",
+                            "subclass": "B",
+                            "main-group": "25",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "30",
+                            "subclass": "B",
+                            "main-group": "29",
+                            "subgroup": "36",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "2015",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "TW",
+                            "doc-number": "112117426",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "TW20230117426",
+                            "date": "20230511"
+                        },
+                        {
+                            "doc-number": "112117426"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "JP20220095410",
+                                "date": "20220614"
+                            },
+                            {
+                                "doc-number": "20220095410"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHINETSU HANDOTAI KK [JP]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "SHIN-ETSU HANDOTAI CO., LTD"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "MATSUBARA TOSHIKI [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUZUKI ATSUSHI [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " OHTSUKI TSUYOSHI [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ABE TATSUO [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "MATSUBARA, TOSHIKI, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "SUZUKI, ATSUSHI, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "OHTSUKI, TSUYOSHI, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "ABE, TATSUO"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Method for producing heteroepitaxial wafer"
+            },
+            "abstract": {
+                "p": "The present invention is a method for producing a heteroepitaxial wafer in which a 3C-SiC single crystal film is heteroepitaxially grown on a single crystal silicon substrate, said method comprising: a first step for removing a natural oxide film on a surface of a single crystal silicon substrate by hydrogen baking using a low-pressure CVD device; a second step for forming a SiC nucleus on the single crystal silicon substrate at a pressure of 13-13,332 Pa and a temperature of 600-1200 DEG C while supplying a source gas containing carbon; and a third step for growing a SiC single crystal at a pressure of 13-13,332 Pa and a temperature of not less than 800 DEG C but less than 1200 DEG C, while supplying a source gas containing carbon and silicon, to form a 3C-SiC single crystal film. Thus, provided is a method for producing a heteroepitaxial wafer that makes it possible to efficiently epitaxially grow a good 3C-SiC single crystal film on a single crystal silicon substrate."
+            }
+        }
+    }
+}

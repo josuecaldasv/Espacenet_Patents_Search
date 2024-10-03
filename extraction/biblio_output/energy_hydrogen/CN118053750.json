@@ -1,0 +1,152 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118053750",
+                            "kind": "A",
+                            "date": "20240517"
+                        },
+                        {
+                            "doc-number": "CN118053750",
+                            "date": "20240517"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01L  21/  3065            A I                    "
+                        },
+                        {
+                            "text": "H01L  21/   324            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "3065",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "324",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "70",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410201209",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410201209",
+                            "date": "20240223"
+                        },
+                        {
+                            "doc-number": "202410201209.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410201209",
+                            "date": "20240223"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV DALIAN TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "大连理工大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG DEJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG HAIHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QIN FUWEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王德君, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王海慧, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "秦福文"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Improved silicon carbide semiconductor surface etching treatment process",
+                    "一种改进的刻蚀碳化硅半导体表面处理工艺"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of semiconductor manufacturing, and relates to an improved etching silicon carbide semiconductor surface treatment process which comprises the following steps: (1) cleaning a SiC sample by adopting an RCA process, (2) depositing a SiO2 mask, (3) etching SiC to form a groove, (4) carrying out wet cleaning on the etched SiC sample, (5) carrying out a sacrificial oxidation process on the sample in the step (4), and (6) treating the SiC surface. According to the process, a surface treatment process is added after a traditional sacrificial oxidation process, and the surface treatment process is high-temperature annealing or low-energy hydrogen plasma treatment or low-energy nitrogen-hydrogen mixed plasma treatment in a hydrogen-containing atmosphere. Compared with a sacrificial oxidation process, the SiC surface treated by the process is smoother and smoother, and the surface roughness is lower. The SiC surface is processed in the hydrogen-containing atmosphere, so that surface defects are further removed or passivated, generation of interface defects is inhibited, and the reliability and stability of the SiCUMOSFET device are effectively improved."
+                },
+                {
+                    "p": "本发明属于半导体制造技术领域，一种改进的刻蚀碳化硅半导体表面处理工艺，包括以下步骤：(1)采用RCA工艺对SiC样品进行清洗，(2)沉积SiO2掩膜，(3)刻蚀SiC形成沟槽，(4)对刻蚀后SiC样品进行湿法清洗，(5)对步骤4样品进行牺牲氧化工艺，(6)对SiC表面进行处理。本发明工艺，是在传统的牺牲氧化工艺之后，增加一道表面处理工艺,该表面处理工艺为含氢气氛下高温退火或低能氢等离子体处理或低能氮氢混合等离子体处理。与牺牲氧化工艺相比，该工艺处理后的SiC表面更为平滑、平整，表面粗糙度更低。含氢气氛围下处理SiC表面使表面缺陷进一步去除或钝化，进而抑制界面缺陷的产生，从而有效提升SiCUMOSFET器件的可靠性与稳定性。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118289710",
+                            "kind": "A",
+                            "date": "20240705"
+                        },
+                        {
+                            "doc-number": "CN118289710",
+                            "date": "20240705"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    32            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    50            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    56            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04007            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04014            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04082            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04089            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0612            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0662            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0668            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  2465            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/   247            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410401140",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410401140",
+                            "date": "20240403"
+                        },
+                        {
+                            "doc-number": "202410401140.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410401140",
+                            "date": "20240403"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WESTERN METAL MAT CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西部金属材料股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI SHILING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAN QIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LU GUANGXUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YUAN HENGTONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李士玲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "颜俏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卢广轩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "袁亨通, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王云"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Energy conversion device integrating methanol reforming hydrogen production, hydrogen purification and fuel cell power generation and use method",
+                    "集甲醇重整制氢、氢气净化和燃料电池发电于一体的能量转换装置及使用方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of methanol reforming hydrogen production and fuel cells, in particular to an energy conversion device integrating methanol reforming hydrogen production, hydrogen purification and fuel cell power generation and a use method. According to the device, five technical paths of methanol catalytic combustion heat supply, methanol steam reforming hydrogen production, CO methanation removal, CO2 membrane absorption and low-temperature hydrogen fuel cell power generation are highly integrated, and systematic integration and gas path arrangement of a plurality of devices are realized through the structural design of the lamellar functional reaction cavity; and two-time waste heat recycling is completed through reverse arrangement of two paths of methanol catalytic combustion and reforming. According to the method, the CO in the synthesis gas is subjected to methanation removal to obtain the hydrogen-rich gas with the CO concentration lower than 10 ppm, CO2 is deeply removed through the membrane absorption technology to obtain the high-purity hydrogen, and the high-purity hydrogen is directly used for power generation of the proton exchange membrane fuel cell stack after heat exchange. The device is compact in structure, and self-heating heat supply and efficient energy conversion are achieved."
+                },
+                {
+                    "p": "本发明涉及甲醇重整制氢和燃料电池技术领域，具体来说是集甲醇重整制氢、氢气净化和燃料电池发电于一体的能量转换装置及使用方法，该装置高度集成了甲醇催化燃烧供热、甲醇水蒸汽重整制氢、CO甲烷化去除、CO2膜吸收、低温氢燃料电池发电五条技术路径，通过片层式功能化反应腔体结构设计，实现了多个装置的系统化集成和气路布置，并通过甲醇催化燃烧和重整两条路径的逆向设置完成了两次余热回收利用。本发明通过对合成气中CO的甲烷化去除得到CO浓度低于10ppm的富氢气体，经过膜吸收技术深度去除CO2后得到高纯氢气，高纯氢气经换热后直接用于质子交换膜燃料电池堆发电。装置结构紧凑，实现了自热供热和高效的能量转换。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118198414",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118198414",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F04D  27/    00            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04029            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  2465            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "04",
+                            "subclass": "D",
+                            "main-group": "27",
+                            "subgroup": "004",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04029",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "2465",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410289258",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410289258",
+                            "date": "20240314"
+                        },
+                        {
+                            "doc-number": "202410289258.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410289258",
+                            "date": "20240314"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HYDROGEN HYDROGEN POWER BEIJING HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "氢质氢离（北京）氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHAO PENGXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU XIAOCHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG HAITAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "晁鹏翔, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘晓超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王海涛"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Multi-fan device of heat dissipation system of hydrogen fuel cell and hierarchical control method of multi-fan device",
+                    "氢燃料电池散热系统多风扇装置及其分级控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a hydrogen fuel cell heat dissipation system multi-fan device and a hierarchical control method thereof, the device comprises a fuel cell stack, an air system, a hydrogen supply system and a cooling liquid system, the fuel cell stack is provided with a cooling liquid inlet, a cooling liquid outlet, an air inlet, an air outlet, a hydrogen inlet and a hydrogen outlet, an air inlet and an air outlet of the fuel cell stack are connected with an air system, a hydrogen inlet and a hydrogen outlet of the fuel cell stack are connected with a hydrogen supply system, and a cooling liquid inlet and a cooling liquid outlet of the fuel cell stack are connected with a cooling liquid system. The fans are divided into different levels and work in different rotating speed intervals, so that more fans are located in a high-efficiency interval of the motor, the efficiency of the fan motor is improved, and energy consumption is reduced; when the rotating speed requirement is low, the fan is moved to be closer to the inlet of the cooling flow channel, the temperature difference between air of the fan and the cooling flow channel is increased, and the heat dissipation capacity is improved."
+                },
+                {
+                    "p": "本发明公开了一种氢燃料电池散热系统多风扇装置及其分级控制方法，所述装置包括燃料电池堆、空气系统、供氢系统、冷却液系统，所述燃料电池堆上分别设置有冷却液入口、冷却液出口、空气入口、空气出口、氢气入口、氢气出口，所述燃料电池堆的空气入口和空气出口上连接空气系统，所述燃料电池堆的氢气入口和氢气出口上连接供氢系统，所述燃料电池堆的冷却液入口和冷却液出口上连接冷却液系统。本发明通过将风扇划分为不同级别，在不同的转速区间内工作，使更多的风扇处于电机高效率区间，从而提高风扇电机的效率，减少能耗；当转速需求较低时移动风扇位置，使风扇位置更靠近冷却流道入口处，增加风扇的风与冷却流道的温差，增加散热能力。"
+                }
+            ]
+        }
+    }
+}

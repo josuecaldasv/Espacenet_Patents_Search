@@ -1,0 +1,86 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "101059520",
+                            "kind": "A",
+                            "date": "20071024"
+                        },
+                        {
+                            "doc-number": "CN101059520",
+                            "date": "20071024"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "G01N  33/    74            A I                    "
+                    }
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "200710022972",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20071022972",
+                            "date": "20070529"
+                        },
+                        {
+                            "doc-number": "A2007100229720"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20071022972",
+                            "date": "20070529"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NANJING UNIVERSITY OF TECHNOLOGY [CN]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "NANJING UNIVERSITY"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG AIQIAN GAO [CN]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "AIQIAN,GAO ZHANG"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Organic ER affinity quick screening and forecast method based on receptor binding mode"
+            },
+            "abstract": {
+                "p": "The invention discloses a quick selecting predicting method of organic ER affinity force based on acceptor combine mode, which builds QSAR judge model and predict model according to the acceptor combine modes as prior ER affinity force data pollutant, acceptor combine energy, hydrogen bond function mode, acceptor function point reach hardness or the like, and the affinity index, to be applied into the ER affinity force judgment and predication of the compound with unknown affinity force. The invention can select and predict the compounds with different structures in wide active index ranges, to predict the suspected EDCs and hormone acceptor affinity force, with low cost, simple operation, saved time, and high predict ability as 80%, and significant support on the environment management and ecology risk evaluation."
+            }
+        }
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117666501",
+                            "kind": "A",
+                            "date": "20240308"
+                        },
+                        {
+                            "doc-number": "CN117666501",
+                            "date": "20240308"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "G05B  19/   418            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "05",
+                            "subclass": "B",
+                            "main-group": "19",
+                            "subgroup": "41865",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "05",
+                            "subclass": "B",
+                            "main-group": "2219",
+                            "subgroup": "32252",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "90",
+                            "subgroup": "02",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311629511",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311629511",
+                            "date": "20231130"
+                        },
+                        {
+                            "doc-number": "202311629511.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311629511",
+                            "date": "20231130"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHN ENERGY GROUP NINGXIA COAL IND CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家能源集团宁夏煤业有限责任公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG XINMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO LIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JUNJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CUI GUODONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JIANMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GU QIANGWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG RUINING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WAN ERHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张新民, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵亮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王俊杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "崔国栋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈炜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李建明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "古强伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨瑞宁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "万二红"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Coordination control method and device of coal-to-liquid system",
+                    "煤制油系统的协调控制方法及装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a coordinated control method and device for a coal-to-liquid system. The method comprises the following steps: in the operation process of the coal-to-liquid system, obtaining a first operation parameter and a second operation parameter of a gasification furnace in the coal-to-liquid system; determining a load prediction value of the gasifier according to the first operation parameter, and determining a carbon-hydrogen ratio prediction value in Fischer-Tropsch synthesis according to the second operation parameter; obtaining the current oxygen load of the air separation equipment in the coal-to-liquid system; adjusting an oxygen load threshold value of the air separation equipment according to the load prediction value and the current oxygen load so as to dynamically adjust the current oxygen load of the air separation equipment; and adjusting the working condition of the gasification furnace or the air separation plant according to the predicted value of the hydrocarbon ratio. The technical problems that in coal-to-liquid production process control in the related technology, manual operation adjustment is basically carried out on the conditions of loads, invalid scheduling, local start and stop and the like between the processes or between the upstream and the downstream, and inter-process lagging, untimely scheduling and low reliability are likely to occur are solved."
+                },
+                {
+                    "p": "本发明公开了一种煤制油系统的协调控制方法及装置。其中，该方法包括：在煤制油系统运行过程中，获取煤制油系统中气化炉的第一运行参数和第二运行参数；根据第一运行参数确定气化炉的负荷预测值，同时根据第二运行参数确定在费托合成中的碳氢比预测值；获取煤制油系统中空分设备的当前氧气负荷；根据负荷预测值和当前氧气负荷调整空分设备的氧气负荷阈值，以动态调整空分设备的当前氧气负荷；根据碳氢比预测值调整气化炉或空分设备的工况。本发明解决了相关技术中在煤制油生产过程控制中，对于工序间或上下游之间的负荷、无效调度以及局部启停等情况，基本通过调度指令进行人工操作调整，容易出现工序间滞后、调度不及时，可靠性较低的技术问题。"
+                }
+            ]
+        }
+    }
+}

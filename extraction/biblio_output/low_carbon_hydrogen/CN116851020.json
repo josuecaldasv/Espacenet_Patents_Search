@@ -1,0 +1,221 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116851020",
+                            "kind": "A",
+                            "date": "20231010"
+                        },
+                        {
+                            "doc-number": "CN116851020",
+                            "date": "20231010"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  27/    24            A I                    "
+                        },
+                        {
+                            "text": "B01J  37/    08            A I                    "
+                        },
+                        {
+                            "text": "C02F   1/    72            A I                    "
+                        },
+                        {
+                            "text": "C02F 101/    10            A N                    "
+                        },
+                        {
+                            "text": "C02F 101/    30            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "27",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "082",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "1",
+                            "subgroup": "722",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "1",
+                            "subgroup": "725",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "2101",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "2101",
+                            "subgroup": "30",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "W",
+                            "main-group": "10",
+                            "subgroup": "37",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310817637",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310817637",
+                            "date": "20230705"
+                        },
+                        {
+                            "doc-number": "202310817637.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310817637",
+                            "date": "20230705"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV NANCHANG HANGKONG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "南昌航空大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DENG FANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG ZHENZHOU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHI HONGXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SONG DI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG LONGSHUAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邓芳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王振州, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "施洪鑫, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋迪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张龙帅"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for preparing monatomic catalyst by loading monatomic through cascade fixation strategy and application of monatomic catalyst",
+                    "一种通过梯级固定策略负载单原子制备单原子催化剂的方法及其应用"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a method for preparing a monatomic catalyst and application thereof, in particular to a method for preparing a monatomic catalyst by loading monatomic through a cascade fixation strategy and application of the monatomic catalyst. The invention aims to solve the technical problems of non-uniform monatomic active sites and shielding of the active sites caused by low nitrogen content and complex defects of the existing graphite phase carbon nitride. Monoatoms are accurately anchored through complexation of oxalic acid and hydrogen-bond interaction, the problems that a large amount of metal is lost and active sites are not uniform are solved, the supramolecular self-assembled carbon nitride catalyst with the iron monoatoms loaded on the supramolecular self-assembled carbon nitride catalyst which is high in loading capacity and maximum in atom utilization rate is developed, and the supramolecular self-assembled carbon nitride catalyst has high value and application prospects and is suitable for industrial production. The method has important significance on efficiently degrading various pollutants in water by the persulfate. According to the invention, iron monatomic is loaded on the supramolecular self-assembled carbon nitride catalyst by using a cascade fixation strategy to catalyze and activate persulfate to degrade inorganic or organic pollutants in water, the catalytic activation efficiency is high, the degradation effect is remarkable, and the process is simple."
+                },
+                {
+                    "p": "一种通过梯级固定策略负载单原子制备单原子催化剂的方法及其应用，涉及一种制备单原子催化剂的方法及其应用。本发明是要解决目前石墨相氮化碳由于氮含量较低以及缺陷复杂，导致单原子活性位点不均一和遮蔽活性位点的技术问题。本发明通过草酸的络合与氢键作用精准锚定单原子，避免了金属的大量流失与活性位点不均一的问题，开发了一种高负载量，最大原子利用率的铁单原子负载在超分子自组装氮化碳催化剂，具有较高的价值与应用前景，对于过硫酸盐高效降解水体中多种污染物具有重要意义。本发明还利用梯级固定策略铁单原子负载在超分子自组装氮化碳催化剂催化活化过硫酸盐降解水体中无机或有机污染物，催化活化效率高，降解效果显著，工艺简单。"
+                }
+            ]
+        }
+    }
+}

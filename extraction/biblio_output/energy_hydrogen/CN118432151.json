@@ -1,0 +1,142 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118432151",
+                            "kind": "A",
+                            "date": "20240802"
+                        },
+                        {
+                            "doc-number": "CN118432151",
+                            "date": "20240802"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    14            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410463518",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410463518",
+                            "date": "20240417"
+                        },
+                        {
+                            "doc-number": "202410463518.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410463518",
+                            "date": "20240417"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA THREE GORGES CORP"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国长江三峡集团有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHAO WANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU CONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO XUEQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵汪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨阳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘聪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高学强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘峻"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Optimized scheduling method and system for wind-light-hydrogen-fire-storage multi-energy complementary system considering peak supply guarantee",
+                    "一种考虑顶峰保供的风光氢火储多能互补系统优化调度方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a wind-light-hydrogen-fire storage multi-energy complementary system optimization scheduling method and system considering peak supply guarantee, and aims to provide a wind-light-hydrogen-fire storage multi-energy complementary system optimization scheduling method and system through wind-light-fire storage simulation, hydrogen production curve drawing and wind-light-hydrogen-fire storage simulation on the premise of meeting the delivery peak supply guarantee capability of a new energy base. In order to solve the problem of optimal scheduling of a wind power, photovoltaic, hydrogen production, thermal power and energy storage multi-energy complementary system, according to the wind power, photovoltaic, hydrogen production, thermal power and energy storage installation scale, a wind-light-hydrogen-fire storage hour-level operation model is established, and the capacity of an energy storage battery and the peak capacity of thermal power are preferentially allocated, so that the delivery peak supply capacity of a new energy base is preferentially guaranteed; on the basis, on the basis of the principles of smoothing wind and light, being flexible and variable and not influencing the peak, wind and light output is judged according to a thermal power operation curve, a hydrogen production operation curve is planned, the wind and light output curve is smoothed through hydrogen production, the new energy utilization rate is increased, meanwhile, the effective utilization hours of a hydrogen production system are increased, and the operation economical efficiency of the hydrogen production system is improved."
+                },
+                {
+                    "p": "本发明提供了一种考虑顶峰保供的风光氢火储多能互补系统优化调度方法及系统，通过风光火储模拟、制氢曲线拟定、风光氢火储模拟，旨在满足新能源基地外送顶峰保供能力的前提下，解决风电、光伏、制氢、火电、储能多能互补系统的优化调度问题，本发明根据风电、光伏、制氢、火电、储能装机规模，建立风光氢火储小时级运行模型，通过优先调配储能电池容量和火电顶峰能力，优先保障新能源基地外送顶峰保供能力；在此基础上，基于平滑风光、灵活可变、不影响顶峰的原则，依据火电运行曲线判断风光出力，拟定制氢运行曲线，通过制氢平滑风光出力曲线、提高新能源利用率的同时，也提高了制氢系统有效利用小时数，有助于提高制氢系统运行经济性。"
+                }
+            ]
+        }
+    }
+}

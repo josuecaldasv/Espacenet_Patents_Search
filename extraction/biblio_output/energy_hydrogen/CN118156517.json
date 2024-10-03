@@ -1,0 +1,175 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118156517",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118156517",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   4/    86            A I                    "
+                        },
+                        {
+                            "text": "H01M   4/    88            A I                    "
+                        },
+                        {
+                            "text": "H01M   4/    90            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "8657",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "88",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "8828",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "90",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211561303",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211561303",
+                            "date": "20221207"
+                        },
+                        {
+                            "doc-number": "202211561303.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211561303",
+                            "date": "20221207"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "DALIAN INST CHEM & PHYSICS CAS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国科学院大连化学物理研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG SULI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU XINLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN GONGQUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王素力, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "许新龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙公权"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Polymer electrolyte membrane fuel cell composite anode and preparation and application thereof",
+                    "一种聚合物电解质膜燃料电池复合阳极及其制备和应用"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a composite anode of a polymer electrolyte membrane fuel cell, two catalytic layers are respectively coated on two sides of a substrate, one side close to a flow field is a CO low-temperature water-gas shift layer (WGS layer), one side close to an electrolyte membrane is a hydrogen H2 oxide layer (HOR layer), in a working process, a reaction gas containing CO firstly passes through the WGS layer, the CO is removed through low-temperature water-gas shift reaction, and the H2 oxide layer is removed through high-temperature water-gas shift reaction. And then the light enters the HOR layer through the diffusion layer for reaction to generate electric energy. Compared with the prior art, the composite electrode has the advantages that CO impurities in fuel can be removed in situ in the electrode without the help of external equipment, the CO poisoning resistance of the battery is greatly improved, and the battery is allowed to use cheap industrial byproduct hydrogen or reformed gas and the like as fuel. In addition, the preparation method of the composite electrode has the characteristics of simplicity, convenience and easiness in implementation, and has a relatively great application prospect."
+                },
+                {
+                    "p": "本发明为一种聚合物电解质膜燃料电池复合阳极，两层催化层分别涂覆于基底两侧，靠近流场一侧为CO低温水汽变换层(WGS层)，靠近电解质膜一侧为氢气H2氧化层(HOR层)，工作过程中含CO的反应气体首先经过WGS层，CO经低温水汽变换反应被去除，之后经过扩散层进入HOR层反应，产生电能。与现有技术相比，本发明所述复合电极能在不借助外部设备的条件下，在电极内部将燃料中的CO杂质原位去除，大幅提升电池的耐CO毒化能力，从而允许电池使用廉价的工业副产氢或重整气等作为燃料。此外，该复合电极的制备方法具有简便易实施的特点，具有较大应用前景。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118290216",
+                            "kind": "A",
+                            "date": "20240705"
+                        },
+                        {
+                            "doc-number": "CN118290216",
+                            "date": "20240705"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    50            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    52            A I                    "
+                        },
+                        {
+                            "text": "C07C   2/    64            A I                    "
+                        },
+                        {
+                            "text": "C07C   5/   327            A I                    "
+                        },
+                        {
+                            "text": "C07C   7/    00            A I                    "
+                        },
+                        {
+                            "text": "C07C   7/   163            A I                    "
+                        },
+                        {
+                            "text": "C07C   7/   167            A I                    "
+                        },
+                        {
+                            "text": "C07C   9/    04            A I                    "
+                        },
+                        {
+                            "text": "C07C  11/    04            A I                    "
+                        },
+                        {
+                            "text": "C07C  15/   073            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310009508",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20231009508",
+                            "date": "20230104"
+                        },
+                        {
+                            "doc-number": "202310009508.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20231009508",
+                            "date": "20230104"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA PETROLEUM & CHEMICAL CORP"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SINOPEC BEIJING CHEMICAL RES INSTITUTE CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国石油化工股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中石化（北京）化工研究院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI DONGFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAI LIANGWU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI XUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG JINGSHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI YAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李东风, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蔡良武, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李雪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张敬升, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李琰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王婧"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method and system for resource utilization of C2 component in refinery dry gas",
+                    "资源化利用炼厂干气中碳二组分的方法和系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the field of oil refining and chemical engineering, and discloses a method and a system for resource utilization of C2 components in refinery dry gas. The method comprises the following steps: (1) cryogenic separation: treating refinery dry gas through a first decarburization tower and a second decarburization tower in sequence by adopting a cryogenic separation process to realize separation of methane/C2/C3 components, and separating to obtain hydrogen-rich methane gas rich in hydrogen and methane, C2-rich gas rich in ethylene and ethane and a C3-rich material; and (2) selective hydrogenation: carrying out selective hydrogenation on the carbon-rich two-gas obtained in the step (1) so as to remove alkyne and/or alkadiene in the carbon-rich two-gas. The method and the system can greatly improve the utilization rate of C2 and hydrogen resources in the dry gas, and are simple in process, low in investment and easy to operate and control."
+                },
+                {
+                    "p": "本发明涉及炼油化工领域，公开了资源化利用炼厂干气中碳二组分的方法和系统。该方法包括：(1)深冷分离：采用深冷分离工艺，将炼厂干气依次经过脱碳一塔、脱碳二塔处理以实现甲烷/碳二/碳三组分的分离，分离得到富集氢气和甲烷的富甲烷氢气体、富集乙烯和乙烷的富碳二气以及富碳三物料；(2)选择性加氢：将步骤(1)得到的富碳二气，进行选择性加氢，以脱除其中的炔烃和/或二烯烃。该方法和系统可大幅提高干气中碳二和氢气资源的利用率，且流程简单、投资省，易于操作和控制。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,356 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "108313979",
+                            "kind": "A",
+                            "date": "20180724"
+                        },
+                        {
+                            "doc-number": "CN108313979",
+                            "date": "20180724"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "C01B   3/    02            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "129",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201810241992",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201810241992",
+                            "date": "20180322"
+                        },
+                        {
+                            "doc-number": "201810241992.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201810241992",
+                            "date": "20180322"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ZHANG JUNXIA"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "张俊霞, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "邵阳学院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG JUNXIA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张俊霞"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Device for producing hydrogen by combination of semi-coke waste heat and biomass gasification",
+                    "种利用兰炭余热耦合生物质气化制氢的装置"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN1528656",
+                                        "name": "GUANGZHOU ENERGY INST CHINESE [CN]",
+                                        "date": "20040915"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "1528656",
+                                        "kind": "A",
+                                        "name": "GUANGZHOU ENERGY INST CHINESE [CN]",
+                                        "date": "20040915"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2007217995",
+                                        "name": "MATSUMURA CHI [JP], et al",
+                                        "date": "20070920"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2007217995",
+                                        "kind": "A1",
+                                        "name": "MATSUMURA CHI [JP], et al",
+                                        "date": "20070920"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2010223846",
+                                        "name": "YANG ZHANCHUN [CN], et al",
+                                        "date": "20100909"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2010223846",
+                                        "kind": "A1",
+                                        "name": "YANG ZHANCHUN [CN], et al",
+                                        "date": "20100909"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2011016789",
+                                        "name": "NUKUMI HISANORI [JP], et al",
+                                        "date": "20110127"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2011016789",
+                                        "kind": "A1",
+                                        "name": "NUKUMI HISANORI [JP], et al",
+                                        "date": "20110127"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103879962",
+                                        "name": "UNIV GUANGXI",
+                                        "date": "20140625"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103879962",
+                                        "kind": "A",
+                                        "name": "UNIV GUANGXI",
+                                        "date": "20140625"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104329654",
+                                        "name": "UNIV YULIN",
+                                        "date": "20150204"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104329654",
+                                        "kind": "A",
+                                        "name": "UNIV YULIN",
+                                        "date": "20150204"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN204417430U",
+                                        "name": "SHIJIAZHUANG XINHUA ENERGY ENVIRONMENTAL TECHNOLOG",
+                                        "date": "20150624"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "204417430",
+                                        "kind": "U",
+                                        "name": "SHIJIAZHUANG XINHUA ENERGY ENVIRONMENTAL TECHNOLOG",
+                                        "date": "20150624"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 说明书第0004-0007段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN205995430U",
+                                        "name": "JIANGSU HEHAI NEW ENERGY CO LTD",
+                                        "date": "20170308"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "205995430",
+                                        "kind": "U",
+                                        "name": "JIANGSU HEHAI NEW ENERGY CO LTD",
+                                        "date": "20170308"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107794062",
+                                        "name": "UNIV YULIN",
+                                        "date": "20180313"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107794062",
+                                        "kind": "A",
+                                        "name": "UNIV YULIN",
+                                        "date": "20180313"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 说明书第0005-0014段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN208249886U",
+                                        "name": "ZHANG JUNXIA",
+                                        "date": "20181218"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "208249886",
+                                        "kind": "U",
+                                        "name": "ZHANG JUNXIA",
+                                        "date": "20181218"
+                                    }
+                                ]
+                            },
+                            "category": "R",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 权利要求1-8 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a device for producing hydrogen by combination of semi-coke waste heat and biomass gasification and belongs to the technical field of cross of semi-coke plant waste heat use and biomass hydrogen production. The device comprises a quenching pool and a gasification furnace. The quenching pool is provided with a coke discharge port. A superheater is arranged in the quenching pool. A water feeding system is arranged at an inlet of the superheater. The quenching pool is connected to the gasification furnace through a steam pipe. The gasification furnace is divided into a primary gasification chamber and a secondary gasification chamber through a partition plate. A feeding inlet is arranged on the primary gasification chamber. An air distributor is arranged in the primarygasification chamber. The primary gasification chamber and the secondary gasification chamber are connected through an air introducing pipe. An exhaust pipe is installed on the secondary gasificationchamber. The device utilizes semi-coke waste heat, waste gas and waste biomass, prepares clean energy hydrogen through a simple chemical reaction, changes wastes into valuables, realizes eco-friendlyproduction, is simple, is easy to operate, is safe and reliable and realizes a low cost."
+                },
+                {
+                    "p": "本发明公开了种采用兰炭余热耦合生物质气化制氢的装置，属于兰炭厂余热利用和生物质制氢的交叉技术领域。包括熄焦池和气化炉，在熄焦池上开设有落焦口，熄焦池内部设有过热器，过热器进口设有进水系统；熄焦池通过蒸汽管与气化炉连接，气化炉由隔板分为级气化室与二级气化室，级气化室上设有进料口，内部设有布风装置；级气化室与二级气化室之间通过引气管连接，二级气化室上装有排气管。所述装置利用兰炭余热、荒煤气和废弃生物质，通过简单的化学反应制得清洁的能源氢气，具有变废为宝、绿色生产的特色。而且该装置简单易行、安全可靠、成本低廉。\n"
+                }
+            ]
+        }
+    }
+}

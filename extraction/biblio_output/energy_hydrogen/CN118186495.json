@@ -1,0 +1,198 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118186495",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118186495",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B  11/    02            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "60",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "11",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410373061",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410373061",
+                            "date": "20240329"
+                        },
+                        {
+                            "doc-number": "202410373061.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410373061",
+                            "date": "20240329"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BOLING SUZHOU TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "博菱（苏州）科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG YAZHOU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG PEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DUAN HUILING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU ZHUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG PENGJU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "汪亚洲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王沛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "段慧玲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴谆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张鹏举"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Optimization design method of nickel electrode net for hydrogen production by alkaline electrolyzed water",
+                    "一种碱性电解水制氢镍电极网的优化设计方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an optimal design method of a nickel electrode net for hydrogen production by alkaline electrolysis of water. The method comprises the following steps: proposing a basic assumption, establishing an electrochemical model, modeling a gas-liquid two-phase flow, and optimizing. According to the method, modeling and optimization are carried out on the electrode electrolysis process, topological optimization is carried out on a gap structure through bubble dynamics, after optimization, the electrode thickness, the porosity and the hole opening shape matched with the alkaline electrolytic cell under the given operation condition are given, the bubble generation rate on the surface of the electrode is controlled under the condition, and the bubble generation rate of the surface of the electrode is controlled. The active surface area of the electrode is increased as much as possible, the overpotential of the electrode can be effectively reduced, the electrolysis efficiency is improved, the resistance between bubbles and the electrode is reduced, and the diffusivity of the bubbles in electrolyte is improved, so that the current density is improved, the reaction energy consumption is reduced, and the voltage demand is reduced."
+                },
+                {
+                    "p": "本发明公开了一种碱性电解水制氢镍电极网的优化设计方法，包括以下步骤：提出基本假设、建立电化学模型、气液两相流建模、优化。本发明通过对电极电解过程的建模、优化，经过气泡动力学，针对空隙结构进行拓扑优化，经过优化后，给出碱性电解槽在给定运行条件下，与之适配的电极厚度、孔隙率以及开孔形状，在此条件下控制电极表面气泡产生速率，使电极活性表面积尽可能增大，可以有效降低电极过电位，提高电解效率，同时减少气泡与电极之间的阻力，提高气泡在电解液中的扩散率，从而提高电流密度、降低反应能耗、降低电压需求。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118399498",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118399498",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410481903",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410481903",
+                            "date": "20240422"
+                        },
+                        {
+                            "doc-number": "202410481903.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410481903",
+                            "date": "20240422"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "POWERCHINA HUADONG ENGINEERING CORPORATION LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " ZHEJIANG UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国电建集团华东勘测设计研究院有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "浙江大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XU ZHANPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN FUXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG XUEFAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LU QINFEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐展鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈福新, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨雪凡, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卢琴芬"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Optical hydrogen storage grid-connected micro-grid capacity configuration optimization method",
+                    "一种光储氢并网型微电网容量配置优化方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an optical hydrogen storage grid-connected micro-grid capacity configuration optimization method, which comprises the following steps: establishing an optical hydrogen storage grid-connected micro-grid system model, an objective function and constraint conditions, optimizing the objective function to be annual comprehensive profit, introducing a green certificate transaction mechanism and a carbon transaction mechanism into system operation cost and profit, and optimizing the capacity configuration of the optical hydrogen storage grid-connected micro-grid. Optimization constraints comprise a load power shortage rate, a light abandoning rate and the like, and the system optimization configuration model is solved by adopting a particle swarm optimization algorithm improved based on a genetic algorithm, so that an economical optimal configuration scheme of the micro-grid can be obtained. Therefore, renewable energy sources can be effectively utilized, the impact on the power grid is reduced, and the economical efficiency and the power supply reliability of the micro-grid are improved."
+                },
+                {
+                    "p": "本发明公开了一种光储氢并网型微电网容量配置优化方法，建立光储氢并网型微电网系统模型、目标函数和约束条件，优化目标函数是年综合利润，将绿证交易和碳交易机制引入系统运行成本和收益，优化约束包括了负荷缺电率和弃光率等，采用基于遗传算法改进的粒子群算法对系统优化配置模型进行求解，可得到微电网的经济性最优配置方案。由此，本发明能有效利用可再生能源，降低对电网的冲击，提高微电网的经济性和供电可靠性。"
+                }
+            ]
+        }
+    }
+}

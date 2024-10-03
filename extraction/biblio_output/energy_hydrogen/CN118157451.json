@@ -1,0 +1,227 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118157451",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118157451",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "H02M   1/    14            A I                    "
+                        },
+                        {
+                            "text": "H02M   3/   155            A I                    "
+                        },
+                        {
+                            "text": "H02M   5/    10            A I                    "
+                        },
+                        {
+                            "text": "H02M   7/    06            A I                    "
+                        },
+                        {
+                            "text": "H02M   7/  5387            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "65",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "1",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "3",
+                            "subgroup": "155",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "5",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "7",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "7",
+                            "subgroup": "53871",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410271432",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410271432",
+                            "date": "20240311"
+                        },
+                        {
+                            "doc-number": "202410271432.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410271432",
+                            "date": "20240311"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "JIANGSU INTELLI HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "江苏英特利氢能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI HUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG YONGBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN LIJUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李欢, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘月, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄勇博, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王坚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙利娟"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Low-pulse electrolytic hydrogen production power supply and device thereof",
+                    "一种低脉动电解制氢电源及其装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a low-pulse electrolytic hydrogen production power supply and device, and belongs to the technical field of water electrolysis hydrogen production. Comprising a three-phase diode uncontrolled rectifier module, an H-bridge module, a transformer module, a main power rectifier module, a compensation module and the like. The main power rectification module is a rectification circuit cascade filter circuit, the compensation module is a rectification circuit cascade non-isolated DC/DC converter consistent with the main power rectification module, and the main power rectification module and the compensation module are connected in series. By controlling the on and off of switching tubes in the full-bridge module and the non-isolated DC/DC converter, the output pulsation of the main power rectifier module and the output pulsation of the compensation module are equal in magnitude and opposite in phase. Therefore, six pulsations existing in output voltage and current waveforms of the main power rectification module introduced by uncontrolled rectification of the three-phase diode are effectively suppressed, and finally, the output current of the electrolytic hydrogen production power supply has no power frequency pulsation or has low pulsation ripples."
+                },
+                {
+                    "p": "本发明公开一种低脉动电解制氢电源及装置，属于电解水制氢技术领域；包括：三相二极管不控整流模块、H桥模块、变压器模块、主功率整流模块、补偿模块等。主功率整流模块为整流电路级联滤波电路，补偿模块为与主功率整流模块一致的整流电路级联非隔离型DC/DC变换器，主功率整流模块和补偿模块串联连接。通过控制全桥模块和非隔离型DC/DC变换器中开关管的导通和关断，使得主功率整流模块的输出脉动和补偿模块的输出脉动大小相等、相位相反，进而对由三相二极管不控整流引入的主功率整流模块输出电压、电流波形存在的六脉动进行有效抑制，最终，电解制氢电源的输出电流无工频脉动或存在低脉动纹波。"
+                }
+            ]
+        }
+    }
+}

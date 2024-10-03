@@ -1,0 +1,165 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116777154",
+                            "kind": "A",
+                            "date": "20230919"
+                        },
+                        {
+                            "doc-number": "CN116777154",
+                            "date": "20230919"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  17/    10            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0283            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310712356",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310712356",
+                            "date": "20230615"
+                        },
+                        {
+                            "doc-number": "202310712356.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310712356",
+                            "date": "20230615"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHANGCHUN INST TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "长春工程学院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG HUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIAO XU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUAN BAOJIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JI XIU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QU NUOYA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " AN ZHE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG CHENGLIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王晖, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "廖旭, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "管保晋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "纪秀, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曲诺亚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "安喆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王承霖"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Integrated energy system scheduling method based on distributed near-end strategy gradient algorithm",
+                    "基于分布式近端策略梯度算法的综合能源系统调度方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to an integrated energy system scheduling method based on a distributed near-end strategy gradient algorithm, and the method comprises the steps: firstly, building each energy and energy storage equipment model for a large-scale IES system containing electricity, heat, gas, hydrogen and cold; secondly, constructing a dual-objective target function by using the lowest total cost formed by the carbon transaction cost and the equipment operation and maintenance cost and the minimum actual carbon emission of the system, and combining with a fuzzy membership function to construct a reward function for scheduling; and finally, performing a comparison test on the reward function and the double targets by taking the total operation cost of the single target as the reward function. According to the integrated energy system scheduling method, a fuzzy membership function is adopted to construct a double-objective reward function, and two aspects of carbon emission and operation cost are considered at the same time, namely, economy and low-carbon property of the system are comprehensively considered, so that the method has certain significance for future development; the method effectively avoids the problem caused by insufficient influence of a single cost target on carbon emission, and has high efficiency and rapidness."
+                },
+                {
+                    "p": "本发明涉及一种基于分布式近端策略梯度算法的综合能源系统调度方法，首先，对于包含电、热、气、氢、冷的大型IES系统，创建其各个能源及储能设备模型；其次，以碳交易成本和设备运维成本构成的总成本最低与系统实际的碳排放量最少构建双目标的目标函数，并与模糊隶属度函数进行结合构建奖励函数进行调度；最后，通过单一目标的总运行成本为奖励函数与双目标进行对比测试。本发明综合能源系统调度方法采用了模糊隶属度函数构造双目标的奖励函数，同时考虑了碳排放和运行成本两个方面，即综合考虑了系统的经济和低碳性，对未来发展具有一定的意义；本方法有效的规避了单一成本目标对碳排放量影响不够造成的问题，具有高效性与快速性。"
+                }
+            ]
+        }
+    }
+}

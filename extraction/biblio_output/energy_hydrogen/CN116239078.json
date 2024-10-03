@@ -1,0 +1,737 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116239078",
+                            "kind": "A",
+                            "date": "20230609"
+                        },
+                        {
+                            "doc-number": "CN116239078",
+                            "date": "20230609"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  23/    02            A I                    "
+                        },
+                        {
+                            "text": "B01J  23/    26            A I                    "
+                        },
+                        {
+                            "text": "B01J  23/    58            A I                    "
+                        },
+                        {
+                            "text": "B01J  23/    78            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    04            A I                    "
+                        },
+                        {
+                            "text": "G02B  19/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "19",
+                            "subgroup": "123",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "21",
+                            "subgroup": "063",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "21",
+                            "subgroup": "063",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "002",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "002",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "58",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "78",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "8896",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "8993",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "27",
+                            "subgroup": "13",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "35",
+                            "subgroup": "19",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "35",
+                            "subgroup": "27",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "35",
+                            "subgroup": "39",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "35",
+                            "subgroup": "39",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "35",
+                            "subgroup": "39",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "031",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "088",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "042",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "042",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "042",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "13",
+                            "subgroup": "0207",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "02",
+                            "subclass": "B",
+                            "main-group": "19",
+                            "subgroup": "0042",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "19",
+                            "subgroup": "127",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "0277",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "0855",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "1041",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "1064",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "1282",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310517872",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310517872",
+                            "date": "20230510"
+                        },
+                        {
+                            "doc-number": "202310517872.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310517872",
+                            "date": "20230510"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "INST PROCESS ENG CAS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国科学院过程工程研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JIA QIBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DUAN DONGPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG XIAODONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MIKISHINA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI YAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " REN YUZHI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贾奇博, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "段东平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张晓冬, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "干科, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李焱, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任玉枝"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Device and method for producing hydrogen by photolysis of water",
+                    "一种光解水制氢装置及方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101033058",
+                                        "name": "UNIV XI AN JIAOTONG [CN]",
+                                        "date": "20070912"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101033058",
+                                        "kind": "A",
+                                        "name": "UNIV XI AN JIAOTONG [CN]",
+                                        "date": "20070912"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101974764",
+                                        "name": "UNIV JIANGSU",
+                                        "date": "20110216"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101974764",
+                                        "kind": "A",
+                                        "name": "UNIV JIANGSU",
+                                        "date": "20110216"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107540045",
+                                        "name": "INST PROCESS ENG CAS",
+                                        "date": "20180105"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107540045",
+                                        "kind": "A",
+                                        "name": "INST PROCESS ENG CAS",
+                                        "date": "20180105"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109987581",
+                                        "name": "UNIV XI AN JIAOTONG",
+                                        "date": "20190709"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109987581",
+                                        "kind": "A",
+                                        "name": "UNIV XI AN JIAOTONG",
+                                        "date": "20190709"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2019156705",
+                                        "name": "IHI CORP",
+                                        "date": "20190919"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2019156705",
+                                        "kind": "A",
+                                        "name": "IHI CORP",
+                                        "date": "20190919"
+                                    }
+                                ]
+                            },
+                            "category": "YX"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112604678",
+                                        "name": "INST PROCESS ENG CAS",
+                                        "date": "20210406"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112604678",
+                                        "kind": "A",
+                                        "name": "INST PROCESS ENG CAS",
+                                        "date": "20210406"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112723409",
+                                        "name": "UNIV JIANGSU",
+                                        "date": "20210430"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112723409",
+                                        "kind": "A",
+                                        "name": "UNIV JIANGSU",
+                                        "date": "20210430"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114873637",
+                                        "name": "NEWMAT BEIJING ENVIRONMENTAL MATERIALS TECH CORPORATION, et al",
+                                        "date": "20220809"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114873637",
+                                        "kind": "A",
+                                        "name": "NEWMAT BEIJING ENVIRONMENTAL MATERIALS TECH CORPORATION, et al",
+                                        "date": "20220809"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2023096060",
+                                        "name": "MASUDA TAIZO [JP], et al",
+                                        "date": "20230330"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2023096060",
+                                        "kind": "A1",
+                                        "name": "MASUDA TAIZO [JP], et al",
+                                        "date": "20230330"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115869935",
+                                        "name": "TOYOTA MOTOR CO LTD                                                                                 , et al",
+                                        "date": "20230331"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115869935",
+                                        "kind": "A",
+                                        "name": "TOYOTA MOTOR CO LTD                                                                                 , et al",
+                                        "date": "20230331"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115893483",
+                                        "name": "NEWMAT BEIJING ENVIRONMENTAL MATERIALS TECH CORPORATION, et al",
+                                        "date": "20230404"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115893483",
+                                        "kind": "A",
+                                        "name": "NEWMAT BEIJING ENVIRONMENTAL MATERIALS TECH CORPORATION, et al",
+                                        "date": "20230404"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a device and method for producing hydrogen through water photolysis, and belongs to the field of solar photovoltaic hydrogen production, the device for producing hydrogen through water photolysis comprises a water photolysis catalytic reaction unit with a light-transmitting surface, and a condenser illumination assembly with a light-condensing surface facing the light-transmitting surface of the water photolysis catalytic reaction unit; the condenser illumination assembly comprises a solar condensation cone and a reflective mirror used for reflecting and focusing sunlight to the solar condensation cone. From the perspective of improving the utilization rate of sunlight, the device for producing hydrogen by photolysis of water is designed, solar energy is gathered on a photolysis water catalytic reaction unit by utilizing a condenser illumination assembly, the illumination intensity and catalytic efficiency are greatly improved, a photolysis water catalytic interface and the reaction unit are also greatly simplified, and the device is simple in structure, convenient to operate and low in cost. The system is suitable for various climates and various illumination conditions. In addition, the device can efficiently perform hydrogen and oxygen production reaction, and has excellent solar energy-hydrogen energy conversion efficiency."
+                },
+                {
+                    "p": "本发明提供一种光解水制氢装置及方法，属于太阳能光伏制氢领域，所述光解水制氢装置包括含有透光面的光解水催化反应单元，和聚光面朝向光解水催化反应单元透光面的聚光器光照组件；所述聚光器光照组件包括太阳能聚光锥和用于将太阳光反射聚焦至太阳能聚光锥的反光镜。本发明从提高太阳光利用率的角度出发，设计了一种光解水制氢装置，该装置利用聚光器光照组件将太阳能聚集在光解水催化反应单元，极大地提高了光照强度和催化效率，也极大地简化了光解水催化界面和反应单元，结构简单，可适用于多种气候以及各种光照条件。并且，该装置可以高效地进行产氢产氧反应，具有优异的太阳能‑氢能转化效率。"
+                }
+            ]
+        }
+    }
+}

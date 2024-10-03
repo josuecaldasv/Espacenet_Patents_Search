@@ -1,0 +1,248 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "TW",
+                            "doc-number": "202415701",
+                            "kind": "A",
+                            "date": "20240416"
+                        },
+                        {
+                            "doc-number": "TW202415701",
+                            "date": "20240416"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C08G  63/    20            A I                    "
+                        },
+                        {
+                            "text": "C08G  63/   685            A I                    "
+                        },
+                        {
+                            "text": "C08K   5/   353            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "283",
+                            "subgroup": "01",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "G",
+                            "main-group": "63",
+                            "subgroup": "54",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "J",
+                            "main-group": "5",
+                            "subgroup": "244",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "J",
+                            "main-group": "2367",
+                            "subgroup": "00",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08F283/01",
+                                    "classification-value": "I",
+                                    "generating-office": "EP"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08F226/02",
+                                    "classification-value": "I",
+                                    "generating-office": "EP"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "TW",
+                            "doc-number": "112134142",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "TW20230134142",
+                            "date": "20230907"
+                        },
+                        {
+                            "doc-number": "112134142"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "EP20220194299",
+                                    "date": "20220907"
+                                },
+                                {
+                                    "doc-number": "20220194299"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "EP20220214107",
+                                    "date": "20221216"
+                                },
+                                {
+                                    "doc-number": "20220214107"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BASF SE [DE]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "BASF SE"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LORENZ REINHARD [DE]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WYLEZEK MACIEJ ALEKSANDER [PL]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ADERMANN TORBEN [DE]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " D'ANDOLA GIOVANNI [IT]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GLAESER KRISTIN [DE]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KRENZ IRINA [DE]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KALINKIN CHRIS RICK [DE]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " THOMANN FELIX [DE]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "LORENZ, REINHARD, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "WYLEZEK, MACIEJ ALEKSANDER, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "ADERMANN, TORBEN, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "D'ANDOLA, GIOVANNI, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "GLAESER, KRISTIN, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "KRENZ, IRINA, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "KALINKIN, CHRIS RICK, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "THOMANN, FELIX"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Ethylenically unsaturated polyester resin composition"
+            },
+            "abstract": {
+                "p": "An ethylenically unsaturated polyester resin composition comprising (i) an ethylenically unsaturated polyester resin obtainable by reacting (i-a) at least one unsaturated dicarboxylic acid, or an ester or an anhydride thereof, wherein the unsaturated dicarboxylic acid comprises at least one ethylenically unsaturated dicarboxylic acid; and (i-b) at least one polyol; and (ii) a reactive diluent. The reactive diluent (ii) is an N vinyloxazolidinone of formula (I) in which R1, R2, R3 and R4 are independently from one another selected from a hydrogen atom and an organic moiety comprising 1 to 10 carbon atoms. The ethylenically unsaturated polyester resin (i) is characterized by a Hansen solubility parameter [delta]p of at least 5.5 MPa&lt;SP&gt;1/2&lt;/SP&gt;. The ethylenically unsaturated polyester resin composition may be used for thermosets. N-vinyloxazolidinones of formula (I) are especially suitable for solubilizing ethylenically unsaturated polyester resins (i), and generally exhibit low toxicity and are virtually odorless."
+            }
+        }
+    }
+}

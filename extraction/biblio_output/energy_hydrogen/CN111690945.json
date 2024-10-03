@@ -1,0 +1,294 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "111690945",
+                            "kind": "A",
+                            "date": "20200922"
+                        },
+                        {
+                            "doc-number": "CN111690945",
+                            "date": "20200922"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    02            A I                    "
+                        },
+                        {
+                            "text": "C25B  11/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B  11/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "133",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201910197029",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201910197029",
+                            "date": "20190315"
+                        },
+                        {
+                            "doc-number": "201910197029.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201910197029",
+                            "date": "20190315"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NAT CT NANOSCIENCE & TECHNOLOGY CHINA"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家纳米科学中心"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SUN XIANGNAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MIAO JIAOJIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TENG XUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG RUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙向南, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苗娇娇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "滕雪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张瑞"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for producing hydrogen by electrolyzing waste lignocellulose",
+                    "一种利用废弃木质纤维素电解制氢的方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105720278",
+                                        "name": "UNIV HUAZHONG SCIENCE TECH",
+                                        "date": "20160629"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105720278",
+                                        "kind": "A",
+                                        "name": "UNIV HUAZHONG SCIENCE TECH",
+                                        "date": "20160629"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN106011926",
+                                        "name": "UNIV JIANGSU",
+                                        "date": "20161012"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "106011926",
+                                        "kind": "A",
+                                        "name": "UNIV JIANGSU",
+                                        "date": "20161012"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN106694005",
+                                        "name": "UNIV TIANJIN TECHNOLOGY",
+                                        "date": "20170524"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "106694005",
+                                        "kind": "A",
+                                        "name": "UNIV TIANJIN TECHNOLOGY",
+                                        "date": "20170524"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2018175594",
+                                        "name": "UNIV RICE WILLIAM M [US], et al",
+                                        "date": "20180927"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2018175594",
+                                        "kind": "A1",
+                                        "name": "UNIV RICE WILLIAM M [US], et al",
+                                        "date": "20180927"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109174162",
+                                        "name": "UNIV JIANGSU",
+                                        "date": "20190111"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109174162",
+                                        "kind": "A",
+                                        "name": "UNIV JIANGSU",
+                                        "date": "20190111"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 第4-19段，实施例2 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Takashi Hibino et al, \"Efficient Hydrogen Production by Direct Electrolysis of Waste Biomass at Intermediate Temperatures\", 《ACS Sustainable Chem. Eng.》"
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 第9360-9368页 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Takashi Hibino et al, \"Direct electrolysis of waste newspaper for sustainable hydrogen production：an oxygen-functionalized porous carbon anode\", 《Applied Catalysis B: Environmental》"
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 第191-199页 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a method for producing hydrogen by electrolyzing waste lignocellulose, which comprises the following steps: putting a pretreated base material into a mixed solution containingtransition metal salt and a template agent, carrying out hydrothermal reaction, taking out the material, cleaning and drying the material, and carrying out heating and phosphating reaction in the presence of inert gas to obtain a catalyst; adding a waste lignocellulose raw material into a mixed solution containing an alkaline solution and polyol with mixing to obtain an electrolyte; preparing a two-electrode system, wherein an activated catalyst serves as a working negative electrode and a working positive electrode and is placed in an electrolyte to form an electrolytic tank, and thereby light-driven electrolytic hydrogen production is achieved in combination with a photovoltaic module. According to the method provided by the invention, the waste lignocellulose can be directly used for producing hydrogen and the waste original lignocellulose can be utilized and consumed; meanwhile, the energy consumption of water electrolysis hydrogen production can be reduced, waste and pollution caused by lignocellulose incineration are reduced; the clean energy hydrogen is prepared through solar energy, so that the hydrogen production efficiency is improved, the application prospect is wide, and theoretical and practical significance is great."
+                },
+                {
+                    "p": "本发明公开了一种利用废弃木质纤维素电解制氢的方法，包括，将经前处理后的基体材料置于含有过渡金属盐和模板剂的混合溶液中，水热反应后取出，清洗干燥后在惰性气体下，加热，磷化反应制得催化剂；将废弃木质纤维素原料加入含碱性溶液和多元醇的混合溶液中混合制得电解液；采用两电极体系，将活化处理后的催化剂作为工作阴阳电极，置于电解液中构成电解池，结合光伏组件，实现光驱动电解制氢。本发明所提供的方法能直接使用废弃木质纤维素来制氢，不但能利用和消耗废弃原木质纤维素，同时能降低电解水制氢的能耗，在减少焚烧木质纤维素带来的浪费和污染的同时，利用太阳能制备清洁能源氢气，提高制氢效率，应用前景广阔，理论和实际意义重大。"
+                }
+            ]
+        }
+    }
+}

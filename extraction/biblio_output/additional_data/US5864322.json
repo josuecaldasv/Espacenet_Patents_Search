@@ -1,0 +1,227 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "5864322",
+                            "kind": "A",
+                            "date": "19990126"
+                        },
+                        {
+                            "doc-number": "US5864322",
+                            "date": "19990126"
+                        }
+                    ]
+                },
+                "classification-ipc": {
+                    "text": "H01Q15/02"
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01Q   1/    36            A I                    "
+                        },
+                        {
+                            "text": "H01Q   3/    46            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "Q",
+                            "main-group": "1",
+                            "subgroup": "366",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "Q",
+                            "main-group": "1",
+                            "subgroup": "366",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "Q",
+                            "main-group": "3",
+                            "subgroup": "46",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "Q",
+                            "main-group": "3",
+                            "subgroup": "46",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "343/754"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "343/778"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "343/909"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "78881897",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US19970788818",
+                            "date": "19970123"
+                        },
+                        {
+                            "doc-number": "788818"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": {
+                                "doc-number": "US19970788818",
+                                "date": "19970123"
+                            }
+                        },
+                        {
+                            "document-id": {
+                                "doc-number": "US19960010468P",
+                                "date": "19960123"
+                            }
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "MALIBU RESEARCH ASSOCIATES INC [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "MALIBU RESEARCH ASSOCIATES, INC"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "POLLON GERALD E [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GONZALEZ DANIEL G [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WALKER JOEL F [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SIKORA LAWRENCE J [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "POLLON, GERALD E, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "GONZALEZ, DANIEL G, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "WALKER, JOEL F, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "SIKORA, LAWRENCE J"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Dynamic plasma driven antenna",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4905014",
+                                        "name": "GONZALEZ DANIEL G [US], et al",
+                                        "date": "19900227"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4905014",
+                                        "kind": "A",
+                                        "name": "GONZALEZ DANIEL G [US], et al",
+                                        "date": "19900227"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5182496",
+                                        "name": "MANHEIMER WALLACE M [US], et al",
+                                        "date": "19930126"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5182496",
+                                        "kind": "A",
+                                        "name": "MANHEIMER WALLACE M [US], et al",
+                                        "date": "19930126"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "An electronic scan antenna for generating an electrically scanned RF beam in response to an incident RF beam having at least one operating frequency band associated therewith includes a ground plane for reflecting the incident RF beam and a phasing arrangement of plasma structures operatively coupled to the ground plane. Each plasma structure includes gas containing areas which are reflective at the operating frequency range, when ionized, forming ionized plasma areas. Each ionized plasma area is disposed a first distance from the ground plane, a second distance from adjacent ionized plasma areas and each plasma ionized plasma area has a particular size associated therewith. In this manner, each ionized plasma area, in cooperation with the ground plane, provides a portion of a composite RF beam which has a phase shift associated therewith. The electronic scan antenna of the present invention also includes a control circuit for selectively ionizing the gas containing areas such that the size of each ionized plasma area may be dynamically varied so as to dynamically vary the imparted phase shift. In this manner, the composite RF beam may be electronically scanned."
+            }
+        }
+    }
+}

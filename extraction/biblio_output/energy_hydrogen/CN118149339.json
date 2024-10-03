@@ -1,0 +1,198 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118149339",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118149339",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F23C   7/    00            A I                    "
+                        },
+                        {
+                            "text": "F23D   1/    00            A I                    "
+                        },
+                        {
+                            "text": "F23J  15/    06            A I                    "
+                        },
+                        {
+                            "text": "F23L  15/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "7",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "D",
+                            "main-group": "1",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "L",
+                            "main-group": "15",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410293764",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410293764",
+                            "date": "20240314"
+                        },
+                        {
+                            "doc-number": "202410293764.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410293764",
+                            "date": "20240314"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "XIAN THERMAL POWER RES INST CO"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西安热工研究院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG CHAOWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU HONGGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG GAOBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU PING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG ZHIGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU ZIKUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王超伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "柳宏刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨高波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王志刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡自坤"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "System and method for deep peak regulation of coal-fired boiler of aluminum fuel energy storage coupling power station",
+                    "一种铝燃料储能耦合电站燃煤锅炉深度调峰的系统及方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a system and a method for deep peak regulation of a coal-fired boiler of an aluminum fuel energy storage coupling power station. The system comprises an aluminum oxide electrolytic cell, a condenser, an aluminum particle storage device, a gas mixer, an aluminum powder storage device, an aluminum-water generator, a hydrogen-water vapor separator, a first heat exchanger, a second heat exchanger, a water storage tank, a first hydrogen nozzle, a pulverized coal primary air nozzle, a second hydrogen nozzle, a pulverized coal reburning area nozzle, an over fire air nozzle, an economizer, a boiler body and the like. The method comprises the steps that when the new energy power generation load is insufficient, new energy power generation and power station coal-fired power generation supply power to a power grid; when the new energy power generation load is excessive, the coal-fired boiler of the power station needs to be kept in a low-load stable combustion state; aluminum oxide is electrolyzed to generate aluminum fuel and oxygen in an aluminum oxide electrolytic cell by utilizing surplus new energy generating capacity; aluminum powder and steam extracted by a steam turbine are subjected to a chemical reaction in an aluminum-water generator to prepare hydrogen, high-temperature flue gas at an outlet of a hearth is used for providing heat required by the reaction, and the high-temperature flue gas after heat exchange returns to a vertical flue of a boiler, so that the temperature of the flue gas before an SCR inlet is increased; a mixture of hydrogen and water vapor at an outlet of an aluminum-water generator is firstly separated through a hydrogen-water vapor separator, the hydrogen is fed into combustion-supporting pulverized coal fuel in a boiler ignition area, and the water vapor is used for carrying out cascade preheating on oxygen-enriched over fire air and boiler feed water at an outlet of a coal economizer through a heat exchanger; pulverized coal fuel is fed into a boiler re-burning area through a pulverized coal re-burning area nozzle, and the NOx generation amount during burning is reduced in a fuel re-burning mode; oxygen-enriched over-fire air is fed into a boiler over-fire area through an over-fire air nozzle, and the combustion efficiency of the boiler is improved through two modes of oxygen-enriched gas and preheating. By coupling the coal-fired power plant boiler and the aluminum fuel energy storage system, organic combination of new energy power generation and thermal power generation is achieved, the power grid power supply load is stabilized, and the energy structure in China is optimized."
+                },
+                {
+                    "p": "本发明公开了一种铝燃料储能耦合电站燃煤锅炉深度调峰的系统及方法，该系统包括氧化铝电解槽、冷凝器、铝颗粒贮存器、气体混合器、铝粉贮存器、铝‑水发生器、氢气‑水蒸气分离器、第一换热器、第二换热器、储水罐、第一氢气喷口、煤粉一次风喷口、第二氢气喷口、煤粉再燃区喷口、燃尽风喷口、省煤器和锅炉本体等；该方法包括：当新能源发电负荷不足时，新能源发电和电站燃煤发电均为电网供电；当新能源发电负荷过剩时，需要维持电站燃煤锅炉处于低负荷稳燃状态；利用过剩的新能源发电量在氧化铝电解槽中将氧化铝电解生成铝燃料和氧气；铝粉与汽轮机抽汽在铝‑水发生器中发生化学反应制备氢气，利用炉膛出口高温烟气提供反应所需的热量，而换热后的高温烟气再回到锅炉竖直烟道内，提高SCR入口前的烟气温度；铝‑水发生器出口氢气和水蒸气混合物先经过氢气‑水蒸气分离器进行分离，其中氢气送入锅炉着火区助燃煤粉燃料，而水蒸气则分别通过换热器为富氧燃尽风和省煤器出口锅炉给水进行梯级预热；煤粉燃料通过煤粉再燃区喷口送入锅炉再燃区，通过燃料再燃的方式降低燃烧时的NOx生成量；富氧燃尽风通过燃尽风喷口送入锅炉燃尽区，通过富氧气体和预热两种方式提高锅炉的燃烧效率。本发明通过耦合燃煤电站锅炉和铝燃料储能系统，实现了新能源发电与火力发电的有机结合，稳定了电网供电负荷，优化了我国能源结构。"
+                }
+            ]
+        }
+    }
+}

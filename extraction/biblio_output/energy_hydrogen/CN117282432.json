@@ -1,0 +1,443 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117282432",
+                            "kind": "A",
+                            "date": "20231226"
+                        },
+                        {
+                            "doc-number": "CN117282432",
+                            "date": "20231226"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  23/    00            A I                    "
+                        },
+                        {
+                            "text": "B01J  23/    80            A I                    "
+                        },
+                        {
+                            "text": "B01J  23/   825            A I                    "
+                        },
+                        {
+                            "text": "B01J  37/    03            A I                    "
+                        },
+                        {
+                            "text": "B01J  37/    08            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   154            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "002",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "80",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "825",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "031",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "154",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "52",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C29/154",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C31/04",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311102276",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311102276",
+                            "date": "20230828"
+                        },
+                        {
+                            "doc-number": "202311102276.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311102276",
+                            "date": "20230828"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "DALIAN INST CHEM & PHYSICS CAS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国科学院大连化学物理研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI CAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JIJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG YAPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李灿, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王集杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "姜亚鹏"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Catalyst for synthesizing green methanol by coupling biomass gasification with renewable energy hydrogen production as well as preparation method and application of catalyst",
+                    "一种生物质气化耦合可再生能源制氢合成绿色甲醇的催化剂及其制备方法和应用"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CA2075646",
+                                        "name": "HOECHST AG [DE]",
+                                        "date": "19930218"
+                                    },
+                                    {
+                                        "country": "CA",
+                                        "doc-number": "2075646",
+                                        "kind": "A1",
+                                        "name": "HOECHST AG [DE]",
+                                        "date": "19930218"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2011118367",
+                                        "name": "KANG SUK-HWAN [KR], et al",
+                                        "date": "20110519"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2011118367",
+                                        "kind": "A1",
+                                        "name": "KANG SUK-HWAN [KR], et al",
+                                        "date": "20110519"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "KR20140067675",
+                                        "name": "KOREA INST SCI & TECH [KR]",
+                                        "date": "20140605"
+                                    },
+                                    {
+                                        "country": "KR",
+                                        "doc-number": "20140067675",
+                                        "kind": "A",
+                                        "name": "KOREA INST SCI & TECH [KR]",
+                                        "date": "20140605"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107008332",
+                                        "name": "DALIAN INST CHEM & PHYSICS CAS",
+                                        "date": "20170804"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107008332",
+                                        "kind": "A",
+                                        "name": "DALIAN INST CHEM & PHYSICS CAS",
+                                        "date": "20170804"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2018049735",
+                                        "name": "DALIAN INST CHEM & PHYSICS CAS [CN]",
+                                        "date": "20180322"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2018049735",
+                                        "kind": "A1",
+                                        "name": "DALIAN INST CHEM & PHYSICS CAS [CN]",
+                                        "date": "20180322"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109420484",
+                                        "name": "DALIAN INST CHEM & PHYSICS CAS",
+                                        "date": "20190305"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109420484",
+                                        "kind": "A",
+                                        "name": "DALIAN INST CHEM & PHYSICS CAS",
+                                        "date": "20190305"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110327933",
+                                        "name": "CHANGZHOU BEIHUA AOLIAN ENV SCI TECH CO LTD",
+                                        "date": "20191015"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110327933",
+                                        "kind": "A",
+                                        "name": "CHANGZHOU BEIHUA AOLIAN ENV SCI TECH CO LTD",
+                                        "date": "20191015"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "EP4159710",
+                                        "name": "INDIAN OIL CORP LTD                                                                                  [IN]",
+                                        "date": "20230405"
+                                    },
+                                    {
+                                        "country": "EP",
+                                        "doc-number": "4159710",
+                                        "kind": "A2",
+                                        "name": "INDIAN OIL CORP LTD                                                                                  [IN]",
+                                        "date": "20230405"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116273013",
+                                        "name": "ORDOS HANBO TECH CO LTD, et al",
+                                        "date": "20230623"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116273013",
+                                        "kind": "A",
+                                        "name": "ORDOS HANBO TECH CO LTD, et al",
+                                        "date": "20230623"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116328779",
+                                        "name": "DALIAN INST CHEM & PHYSICS CAS                                                                      ",
+                                        "date": "20230627"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116328779",
+                                        "kind": "A",
+                                        "name": "DALIAN INST CHEM & PHYSICS CAS                                                                      ",
+                                        "date": "20230627"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116550373",
+                                        "name": "UNIV XIAMEN                                                                                         ",
+                                        "date": "20230808"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116550373",
+                                        "kind": "A",
+                                        "name": "UNIV XIAMEN                                                                                         ",
+                                        "date": "20230808"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a methanol synthesis catalyst and a preparation method and application thereof. Biomass gasification is coupled with renewable energy hydrogen production to synthesize green methanol; the catalyst is an oxide solid solution promoted CuO/ZnO composite catalyst; a solvent of the oxide solid solution is selected from one of CeO2, ZrO2 and TiO2, and a solute of the oxide solid solution is selected from oxides of + 2 valence metal Mg (Ca, Zn and Cd) and oxides of + 3 valence metal Al (In and Ga); the copper-zinc catalyst has the advantages that the copper-zinc catalyst can be used as a carrier, solutes with different valence states can provide proper oxygen vacancies, promote CO2 activation, modulate the electronic property of Cu and stabilize copper ions, so that the catalytic activity and the stability of the copper-zinc catalyst are improved. Biomass gasification is coupled with renewable energy source hydrogen production so as to synthesize methanol, so that a conventional conversion hydrogen production process after biomass gasification is omitted, zero carbon emission is realized, and all biomass carbon resources enter methanol. The CuO/ZnO composite catalyst promoted by the oxide solid solution can realize efficient conversion of CO/CO2/H2 into methanol, and is simple to prepare and suitable for large-scale application."
+                },
+                {
+                    "p": "本申请公开了一种合成甲醇催化剂及其制备方法和应用。用于生物质气化耦合可再生能源制氢合成绿色甲醇；所述催化剂是氧化物固溶体促进CuO/ZnO的复合催化剂；所述氧化物固溶体的溶剂选自CeO2、ZrO2、TiO2中的一种，溶质选自+2价金属Mg(Ca、Zn、Cd)的氧化物和+3价金属Al(In、Ga)的氧化物；不同价态溶质，提供合适的氧空位，促进CO2活化，并调变Cu的电子性质，且稳定铜离子，从而提升铜锌催化剂的催化活性及稳定性。针对生物质气化耦合可再生能源制氢进而合成甲醇，省去了传统生物质气化后的变换制氢工序，零碳排放，使生物质的碳资源全部进入甲醇中。所述的氧化物固溶体促进的CuO/ZnO复合催化剂可实现CO/CO2/H2高效转化为甲醇，且制备简单，适合大规模应用。"
+                }
+            ]
+        }
+    }
+}

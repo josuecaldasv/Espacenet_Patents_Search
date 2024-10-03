@@ -1,0 +1,178 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117057565",
+                            "kind": "A",
+                            "date": "20231114"
+                        },
+                        {
+                            "doc-number": "CN117057565",
+                            "date": "20231114"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  17/    10            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "17",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "0631",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06315",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311048370",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20231148370",
+                            "date": "20230821"
+                        },
+                        {
+                            "doc-number": "202311048370.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20231148370",
+                            "date": "20230821"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV NORTHEAST DIANLI"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "东北电力大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YANG MAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHU YIDAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JINXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨茂, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "朱一丹, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王金鑫"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Robust low-carbon dispatching method for distribution of hydrogen-energy-containing comprehensive energy system considering thermal inertia",
+                    "计及热惯性的含氢能综合能源系统分布鲁棒低碳调度方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "A distributed robust low-carbon scheduling method for a hydrogen-energy-containing comprehensive energy system considering thermal inertia belongs to the technical field of comprehensive energy systems, and comprises the following steps: firstly, constructing a demand response model considering thermal inertia, and decoupling a mode of determining power by heat in cogeneration by combining an organic Rankine cycle waste heat power generation technology; secondly, a two-stage electric hydrogen production model comprising an electrolytic tank, a methane reactor and a hydrogen fuel cell is introduced, so that the synergistic effect of hydrogen energy and a carbon capture technology is fully exerted; and finally, in order to solve the problem of source-load uncertainty, a data-driven distributed robust optimization model is constructed, and CPLEX is adopted for solving. On the basis of considering the demand response mechanism of the thermal inertia of the load side, the waste heat power generation device of the source side is combined, and hydrogen energy is added to the energy supply side of the system, so that the economical efficiency and the low-carbon property of the system are further improved."
+                },
+                {
+                    "p": "计及热惯性的含氢能综合能源系统分布鲁棒低碳调度方法，属于综合能源系统技术领域，首先，构建考虑热惯性的需求响应模型，并结合有机朗肯循环余热发电技术，将热电联产中的“以热定电”模式进行解耦。其次，引入含电解槽、甲烷反应器、和氢燃料电池的两阶段电制氢模型，来充分发挥氢能和碳捕集技术的协同作用。最后，为解决源‑荷不确定性问题，构建数据驱动的分布鲁棒优化模型，并采用CPLEX进行求解。本发明在考虑荷侧热惯性的需求响应机制的基础上，结合源侧的余热发电装置并在系统的供能侧加入氢能，进一步提高系统的经济性与低碳性。"
+                }
+            ]
+        }
+    }
+}

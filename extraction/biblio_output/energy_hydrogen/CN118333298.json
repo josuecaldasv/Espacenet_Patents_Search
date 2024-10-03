@@ -1,0 +1,214 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118333298",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118333298",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06N   3/   006            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410318417",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410318417",
+                            "date": "20240320"
+                        },
+                        {
+                            "doc-number": "202410318417.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410318417",
+                            "date": "20240320"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NANJING POWER SUPPLY BRANCH OF STATE GRID JIANGSU ELECTRIC POWER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SOUTHEAST UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国网江苏省电力有限公司南京供电分公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "东南大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHOU DONGXU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG CAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GU WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG LINQING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PAN GUANGSHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JINGYA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JI YUKUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAN SHUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YUYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周冬旭, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张灿, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "顾伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨林青, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "潘光胜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李静雅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "季钰款, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "韩硕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王驭扬"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Generation method of hydrogen-light storage and charging comprehensive energy station operation scheduling scheme",
+                    "氢-光储充综合能源站运行调度方案的生成方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a method for generating a hydrogen-light storage and charging comprehensive energy station operation scheduling scheme, and belongs to the technical field of energy station operation scheduling scheme generation. Comprising the following steps of setting operation parameters of the hydrogen-light storage and charging comprehensive energy station, establishing an operation scheduling model of the hydrogen-light storage and charging comprehensive energy station according to the operation parameters, and finally performing iterative solution on the operation scheduling model of the hydrogen-light storage and charging comprehensive energy station by adopting an improved grey wolf optimization algorithm. And obtaining an individual position with the maximum predation benefit in the current wolf pack, and outputting the individual position as an optimal operation scheduling scheme of the hydrogen-light storage and charging comprehensive energy station. According to the method, a brand-new operation scheduling model is established by considering the incidence relation among various energy sources of an energy station and uncertain factors in the operation process; according to the method, the incidence relation among multiple energy sources of the hydrogen-light storage and charging comprehensive energy station is considered, uncertain factors in the operation process of the hydrogen-light storage and charging comprehensive energy station are also considered, and the effect is better when the method is applied to an optimization solution algorithm."
+                },
+                {
+                    "p": "本发明一种氢‑光储充综合能源站运行调度方案的生成方法，属于能源站运行调度方案生成技术领域。包括以下步骤，设置氢‑光储充综合能源站的运行参数，并根据运行参数建立氢‑光储充综合能源站的运行调度模型，最终采用改进的灰狼优化算法对所述氢‑光储充综合能源站运行调度模型进行迭代求解，得到当前狼群中具有最大捕食效益的个体位置并输出作为氢‑光储充综合能源站的最优运行调度方案。本发明考虑到了能源站多种能源之间的关联关系和运行过程中的不确定因素，建立了全新的运行调度模型；考虑到了氢‑光储充综合能源站多种能源之间的关联关系，也考虑到了氢‑光储充综合能源站运行过程中的不确定因素，应用在优化求解算法中时效果更好。"
+                }
+            ]
+        }
+    }
+}

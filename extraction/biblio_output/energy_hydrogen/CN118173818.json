@@ -1,0 +1,188 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118173818",
+                            "kind": "A",
+                            "date": "20240611"
+                        },
+                        {
+                            "doc-number": "CN118173818",
+                            "date": "20240611"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04007            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04029            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0606            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  2465            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04007",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04029",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0606",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "2465",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410279122",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410279122",
+                            "date": "20240312"
+                        },
+                        {
+                            "doc-number": "202410279122.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410279122",
+                            "date": "20240312"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HYDROGEN HYDROGEN POWER BEIJING HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "氢质氢离（北京）氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHAO PENGXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHANG QIMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI CUICUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GONG YANAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "晁鹏翔, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "尚启明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李翠翠, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "巩亚楠"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fuel cell system for optimizing temperature rising speed of cooling liquid by using air out-of-pile waste heat",
+                    "利用空气出堆余热优化冷却液升温速度的燃料电池系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the field of fuel cell systems, in particular to a fuel cell system for optimizing the temperature rising speed of cooling liquid by using air out-of-pile waste heat. The system comprises a fuel cell stack, a hydrogen supply subsystem communicated with a hydrogen inlet/outlet of the fuel cell stack, an air subsystem communicated with an air outlet/inlet of the fuel cell stack, and a thermal management subsystem communicated with a cooling liquid outlet/inlet of the fuel cell stack, a gas-water heat exchanger, a thermostat and a radiator are arranged on the heat management subsystem; when small/large circulation switching is carried out through the thermostat, the air-water heat exchanger carries out heat exchange on air out-of-pile waste heat provided by the air subsystem, and the temperature of cooling liquid in a heating radiator and an external pipeline is assisted. According to the invention, on one hand, the problems of large water temperature fluctuation, slow water temperature rise, influence on the current loading rate of the fuel cell and influence on the performance of the fuel cell system during small/large cycle switching are solved, and on the other hand, the utilization of the air out-of-pile waste heat is realized, and the energy-saving and environment-friendly properties of the system are improved."
+                },
+                {
+                    "p": "本发明涉及燃料电池系统领域，尤其涉及利用空气出堆余热优化冷却液升温速度的燃料电池系统。其包括燃料电池电堆，连通燃料电池电堆氢气进/出口的供氢子系统，连通燃料电池电堆空气出/入堆的空气子系统，以及连通燃料电池电堆冷却液出/入口的热管理子系统；热管理子系统上设置气‑水换热器、节温器和散热器；通过节温器进行小/大循环切换时，气‑水换热器对空气子系统提供的空气出堆余热进行换热，协助加热散热器及外部管路中冷却液温度。本发明一方面解决了小/大循环切换时，水温波动较大，水温温升慢，影响燃料电池电流拉载速率，影响燃料电池系统性能的问题，另一方面实现对空气出堆余热的利用，提高了系统的节能环保性。"
+                }
+            ]
+        }
+    }
+}

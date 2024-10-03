@@ -1,0 +1,154 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118431518",
+                            "kind": "A",
+                            "date": "20240802"
+                        },
+                        {
+                            "doc-number": "CN118431518",
+                            "date": "20240802"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L  58/    30            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    33            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04014            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04029            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04701            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04992            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410510124",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410510124",
+                            "date": "20240426"
+                        },
+                        {
+                            "doc-number": "202410510124.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410510124",
+                            "date": "20240426"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HAIZHUO POWER QINGDAO ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "海卓动力（青岛）能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XIE JIAPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG DAIFU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN HEBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DU DAOCHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谢佳平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄代富, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙合宾, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杜道昶, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李鹏"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Self-adaptive thermal management control method for hydrogen-oxygen fuel cell engine",
+                    "一种氢氧燃料电池发动机自适应热管理控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a self-adaptive thermal management control method for an oxyhydrogen fuel cell engine, and the method comprises the steps: obtaining a whole vehicle gas-electric control mode and a whole vehicle gas-electric power demand instruction, and obtaining the operation state of the fuel cell engine; according to the whole vehicle gas-electric control mode and the whole vehicle gas-electric power demand instruction, a fuel cell working condition point is judged, and the target cooling liquid pile outlet temperature and the inlet and outlet temperature difference are calculated; according to the obtained fuel cell operation state information, the target cooling liquid out-of-pile temperature and the inlet and outlet temperature difference, pile cooling liquid outlet temperature closed-loop control and pile cooling liquid inlet and outlet temperature difference closed-loop control are completed; the pile cooling liquid outlet temperature closed-loop control adopts a method of simultaneously controlling a cooling fan and an electronic thermostat, and the pile cooling liquid inlet and outlet temperature difference closed-loop control realizes cooling liquid inlet and outlet temperature difference control by adjusting the rotating speed of a cooling water pump; and controlling a fuel cell cooling loop actuator to act, including controlling a cooling water pump, an electronic thermostat and a cooling fan to act."
+                },
+                {
+                    "p": "本发明提供了一种氢氧燃料电池发动机自适应热管理控制方法，方法包括获取整车燃电控制模式和整车燃电功率需求指令，获取燃料电池发动机的运行状态；根据整车燃电控制模式和整车燃电功率需求指令判断燃料电池工况点，并计算目标冷却液出堆温度和进出口温差；根据获取的燃料电池运行状态信息和目标冷却液出堆温度、进出口温差完成电堆冷却液出口温度闭环控制和电堆冷却液进出口温差闭环控制；所述电堆冷却液出口温度闭环控制采用散热风扇和电子节温器同时控制的方法，所述电堆冷却液进出口温差闭环控制通过调节冷却水泵的转速来实现冷却液进出口温差控制；控制燃料电池冷却回路执行器动作，包括控制冷却水泵、电子节温器和散热风扇动作。"
+                }
+            ]
+        }
+    }
+}

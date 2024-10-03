@@ -1,0 +1,152 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118351975",
+                            "kind": "A",
+                            "date": "20240716"
+                        },
+                        {
+                            "doc-number": "CN118351975",
+                            "date": "20240716"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G16C  10/    00            A I                    "
+                        },
+                        {
+                            "text": "G16C  20/    30            A I                    "
+                        },
+                        {
+                            "text": "G16C  60/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410455208",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410455208",
+                            "date": "20240416"
+                        },
+                        {
+                            "doc-number": "202410455208.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410455208",
+                            "date": "20240416"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "XIAN MODERN CHEMISTRY RES INSTITUTE"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西安近代化学研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HE XIAOKAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YINGZHE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG ZHIXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN CHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEN LINYUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAO YILIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何晓凯, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘英哲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张志翔, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "文琳元, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曹意林"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for predicting impact sensitivity of layered energetic compound",
+                    "一种层状含能化合物撞击感度的预测方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a method for predicting the impact sensitivity of a layered energetic compound. According to the scheme disclosed by the invention, the impact sensitivity of the layered energetic compound is predicted based on the relationship between the parameters and the impact sensitivity by calculating the trigger bond dissociation energy BDE of the layered energetic material molecule, the sum HBE of intermolecular hydrogen bond energy in the layer near the crystal center molecule # imgabs0 # and the interlayer slippage energy barrier SEB. The method provided by the invention can quickly distinguish whether the category of the layered energetic material is low-sensitive or sensitive. The method is helpful for accelerating the research and development of the novel insensitive layered energetic material."
+                },
+                {
+                    "p": "本发明涉及一种层状含能化合物撞击感度的预测方法。所公开的方案通过计算层状含能材料分子的触发键键解离能BDE，晶体中心分子#imgabs0#附近层内的分子间氢键能总和HBE和层间滑移能垒SEB，并基于上述参数与撞击感度的关系对层状含能化合物的撞击感度进行预测。本发明提供的方法可实现快速区分层状含能材料的类别是低感或者敏感。该方法有助于加速新型钝感层状含能材料的研发。"
+                }
+            ]
+        }
+    }
+}

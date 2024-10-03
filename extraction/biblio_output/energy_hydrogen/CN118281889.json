@@ -1,0 +1,221 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118281889",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118281889",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    14            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410320388",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410320388",
+                            "date": "20240320"
+                        },
+                        {
+                            "doc-number": "202410320388.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410320388",
+                            "date": "20240320"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "THREE GORGES TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " THREE GORGES INTELLIGENT CONTROL TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "三峡科技有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "三峡智控科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI DONGFANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN MINGXUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU ZHANGTAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG WENYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIA HONGJING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG BAOPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU DI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU ZHE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO QUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG HAORAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YUE XUXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李冬芳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈明轩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郁章涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王文雍, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贾宏晶, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张宝平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴迪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘哲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗权, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王浩然, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "乐绪鑫"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Control method for intelligent scheduling of photovoltaic hydrogen production cluster",
+                    "一种光伏制氢集群智能调度的控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of industrial hydrogen production, and discloses a photovoltaic hydrogen production cluster intelligent scheduling control method, which comprises the following steps: acquiring photoelectric load data corresponding to an electrolytic cell, and carrying out statistical regression analysis on the photoelectric load data to obtain a statistical regression analysis result; and establishing a photoelectric generating capacity prediction characteristic model so as to obtain a load prediction curve of each electrolytic cell, obtaining an intelligent scheduling objective function of the electrolytic cell cluster, obtaining the comprehensive operation cost and the maximum hydrogen production according to the objective function, and obtaining an intelligent scheduling strategy of the electrolytic cell cluster according to the load prediction curve, the comprehensive operation cost and the maximum hydrogen production. According to the control method for intelligent scheduling of the photovoltaic hydrogen production cluster, a control algorithm is put forward, the photoelectric power is used to the maximum extent at the photoelectric power generation peak and the mains supply is introduced for supplement when the photoelectricity is insufficient with the purpose of utilizing the photoelectric power generation amount to the maximum extent and ensuring the balance of the gas production amount as the purpose, and the hydrogen production process of a cluster electrolytic cell is intervened, predicted and controlled. And optimal scheduling of energy utilization and hydrogen yield is achieved."
+                },
+                {
+                    "p": "本发明涉及工业制氢技术领域，且公开了一种光伏制氢集群智能调度的控制方法，包含获取电解槽对应的光电负荷数据、对光电负荷数据进行统计回归分析，建立光电发电量预测特性模型进而得到每一台电解槽的负荷预测曲线、获取电解槽集群智能调度目标函数，并根据目标函数得到综合运行成本和最大产氢量、根据负荷预测曲线、综合运行成本和最大产氢量，得到电解槽集群智能调度策略。该光伏制氢集群智能调度的控制方法，提出控制算法，以最大限度利用光电发电量及保证产气量的平衡为宗旨，在光电发电高峰最大限度使用光电电量，在光电不足时引入市电进行补充，通过对集群电解槽进行制氢过程的介入、预测及控制，达到能源利用与氢气产量的最优调度。"
+                }
+            ]
+        }
+    }
+}

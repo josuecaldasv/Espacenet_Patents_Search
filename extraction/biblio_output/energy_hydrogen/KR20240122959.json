@@ -1,0 +1,163 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "KR",
+                            "doc-number": "20240122959",
+                            "kind": "A",
+                            "date": "20240813"
+                        },
+                        {
+                            "doc-number": "KR20240122959",
+                            "date": "20240813"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F02B  43/    10            A I                    "
+                        },
+                        {
+                            "text": "F02D  19/    02            A I                    "
+                        },
+                        {
+                            "text": "F02D  41/    00            A I                    "
+                        },
+                        {
+                            "text": "F02M  25/    12            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "B",
+                            "main-group": "43",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "D",
+                            "main-group": "19",
+                            "subgroup": "022",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "D",
+                            "main-group": "19",
+                            "subgroup": "027",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "D",
+                            "main-group": "41",
+                            "subgroup": "0027",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "25",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "KR",
+                            "doc-number": "20230015315",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "KR20230015315",
+                            "date": "20230206"
+                        },
+                        {
+                            "doc-number": "1020230015315"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "KR20230015315",
+                            "date": "20230206"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NEW HYDROGEN ENERGY CO LTD [KR]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "주식회사 뉴수소에너지"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "KIM YONG U [KR]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PARK JAE YOUNG [KR]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "김용우, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "박재영"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "The System for controlling the mixed gas of the generator",
+                    "발전시스템의 산소 및 수소를 포함하는 혼합가스 제어시스템"
+                ]
+            },
+            "abstract": {
+                "p": "본 발명은 발전시스템의 산소 및 수소를 포함하는 혼합가스 제어시스템은, 수소 및 산소를 포함하는 혼합가스를 생성하는 혼합가스 발생장치;와, 상기 혼합가스 발생장치로부터 생성된 수소 및 산소를 포함하는 혼합가스를 저장 또는 공급하는 제 1 연료공급장치;와, 외부 공기를 흡입하는 흡기장치;와, 압축가스와 연료가스를 포함하는 연료를 저장 또는 공급하는 제 2연료공급장치;와, 상기 제 1 연료공급장치로부터 흡입된 혼합가스와, 상기 흡기장치로부터 흡입된 외부 공기 및 상기 제 2연료공급장치로부터 흡입된 연료를 점화하여 에너지를 생성하고, 상기 제 1연료공급장치와, 상기 흡기장치로부터 상기 혼합가스 및 외부공기를 흡입하고, 상기 제 2연료공급장치로부터 흡입되는 상기 연료를 흡입하는 흡기관과, 상기 혼합가스, 상기 외부공기 및 상기 연료를 점화하여 에너지를 생성 후, 발생된 배기가스를 배출하는 배기관을 포함하는 내연기관; 및 상기 제 1 연료공급장치의 혼합가스의 공급량을 조절하는 제어부;를 포함하고, 상기 제어부는, 상기 흡기장치에 부착된 센서로부터 측정된 온도 또는 압력정보를 수신하고, 상기 연소실에 부착된 센서로부터 측정된 온도 또는 압력정보를 수신하여, 상기 흡기장치 및 상기 연소실의 상기 혼합가스의 공급량과, 상기 외부 공기 및 상기 연소실의 온도 또는 압력을 제어하는 것에 관한 것이다."
+            }
+        }
+    }
+}

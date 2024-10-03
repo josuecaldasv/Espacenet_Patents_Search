@@ -1,0 +1,564 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2002133326",
+                            "kind": "A1",
+                            "date": "20020919"
+                        },
+                        {
+                            "doc-number": "US2002133326",
+                            "date": "20020919"
+                        }
+                    ]
+                },
+                "classification-ipc": {
+                    "text": [
+                        "G06G7/54",
+                        "G06F17/50"
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  17/    50            A I                    "
+                        },
+                        {
+                            "text": "G06G   7/    48            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "30",
+                            "subgroup": "23",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "30",
+                            "subgroup": "23",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "G",
+                            "main-group": "7",
+                            "subgroup": "48",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "703/18"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "99542101",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US20010995421",
+                            "date": "20011127"
+                        },
+                        {
+                            "doc-number": "09995421"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "KR20010000167",
+                                "date": "20010103"
+                            },
+                            {
+                                "doc-number": "2001-167"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHUNG WON-YOUNG, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "KIM TAI-KYUNG, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "OH JAE-JOON"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHUNG WON-YOUNG [KR]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KIM TAI-KYUNG [KR]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " OH JAE-JOON [KR]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "CHUNG WON-YOUNG, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "KIM TAI-KYUNG, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "OH JAE-JOON"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Methods, apparatus and computer program products for simulating plasma behavior in a plasma reactor apparatus using two-dimensional cross-section computations",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6014943",
+                                        "name": "ARAMI JUNICHI [JP], et al",
+                                        "date": "20000118"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6014943",
+                                        "kind": "A",
+                                        "name": "ARAMI JUNICHI [JP], et al",
+                                        "date": "20000118"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2006011583",
+                                        "name": "BAILEY ANDREW D III [US], et al",
+                                        "date": "20060119"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2006011583",
+                                        "kind": "A1",
+                                        "name": "BAILEY ANDREW D III [US], et al",
+                                        "date": "20060119"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5717294",
+                                        "name": "SAKAI ITSUKO [JP], et al",
+                                        "date": "19980210"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5717294",
+                                        "kind": "A",
+                                        "name": "SAKAI ITSUKO [JP], et al",
+                                        "date": "19980210"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6199029",
+                                        "name": "OHTA TOSHIYUKI [JP]",
+                                        "date": "20010306"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6199029",
+                                        "kind": "B1",
+                                        "name": "OHTA TOSHIYUKI [JP]",
+                                        "date": "20010306"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6716302",
+                                        "name": "CARDUCCI JAMES D [US], et al",
+                                        "date": "20040406"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6716302",
+                                        "kind": "B2",
+                                        "name": "CARDUCCI JAMES D [US], et al",
+                                        "date": "20040406"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5907820",
+                                        "name": "PAN SHAOHER X [US]",
+                                        "date": "19990525"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5907820",
+                                        "kind": "A",
+                                        "name": "PAN SHAOHER X [US]",
+                                        "date": "19990525"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2004094509",
+                                        "name": "MIYATA KOJI [JP], et al",
+                                        "date": "20040520"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2004094509",
+                                        "kind": "A1",
+                                        "name": "MIYATA KOJI [JP], et al",
+                                        "date": "20040520"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2004097079",
+                                        "name": "MIMURA TAKANORI [JP], et al",
+                                        "date": "20040520"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2004097079",
+                                        "kind": "A1",
+                                        "name": "MIMURA TAKANORI [JP], et al",
+                                        "date": "20040520"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5421934",
+                                        "name": "MISAKA AKIO [JP], et al",
+                                        "date": "19950606"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5421934",
+                                        "kind": "A",
+                                        "name": "MISAKA AKIO [JP], et al",
+                                        "date": "19950606"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2003102087",
+                                        "name": "ITO YOUBUN [JP], et al",
+                                        "date": "20030605"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2003102087",
+                                        "kind": "A1",
+                                        "name": "ITO YOUBUN [JP], et al",
+                                        "date": "20030605"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6902683",
+                                        "name": "KAJI TETSUNORI [JP], et al",
+                                        "date": "20050607"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6902683",
+                                        "kind": "B1",
+                                        "name": "KAJI TETSUNORI [JP], et al",
+                                        "date": "20050607"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5659276",
+                                        "name": "MIYATA KOJI [JP]",
+                                        "date": "19970819"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5659276",
+                                        "kind": "A",
+                                        "name": "MIYATA KOJI [JP]",
+                                        "date": "19970819"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5660744",
+                                        "name": "SEKINE MAKOTO [JP], et al",
+                                        "date": "19970826"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5660744",
+                                        "kind": "A",
+                                        "name": "SEKINE MAKOTO [JP], et al",
+                                        "date": "19970826"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2002101167",
+                                        "name": "SHAN HONGQING [US], et al",
+                                        "date": "20020801"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2002101167",
+                                        "kind": "A1",
+                                        "name": "SHAN HONGQING [US], et al",
+                                        "date": "20020801"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5801971",
+                                        "name": "OHTA TOSHIYUKI [JP]",
+                                        "date": "19980901"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5801971",
+                                        "kind": "A",
+                                        "name": "OHTA TOSHIYUKI [JP]",
+                                        "date": "19980901"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6797639",
+                                        "name": "CARDUCCI JAMES D [US], et al",
+                                        "date": "20040928"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6797639",
+                                        "kind": "B2",
+                                        "name": "CARDUCCI JAMES D [US], et al",
+                                        "date": "20040928"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5819073",
+                                        "name": "NAKAMURA MITSUTOSHI [JP]",
+                                        "date": "19981006"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5819073",
+                                        "kind": "A",
+                                        "name": "NAKAMURA MITSUTOSHI [JP]",
+                                        "date": "19981006"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6805770",
+                                        "name": "OSTER EUGENE L [US]",
+                                        "date": "20041019"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6805770",
+                                        "kind": "B1",
+                                        "name": "OSTER EUGENE L [US]",
+                                        "date": "20041019"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5160398",
+                                        "name": "YANAGIDA TOSHIHARU [JP]",
+                                        "date": "19921103"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5160398",
+                                        "kind": "A",
+                                        "name": "YANAGIDA TOSHIHARU [JP]",
+                                        "date": "19921103"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5070469",
+                                        "name": "KUNIKIYO TATSUYA [JP], et al",
+                                        "date": "19911203"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5070469",
+                                        "kind": "A",
+                                        "name": "KUNIKIYO TATSUYA [JP], et al",
+                                        "date": "19911203"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5590051",
+                                        "name": "YOKOZAWA AYUMI [JP]",
+                                        "date": "19961231"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5590051",
+                                        "kind": "A",
+                                        "name": "YOKOZAWA AYUMI [JP]",
+                                        "date": "19961231"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6009255",
+                                        "name": "SHINZAWA TSUTOMU [JP]",
+                                        "date": "19991228"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6009255",
+                                        "kind": "A",
+                                        "name": "SHINZAWA TSUTOMU [JP]",
+                                        "date": "19991228"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "Characteristics of a plasma contained in a reaction chamber of a plasma reactor are determined by first computing plasma characteristics for each of a plurality of cross-sections of the reaction chamber, and then generating a generalized model of the plasma from the computed plasma characteristics for the plurality of cross-sections, for example, by averaging the computed plasma characteristics for the cross-sections. The plasma reactor may comprise a plurality of magnets that move with respect to the reaction chamber, such as in a dipole ring magnet (DRM) plasma reactor, and each of the plurality of cross-sections may include an axis of rotation about which the magnets rotate. Plasma characteristics for each the cross-sections of the reaction chamber may be computed by computing electron density and temperature using a Monte Carlo computational procedure and computing ion and neutral species transmission phenomena from a plasma dynamics simulation, e.g., by computing solutions to a continuity equation and Poisson's equation for the ion and neutral species. A static magnetic field generated by the moving magnets may be determined, and the plasma characteristics for each of the plurality of cross-sections may be from the determined static magnetic field, shape information for the reaction chamber, and plasma collision reaction data. The generalized model may be used, for example, to estimate an etching rate for a wafer positioned in the chamber."
+            }
+        }
+    }
+}

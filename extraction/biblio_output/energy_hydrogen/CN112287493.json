@@ -1,0 +1,581 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "112287493",
+                            "kind": "A",
+                            "date": "20210129"
+                        },
+                        {
+                            "doc-number": "CN112287493",
+                            "date": "20210129"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  30/    18            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "G06F 113/    04            A N                    "
+                        },
+                        {
+                            "text": "G06F 119/    08            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "30",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "2113",
+                            "subgroup": "04",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "2119",
+                            "subgroup": "08",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202010977568",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202010977568",
+                            "date": "20200917"
+                        },
+                        {
+                            "doc-number": "202010977568.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202010977568",
+                            "date": "20200917"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SOUTHWEST BRANCH OF STATE GRID CORP OF CHINA"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家电网公司西南分部"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHOU HONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEI MINGKUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU QUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAI SHAORONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG LI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LU LIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIANG WENJU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHEN LI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周泓, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "魏明奎, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周全, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蔡绍荣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "江栗, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "路亮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "梁文举, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "沈力"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Capacity optimization configuration method for cooling, heating, power and hydrogen combined supply type microgrid containing turbo expander",
+                    "含透平膨胀机的冷热电氢联供型微电网容量优化配置方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103400042",
+                                        "name": "UNIV SOUTHEAST",
+                                        "date": "20131120"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103400042",
+                                        "kind": "A",
+                                        "name": "UNIV SOUTHEAST",
+                                        "date": "20131120"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105337303",
+                                        "name": "POWER GRID PROGRAM RES CT GUIZHOU POWER GRID CO LTD, et al",
+                                        "date": "20160217"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105337303",
+                                        "kind": "A",
+                                        "name": "POWER GRID PROGRAM RES CT GUIZHOU POWER GRID CO LTD, et al",
+                                        "date": "20160217"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105869075",
+                                        "name": "UNIV SOUTHEAST, et al",
+                                        "date": "20160817"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105869075",
+                                        "kind": "A",
+                                        "name": "UNIV SOUTHEAST, et al",
+                                        "date": "20160817"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107165682",
+                                        "name": "UNIV SOUTH CHINA TECH, et al",
+                                        "date": "20170915"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107165682",
+                                        "kind": "A",
+                                        "name": "UNIV SOUTH CHINA TECH, et al",
+                                        "date": "20170915"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109165788",
+                                        "name": "UNIV HEBEI TECHNOLOGY",
+                                        "date": "20190108"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109165788",
+                                        "kind": "A",
+                                        "name": "UNIV HEBEI TECHNOLOGY",
+                                        "date": "20190108"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109242350",
+                                        "name": "UNIV YANSHAN",
+                                        "date": "20190118"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109242350",
+                                        "kind": "A",
+                                        "name": "UNIV YANSHAN",
+                                        "date": "20190118"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109361237",
+                                        "name": "SOUTHWEST BRANCH OF STATE GRID CORP OF CHINA, et al",
+                                        "date": "20190219"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109361237",
+                                        "kind": "A",
+                                        "name": "SOUTHWEST BRANCH OF STATE GRID CORP OF CHINA, et al",
+                                        "date": "20190219"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110460092",
+                                        "name": "JIANGSU NARI TURBOSTAR ELECTRIC CO LTD, et al",
+                                        "date": "20191115"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110460092",
+                                        "kind": "A",
+                                        "name": "JIANGSU NARI TURBOSTAR ELECTRIC CO LTD, et al",
+                                        "date": "20191115"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111144633",
+                                        "name": "UNIV GUANGDONG TECHNOLOGY",
+                                        "date": "20200512"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111144633",
+                                        "kind": "A",
+                                        "name": "UNIV GUANGDONG TECHNOLOGY",
+                                        "date": "20200512"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111242388",
+                                        "name": "UNIV SHANGHAI DIANJI",
+                                        "date": "20200605"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111242388",
+                                        "kind": "A",
+                                        "name": "UNIV SHANGHAI DIANJI",
+                                        "date": "20200605"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111327053",
+                                        "name": "UNIV SHANGHAI ELECTRIC POWER",
+                                        "date": "20200623"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111327053",
+                                        "kind": "A",
+                                        "name": "UNIV SHANGHAI ELECTRIC POWER",
+                                        "date": "20200623"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111445107",
+                                        "name": "UNIV SHANDONG",
+                                        "date": "20200724"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111445107",
+                                        "kind": "A",
+                                        "name": "UNIV SHANDONG",
+                                        "date": "20200724"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 严毅, \"含压缩空气储能的冷热电联供微网优化设计与运行控制研究\", 《中国博士学位论文全文数据库 (工程科技Ⅱ辑)》"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* C038-15 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 李瑞民等, \"风光互补系统中混合储能容量优化配置研究\", 《储能科学与技术》"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 512-522 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 刘勤 等, \"计及电量成本和系统自供电可靠性的西南地区\", 《电力系统保护与控制》"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 139-145 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 乔蕾等, \"独立微网系统优化规划设计方法综述\", 《电力系统及其自动化学报》"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 115-123 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 刘峪涵等, \"并网型微电网多目标容量优化配置及减排效益分析\", 《电力系统及其自动化学报》"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 70-75 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 陶静等, \"基于多目标算法的冷热电联供型综合能源系统运行优化\", 《科学技术与工程》"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 200-205 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 罗平等, \"冷热电联供型微电网系统多目标日前优化调度\", 《自动化仪表》"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 1-6+16 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a capacity optimization configuration method for a combined cooling heating, power and hydrogen supply type microgrid containing a turbo expander, and the method comprises thesteps: determining capacities of other equipment except the turbo expander through a particle swarm optimization algorithm according to an obtained target function, constraint conditions and an allowable temperature change range, and taking the capacities as a potential solution; determining the optimal capacity of each device in the microgrid according to the obtained potential solutions; and performing economic analysis to obtain a target function value corresponding to the optimal capacity scheme. A multi-energy complementary system of electric energy, heat energy, cold energy, hydrogen energy and the like can be formed, the energy utilization rate is greatly increased, the economical efficiency of system operation is improved, and the carbon emission is reduced; the optimal configuration capacity of each composition system in the cooling, heating, power and hydrogen combined supply type microgrid containing the turbo expander can be effectively obtained, and efficient operation ofthe system is ensured."
+                },
+                {
+                    "p": "本发明公开含透平膨胀机的冷热电氢联供型微电网容量优化配置方法，利用所获得的目标函数以及约束条件，和温度允许变化范围，通过粒子群优化算法，确定除透平膨胀机外的其他设备的容量，作为潜在解；根据所获取的潜在解，确定微电网内各设备的最优容量；行经济性分析，得到最优容量方案对应的目标函数值。本发明能够形成电能、热能、冷能、氢能等多元能源互补系统，大大提高能源利用率，提高系统运行的经济性，减少碳排放量；能够有效获得含透平膨胀机的冷热电氢联供型微电网中各个组成系统的优化配置容量，保证系统高效运行。"
+                }
+            ]
+        }
+    }
+}

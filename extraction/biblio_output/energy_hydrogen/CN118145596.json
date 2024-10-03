@@ -1,0 +1,192 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118145596",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118145596",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    24            A I                    "
+                        },
+                        {
+                            "text": "H05H   1/    48            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "H",
+                            "main-group": "1",
+                            "subgroup": "48",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410263456",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410263456",
+                            "date": "20240308"
+                        },
+                        {
+                            "doc-number": "202410263456.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410263456",
+                            "date": "20240308"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SOUTHWESTERN INST PHYSICS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " ZHONGHE TONGCHUANG CHENGDU TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "核工业西南物理研究院, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中核同创（成都）科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU JIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHENG CHANGMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI PINGCHUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YUAN QINGQING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG ZHENGHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI XIAOBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TANG DELI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘建, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "程昌明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李平川, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "袁青青, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张正浩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李箫波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "唐德礼"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "System and process for producing hydrogen by cracking methane through plasma",
+                    "一种等离子体裂解甲烷制氢系统及工艺"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of hydrogen production, and particularly discloses a system and a process for producing hydrogen by cracking methane with plasma, comprising a plasma torch system, a high-temperature cracking system, a tail gas treatment system and a control system, the plasma torch system comprises a plasma power supply and a plasma torch; the plasma power source is connected with the plasma torch through a wire and used for providing a high-voltage direct-current power source for the plasma torch. The plasma torch carries out arc discharge through high-voltage direct current and ionizes ionized gas; the high-temperature cracking system comprises a cracking chamber, a cooling chamber and a filtering chamber; the cracking chamber is connected with the plasma torch and the reaction gas supply system, and methane is cracked by utilizing ionized gas; the tail gas treatment system is used for purifying hydrogen-containing mixed gas; and the control system is used for controlling other systems to perform corresponding actions. The hydrogen production system is simple and reasonable in structure and low in energy consumption, and the operation cost can be reduced while high efficiency is kept."
+                },
+                {
+                    "p": "本发明涉及制氢技术领域，具体公开了一种等离子体裂解甲烷制氢系统及工艺，包括等离子体炬系统、高温裂解系统、尾气处理系统和控制系统；所述等离子体炬系统包括等离子体电源和等离子体炬；所述等离子体电源通过导线与等离子体炬连接，用于为等离子体炬提供高压直流电源；所述等离子体炬通过高压直流电进行电弧放电，对电离气体进行电离；所述高温裂解系统包括裂解室、冷却室和过滤室；所述裂解室与等离子体炬和反应供气系统相连，利用电离气体使甲烷裂解；所述尾气处理系统用于对含氢混合气体进行提纯处理；所述控制系统用于控制其他系统进行相应动作。本发明所述制氢系统结构简单合理，能耗较低，能够在保持高效率的同时，降低运行成本。"
+                }
+            ]
+        }
+    }
+}

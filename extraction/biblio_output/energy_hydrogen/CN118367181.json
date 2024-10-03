@@ -1,0 +1,156 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118367181",
+                            "kind": "A",
+                            "date": "20240719"
+                        },
+                        {
+                            "doc-number": "CN118367181",
+                            "date": "20240719"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04537            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04858            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04955            A I                    "
+                        },
+                        {
+                            "text": "H02J   1/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410391492",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410391492",
+                            "date": "20240402"
+                        },
+                        {
+                            "doc-number": "202410391492.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410391492",
+                            "date": "20240402"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING YIHUATONG HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京亿华通氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHAO XINGWANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN YONGGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SONG HAOFEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YUAN DIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵兴旺, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘维, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈勇刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋浩飞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "袁殿"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fuel cell power generation system and control method thereof",
+                    "一种燃料电池发电系统及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a fuel cell power generation system and a control method thereof. The system comprises an electric pile main body, the energy storage converter is connected with the electric pile main body in series, and a switch is arranged on a series circuit and is used for controlling the on-off of a series short circuit; and the step-down circuit is connected with the energy storage converter and the electric pile main body in parallel, and the step-down circuit is used for consuming the voltage of the electric pile main body, so that the voltage of the electric pile main body conforms to the voltage range of the energy storage converter. The control method comprises the following steps: selectively closing the IGBT module according to whether the voltage of the electric pile main body exceeds the voltage range of the energy storage converter, and adjusting the voltage of the electric pile main body to accord with the voltage application range of the energy storage converter. According to the invention, by selecting the energy storage converter with a relatively small working interval, when the electric pile is connected, the voltage of the electric pile main body is consumed through the resistor, so that the voltage of the electric pile during startup is reduced, the breakdown of the energy storage converter is avoided, the investment of hardware cost can be reduced on the whole, and meanwhile, the use requirement of the electric pile can still be met."
+                },
+                {
+                    "p": "本发明公开了一种燃料电池发电系统及其控制方法，该系统包括电堆主体；储能变流器，与所述电堆主体相串联，且串联电路上设置有开关，用于控制串联短路的通断；降压电路，与所述储能变流器以及所述电堆主体相并联，所述降压电路用于消耗电堆主体的电压，使电堆主体的电压符合所述储能变流器的电压范围。该控制方法包括根据电堆主体电压是否超过储能变流器的电压范围选择性闭合IGBT模块，并调整电堆主体的电压符合储能变流器的电压适用范围。本发明通过选用较小工作区间的储能变流器，在接入电堆时，通过电阻消耗电堆主体的电压，以减少电堆在开机时的电压，避免击穿储能变流器，整体上可减少硬件成本的投入，同时仍能够满足电堆的使用需求。"
+                }
+            ]
+        }
+    }
+}

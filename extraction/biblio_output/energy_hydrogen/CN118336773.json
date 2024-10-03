@@ -1,0 +1,164 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118336773",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118336773",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    24            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410439463",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410439463",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "202410439463.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410439463",
+                            "date": "20240412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUANENG CLEAN ENERGY RES INSTITUTE"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " HUANENG ZHANGYE ENERGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国华能集团清洁能源技术研究院有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华能张掖能源有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG CHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JINYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO HAIJIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU XIANMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张畅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王金意, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭海礁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐显明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王伟"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Dynamic control method of new energy electrolytic hydrogen production system",
+                    "一种新能源电解制氢系统的动态控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a dynamic control method of a new energy electrolytic hydrogen production system, and relates to the technical field of electric power generation. The full life cycle of the new energy electrolytic hydrogen production system is discretized into M time points; at the t-th time point, adjusting parameter optimization of the electrolytic hydrogen production unit is carried out; based on the optimized electrolytic hydrogen production adjustment parameters at the t-th time point, an electrolytic hydrogen production adjustment instruction of the electrolytic hydrogen production unit corresponding to the t-th time point and the current optimal capacity ratio to the t-th time point are obtained in combination with a revenue maximization principle; and updating the tth time point to the (t + 1) th time point, and repeatedly executing the steps until the electrolytic hydrogen production regulation instruction sequence of the full life cycle and the optimal capacity ratio of the full life cycle are obtained at the Mth time point."
+                },
+                {
+                    "p": "本申请提出了一种新能源电解制氢系统的动态控制方法，涉及电力发电技术领域。本申请通过将新能源电解制氢系统的全生命周期离散化为M个时间点；在第t个时间点上，进行电解制氢单元的调节参数寻优；基于第t个时间点寻优后的电解制氢调节参数，结合收益最大化原则，获取第t个时间点对应的电解制氢单元的电解制氢调节指令和截止至第t个时间点的当前最优容量配比；将第t个时间点更新为第t+1个时间点，重复执行上述步骤，直至到第M个时间点获取全生命周期的电解制氢调节指令序列和全生命周期的最优容量配比。"
+                }
+            ]
+        }
+    }
+}

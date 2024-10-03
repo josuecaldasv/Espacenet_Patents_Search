@@ -1,0 +1,217 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118179556",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118179556",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  27/    24            A I                    "
+                        },
+                        {
+                            "text": "B01J  35/    39            A I                    "
+                        },
+                        {
+                            "text": "B01J  37/    08            A I                    "
+                        },
+                        {
+                            "text": "C01B  15/   027            A I                    "
+                        },
+                        {
+                            "text": "C07C 249/    16            A I                    "
+                        },
+                        {
+                            "text": "C07C 251/    88            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "27",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "35",
+                            "subgroup": "39",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "082",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "027",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "249",
+                            "subgroup": "16",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "251",
+                            "subgroup": "88",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C249/16",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C251/88",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410249291",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410249291",
+                            "date": "20240305"
+                        },
+                        {
+                            "doc-number": "202410249291.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410249291",
+                            "date": "20240305"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV TIANJIN TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "天津理工大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG ZHIMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG LUYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG PING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张志明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张璐阳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王平"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Photocatalyst for production of hydrogen peroxide and in-situ preparation of ketazine",
+                    "一种生产过氧化氢与原位制备酮连氮的光催化剂"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a photocatalyst for producing hydrogen peroxide and in-situ preparing ketazine and application, the molecular formula of the photocatalyst is g-C3N4-NaCA, and a preparation method of the photocatalyst comprises the following steps: step a, polymerizing carbamide (urea) to obtain graphite-phase carbon nitride (g-C3N4); and b, uniformly dispersing graphite-phase carbon nitride and NaSCN in deionized water, carrying out reduced pressure evaporation to remove excess solvent, calcining in a tubular furnace in a nitrogen atmosphere, and grinding to obtain g-C3N4-NaCA. According to the prepared novel CN photocatalyst, cyanamide groups are introduced through molten salt treatment, the photon absorption capacity of g-C3N4 is enhanced, energy distribution of g-C3N4 is changed, surface active sites of active oxygen are increased, selective photooxidation reaction is facilitated, the photocatalytic H2O2 production efficiency is remarkably improved, and the novel CN photocatalyst is suitable for industrial production. And an important scientific reference is provided for developing a novel, efficient and sustainable photocatalytic system."
+                },
+                {
+                    "p": "本发明公开了一种生产过氧化氢与原位制备酮连氮的光催化剂及应用，其分子式为g‑C3N4‑NaCA，其制备方法步骤为：步骤a：将碳酰二胺(尿素)聚合得到石墨相氮化碳(g‑C3N4)；步骤b：将石墨相氮化碳和NaSCN均匀分散在去离子水中，减压蒸发除去多余溶剂后，氮气氛围下在管式炉中煅烧，研磨后得到g‑C3N4‑NaCA。本发明制备的新型CN光催化剂通过熔盐处理引入氰氨基团，增强了g‑C3N4的光子吸收能力，改变了g‑C3N4的能量分布，增加了活性氧的表面活性位点，有利于选择性光氧化反应，显著提高了光催化产H2O2效率，为开发新型、高效以及可持续发展的光催化体系提供了重要科学参考。"
+                }
+            ]
+        }
+    }
+}

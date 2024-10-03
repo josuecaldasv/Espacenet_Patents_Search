@@ -1,0 +1,227 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116891418",
+                            "kind": "A",
+                            "date": "20231017"
+                        },
+                        {
+                            "doc-number": "CN116891418",
+                            "date": "20231017"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C07C 231/    10            A I                    "
+                        },
+                        {
+                            "text": "C07C 233/    65            A I                    "
+                        },
+                        {
+                            "text": "C07C 233/    66            A I                    "
+                        },
+                        {
+                            "text": "C07C 235/    60            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "C",
+                        "class": "07",
+                        "subclass": "C",
+                        "main-group": "231",
+                        "subgroup": "10",
+                        "classification-value": "I",
+                        "generating-office": "CN"
+                    },
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C231/10",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C233/65",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C231/10",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C233/66",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "3",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C231/10",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C235/60",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310810991",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310810991",
+                            "date": "20230704"
+                        },
+                        {
+                            "doc-number": "202310810991.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310810991",
+                            "date": "20230704"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV SHANDONG SCIENCE & TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "山东科技大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU DI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YAKE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KONG ANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI MIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO PINGPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘迪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘亚柯, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孔昂, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李敏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵萍萍"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for synthesizing amide by direct oxidative coupling of amine and amine",
+                    "一种胺胺直接氧化偶联合成酰胺的方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a method for synthesizing amide through direct oxidative coupling of amine and amine, which is characterized in that nitrogen-doped carbon is used as a catalyst, sodium persulfate is used as a main oxidant, hydrogen peroxide is used as an auxiliary oxidant, and amine compounds are subjected to oxidative coupling in a water phase to generate amide. Compared with the prior art, the method has the following advantages: 1) amide is directly synthesized through amine-amine coupling by adopting a one-step method, the process route is short, an intermediate product separation step is not needed, the operation is simple, the cost is low, and industrialization is easy to realize; 2) metal-free doped carbon is adopted as a catalyst, the catalyst is low in cost, and metal pollution is avoided; 3) cheap and common hydrogen peroxide and sodium persulfate are used as oxidation reagents, the oxidation capacity is strong, and the reaction conditions are mild; 4) water is used as a solvent in the reaction process, no organic solvent is needed, and the method is green and environment-friendly."
+                },
+                {
+                    "p": "本发明公开了一种胺胺直接氧化偶联合成酰胺的方法，以氮掺杂碳为催化剂，过硫酸钠为主氧化剂，双氧水为辅助氧化剂，在水相中将胺类化合物氧化偶联生成酰胺。本发明和公知技术相比，具有如下优点：1)本发明采用一步法由胺胺偶联直接合成酰胺，工艺路线短，无需中间产物分离步骤，操作简单，成本低，易实现工业化；2)采用无金属掺杂碳为催化剂，催化剂成本较低，避免金属污染；3)使用廉价、常见的双氧水与过硫酸钠作为氧化试剂，氧化能力强，反应条件温和；4)反应过程以水作为溶剂，无需任何有机溶剂，绿色环保。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,224 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118399443",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118399443",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "G06F  30/    20            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    34            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        },
+                        {
+                            "text": "G06F 111/    04            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "70",
+                        "subgroup": "30",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410440462",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410440462",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "202410440462.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410440462",
+                            "date": "20240412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA UNIV OF MINING AND TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SUZHOU VEICHI ELECTRIC TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国矿业大学, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "苏州伟创电气科技股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GENG YIWEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU QI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE CHENGZENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SU SHENGBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHENG HAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU ZHENYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU LONGBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JIANHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "耿乙文, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘琦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "骆鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何承曾, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苏圣博, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郑好, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴贞艺, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "许龙斌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王建昊"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hybrid energy storage renewable energy source off-grid hydrogen production system capacity optimization configuration method",
+                    "一种混合储能可再生能源离网制氢系统容量优化配置方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a hybrid energy storage renewable energy source off-grid hydrogen production system capacity optimization configuration method. The method specifically comprises the steps that the output power of a power generation unit and the real-time capacity of a hybrid energy storage system are collected hour by hour; establishing a mathematical model of the system; according to the real-time state of the system, the real-time charging/discharging state and charging/discharging time of the storage battery and the supercapacitor bank are controlled according to the energy management strategy of the hybrid energy storage system; taking the unit hydrogen production cost of the system as a target function, and adding the electrolytic cell load shedding penalty cost and the energy abandoning penalty cost; formulating constraint conditions according with reality; taking the capacities of the power generation unit, the hydrogen production and storage unit and the hybrid energy storage system as decision variables, and solving the capacity of each device in the system; and according to a solving result, analyzing the influence of the hydrogen selling unit price and the unit hydrogen production cost on the system economy. According to the invention, the consumption rate of renewable energy sources is improved, the working stability of the hydrogen production unit is enhanced, and the cost of green electricity hydrogen production is reduced."
+                },
+                {
+                    "p": "本发明公开了一种混合储能可再生能源离网制氢系统容量优化配置方法，具体为逐时采集发电单元的输出功率以及混合储能系统的实时容量；建立系统的数学模型；根据系统的实时状态，按照混合储能系统的能量管理策略控制蓄电池与超级电容器组实时的充/放电状态以及充/放电时间；以系统的单位制氢成本为目标函数，加入电解槽切负荷惩罚成本以及弃能惩罚成本；制定符合实际的约束条件；将发电单元、制氢储氢单元以及混合储能系统的容量作为决策变量，并求解系统中各设备的容量；根据求解结果，分析售氢单价、单位制氢成本对于系统经济性影响。本发明提高了可再生能源的消纳率，增强了制氢单元的工作稳定性，降低了绿电制氢的成本。"
+                }
+            ]
+        }
+    }
+}

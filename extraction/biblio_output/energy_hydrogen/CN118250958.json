@@ -1,0 +1,228 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118250958",
+                            "kind": "A",
+                            "date": "20240625"
+                        },
+                        {
+                            "doc-number": "CN118250958",
+                            "date": "20240625"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04007            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04029            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04082            A I                    "
+                        },
+                        {
+                            "text": "H05K   7/    20            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04007",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04029",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04059",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04074",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04201",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "K",
+                            "main-group": "7",
+                            "subgroup": "20763",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "K",
+                            "main-group": "7",
+                            "subgroup": "208",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "K",
+                            "main-group": "7",
+                            "subgroup": "20836",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211665862",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211665862",
+                            "date": "20221223"
+                        },
+                        {
+                            "doc-number": "202211665862.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211665862",
+                            "date": "20221223"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA TELECOM CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国电信股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG HANLIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIN WUJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YONGBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAI JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张翰林, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "林武隽, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘永彬, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "翟骏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张渊"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Data center heat dissipation system and control method thereof",
+                    "一种数据中心散热系统及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The embodiment of the invention provides a data center heat dissipation system and a control method thereof, and the system comprises a liquid hydrogen fuel cell assembly which is used for carrying out hydrogen energy power generation through liquid hydrogen and cooling a heat transfer medium through the cooling capacity of the liquid hydrogen; the cooling assembly is connected with the liquid hydrogen fuel cell assembly and is used for secondarily cooling the heat transfer medium; the freezing assembly is connected with the liquid hydrogen fuel cell assembly and the cooling assembly, and is used for receiving the heat transfer medium and radiating preset machine room equipment by adopting the heat transfer medium; according to the embodiment of the invention, the liquid hydrogen cold energy is utilized to assist the cooling assembly to dissipate heat when the heat dissipation demand is large, and the liquid hydrogen cold energy is utilized to directly cool the machine room when the heat dissipation demand is small; the energy consumption is reduced, the energy utilization rate is improved, and the carbon emission is reduced."
+                },
+                {
+                    "p": "本发明实施例提供了一种数据中心散热系统及其控制方法，包括液氢燃料电池组件，用于采用液氢进行氢能发电，且采用所述液氢的冷量冷却传热介质；与所述液氢燃料电池组件连接的冷却组件，用于二次冷却所述传热介质；与所述液氢燃料电池组件和所述冷却组件连接的冷冻组件，用于接收所述传热介质，并采用所述传热介质对预设机房设备进行散热；本发明实施例通过在散热需求大时利用液氢冷能辅助冷却组件散热，散热需求小时利用液氢冷能直接给机房供冷；降低能耗，提高了能源利用率，降低碳排放。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118392716",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118392716",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G01N   1/    28            A I                    "
+                        },
+                        {
+                            "text": "G01N   1/    38            A I                    "
+                        },
+                        {
+                            "text": "G01N  11/    00            A I                    "
+                        },
+                        {
+                            "text": "G01N  11/    10            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410493180",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410493180",
+                            "date": "20240423"
+                        },
+                        {
+                            "doc-number": "202410493180.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410493180",
+                            "date": "20240423"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUZHOU FORESIGHT ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "苏州弗尔赛能源科技股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU HUANHUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG CHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUAN JUNSHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG JINGRUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHENG YULING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘欢欢, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "管俊生, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张景瑞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "程宇玲"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Evaluation method for coating stability of fuel cell catalyst slurry",
+                    "燃料电池催化剂浆料涂布稳定性的评价方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a method for evaluating the coating stability of fuel cell catalyst slurry, which comprises the following steps: fully dispersing raw materials to obtain catalyst slurry, and immediately sampling from the catalyst slurry to obtain a first sample and a second sample: directly testing the viscosity of the first sample to obtain a first viscosity V1; carrying out defoaming treatment on the second sample, and then carrying out viscosity test to obtain second viscosity V2; setting n = | V1-V2 | and analyzing the value of n, wherein the smaller the value of n is, the better the coating stability of the slurry is. According to the method, the stability state of the hydrogen fuel cell slurry can be evaluated before actual coating production, the success rate of actual coating production is increased, and raw material and time cost is reduced while high consistency of monomers with excellent performance is guaranteed."
+                },
+                {
+                    "p": "本发明公开了燃料电池催化剂浆料涂布稳定性的评价方法包括：充分分散原料得到催化剂浆料，立即由其中至少取样得到第一样品和第二样品：对第一样品直接进行粘度测试，获得第一粘度V1；对第二样品进行脱泡处理后进行粘度测试，获得第二粘度V2；设定n＝│V1‑V2│并分析n值大小，n值越小则表明浆料的涂布稳定性越好。本发明方法能够在实际涂布生产前对氢燃料电池浆料的稳定性状态进行评估，提高实际涂布生产的成功率，在保证性能优异单体一致性高的同时降低原料和时间成本。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "JP",
+                            "doc-number": "S60219764",
+                            "kind": "A",
+                            "date": "19851102"
+                        },
+                        {
+                            "doc-number": "JPS60219764",
+                            "date": "19851102"
+                        }
+                    ]
+                },
+                "classification-ipc": {
+                    "text": [
+                        "H01L21/265",
+                        "H01L21/324",
+                        "H01L27/10"
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01L  21/   265            A I                    "
+                        },
+                        {
+                            "text": "H01L  27/    10            A I                    "
+                        },
+                        {
+                            "text": "H10B  12/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "10",
+                            "subclass": "B",
+                            "main-group": "12",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01L21/265&Z"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01L27/10"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01L27/10&325U"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01L27/10&691"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01L27/108&691"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H10B12/00&691"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H10B99/00"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F083/AA28"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F083/BB02"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F083/CC01"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F083/CC05"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F083/CD34"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F083/FF12"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F083/GA18"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F083/HH15"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "JP",
+                            "doc-number": "7686384",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "JP19840076863",
+                            "date": "19840417"
+                        },
+                        {
+                            "doc-number": "59076863"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "JP19840076863",
+                                "date": "19840417"
+                            },
+                            {
+                                "doc-number": "59076863"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "FUJITSU LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "FUJITSU KK"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "NAKANO MOTOO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "NAKANO MOTOO"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "MANUFACTURE OF SEMICONDUCTOR DEVICE"
+            },
+            "abstract": {
+                "p": "PURPOSE:To form a buried layer of large effect of preventing alpha ray damage at a time of hydrogen ion implantation by a method wherein high-energy hydrogen ions are implanted to a p type Si substrate after element formation, and is converted into n type by later heat treatment. CONSTITUTION:After a DRAM100 of 1-transistor and 1-capacitor type is formed on the p type Si substrate 1 by a normal method, hydrogen ions are implanted in a projection trajectory larger than the depth of this DRAM region. Thereafter, the region with the above-mentioned implanted hydrogen ions is converted into n type by heat treatment. Since this manner enables the buried layer 11 preventing alpha ray damage to be formed at a time of hydrogen ion implantation, the manufacturing process can be simplified."
+            }
+        }
+    }
+}

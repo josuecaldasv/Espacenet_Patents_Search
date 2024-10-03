@@ -1,0 +1,162 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118158983",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118158983",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H05K   7/    20            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "K",
+                            "main-group": "7",
+                            "subgroup": "20709",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "K",
+                            "main-group": "7",
+                            "subgroup": "208",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410339253",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410339253",
+                            "date": "20240325"
+                        },
+                        {
+                            "doc-number": "202410339253.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "CN202310991796",
+                                "date": "20230808"
+                            },
+                            {
+                                "doc-number": "2023109917960"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHENGDU MINSHAN GREEN HYDROGEN ENERGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "成都岷山绿氢能源有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DING WENWU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LEI XIANZHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI AIRONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU DONGLING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIAO YAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁文武, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "雷宪章, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李爱蓉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴东灵, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "肖艳"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Novel data center liquid cooling system based on phase change fluid",
+                    "一种基于相变流体的新型数据中心液冷系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a novel data center liquid cooling system based on phase change fluid. The system comprises a primary side phase change fluid circulation subsystem, a secondary side phase change fluid circulation subsystem and a heat exchange device located between the primary side phase change fluid circulation subsystem and the secondary side phase change fluid circulation subsystem. The secondary side phase change fluid circulation subsystem exchanges heat with a server of the data center; the primary side phase change fluid circulation subsystem exchanges heat with the secondary side phase change fluid circulation subsystem through a heat exchange device; the primary side phase change fluid circulation subsystem exchanges heat with the external environment through a cooling tower; the primary side phase change fluid circulation subsystem and the secondary side phase change fluid circulation subsystem are provided with a primary side disperser and a secondary side disperser respectively and used for conducting online dispersion on phase change fluid. On the basis of the high specific heat characteristic of the phase change fluid, the primary side circulation system and the secondary side circulation system are optimally designed, the data center efficient liquid cooling system design based on the phase change fluid is achieved, the cooling capacity of the liquid cooling system is improved, and the power consumption of the liquid cooling system is reduced."
+                },
+                {
+                    "p": "本发明公开了一种基于相变流体的新型数据中心液冷系统，系统包括：一次侧相变流体循环子系统、二次侧相变流体循环子系统和位于二者中间的换热装置；二次侧相变流体循环子系统与数据中心的服务器进行换热；一次侧相变流体循环子系统与二次侧相变流体循环子系统通过换热装置进行换热；一次侧相变流体循环子系统通过冷却塔与外部环境进行换热；一次侧相变流体循环子系统和二次侧相变流体循环子系统分别设置有一次侧分散器和二次侧分散器，用于对相变流体进行在线分散。本发明基于相变流体高比热的特性，对一次侧和二次侧循环系统优化设计，实现基于相变流体的数据中心高效液冷系统设计，提升液冷系统的冷却能力，降低液冷系统功耗。"
+                }
+            ]
+        }
+    }
+}

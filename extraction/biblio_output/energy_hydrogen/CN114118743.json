@@ -1,0 +1,195 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "114118743",
+                            "kind": "A",
+                            "date": "20220301"
+                        },
+                        {
+                            "doc-number": "CN114118743",
+                            "date": "20220301"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  17/    18            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/    06            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "17",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06393",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "90",
+                            "subgroup": "82",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202111343785",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202111343785",
+                            "date": "20211114"
+                        },
+                        {
+                            "doc-number": "202111343785.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202111343785",
+                            "date": "20211114"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV NORTHEAST ELECTRIC POWER"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "东北电力大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "KONG LINGGUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN YAOHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAI GUOWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHI ZHENYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU CHUANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG SHIBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孔令国, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈钥含, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蔡国伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "石振宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘闯, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王士博"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Wind power hydrogen production economic capacity configuration calculation method",
+                    "一种风电制氢经济容量配置计算方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The wind power hydrogen production economic capacity configuration calculation method is characterized by comprising two parts of content: a model foundation of a wind power hydrogen production system and construction of an economic model of the wind power hydrogen production system; wherein the content of the model basis of the wind power hydrogen production system comprises the conversion value of hydrogen, the conversion premium of hydrogen, the maximum value of the system capacity, the optimal marginal contribution of the system, the leveling cost per kilowatt-hour and the calculation of the leveling hydrogen cost; the step of constructing the economic model of the wind power hydrogen production system comprises the step of calculating the net present value of the wind power hydrogen production system. The capacity of electrolytic hydrogen production relative to a fan can be optimized and selected through real-time optimization of the wind power hydrogen production capacity, full utilization of fluctuation of electricity price and intermittency of renewable energy power generation and utilization of a convexity function relation between a system leveling net present value and the electrolytic hydrogen production capacity. The method has the advantages of being scientific, reasonable, high in applicability, high in application value, good in effect and the like, and scientific guidance can be provided for economic evaluation of renewable energy hydrogen production and optimal hydrogen production capacity configuration."
+                },
+                {
+                    "p": "一种风电制氢经济容量配置计算方法,其特点是，包括：风电制氢系统的模型基础和构建风电制氢系统的经济模型两部分内容；其中，风电制氢系统的模型基础的内容包括：氢气的转换价值、氢气的转换溢价、系统容量的最大值、系统的最优边际贡献、平准化度电成本和平准化氢气成本的计算；构建风电制氢系统的经济模型包括：风电制氢系统的净现值计算。能够通过风电制氢容量实时优化，并充分利用电价的波动性和可再生能源发电的间歇性，利用系统平准化净现值与电解制氢容量凸性函数关系，优化选择电解制氢相对于风机的容量。本发明具有科学合理，适用性强，应用价值高，效果佳等优点，能够为可再生能源制氢的经济评价及最优制氢容量配置提供科学的指导。"
+                }
+            ]
+        }
+    }
+}

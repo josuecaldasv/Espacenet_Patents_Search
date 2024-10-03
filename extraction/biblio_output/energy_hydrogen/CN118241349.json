@@ -1,0 +1,515 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118241349",
+                            "kind": "A",
+                            "date": "20240625"
+                        },
+                        {
+                            "doc-number": "CN118241349",
+                            "date": "20240625"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B05D   1/    02            A I                    "
+                        },
+                        {
+                            "text": "B05D   7/    24            A I                    "
+                        },
+                        {
+                            "text": "C09D   5/    44            A I                    "
+                        },
+                        {
+                            "text": "C09D   7/    61            A I                    "
+                        },
+                        {
+                            "text": "C09D   7/    62            A I                    "
+                        },
+                        {
+                            "text": "C09D 133/    00            A I                    "
+                        },
+                        {
+                            "text": "C09D 163/    00            A I                    "
+                        },
+                        {
+                            "text": "C09D 167/    00            A I                    "
+                        },
+                        {
+                            "text": "C25D  11/    02            A I                    "
+                        },
+                        {
+                            "text": "C25D  13/    02            A I                    "
+                        },
+                        {
+                            "text": "C25D  13/    04            A I                    "
+                        },
+                        {
+                            "text": "C25D  13/    14            A I                    "
+                        },
+                        {
+                            "text": "C25D  13/    20            A I                    "
+                        },
+                        {
+                            "text": "D01H  11/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "05",
+                            "subclass": "D",
+                            "main-group": "1",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "05",
+                            "subclass": "D",
+                            "main-group": "7",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "D",
+                            "main-group": "5",
+                            "subgroup": "4457",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "D",
+                            "main-group": "5",
+                            "subgroup": "4473",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "D",
+                            "main-group": "5",
+                            "subgroup": "448",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "D",
+                            "main-group": "163",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "D",
+                            "main-group": "11",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "D",
+                            "main-group": "13",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "D",
+                            "main-group": "13",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "D",
+                            "main-group": "13",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "D",
+                            "main-group": "13",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "01",
+                            "subclass": "H",
+                            "main-group": "11",
+                            "subgroup": "005",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "05",
+                            "subclass": "D",
+                            "main-group": "2507",
+                            "subgroup": "01",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "05",
+                            "subclass": "D",
+                            "main-group": "2507",
+                            "subgroup": "02",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "2003",
+                            "subgroup": "282",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "2003",
+                            "subgroup": "324",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "2201",
+                            "subgroup": "011",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C09D163/00",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08L33/00",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "3",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08L67/00",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "4",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08K3/32",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "5",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08K3/28",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "6",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08K7/08",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "7",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08K9/06",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410670707",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410670707",
+                            "date": "20240528"
+                        },
+                        {
+                            "doc-number": "202410670707.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410670707",
+                            "date": "20240528"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "TONGLING QINGSHENG MACHINERY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " TONGLING HAIWEN TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "铜陵市庆升机械有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "铜陵海文科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HU PEIHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MIAO XIANGDONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIAO JUNYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LU LAITAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡培华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "缪向东, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "肖骏燕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "鲁来涛"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Production method of cotton suction flute pipe",
+                    "一种吸棉笛管的生产方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "GB1150844",
+                                        "name": "SOLVAY WERKE GMBH [DE]",
+                                        "date": "19690507"
+                                    },
+                                    {
+                                        "country": "GB",
+                                        "doc-number": "1150844",
+                                        "kind": "A",
+                                        "name": "SOLVAY WERKE GMBH [DE]",
+                                        "date": "19690507"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4601916",
+                                        "name": "ARACHTINGI JAMES J [US]",
+                                        "date": "19860722"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4601916",
+                                        "kind": "A",
+                                        "name": "ARACHTINGI JAMES J [US]",
+                                        "date": "19860722"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN203947232U",
+                                        "name": "NINGBO SHUANGDUN TEXTILE CANVAS IND CO LTD",
+                                        "date": "20141119"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "203947232",
+                                        "kind": "U",
+                                        "name": "NINGBO SHUANGDUN TEXTILE CANVAS IND CO LTD",
+                                        "date": "20141119"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104746074",
+                                        "name": "LIUZHOU HAOXIANGTE SCIENCE & TECHNOLOGY CO LTD",
+                                        "date": "20150701"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104746074",
+                                        "kind": "A",
+                                        "name": "LIUZHOU HAOXIANGTE SCIENCE & TECHNOLOGY CO LTD",
+                                        "date": "20150701"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "FR3025646",
+                                        "name": "BERNOLIN VINCENT [FR]",
+                                        "date": "20160311"
+                                    },
+                                    {
+                                        "country": "FR",
+                                        "doc-number": "3025646",
+                                        "kind": "A1",
+                                        "name": "BERNOLIN VINCENT [FR]",
+                                        "date": "20160311"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a production method of a cotton suction flute pipe, and belongs to the technical field of surface treatment of textile accessories, a layer of thermocuring paint film is prepared at a cotton suction hole part of a flute pipe prefabricated part, a dot array is prepared through laser etching, a hydrogen fluoride solution is spin-coated, a micro pit is formed in each dot position through acid etching, and etching treatment is completed; carrying out sand blasting treatment on the etched flute pipe prefabricated part, removing a thermocuring paint film, and then carrying out anodic oxidation treatment; in an electrophoresis tank filled with electrophoretic paint, electrophoretic coating, washing and drying are carried out in a cathode electrophoresis mode, plastic sealing pieces are installed at the two ends of a pipe body, and the cotton suction flute pipe is obtained; when the cotton suction flute pipe is used, certain gaps can be formed between the pit-shaped structures of the micro pits and flyings as well as air, and a pressure difference is formed between the air in the micro pits and external air flow through a cavity drag reduction effect, so that the frictional resistance between the flyings and the cotton suction flute pipe is reduced, the suction rate of the flyings is increased under lower pressure, and the reduction of energy consumption of the cotton suction system is facilitated."
+                },
+                {
+                    "p": "本发明公开了一种吸棉笛管的生产方法，属于纺织配件表面处理技术领域，在笛管预制件的吸棉孔部位制备一层热固化漆膜，激光刻蚀制备出圆点阵列，旋涂氟化氢溶液在每一个圆点位置酸刻蚀出微坑，完成刻蚀处理；对刻蚀处理后的笛管预制件进行喷砂处理，除去热固化漆膜，然后进行阳极氧化处理；在装有电泳漆的电泳槽中，采用阴极电泳的方式电泳涂装，洗涤，干燥，在管体两端安装塑料密封件，得到吸棉笛管；微坑的凹坑状结构可以与飞花、空气之间产生一定的间隙，通过空穴减阻效应，微坑中的空气与外部气流形成压力差，从而降低飞花和吸棉笛管的摩擦阻力，从而在较低压力下增加对飞花的吸入率，有助于降低吸棉系统的能耗。"
+                }
+            ]
+        }
+    }
+}

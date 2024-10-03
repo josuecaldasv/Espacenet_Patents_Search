@@ -1,0 +1,109 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "1001589",
+                            "kind": "A",
+                            "date": "19110822"
+                        },
+                        {
+                            "doc-number": "US1001589",
+                            "date": "19110822"
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "27",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "27",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "204/242"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "204/400"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "1907397060",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US19070397060",
+                            "date": "19071012"
+                        },
+                        {
+                            "doc-number": "39706007"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "US19070397060",
+                            "date": "19071012"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HATFIELD HENRY STAFFORD [GB]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "HENRY STAFFORD HATFIELD"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HATFIELD HENRY STAFFORD [GB]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "HENRY STAFFORD HATFIELD"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "ELECTROLYTIC CELL."
+            }
+        }
+    }
+}

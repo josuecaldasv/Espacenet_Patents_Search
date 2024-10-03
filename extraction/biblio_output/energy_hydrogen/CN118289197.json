@@ -1,0 +1,224 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118289197",
+                            "kind": "A",
+                            "date": "20240705"
+                        },
+                        {
+                            "doc-number": "CN118289197",
+                            "date": "20240705"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B63B   1/    12            A I                    "
+                        },
+                        {
+                            "text": "B63H  11/    08            A I                    "
+                        },
+                        {
+                            "text": "B63H  21/    20            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    08            A I                    "
+                        },
+                        {
+                            "text": "F03B  13/    14            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410400299",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410400299",
+                            "date": "20240403"
+                        },
+                        {
+                            "doc-number": "202410400299.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410400299",
+                            "date": "20240403"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GUANGDONG XINWEN ENERGY CONTROL TECH RESEARCH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " GUANGDONG XINWEN HAINENG DRIVE SHIPPING CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "广东信稳能控技术研究有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "广东信稳海能驱航船舶有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZENG ZHAODA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MA YONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " NI WENCHI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG XU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAO ZHI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIE GUANGCI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TANG CHENXUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAN QIUTONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU ZHENGYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG KAOHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN DAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曾昭达, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马勇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "倪问池, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张旭, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "姚智, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "解光慈, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "唐晨轩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谈秋桐, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘征宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄考航, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈丹"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Power integration system of three-body sea energy self-sustaining ship",
+                    "三体海能自持船动力集成系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a three-body sea energy self-holding ship power integration system which comprises a sea wave energy integration output system, the sea wave energy integration output system comprises a first high-pressure water turbine and a second high-pressure water turbine which are both driven by high-pressure liquid, and the first high-pressure water turbine is in linkage with a direct-current generator. The electric energy output end of the direct-current generator is connected with a hydrogen energy preparation and storage system; an oxygen output pipe and a hydrogen output pipe of the hydrogen energy preparation and storage system are both communicated with the thermal cycle hydrogen energy driving system, and the power output end of the thermal cycle hydrogen energy driving system is linked with the first power input end of the driving force integration system; the power output end of the second high-pressure water turbine is linked with the second power input end of the driving force integration system; and the power output end of the driving force integration system is linked with a marine secondary vortex culvert jet-flow water turbine. According to the power integration system of the three-body sea energy self-sustaining ship, the ship can achieve the purposes of self-sustaining of sea navigation energy and self-sustaining of fresh water by collecting sea wave energy."
+                },
+                {
+                    "p": "本发明公开了一种三体海能自持船动力集成系统，包括海波能集成输出系统，海波能集成输出系统包括均由高压液体驱动的第一高压水轮机和第二高压水轮机，第一高压水轮机联动有直流发电机，直流发电机的电能输出端连接有氢能制备与储存系统；氢能制备与储存系统的氧气输出管和氢气输出管均与热循氢能驱动系统连通，热循氢能驱动系统的动力输出端与驱动力集成系统的第一动力输入端联动；第二高压水轮机的动力输出端与驱动力集成系统的第二动力输入端联动；驱动力集成系统的动力输出端联动有船用次级涡涵喷流水轮机。本发明提供的三体海能自持船动力集成系统，能使船舶通过收集海波能量实现海上航行能源自足、淡水自足的目的。"
+                }
+            ]
+        }
+    }
+}

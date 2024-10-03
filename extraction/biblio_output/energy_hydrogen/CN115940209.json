@@ -1,0 +1,169 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "115940209",
+                            "kind": "A",
+                            "date": "20230407"
+                        },
+                        {
+                            "doc-number": "CN115940209",
+                            "date": "20230407"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211501075",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211501075",
+                            "date": "20221128"
+                        },
+                        {
+                            "doc-number": "202211501075.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211501075",
+                            "date": "20221128"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "STATE NUCLEAR ELECTRIC POWER PLANNING DESIGN & RES INST CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国核电力规划设计研究院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHU GEJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO LIQUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MA YAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG FENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO ZHIGUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN CHUNXI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI YANLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "朱葛峻, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高利群, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李璟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马岩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭志国, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈春喜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李岩龙"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Energy storage ratio determination method and device of new energy hydrogen production system and electronic equipment",
+                    "新能源制氢系统的储能配比确定方法、装置及电子设备"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an energy storage ratio determination method and device of a new energy hydrogen production system and electronic equipment, and relates to the technical field of new energy hydrogen production. Comprising the steps that the annual hourly generating capacity corresponding to a new energy generator set and the annual hourly electricity consumption corresponding to a hydrogen production unit are obtained, a first electricity consumption gap or generating capacity surplus corresponding to each hour is determined, and then the minimum energy storage power corresponding to an energy storage unit is determined; then, according to the first electricity consumption gap or the generated energy surplus corresponding to each hour and the energy storage conversion efficiency, each charging and discharging sequence, the corresponding second electricity consumption gap and the energy storage discharging amount are determined, and then the energy storage capacity corresponding to each charging and discharging sequence is determined; and determining the minimum energy storage capacity hour of the energy storage unit according to the maximum value and the minimum energy storage power in each energy storage capacity. Therefore, the minimum energy storage efficiency and the minimum energy storage capacity of the energy storage unit can be accurately determined, the new energy hydrogen production system can stably operate in the off-grid state, and the hydrogen production efficiency is improved."
+                },
+                {
+                    "p": "本公开提出一种新能源制氢系统的储能配比确定方法、装置及电子设备，涉及新能源制氢技术领域。包括：获取新能源发电机组对应的全年逐时发电量及制氢机组对应的全年逐时用电量，并确定每小时对应的第一用电量缺口或发电量盈余，进而确定储能机组对应的最小储能功率，之后根据每小时对应的第一用电量缺口或发电量盈余、及储能转换效率，确定每个充放电次序，及对应的第二用电量缺口及储能放电量，进而确定每个充放电次序对应的储能容量；根据每个储能容量中的最大值及最小储能功率，确定储能机组的最小储能容量小时。由此，可以准确地确定储能机组的最小储能效率及最小储能容量小时，使新能源制氢系统在离网状态下可以稳定运行，提高了制氢效率。"
+                }
+            ]
+        }
+    }
+}

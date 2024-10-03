@@ -1,0 +1,199 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118300156",
+                            "kind": "A",
+                            "date": "20240705"
+                        },
+                        {
+                            "doc-number": "CN118300156",
+                            "date": "20240705"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04082            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04089            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0656            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  2457            A I                    "
+                        },
+                        {
+                            "text": "H01M  16/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    24            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    34            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410411042",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410411042",
+                            "date": "20240407"
+                        },
+                        {
+                            "doc-number": "202410411042.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410411042",
+                            "date": "20240407"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ELECTRIC POWER SCIENCE RES INSTITUTE OF STATE GRID ANHUI ELECTRIC POWER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国网安徽省电力有限公司电力科学研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG DI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TENG YUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIE HENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI GANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU ZIQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG HONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU BIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING JINJIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王缔, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "滕越, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谢恒, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "励刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴自强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张红, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐斌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁津津"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen energy comprehensive utilization power station",
+                    "一种氢能综合利用电站"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a hydrogen energy comprehensive utilization power station, which relates to the technical field of power supply systems and is characterized in that a first rectifier, an inverter, an electrolytic hydrogen production system, a hydrogen compressor, a hydrogen fuel cell power generation system and an air compressor are electrically connected with an energy storage battery through a bidirectional DC/DC (Direct Current/Direct Current); the first rectifier is electrically connected with a power grid through a step-down transformer, and the inverter is electrically connected with the power grid through a step-up transformer; the electrolytic hydrogen production system, the hydrogen compressor, the hydrogen storage system and the hydrogen fuel cell power generation system are sequentially connected through pipelines, and the air compressor is connected with the hydrogen fuel cell power generation system through a pipeline; the step-down transformer, the first rectifier, the step-up transformer, the inverter, the energy storage battery, the bidirectional DC/DC, the electrolytic hydrogen production system, the hydrogen compressor, the hydrogen storage system, the hydrogen fuel cell power generation system and the air compressor cooperate to achieve peak regulation and frequency modulation of a power grid. Peak regulation and frequency modulation of the power grid are realized."
+                },
+                {
+                    "p": "本发明公开一种氢能综合利用电站，涉及供电系统技术领域，第一整流器、逆变器、电解制氢系统、氢压机、氢燃料电池发电系统和空压机均通过双向DC/DC与储能电池电气连接；第一整流器通过降压变压器与电网电气连接，逆变器通过升压变压器与电网电气连接；电解制氢系统、氢压机、储氢系统与氢燃料电池发电系统依次管道连接，空压机与氢燃料电池发电系统管道连接；降压变压器、第一整流器、升压变压器、逆变器、储能电池、双向DC/DC、电解制氢系统、氢压机、储氢系统、氢燃料电池发电系统和空压机协作实现电网的调峰和调频。本发明实现了电网的调峰和调频。"
+                }
+            ]
+        }
+    }
+}

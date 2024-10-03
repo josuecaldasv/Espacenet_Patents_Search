@@ -1,0 +1,232 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118164813",
+                            "kind": "A",
+                            "date": "20240611"
+                        },
+                        {
+                            "doc-number": "CN118164813",
+                            "date": "20240611"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  29/    85            A I                    "
+                        },
+                        {
+                            "text": "C07C   1/    20            A I                    "
+                        },
+                        {
+                            "text": "C07C  11/    04            A I                    "
+                        },
+                        {
+                            "text": "C07C  11/    06            A I                    "
+                        },
+                        {
+                            "text": "C07C  11/    08            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "29",
+                            "subgroup": "85",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "2529",
+                            "subgroup": "85",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C1/20",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C11/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C1/20",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C11/06",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "3",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C1/20",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C11/08",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211585868",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211585868",
+                            "date": "20221209"
+                        },
+                        {
+                            "doc-number": "202211585868.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211585868",
+                            "date": "20221209"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "DALIAN INST CHEM & PHYSICS CAS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国科学院大连化学物理研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHEN ZIYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHU WENLIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU ZHONGMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈子旸, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "朱文良, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘中民"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for preparing low-carbon olefin from dimethyl ether",
+                    "一种二甲醚制取低碳烯烃的方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a method for preparing low-carbon olefin from dimethyl ether. The method comprises the following steps: introducing raw material gas containing hydrogen and dimethyl ether into a reactor filled with a molecular sieve catalyst with pre-deposited carbon to react to prepare the low-carbon olefin, the reaction conditions are as follows: the reaction temperature is 350-550 DEG C, the reaction pressure is 0.5-20.0 MPa, the mass space velocity of the dimethyl ether is 0.01-20 h &lt;-1 &gt;, and the molar ratio of the hydrogen to the dimethyl ether is (1-50): 1; the preparation method of the pre-carbon-deposited molecular sieve catalyst comprises the following steps: in a nitrogen or hydrogen atmosphere, taking low-carbon olefin as a raw material, and reacting in the presence of the molecular sieve catalyst to prepare the pre-carbon-deposited molecular sieve catalyst. When the molecular sieve catalyst containing the pre-deposited carbon is used for the reaction of preparing the low-carbon olefin from the dimethyl ether, the selectivity of the low-carbon olefin, especially ethylene and propylene, can be greatly improved, and meanwhile, the service life of the catalyst can be greatly prolonged."
+                },
+                {
+                    "p": "本发明公开了一种二甲醚制取低碳烯烃的方法，使含有氢气的原料气和二甲醚通入装有预积碳的分子筛催化剂的反应器反应制备低碳烯烃；所述反应条件为：反应温度350～550℃，反应压力0.5～20.0MPa，二甲醚质量空速0.01～20h‑1，所述氢气与二甲醚的摩尔比为(1～50):1；所述预积碳的分子筛催化剂的制备方法包括：在氮气或氢气氛围下，以低碳烯烃为原料，在分子筛催化剂存在下进行反应制备预积碳的分子筛催化剂。采用包含预积碳的分子筛催化剂进行二甲醚制低碳烯烃反应可以大幅提高低碳烯烃、特别是乙烯和丙烯的选择性，同时也可大幅延长催化剂的寿命。"
+                }
+            ]
+        }
+    }
+}

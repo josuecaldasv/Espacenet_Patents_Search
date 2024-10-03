@@ -1,0 +1,197 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "112736968",
+                            "kind": "A",
+                            "date": "20210430"
+                        },
+                        {
+                            "doc-number": "CN112736968",
+                            "date": "20210430"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H02J   3/    38            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "38",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "22",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202011551069",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202011551069",
+                            "date": "20201224"
+                        },
+                        {
+                            "doc-number": "202011551069.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202011551069",
+                            "date": "20201224"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HEFEI SUNGROW NEW ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "合肥阳光新能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YANG ZONGJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BAI JIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨宗军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "白洁"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "New energy hydrogen production system and control method thereof",
+                    "一种新能源制氢系统及其控制方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN106119883",
+                                        "name": "UNIV TONGJI",
+                                        "date": "20161116"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "106119883",
+                                        "kind": "A",
+                                        "name": "UNIV TONGJI",
+                                        "date": "20161116"
+                                    }
+                                ]
+                            },
+                            "category": "X",
+                            "rel-claims": "1-21",
+                            "rel-passage": {
+                                "passage": "* 说明书第8-67段，附图1-2 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111463807",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD",
+                                        "date": "20200728"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111463807",
+                                        "kind": "A",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD",
+                                        "date": "20200728"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-21",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a new energy hydrogen production system and a control method thereof, and the control method comprises the steps that: the output parameters of a new energy module in the new energy hydrogen production system are obtained, and the minimum operation parameters of the hydrogen production module in the new energy hydrogen production system are determined; according to the minimum operation parameters and the output parameters, only the new energy module is used for supplying power to the hydrogen production module, or the new energy module and the power grid are used for supplying power to the hydrogen production module at the same time, so that it is ensured that the power received by the hydrogen production module at least meets the requirement for the minimum operation parameters, and the new energy module does not feed power into the power grid; therefore, electric energy generated by the new energy module is mainly used, all the electric energy is provided for the hydrogen production module, and the power grid is used as assistance; the problem that in the prior art, energy storage equipment needs to be configured for the new energy hydrogen production system to improve power output is solved, and the configuration cost of the energy storage equipment in the new energy hydrogen production system is reduced."
+                },
+                {
+                    "p": "本发明提供一种新能源制氢系统及其控制方法，该控制方法包括：获取新能源制氢系统中新能源模块的输出参数，并确定新能源制氢系统中制氢模块的最小运行参数；依据最小运行参数和输出参数，仅利用新能源模块为制氢模块供电，或者，同时利用新能源模块和电网为制氢模块供电，以确保制氢模块接收到的功率至少满足最小运行参数的需求，且新能源模块不向电网馈入功率；从而，实现以新能源模块所产生的电能为主，将其全部电能均提供至制氢模块，且以电网作为辅助；避免了现有技术中需为新能源制氢系统配置储能设备来改善功率出力的问题，减少了新能源制氢系统中储能设备的配置成本。"
+                }
+            ]
+        }
+    }
+}

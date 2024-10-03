@@ -1,0 +1,188 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118346916",
+                            "kind": "A",
+                            "date": "20240716"
+                        },
+                        {
+                            "doc-number": "CN118346916",
+                            "date": "20240716"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F17C   6/    00            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    00            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    02            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    04            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04082            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410579450",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410579450",
+                            "date": "20240511"
+                        },
+                        {
+                            "doc-number": "202410579450.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410579450",
+                            "date": "20240511"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NORTHEAST ELECTRIC POWER UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "东北电力大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI XINYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN XIYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG XINYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LAI JUNYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI YANYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZUO XU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG BINGYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI QIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAI WEIHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李欣宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈玺羽, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张鑫奕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赖俊宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李艳阳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "左续, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨冰妍, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李倩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蔡伟华"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Pipeline structure of BOG (boil-off gas) recovery system of hydrogen fuel cell heavy truck carrying liquid hydrogen tank",
+                    "一种氢燃料电池重卡搭载液氢罐箱的BOG回收系统的管路结构"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a pipeline structure of a BOG recovery system of a liquid hydrogen tank carried by a hydrogen fuel cell heavy truck, and relates to the technical field of liquid hydrogen vaporization recovery and pressure control. In order to solve the technical problems that in the prior art, traditional BOG gas treatment methods have various defects, and a single traditional treatment process is difficult to meet the current BOG treatment requirements, the technical scheme provided by the invention is as follows: the pipeline structure of the BOG recovery system of the hydrogen fuel cell heavy truck carrying liquid hydrogen tank box comprises a pipeline structure and a BOG recovery system, the pressure detection device is used for detecting the pressure change in the liquid hydrogen storage tank; the microcomputer control device is used for controlling the BOG recovery system to start and stop according to the pressure change; the liquid hydrogen pump is used for extracting BOG gas in the liquid hydrogen storage tank when the BOG recovery system is started; the buffer tank is used for recovering the BOG gas extracted by the liquid hydrogen pump; and the liquid hydrogen fuel bottle is used for supplying the recovered BOG gas to a fuel cell. The device can be applied to liquid hydrogen heavy trucks or other hydrogen energy vehicles needing liquid hydrogen supply."
+                },
+                {
+                    "p": "一种氢燃料电池重卡搭载液氢罐箱的BOG回收系统的管路结构，涉及液氢汽化回收和压力控制技术领域。为解决现有技术中存在的，传统的BOG气体处理方法各有弊端，且单一的传统处理工艺很难满足目前BOG处理需求的技术问题，本发明提供的技术方案为：一种氢燃料电池重卡搭载液氢罐箱的BOG回收系统的管路结构，包括：用于检测液氢储罐内部的压力变化的压力检测装置；用于根据所述压力变化控制BOG回收系统启停的微机控制装置；用于在所述BOG回收系统启动时，抽取所述液氢储罐内部的BOG气体的液氢泵；用于将所述液氢泵抽取的BOG气体进行回收的缓冲罐；用于将回收后的所述BOG气体供给燃料电池的液氢燃料瓶。可以应用于液氢重卡或其他需要液氢供应的氢能源车辆中。"
+                }
+            ]
+        }
+    }
+}

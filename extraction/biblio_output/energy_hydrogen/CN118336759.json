@@ -1,0 +1,178 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118336759",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118336759",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    24            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410439466",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410439466",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "202410439466.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410439466",
+                            "date": "20240412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUANENG CLEAN ENERGY RES INSTITUTE"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " HUANENG ZHANGYE ENERGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国华能集团清洁能源技术研究院有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华能张掖能源有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG CHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JINYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU ZHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO HAIJIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GONG YUDONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI RUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG ZHENXING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张畅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王金意, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴展, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭海礁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "巩玉栋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李睿, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王振兴"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Optimal configuration method and device for hydrogen-electricity coupling micro-grid system",
+                    "一种氢电耦合微电网系统的优化配置方法及其装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an optimal configuration method and device for a hydrogen-electricity coupling micro-grid system, and relates to the technical field of electric power systems. According to the adjustment limiting parameters, the hydrogen production rated power of the water electrolysis hydrogen production unit and the battery rated power range and the battery rated capacity range of the energy storage battery unit are obtained; collecting historical power generation data corresponding to the power generation unit and historical power utilization load data corresponding to the power utilization load unit; according to the historical power generation data, the historical power utilization load data, the hydrogen production rated power, the battery rated power range and the battery rated capacity range, cost optimization prediction is carried out according to a preset coordination working mode corresponding to the water electrolysis hydrogen production unit and the energy storage battery unit; the battery rated power and the battery rated capacity corresponding to the lowest cost obtained after cost optimization are obtained; and according to the hydrogen production rated power, the battery rated power and the battery rated capacity, performing optimal configuration on the hydrogen-electricity coupling micro-grid system."
+                },
+                {
+                    "p": "本申请提出了一种氢电耦合微电网系统的优化配置方法及其装置，涉及电力系统技术领域，通过获取电解水制氢单元的调节限制参数；根据调节限制参数，获取电解水制氢单元的制氢额定功率、储能电池单元的电池额定功率范围和电池额定容量范围；收集发电单元对应的历史发电数据以及用电负荷单元对应的历史用电负荷数据；根据历史发电数据、历史用电负荷数据、制氢额定功率、电池额定功率范围和电池额定容量范围，按照电解水制氢单元与储能电池单元对应的预设协调工作方式进行成本寻优预测；获取成本寻优之后得到的最低成本对应的电池额定功率和电池额定容量；根据制氢额定功率、电池额定功率和电池额定容量对氢电耦合微电网系统进行优化配置。"
+                }
+            ]
+        }
+    }
+}

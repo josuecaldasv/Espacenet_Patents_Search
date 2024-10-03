@@ -1,0 +1,583 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116354355",
+                            "kind": "A",
+                            "date": "20230630"
+                        },
+                        {
+                            "doc-number": "CN116354355",
+                            "date": "20230630"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B  33/    18            A I                    "
+                        },
+                        {
+                            "text": "C08K   7/    18            A I                    "
+                        },
+                        {
+                            "text": "C08K   9/    06            A I                    "
+                        },
+                        {
+                            "text": "C09C   1/    30            A I                    "
+                        },
+                        {
+                            "text": "C09C   3/    12            A I                    "
+                        },
+                        {
+                            "text": "H01L  23/    29            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "33",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "33",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "33",
+                            "subgroup": "181",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "33",
+                            "subgroup": "181",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "G",
+                            "main-group": "77",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "G",
+                            "main-group": "77",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "7",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "7",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "9",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "9",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "3081",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "3081",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "3081",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "C",
+                            "main-group": "3",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "C",
+                            "main-group": "3",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "23",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "23",
+                            "subgroup": "295",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "0373",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "0373",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "0373",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "P",
+                            "main-group": "2004",
+                            "subgroup": "32",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "P",
+                            "main-group": "2004",
+                            "subgroup": "32",
+                            "classification-value": "A",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "P",
+                            "main-group": "2004",
+                            "subgroup": "32",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "P",
+                            "main-group": "2004",
+                            "subgroup": "32",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "P",
+                            "main-group": "2004",
+                            "subgroup": "61",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "P",
+                            "main-group": "2004",
+                            "subgroup": "61",
+                            "classification-value": "A",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "P",
+                            "main-group": "2004",
+                            "subgroup": "61",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "P",
+                            "main-group": "2004",
+                            "subgroup": "61",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "P",
+                            "main-group": "2004",
+                            "subgroup": "62",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "P",
+                            "main-group": "2004",
+                            "subgroup": "62",
+                            "classification-value": "A",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "G",
+                            "main-group": "77",
+                            "subgroup": "04",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "G",
+                            "main-group": "77",
+                            "subgroup": "70",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "2201",
+                            "subgroup": "005",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "23",
+                            "subgroup": "295",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "024",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "K",
+                            "main-group": "2201",
+                            "subgroup": "0209",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "K",
+                            "main-group": "2201",
+                            "subgroup": "068",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310519256",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310519256",
+                            "date": "20200426"
+                        },
+                        {
+                            "doc-number": "202310519256.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "WO2020CN75559",
+                                    "date": "20200217"
+                                },
+                                {
+                                    "doc-number": "PCT/CN2020/075559"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "CN20208001764",
+                                    "date": "20200426"
+                                },
+                                {
+                                    "doc-number": "202080001764.6"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": {
+                                "doc-number": "WO2020CN86980",
+                                "date": "20200426"
+                            }
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "QUZHOU SANSHIJI NEW MAT CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "衢州三时纪新材料有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SHEN HAIBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG KE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING LIEPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN SHUZHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "沈海斌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王珂, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁烈平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈树真"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Preparation method of spherical silicon dioxide powder filler, powder filler obtained through preparation method and application of powder filler",
+                    "一种球形二氧化硅粉体填料的制备方法、由此得到的粉体填料及其应用"
+                ],
+                "references-cited": {
+                    "citation": {
+                        "patcit": {
+                            "document-id": [
+                                {
+                                    "doc-number": "CN107128935",
+                                    "name": "SUZHOU NANODISPERSIONS CO LTD",
+                                    "date": "20170905"
+                                },
+                                {
+                                    "country": "CN",
+                                    "doc-number": "107128935",
+                                    "kind": "A",
+                                    "name": "SUZHOU NANODISPERSIONS CO LTD",
+                                    "date": "20170905"
+                                }
+                            ]
+                        },
+                        "category": "X",
+                        "rel-claims": "1-10",
+                        "rel-passage": {
+                            "passage": "* 说明书第2，7-17段 *"
+                        }
+                    }
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a preparation method of spherical silicon dioxide powder filler, which comprises the following steps: S1, spherical polysiloxane containing T units is provided by a hydrolysis condensation reaction of R1SiX3, R1 is hydrogen atom or independently selected organic groups of carbon atoms 1 to 18, X is a water-decomposable group, and the T unit is R1 SiO3-; s2, spherical polysiloxane is calcined under the dry oxidizing gas atmosphere condition, the calcination temperature ranges from 850 DEG C to 1200 DEG C, spherical silicon dioxide powder filler with the low hydroxyl content is obtained, the spherical silicon dioxide powder filler is composed of at least one selected from Q1 units, Q2 units, Q3 units and Q4 units, the Q1 units are Si (OH) 3 O <->, the Q2 units are Si (OH) 2 O <->, the Q3 units are SiOHO3 <->, and the Q4 units are at least one selected from the group consisting of Si (OH) 3 O <->, Si (OH) 2 O <-> and SiOHO3 <->. The unit of Q4 is SiO4 <->, and the content of the unit of Q4 is greater than or equal to 95%. The spherical silicon dioxide powder filler provided by the invention has low hydroxyl content, low dielectric loss and low thermal expansion coefficient, and is suitable for high-frequency high-speed circuit boards, prepregs or copper-clad plates and the like."
+                },
+                {
+                    "p": "本发明涉及一种球形二氧化硅粉体填料的制备方法，其包括如下步骤：S1，由R1SiX3的加水分解缩合反应来提供包括T单位的球形聚硅氧烷，其中，R1为氢原子或可独立选择的碳原子1至18的有机基，X为加水可分解基团，T单位为R1 SiO3‑；S2，在干燥的氧化气体氛围条件下煅烧球形聚硅氧烷，煅烧温度介于850摄氏度‑1200摄氏度之间，得到低羟基含量的球形二氧化硅粉体填料，该球形二氧化硅粉体填料由选自Q1单位、Q2单位、Q3单位和Q4单位中的至少一种组成，其中，Q1单位为Si(OH)3 O‑，Q2单位为Si(OH)2 O2‑，Q3单位为SiOHO3‑，Q4单位为SiO4‑，Q4单位的含量大于等于95％。根据本发明的球形二氧化硅粉体填料低羟基含量，具有低介电损失和低热膨胀系数，适用于高频高速电路板，半固化片或覆铜板等。"
+                }
+            ]
+        }
+    }
+}

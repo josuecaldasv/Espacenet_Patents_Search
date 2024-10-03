@@ -1,0 +1,228 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116516362",
+                            "kind": "A",
+                            "date": "20230801"
+                        },
+                        {
+                            "doc-number": "CN116516362",
+                            "date": "20230801"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   3/    05            A I                    "
+                        },
+                        {
+                            "text": "C25B   3/    07            A I                    "
+                        },
+                        {
+                            "text": "C25B   3/    09            A I                    "
+                        },
+                        {
+                            "text": "C25B   3/    23            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "05",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "07",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "09",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "23",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310448573",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310448573",
+                            "date": "20230424"
+                        },
+                        {
+                            "doc-number": "202310448573.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310448573",
+                            "date": "20230424"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV NANJING SCIENCE & TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "南京理工大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG WENCHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN JUNHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU CHUNPEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAN YUTONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHENG HE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU YUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BAO MINGHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ZEJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU JIANYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张文超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈俊宏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "俞春培, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "闫育彤, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "程鹤, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "喻悦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "鲍明昊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李泽鉴, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐建勇"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for preparing 3, 3 '-diamino-4, 4'-azofurazan through electrochemical anodic oxidation coupling",
+                    "电化学阳极氧化偶联制备3,3’-二氨基-4,4’-偶氮呋咱的方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a method for preparing 3, 3 '-diamino-4, 4'-azofurazan through electrochemical anodic oxidation coupling. According to the method, a carbon material is prepared as an anode, diaminofurazan loses hydrogen protons at the cathode through current stimulation, then oxidative coupling occurs at the anode, separation and purification are performed through solubility difference, and the purified substance is recrystallized to obtain the product. Through the electrochemical catalytic reaction, the use of a stoichiometric traditional redox agent is avoided, the reaction path is single, the emission of various byproducts and wastes is avoided, and the cost is low; the conventional carbon material electrode is used as the catalytic anode, the reaction condition is mild, the coupling catalytic effect on diaminofurazan is excellent, the reaction efficiency is high, the pollution is low, the cost is low, and the yield is high."
+                },
+                {
+                    "p": "本发明公开了一种电化学阳极氧化偶联制备3,3’‑二氨基‑4,4’‑偶氮呋咱的方法。所述方法制备碳材料作为阳极，通过电流刺激，二氨基呋咱在阴极失去氢质子，随后在阳极发生氧化偶联，通过溶解度差异进行分离提纯，将纯化的物质进行重结晶得到产物。本发明通过电化学催化反应，避免使用了化学计量的传统氧化还原剂，并且反应路径单一，避免各种副产物及废弃物的排放，成本低廉；采用常规碳材料电极作为催化阳极，反应条件温和，对二氨基呋咱的偶联催化效果优异，反应效率高，低污染低成本高产率。"
+                }
+            ]
+        }
+    }
+}

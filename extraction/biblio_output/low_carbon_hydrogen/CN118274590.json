@@ -1,0 +1,200 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118274590",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118274590",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01D  53/    04            A I                    "
+                        },
+                        {
+                            "text": "B01D  53/    26            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    67            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/   021            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    08            A I                    "
+                        },
+                        {
+                            "text": "F25J   3/    02            A I                    "
+                        },
+                        {
+                            "text": "F25J   3/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "01",
+                            "subclass": "K",
+                            "main-group": "25",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "53",
+                            "subgroup": "002",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "53",
+                            "subgroup": "261",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "2257",
+                            "subgroup": "504",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410333383",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410333383",
+                            "date": "20240322"
+                        },
+                        {
+                            "doc-number": "202410333383.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410333383",
+                            "date": "20240322"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ZHEJIANG UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "浙江大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JIANG LONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIE RENYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN SHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JI YING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SI HANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "江龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谢任禹, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谌盛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "季颖, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "司杭"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen production and direct air carbon capture system and method coupled with compressed air energy storage",
+                    "一种耦合压缩空气储能的制氢和直接空气碳捕集系统及方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a hydrogen production and direct air carbon capture system and method coupled with compressed air energy storage, and belongs to the technical field of carbon capture and energy storage. The system comprises a compressed air energy storage system, an electrolyzed water system and a direct air carbon capture system. Wherein the water electrolysis system and the direct air carbon capture system share the same water tank, exhaust waste heat of the compressed air energy storage system during expansion energy release is used for heating the water tank, the hydrogen production efficiency of the water electrolysis system is improved, and the desorption efficiency of the direct air carbon capture system is improved; the cooled exhaust gas is supplied to a direct air carbon capture system, so that the energy consumption of a fan is reduced; low-grade heat energy in the low-temperature heat storage tank of the compressed air energy storage system can be directly used for regeneration of a drying device in the air carbon capture system, and regeneration heat consumption is reduced. According to the system and the method disclosed by the invention, green hydrogen production and carbon capture are further realized through gradient utilization of energy while flexible adjustment of peak and valley electricity of the power grid is realized."
+                },
+                {
+                    "p": "本发明公开了一种耦合压缩空气储能的制氢和直接空气碳捕集系统及方法，属于碳捕集技术和储能技术领域。系统包括压缩空气储能系统、电解水系统和直接空气碳捕集系统。其中，电解水系统与直接空气碳捕集系统共用同一水罐，压缩空气储能系统在膨胀释能时的排气余热被用于加热水罐，提高电解水系统的制氢效率并提高直接空气碳捕集系统的解吸效率；冷却后的排气供给与直接空气碳捕集系统，减少风机能耗；压缩空气储能系统低温储热罐中的低品位热能可用于直接空气碳捕集系统中干燥装置的再生，减少再生热耗。本发明的系统和方法在实现电网峰谷电灵活调节的同时，通过能量梯级利用，进一步实现绿色制氢和碳捕集。"
+                }
+            ]
+        }
+    }
+}

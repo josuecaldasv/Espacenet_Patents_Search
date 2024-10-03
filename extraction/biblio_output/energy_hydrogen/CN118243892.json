@@ -1,0 +1,125 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118243892",
+                            "kind": "A",
+                            "date": "20240625"
+                        },
+                        {
+                            "doc-number": "CN118243892",
+                            "date": "20240625"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "G01N  33/    20            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "G",
+                        "class": "01",
+                        "subclass": "N",
+                        "main-group": "33",
+                        "subgroup": "20",
+                        "classification-value": "I",
+                        "generating-office": "CN"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410377206",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410377206",
+                            "date": "20240329"
+                        },
+                        {
+                            "doc-number": "202410377206.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410377206",
+                            "date": "20240329"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHONGQING ZHIXIN IND CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "重庆至信实业股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HU JIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG XIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO JIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡剑, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王潇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高见"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen embrittlement risk detection method for hot stamping forming ultrahigh strength steel",
+                    "用于热冲压成型超高强钢氢脆风险检测方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of hydrogen embrittlement risk detection, and discloses a hydrogen embrittlement risk detection method for hot stamping forming ultrahigh strength steel, which comprises the following steps: step 1, heating a coated plate by using laser heating equipment while laser cutting a coated plate workpiece; step 2, acquiring surface image information of the coated plate, finding out an area with cracks, and marking the area as a hydrogen embrittlement risk area; step 3, optimizing a preorder process according to the marked hydrogen embrittlement risk area characteristics, and reducing the risk area until the risk area is zero; and 4, the hydrogen embrittlement risk area is monitored again in a laser heating mode, and it is ensured that no hydrogen embrittlement cracking risk exists when the workpiece flows out. According to the method, the hydrogen embrittlement risk area can be defined, the preorder process is optimized according to the area so as to achieve the dehydrogenation purpose, the technical barrier is broken through, the process step of independent tempering is omitted, the production process is simplified, the occupied area of production equipment is reduced, production energy is saved, the production cycle is shortened, production automation is improved, and the dehydrogenation precision is improved."
+                },
+                {
+                    "p": "本发明涉及氢脆风险检测技术领域，公开了用于热冲压成型超高强钢氢脆风险检测方法，包括以下步骤：步骤1，在涂层板工件进行激光切割时同步采用激光加热设备对涂层板进行加热；步骤2，获取涂层板表面图像信息，找出存在裂纹的区域，并标记为氢脆风险区域；步骤3，根据标记的氢脆风险区域特征优化前序工序，减少风险区域，直至风险区域为零；步骤4，采用激光加热方式再次对氢脆风险区域进行监控，确保工件流出无氢脆开裂风险。本发明能够明确氢脆风险区域，并根据区域优化前序工艺以此达到去氢目的，突破技术壁垒，省去单独回火的工艺步骤，简化生产流程，减少生产设备占地，节约生产能源，缩短生产周期提高生产自动化，提升去氢精准度。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,293 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "3297484",
+                            "kind": "A",
+                            "date": "19670110"
+                        },
+                        {
+                            "doc-number": "US3297484",
+                            "date": "19670110"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B  11/    06            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/    08            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "429/485"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "429/499"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "429/500"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "429/501"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "429/516"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "429/524"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "10841861",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US19610108418",
+                            "date": "19610508"
+                        },
+                        {
+                            "doc-number": "108418"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "US19610108418",
+                            "date": "19610508"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GEN ELECTRIC"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "GENERAL ELECTRIC COMPANY"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "NIEDRACH LEONARD W"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "NIEDRACH LEONARD W"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Electrode structure and fuel cell incorporating the same",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2384463",
+                                        "name": "ROSS GUNN, et al",
+                                        "date": "19450911"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2384463",
+                                        "kind": "A",
+                                        "name": "ROSS GUNN, et al",
+                                        "date": "19450911"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2641623",
+                                        "name": "WINCKLER GUNNAR A F, et al",
+                                        "date": "19530609"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2641623",
+                                        "kind": "A",
+                                        "name": "WINCKLER GUNNAR A F, et al",
+                                        "date": "19530609"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2662065",
+                                        "name": "BERRY KENNETH L",
+                                        "date": "19531208"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2662065",
+                                        "kind": "A",
+                                        "name": "BERRY KENNETH L",
+                                        "date": "19531208"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2738375",
+                                        "name": "SCHLOTTER WILLIAM J",
+                                        "date": "19560313"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2738375",
+                                        "kind": "A",
+                                        "name": "SCHLOTTER WILLIAM J",
+                                        "date": "19560313"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2824165",
+                                        "name": "MARSAL PAUL A",
+                                        "date": "19580218"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2824165",
+                                        "kind": "A",
+                                        "name": "MARSAL PAUL A",
+                                        "date": "19580218"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "GB806591",
+                                        "name": "NAT RES DEV",
+                                        "date": "19581231"
+                                    },
+                                    {
+                                        "country": "GB",
+                                        "doc-number": "806591",
+                                        "kind": "A",
+                                        "name": "NAT RES DEV",
+                                        "date": "19581231"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2913511",
+                                        "name": "GRUBB JR WILLARD T",
+                                        "date": "19591117"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2913511",
+                                        "kind": "A",
+                                        "name": "GRUBB JR WILLARD T",
+                                        "date": "19591117"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3113048",
+                                        "name": "THOMPSON CHARLES E",
+                                        "date": "19631203"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3113048",
+                                        "kind": "A",
+                                        "name": "THOMPSON CHARLES E",
+                                        "date": "19631203"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

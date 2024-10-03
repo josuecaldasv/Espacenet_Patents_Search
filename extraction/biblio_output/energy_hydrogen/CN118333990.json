@@ -1,0 +1,138 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118333990",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118333990",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06N   3/  0464            A I                    "
+                        },
+                        {
+                            "text": "G06N   3/    08            A I                    "
+                        },
+                        {
+                            "text": "G06T   7/    00            A I                    "
+                        },
+                        {
+                            "text": "G06V  10/   764            A I                    "
+                        },
+                        {
+                            "text": "G06V  10/    82            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410500044",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410500044",
+                            "date": "20240424"
+                        },
+                        {
+                            "doc-number": "202410500044.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410500044",
+                            "date": "20240424"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUNAN LONGSHEN HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "湖南隆深氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DING YANCHUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XI HAISHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG DI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU SHUANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁彦春, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "席海山, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王迪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐爽"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Finished product detection method and system based on continuous tunnel carbonization and graphitization equipment",
+                    "基于连续化隧道碳化石墨化设备的成品检测方法及其系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention is suitable for the technical field of product detection, and provides a finished product detection method and system based on continuous tunnel carbonization and graphitization equipment, and the method comprises the steps: firstly obtaining to-be-detected image information of a to-be-detected finished product, and then inputting the to-be-detected image information to a trained image detection model, the crack detection result information is objectively generated, and then the finished product processing quality detection information is automatically generated according to the crack detection result information. The method can reduce the subjectivity of manual detection, achieves the objective crack detection of the to-be-detected finished product, achieves the objective evaluation of the quality of the to-be-detected finished product, effectively improves the detection objectivity, and reduces the overall operation cost."
+                },
+                {
+                    "p": "本申请适用于产品检测的技术领域，提供了一种基于连续化隧道碳化石墨化设备的成品检测方法及其系统，其方法包括先获取待检测成品的待检测图像信息，然后将待检测图像信息输入至已训练的图像检测模型，客观地生成裂缝检测结果信息，再根据裂缝检测结果信息，自动地生成出成品加工质量检测信息。本申请能够减少人工检测的主观性，实现客观地对待检测成品进行裂缝检测，客观地评估待检测成品的成品质量，有效地提高检测的客观性，降低总体运营成本。"
+                }
+            ]
+        }
+    }
+}

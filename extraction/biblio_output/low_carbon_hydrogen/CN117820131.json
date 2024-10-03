@@ -1,0 +1,181 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117820131",
+                            "kind": "A",
+                            "date": "20240405"
+                        },
+                        {
+                            "doc-number": "CN117820131",
+                            "date": "20240405"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  31/    16            A I                    "
+                        },
+                        {
+                            "text": "B01J  31/    22            A I                    "
+                        },
+                        {
+                            "text": "C07C 209/    60            A I                    "
+                        },
+                        {
+                            "text": "C07C 211/    48            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "31",
+                            "subgroup": "1691",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "31",
+                            "subgroup": "2273",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "209",
+                            "subgroup": "60",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "2531",
+                            "subgroup": "827",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C209/60",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C211/48",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311792557",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311792557",
+                            "date": "20231224"
+                        },
+                        {
+                            "doc-number": "202311792557.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311792557",
+                            "date": "20231224"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV FUDAN"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "复旦大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TU TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QIAN CHUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "涂涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "钱春"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for preparing linear amine through selective hydroamine methylation of olefin",
+                    "一种烯烃选择性氢胺甲基化制备线性胺的方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of fine chemical engineering, and particularly relates to a method for preparing linear amine through olefin selective hydroamine methylation. According to the invention, olefin, amine, carbon monoxide or carbon dioxide and water are used as reaction raw materials, an N-heterocyclic carbene metal compound is used as a catalyst, pure water, ethers, alcohols or benzene analogues are used as a solvent, and reaction is carried out at 80-200 DEG C for 4-48 hours to obtain corresponding linear (L) amine and branched (B) amine products. Compared with the prior art, the method has the advantages that olefin and amine which are low in cost and easy to obtain can be used as starting materials, water is used as a hydrogen source, toxic phosphine-containing ligands and high-pressure hydrogen which are poor in stability are avoided, the reaction selectivity L/B value reaches up to 92/8, the yield of amine reaches 96%, operation is easy and convenient, different high-purity amine products can be obtained only through simple aftertreatment, and the method is suitable for industrial production. The method is suitable for industrial amplification and application."
+                },
+                {
+                    "p": "本发明属于精细化工技术领域，具体为一种烯烃选择性氢胺甲基化制备线性胺的方法。本发明以烯烃、胺、一氧化碳或二氧化碳和水为反应原料，以氮杂环卡宾金属化合物为催化剂，以纯水、醚类、醇类或苯的类似物为溶剂，在80至200℃下反应4至48小时，得到相应的线性(L)胺和支链(B)胺产物。与现有技术相比，本发明方法能够以廉价易得的烯烃和胺为起始原料，水作为氢源，避免使用有毒且稳定性较差的含膦配体以及高压氢气，反应选择性L/B值高达92/8，胺的产率达96％，操作简便，仅需简单的后处理可得到高纯度的不同胺产物，适合工业放大和应用。"
+                }
+            ]
+        }
+    }
+}

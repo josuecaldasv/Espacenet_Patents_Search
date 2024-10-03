@@ -1,0 +1,175 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118213575",
+                            "kind": "A",
+                            "date": "20240618"
+                        },
+                        {
+                            "doc-number": "CN118213575",
+                            "date": "20240618"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04701            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04791            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04828            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04701",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04723",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04798",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04828",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410432404",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410432404",
+                            "date": "20240411"
+                        },
+                        {
+                            "doc-number": "202410432404.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410432404",
+                            "date": "20240411"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING YIHUATONG HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京亿华通氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHAO XINGWANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FANG CHUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU BAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵兴旺, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘维, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "方川, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周宝"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Humidity regulation and control system and method for fuel cell power generation system",
+                    "一种燃料电池发电系统湿度调控系统及方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a humidity regulation and control system and method for a fuel cell power generation system. The system comprises a hydrogen inlet pipeline and a hydrogen outlet pipeline, the dew point controller is arranged in the hydrogen outlet pipeline, and the dew point controller and an external cold water supply device form a dew point control loop; the radiator is communicated with the galvanic pile main body, a water pump is arranged on a pipeline for connecting the radiator and the galvanic pile main body, and the water pump, the radiator and the galvanic pile main body form a galvanic pile cooling liquid control loop; and the dew point control loop is communicated with the electric pile cooling liquid control loop through a three-way valve. The dew point controller is additionally arranged in an existing fuel cell system, accurate control over the dew point of hydrogen backflow is achieved by accurately controlling heat interaction heat, cooling temperature and the like, accurate control over the hydrogen backflow ratio is further achieved, and the problem that decoupling control over humidity and hydrogen concentration in an existing system cannot be achieved is solved."
+                },
+                {
+                    "p": "本发明公开了一种燃料电池发电系统湿度调控系统及方法，该系统包括入氢管路以及出氢管路；露点控制器，设置于所述出氢管路中，且所述露点控制器与外部的冷水供给装置构成露点控制回路；散热器，所述散热器与所述电堆主体相连通，且在散热器与所述电堆主体连接的管路上设置有水泵，所述水泵与所述散热器以及所述电堆主体构成电堆冷却液控制回路；所述露点控制回路与所述电堆冷却液控制回路通过三通阀相连通。本发明通过在现有的燃料电池系统中增加露点控制器，通过精确控制热交互热量、冷却温度等，实现对氢气回流的露点的精确控制，进一步实现对氢气回流比的精确控制，解决了现有系统中湿度、氢气浓度无法解耦控制的问题。"
+                }
+            ]
+        }
+    }
+}

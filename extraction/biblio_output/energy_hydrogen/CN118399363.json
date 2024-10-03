@@ -1,0 +1,153 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118399363",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118399363",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   1/    10            A I                    "
+                        },
+                        {
+                            "text": "H02J   1/    14            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "70",
+                        "subgroup": "30",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410574493",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410574493",
+                            "date": "20240510"
+                        },
+                        {
+                            "doc-number": "202410574493.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410574493",
+                            "date": "20240510"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "JIANGSU INTELLI HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "江苏英特利氢能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG JIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN LIJUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHAN QILING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG CAIJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHENG QI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王坚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙利娟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "单棋凌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨才建, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "程器"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Wind and light storage aluminum energy management method based on common direct current bus",
+                    "一种基于公共直流母线的风光储制铝能量管理方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of new energy electrolytic aluminum, in particular to a wind and light storage aluminum energy management method based on a common direct current bus. The wind and light storage aluminum manufacturing system comprises a fan unit, an AC-DC converter, a photovoltaic array, a first DC-DC converter, a second DC-DC converter, energy storage equipment, a bidirectional DC-DC converter, an aluminum manufacturing electrolytic cell, a controller and an energy management system. The operation information of the fan unit, the photovoltaic array, the energy storage device, the aluminum manufacturing electrolytic cell and the direct current bus is transmitted to the energy management system through the communication device, the energy management system identifies the operation mode and then issues a control instruction to the controller, and power control over all the devices is completed. The power output of wind energy and solar energy is matched with the power demand of electrolytic aluminum production, so that renewable energy sources are utilized to the greatest extent, and the energy waste is reduced."
+                },
+                {
+                    "p": "本发明涉及新能源电解铝技术领域，尤其涉及一种基于公共直流母线的风光储制铝能量管理方法，包括风光储制铝系统，所述风光储制铝系统包括风机机组、AC‑DC变换器、光伏阵列、第一DC‑DC变换器、第二DC‑DC变换器、储能设备、双向DC‑DC变换器、制铝电解槽、控制器、能量管理系统；风机机组、光伏阵列、储能设备、制铝电解槽、直流母线的运行信息通过通讯设备传输至能量管理系统，能量管理系统识别运行模式后向控制器下达控制指令，完成对各设备的功率控制，本发明通过动态调节储能设备和制铝电解槽的功率消耗，将风能和太阳能的电力产出与电解铝生产的电力需求相匹配，从而最大程度地利用可再生能源，减少能源浪费。"
+                }
+            ]
+        }
+    }
+}

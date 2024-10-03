@@ -1,0 +1,201 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118336743",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118336743",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    14            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    24            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410439467",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410439467",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "202410439467.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410439467",
+                            "date": "20240412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUANENG ZHANGYE ENERGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " HUANENG CLEAN ENERGY RES INSTITUTE"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华能张掖能源有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国华能集团清洁能源技术研究院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TANG RUIYUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HOU XINGDONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG BO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN HONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG ZHENXING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIE XINHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG CHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JINYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "唐瑞运, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "侯兴东, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王博, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈宏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王振兴, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "解新华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张畅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王金意, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王韬"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Dynamic regulation control method and device for water electrolysis hydrogen production system",
+                    "电解水制氢系统的动态调节控制方法及其装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a dynamic regulation control method and device for a water electrolysis hydrogen production system, and relates to the technical field of power grid technology and process control. The method comprises the following steps: receiving a regulation and control instruction sent by a power grid dispatching center, wherein the regulation and control instruction is a peak regulation instruction or a frequency modulation instruction; adjusting limiting conditions of the water electrolysis hydrogen production system at the current moment are obtained, and whether the water electrolysis hydrogen production system can meet the adjusting and controlling requirement or not is judged in combination with the adjusting and controlling instruction; if the regulation and control requirements are met, a net revenue function corresponding to the water electrolysis hydrogen production system is obtained; optimization calculation is carried out on regulation and control related parameters corresponding to the water electrolysis hydrogen production system based on the net revenue function, and regulation and control related parameter regulation values corresponding to the water electrolysis hydrogen production system under the condition that the net revenue function value is maximum are obtained; and the water electrolysis hydrogen production system is dynamically adjusted based on the regulation and control related parameter regulation values. According to the method, guarantee is provided for process safety, the process parameters are determined according to the lowest cost principle by evaluating the dynamic process cost, and revenue maximization is achieved."
+                },
+                {
+                    "p": "本申请提出了一种电解水制氢系统的动态调节控制方法及其装置，涉及电网技术、工艺控制技术领域。本申请通过接收来自电网调度中心发出的调控指令，调控指令为调峰指令或调频指令；获取电解水制氢系统当前时刻的调节限制条件，并结合调控指令，判断电解水制氢系统是否能够满足调控需求；若满足调控需求，获取电解水制氢系统对应的净收益函数；基于净收益函数对电解水制氢系统对应的调控相关参数寻优计算，获取在净收益函数值最大的情况下电解水制氢系统对应的调控相关参数调节值；基于调控相关参数调节值对电解水制氢系统进行动态调节。本申请为过程安全性提供保障，并且通过评价动态过程成本，按照成本最低原则确定过程参数，实现收益最大化。"
+                }
+            ]
+        }
+    }
+}

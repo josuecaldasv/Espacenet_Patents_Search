@@ -1,0 +1,315 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118173829",
+                            "kind": "A",
+                            "date": "20240611"
+                        },
+                        {
+                            "doc-number": "CN118173829",
+                            "date": "20240611"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04007            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04029            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04044            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04029",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04044",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04067",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04753",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04768",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410594516",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410594516",
+                            "date": "20240514"
+                        },
+                        {
+                            "doc-number": "202410594516.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410594516",
+                            "date": "20240514"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HYDROGEN HYDROGEN POWER BEIJING HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "氢质氢离（北京）氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHAO PENGXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ZHIWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "晁鹏翔, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李志伟"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Thermal management system for hydrogen fuel cell",
+                    "一种氢燃料电池用热管理系统"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "KR20170118415",
+                                        "name": "HYUNDAI MOTOR CO LTD [KR]",
+                                        "date": "20171025"
+                                    },
+                                    {
+                                        "country": "KR",
+                                        "doc-number": "20170118415",
+                                        "kind": "A",
+                                        "name": "HYUNDAI MOTOR CO LTD [KR]",
+                                        "date": "20171025"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114792824",
+                                        "name": "SHANGHAI EVERPOWER TECH LTD",
+                                        "date": "20220726"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114792824",
+                                        "kind": "A",
+                                        "name": "SHANGHAI EVERPOWER TECH LTD",
+                                        "date": "20220726"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115395050",
+                                        "name": "SHENZHEN HYNOVATION POWER TECH CO LTD",
+                                        "date": "20221125"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115395050",
+                                        "kind": "A",
+                                        "name": "SHENZHEN HYNOVATION POWER TECH CO LTD",
+                                        "date": "20221125"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116039457",
+                                        "name": "CHONGQING CHANG AN NEW ENERGY AUTOMOBILE TECH CO LTD",
+                                        "date": "20230502"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116039457",
+                                        "kind": "A",
+                                        "name": "CHONGQING CHANG AN NEW ENERGY AUTOMOBILE TECH CO LTD",
+                                        "date": "20230502"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "KR20230090026",
+                                        "name": "LG ELECTRONICS INC [KR]",
+                                        "date": "20230621"
+                                    },
+                                    {
+                                        "country": "KR",
+                                        "doc-number": "20230090026",
+                                        "kind": "A",
+                                        "name": "LG ELECTRONICS INC [KR]",
+                                        "date": "20230621"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117832539",
+                                        "name": "HAIZHUO POWER QINGDAO ENERGY TECH CO LTD",
+                                        "date": "20240405"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117832539",
+                                        "kind": "A",
+                                        "name": "HAIZHUO POWER QINGDAO ENERGY TECH CO LTD",
+                                        "date": "20240405"
+                                    }
+                                ]
+                            },
+                            "category": "AY"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN220934129U",
+                                        "name": "SHANGHAI SHENLI HIGH TECH CO LTD",
+                                        "date": "20240510"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "220934129",
+                                        "kind": "U",
+                                        "name": "SHANGHAI SHENLI HIGH TECH CO LTD",
+                                        "date": "20240510"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the field of fuel cells, in particular to a thermal management system for a hydrogen fuel cell. The system comprises a cooling liquid flow distribution module, a radiator, a water filter, a PTC heater, a temperature sensor, a pressure sensor, an electric pile, an intercooler, a hydrogen preheater, a switch valve a, a deionizer, a switch valve b, a water pump and an FCU controller, the temperature sensor and the pressure sensor are in communication connection with the FCU controller, and the FCU controller is in control connection with the cooling liquid flow distribution module. The water pump is arranged at the outlet of the galvanic pile, the galvanic pile, the intercooler and the hydrogen preheater are connected in parallel, and the hydrogen preheater, the switch valve a, the deionizer and the switch valve b are sequentially connected in series. The temperature of hydrogen entering the pile, air entering the pile and cooling liquid entering the pile can be accurately controlled, the water pump is arranged at the outlet of the pile to reduce the pressure difference between the water cavity and the hydrogen cavity, the switch valves are installed in front of and behind the deionizer respectively, the two switch valves are closed when the deionizer is replaced, and waste of the cooling liquid cannot be caused."
+                },
+                {
+                    "p": "本发明涉及燃料电池领域，具体为一种氢燃料电池用热管理系统。其包括冷却液流量分配模块、散热器、水过滤器、PTC加热器、温度传感器、压力传感器、电堆、中冷器、氢气预热器、开关阀a、去离子器、开关阀b、水泵和FCU控制器，温度传感器和压力传感器均与FCU控制器通讯连接，FCU控制器与冷却液流量分配模块控制连接，水泵设置在电堆出口，电堆、中冷器和氢气预热器并联，氢气预热器、开关阀a、去离子器和开关阀b依次串联。本发明能精准控制氢气进堆、空气进堆和冷却液进堆的温度，在电堆出口布置水泵以降低水腔和氢腔压差，在去离子器前后各安装一个开关阀，更换去离子器时关闭两个开关阀，不会造成冷却液浪费。"
+                }
+            ]
+        }
+    }
+}

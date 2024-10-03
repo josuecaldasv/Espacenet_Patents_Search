@@ -1,0 +1,81 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "ZA",
+                            "doc-number": "202400058",
+                            "kind": "B",
+                            "date": "20240731"
+                        },
+                        {
+                            "doc-number": "ZA202400058",
+                            "date": "20240731"
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "ZA",
+                            "doc-number": "202400058",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "ZA20240000058",
+                            "date": "20240102"
+                        },
+                        {
+                            "doc-number": "2024/00058"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "ZA20240000058",
+                            "date": "20240102"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV JIAMUSI [CN]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "Jiamusi University"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JIA MA [CN]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "Jia MA"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "A POWER SUPPLY SYSTEM AND CONTROL METHOD FOR A SHIP"
+            },
+            "abstract": {
+                "p": "The present invention provides a power supply system and control method for a ship, which relates to the technology field of power distribution. The ship power supply system includes a generator and a lithium battery pack, and the ship power system includes at least one group of thrusters, each group of thrusters is connected to the DC grid through an inverter; at least one group of fuel cell power generation module, the fuel cell power generation modules is electrically connected with the DC grid. The method includes incorporating the lithium battery pack into the DC grid; incorporating the fuel cell power generation module into the DC grid; determining whether or not the fuel cell power generation module is faulty, and if so, the generator is started to supply power. The present invention provides a power supply system and control method for a ship. Through the matching of various power sources, the DC grid can provide electric energy to the ship power system, which is helpful in solving the technical problem of the lack of a ship hybrid power system in the existing technology and the use of hydrogen energy to realize the power supply of the ship power system."
+            }
+        }
+    }
+}

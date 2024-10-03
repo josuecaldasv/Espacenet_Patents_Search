@@ -1,0 +1,135 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118397079",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118397079",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B05C  11/    10            A I                    "
+                        },
+                        {
+                            "text": "D21H  23/    34            A I                    "
+                        },
+                        {
+                            "text": "G01B  11/    00            A I                    "
+                        },
+                        {
+                            "text": "G06T   7/    70            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410367879",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410367879",
+                            "date": "20240328"
+                        },
+                        {
+                            "doc-number": "202410367879.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410367879",
+                            "date": "20240328"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUNAN LONGSHEN HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "湖南隆深氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU JIAHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAI PEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG DI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHU WEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘家辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蔡沛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王迪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "朱雯"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Intelligent calibration method and system based on coil material coating production line, terminal and medium",
+                    "基于卷料涂布生产线的智能校准方法、系统、终端及介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention is suitable for the technical field of coating production, and provides an intelligent calibration method and system based on a coil material coating production line, a terminal and a medium, and the method comprises the steps: firstly obtaining horizontal plane real-time image information, horizontal plane reference image information, vertical plane real-time image information and vertical plane reference image information of a target air scraper; then comprehensive deviation value information of the target air scraper is comprehensively generated according to the horizontal plane real-time image information, the horizontal plane reference image information, the vertical plane real-time image information and the vertical plane reference image information, and calibration detection result information is finally generated according to the comprehensive deviation value information and allowable deviation threshold value information. According to the application, a supervisor can timely know whether the restored position of the target air scraper deviates from the original position or not and whether the position of the target air scraper needs to be corrected again or not, so that the restored position of the target air scraper is located at the original position, and the accuracy of the restored position is improved."
+                },
+                {
+                    "p": "本申请适用于涂布生产的技术领域，提供了一种基于卷料涂布生产线的智能校准方法、系统、终端及介质，其方法包括先获取目标空气刮板的水平面实时图像信息、水平面基准图像信息、垂直面实时图像信息和垂直面基准图像信息，然后根据水平面实时图像信息、水平面基准图像信息、垂直面实时图像信息和垂直面基准图像信息，综合生成目标空气刮板的综合偏移值信息，再根据综合偏移值信息和允许偏移界限值信息，最终生成校准检测结果信息。本申请能够使监管人员能够及时得知目标空气刮板复原后的位置是否偏离原定位置以及是否需要再次修正目标空气刮板的位置，确保目标空气刮板复原后的位置是位于原定位置的，有利于提高复原位置的准确性。"
+                }
+            ]
+        }
+    }
+}

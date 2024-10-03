@@ -1,0 +1,548 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116332577",
+                            "kind": "A",
+                            "date": "20230627"
+                        },
+                        {
+                            "doc-number": "CN116332577",
+                            "date": "20230627"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C04B  18/    16            A I                    "
+                        },
+                        {
+                            "text": "C04B  28/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "18",
+                            "subgroup": "16",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "28",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "2111",
+                            "subgroup": "00017",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "2201",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "W",
+                            "main-group": "30",
+                            "subgroup": "91",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B28/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B18/16",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "3",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B18/12",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "4",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B18/142",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "5",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B22/142",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "6",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B24/2652",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "7",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B16/0641",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "8",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B22/0006",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B28/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B18/16",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "3",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B18/12",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "4",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B18/142",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "5",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B22/142",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "6",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B24/2652",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "7",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B16/0641",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "8",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B22/066",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310276924",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310276924",
+                            "date": "20230321"
+                        },
+                        {
+                            "doc-number": "202310276924.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310276924",
+                            "date": "20230321"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA RAILWAY FIRST SURVEY & DESIGN INST GROUP LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中铁第一勘察设计院集团有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CAO WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FU TIEJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG GANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " OUYANG TIANFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KANG HOUJIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SU FAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO CHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG XINYUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LYU LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAO DENGLIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU SHOUQUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU FUSI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIANG XU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI TAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU ZHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG HONGBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曹伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "付铁军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨罡, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "欧阳天烽, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "康后金, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苏帆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵峻, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高潮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王新月, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吕磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曹登琳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘首全, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "禹富偲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "相旭, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李谈, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "喻忠, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王洪波"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Multi-scene green low-carbon curing material as well as preparation method and application thereof",
+                    "多场景绿色低碳固化材料及其制备方法与应用"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2021189886",
+                                        "name": "CHINA CONSTRUCTION FIFTH ENG DIVISION CO LTD [CN]",
+                                        "date": "20210930"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2021189886",
+                                        "kind": "A1",
+                                        "name": "CHINA CONSTRUCTION FIFTH ENG DIVISION CO LTD [CN]",
+                                        "date": "20210930"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* 说明书第1-3页 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115490497",
+                                        "name": "UNIV SOUTHEAST                                                                                      ",
+                                        "date": "20221220"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115490497",
+                                        "kind": "A",
+                                        "name": "UNIV SOUTHEAST                                                                                      ",
+                                        "date": "20221220"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* 说明书第0001-0044段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115650690",
+                                        "name": "UNIV NANJING SCIENCE & TECH                                                                         ",
+                                        "date": "20230131"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115650690",
+                                        "kind": "A",
+                                        "name": "UNIV NANJING SCIENCE & TECH                                                                         ",
+                                        "date": "20230131"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* 说明书第0001-0012、0036-0040段 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 李全林主编, 材料制备与性能测试实验, 东南大学出版社, vol. 1, pages 588 - 589"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a multi-scene green low-carbon curing material as well as a preparation method and application thereof. The problems of insufficient water stability, easy water loss and cracking, application scene limitation and the like exist in shield muck resource utilization. The material comprises shield muck, a gelling component, an alkali-activated component, an early-strength component and a water-retention healing component, and can be used as a vertical barrier material, a bottom liner material, a top covering material, a road roadbed material, a foundation reinforcement material, a backfill material, a soil body improvement material and the like of a polluted site. In the material, a gelling component contains active silicon and aluminum elements, and is subjected to a pozzolanic reaction through alkali excitation to form a gel product, such as hydrated calcium silicate, so that material pores are filled, and the strength, seepage-proofing performance and gas-barrier performance of the material are improved; polyacrylamide and an inorganic material are combined through a hydrogen bond and Van der Waals force to form insoluble hydrogel, and the insoluble hydrogel is used for retaining water and adsorbing pollutants in the shield muck; and the polyvinyl alcohol fibers effectively improve the interface bonding force inside the material, so that the material has toughness and anti-cracking capability."
+                },
+                {
+                    "p": "本发明涉及一种多场景绿色低碳固化材料及其制备方法与应用。盾构渣土资源化利用存在水稳性能不足、易失水开裂、应用场景限制等问题。本材料包括盾构渣土、胶凝组分、碱激发组分、早强组分、保水愈合组分，可作为污染场地竖向阻隔材料、底部衬垫材料、顶部覆盖材料、道路路基材料、地基加固材料、回填材料、土体改良材料等。本材料中，胶凝组分含有活性硅、铝元素，经过碱激发发生火山灰反应形成凝胶产物水化硅酸钙等，填补材料孔隙，提升材料强度、防渗和阻气性能；聚丙烯酰胺与无机材料通过氢键、范德华力方式结合形成不溶性水凝胶，保水并吸附盾构渣土中污染物；聚乙烯醇纤维有效提升材料内部的界面粘结力，使材料具备韧性和抗开裂能力。"
+                }
+            ]
+        }
+    }
+}

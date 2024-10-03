@@ -1,0 +1,188 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118336023",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118336023",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04082            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04119            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04228            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04303            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04313            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0438            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04828            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410453375",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410453375",
+                            "date": "20240416"
+                        },
+                        {
+                            "doc-number": "202410453375.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410453375",
+                            "date": "20240416"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHENYANG AEROSPACE MITSUBISHI MOTORS ENGINE MFG CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "沈阳航天三菱汽车发动机制造有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU SHAOPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI DONGYE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO SONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN CHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU JING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " NING WENXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIN YINGBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘少鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李冬野, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高松, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈晨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘京, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宁文新, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "金英博"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen fuel cell air supply system with waste gas energy recovery structure",
+                    "一种带有废气能量回收结构的氢燃料电池空气供应系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of automobiles, in particular to a hydrogen fuel cell air supply system with an exhaust gas energy recovery structure. An air flow meter is connected with an expansion machine through an air flow meter connector pipe; an outlet of the expansion machine is connected with an inlet of the air intercooler through an outlet pipe of the expansion machine; an outlet of the air intercooler is connected with an inlet of the air humidifier through an intercooler outlet connector. The air main path throttle valve is mounted at an outlet in the right side of the air humidifier; and the bypass throttle valve is mounted at an outlet in the left side of the air humidifier through a bypass throttle valve adapter. The power consumption of the system can be reduced by performing kinetic energy recovery on reacted air through the expansion machine; a liquid level sensor is arranged above the air-water separator, so that the water level in the device can be accurately controlled to meet the design requirement, then water in the device is discharged, a tail discharge backpressure throttle valve is arranged to control the flow of discharged air after reaction, and further the air pressure in the stack is controlled to ensure the air quantity during the stack reaction."
+                },
+                {
+                    "p": "本发明涉及汽车技术领域，具体涉及一种带有废气能量回收结构的氢燃料电池空气供应系统，所述空气流量计与膨胀机通过空气流量计接头管连接；所述膨胀机出口与空气中冷器入口通过膨胀机出口管连接；所述空气中冷器出口与空气增湿器进口通过中冷器出口接头连接；所述空气主路节气门安装至空气增湿器右侧出口处；所述旁通路节气门通过旁通节气门转接安装至空气增湿器左侧出口处。本发明可通过膨胀机对反应完空气进行动能回收来降低系统功耗；通过空气气水分离器上方设置液位传感器，可精准控制装置内水位达到设计要求后再将其中水分排出设置尾排背压节气门控制反应后排出空气流量，进而控制电堆内部空气压力来保证电堆反应时空气量。"
+                }
+            ]
+        }
+    }
+}

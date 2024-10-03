@@ -1,0 +1,422 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116622237",
+                            "kind": "A",
+                            "date": "20230822"
+                        },
+                        {
+                            "doc-number": "CN116622237",
+                            "date": "20230822"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C08K   3/    22            A I                    "
+                        },
+                        {
+                            "text": "C08K   7/    26            A I                    "
+                        },
+                        {
+                            "text": "C08L  83/    04            A I                    "
+                        },
+                        {
+                            "text": "C08L  83/    05            A I                    "
+                        },
+                        {
+                            "text": "C08L  83/    07            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "83",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "2003",
+                            "subgroup": "2241",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "2201",
+                            "subgroup": "011",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "2201",
+                            "subgroup": "08",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "2203",
+                            "subgroup": "206",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08L83/04",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08L83/04%2",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "3",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08K7/26",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "4",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08K3/22",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310604968",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310604968",
+                            "date": "20230526"
+                        },
+                        {
+                            "doc-number": "202310604968.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310604968",
+                            "date": "20230526"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GUANGDONG POWER GRID CO"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " HUIZHOU POWER SUPPLY BUREAU GUANGDONG POWER GRID CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "广东电网有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "广东电网有限责任公司惠州供电局"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHU RUIFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO ZHENFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO YAOHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN ZHENGRONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI QIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG ZERONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO SHISEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN DIFEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LYU WANGYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG WANQING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHONG ZHENXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZENG XIAOHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG RONGHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAO YANXUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YOU YAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU YI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIN ANQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN ZIJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ZIRAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO XUWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU XINWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "朱锐锋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭振锋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵耀洪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘源, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈峥嵘, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李谦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄泽荣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高士森, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙迪飞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吕旺燕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨万青, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "钟振鑫, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曾晓辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄容辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "姚彦学, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "尤垚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡怡, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "林岸奇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈子健, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黎子然, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭旭为, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘新伟"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Self-healing protective silica gel with ultraviolet shielding function as well as preparation method and application of self-healing protective silica gel",
+                    "一种具有紫外屏蔽功能的自愈合保护硅胶及其制备方法和应用"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides self-healing protective silica gel with an ultraviolet shielding function and a preparation method and application thereof.The self-healing protective silica gel comprises a component A and a component B. The component A comprises vinyl silicone oil, white carbon black and nano titanium dioxide in specific parts; the component B comprises specific parts of dimethyl silicone oil, hydrogen-containing silicone oil and a platinum catalyst; the self-healing protective silica gel has excellent self-healing property, heat resistance and sealing property, and can effectively protect the electric power compounded grease by coating the electric power compounded grease at the joint position of the electric power equipment, so that the electric power compounded grease is prevented from losing efficacy due to the influence of the external environment, and the self-healing protective silica gel is very suitable for being used at the joint position of the electric power equipment in hot and humid areas such as the south; and the preparation process of the self-healing protective silica gel is relatively simple, relatively low in cost and suitable for industrial batch production."
+                },
+                {
+                    "p": "本发明提供一种具有紫外屏蔽功能的自愈合保护硅胶及其制备方法和应用，所述自愈合保护硅胶包括A组分和B组分，所述A组分包括特定份数的乙烯基硅油、白炭黑和纳米二氧化钛，所述B组分包括特定份数的二甲基硅油、含氢硅油和铂金催化剂；所述自愈合保护硅胶具有优异的自愈合性、耐热性和密封性，将其包覆在电力设备接头位置的电力复合脂外可以对电力复合脂进行有效保护，防止其受到外界环境影响而失效，进而十分适合在南方等湿热地区的电力设备连接头位置使用；且所述自愈合保护硅胶的制备工艺较为简单、成本相对低廉，适合工业批量化生产。"
+                }
+            ]
+        }
+    }
+}

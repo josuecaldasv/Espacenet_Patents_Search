@@ -1,0 +1,512 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "114990600",
+                            "kind": "A",
+                            "date": "20220902"
+                        },
+                        {
+                            "doc-number": "CN114990600",
+                            "date": "20220902"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    70            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "65",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "70",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "133",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202210467711",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202210467711",
+                            "date": "20220429"
+                        },
+                        {
+                            "doc-number": "202210467711.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202210467711",
+                            "date": "20220429"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUNSHINE HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "阳光氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI JIANGSONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN LONGLIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BAI YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN ZHIQUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李江松, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙龙林, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "柏杨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈志权"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "New energy hydrogen production system and control method thereof",
+                    "一种新能源制氢系统及其控制方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2007031813",
+                                        "name": "HONDA MOTOR CO LTD",
+                                        "date": "20070208"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2007031813",
+                                        "kind": "A",
+                                        "name": "HONDA MOTOR CO LTD",
+                                        "date": "20070208"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2007142693",
+                                        "name": "GM GLOBAL TECH OPERATIONS INC [US]",
+                                        "date": "20071213"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2007142693",
+                                        "kind": "A2",
+                                        "name": "GM GLOBAL TECH OPERATIONS INC [US]",
+                                        "date": "20071213"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101565832",
+                                        "name": "UNIV TSINGHUA [CN]",
+                                        "date": "20091028"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101565832",
+                                        "kind": "A",
+                                        "name": "UNIV TSINGHUA [CN]",
+                                        "date": "20091028"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2017037849",
+                                        "name": "TOSHIBA KK [JP]",
+                                        "date": "20170309"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2017037849",
+                                        "kind": "A1",
+                                        "name": "TOSHIBA KK [JP]",
+                                        "date": "20170309"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "KR101816839B",
+                                        "name": "KWON OH JUNG [KR]",
+                                        "date": "20180109"
+                                    },
+                                    {
+                                        "country": "KR",
+                                        "doc-number": "101816839",
+                                        "kind": "B1",
+                                        "name": "KWON OH JUNG [KR]",
+                                        "date": "20180109"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2018193573",
+                                        "name": "TOSHIBA CORP",
+                                        "date": "20181206"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2018193573",
+                                        "kind": "A",
+                                        "name": "TOSHIBA CORP",
+                                        "date": "20181206"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2019173082",
+                                        "name": "TOHO GAS KK",
+                                        "date": "20191010"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2019173082",
+                                        "kind": "A",
+                                        "name": "TOHO GAS KK",
+                                        "date": "20191010"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112217227",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD",
+                                        "date": "20210112"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112217227",
+                                        "kind": "A",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD",
+                                        "date": "20210112"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112290581",
+                                        "name": "HEFEI SUNGROW NEW ENERGY TECH CO LTD",
+                                        "date": "20210129"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112290581",
+                                        "kind": "A",
+                                        "name": "HEFEI SUNGROW NEW ENERGY TECH CO LTD",
+                                        "date": "20210129"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112751354",
+                                        "name": "HEFEI SUNGROW NEW ENERGY TECH CO LTD",
+                                        "date": "20210504"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112751354",
+                                        "kind": "A",
+                                        "name": "HEFEI SUNGROW NEW ENERGY TECH CO LTD",
+                                        "date": "20210504"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112899725",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD",
+                                        "date": "20210604"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112899725",
+                                        "kind": "A",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD",
+                                        "date": "20210604"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112981437",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD",
+                                        "date": "20210618"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112981437",
+                                        "kind": "A",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD",
+                                        "date": "20210618"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113235121",
+                                        "name": "BAOWU CLEAN ENERGY CO LTD, et al",
+                                        "date": "20210810"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113235121",
+                                        "kind": "A",
+                                        "name": "BAOWU CLEAN ENERGY CO LTD, et al",
+                                        "date": "20210810"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113279002",
+                                        "name": "GLOBAL ENERGY INTERCONNECTION RES INST CO LTD, et al",
+                                        "date": "20210820"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113279002",
+                                        "kind": "A",
+                                        "name": "GLOBAL ENERGY INTERCONNECTION RES INST CO LTD, et al",
+                                        "date": "20210820"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113293396",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD",
+                                        "date": "20210824"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113293396",
+                                        "kind": "A",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD",
+                                        "date": "20210824"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113862691",
+                                        "name": "HEBEI CONSTRUCTION INVEST NEW ENERGY CO LTD, et al",
+                                        "date": "20211231"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113862691",
+                                        "kind": "A",
+                                        "name": "HEBEI CONSTRUCTION INVEST NEW ENERGY CO LTD, et al",
+                                        "date": "20211231"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114086204",
+                                        "name": "SICHUAN ENERGY INT RES INST TSINGHUA UNIV",
+                                        "date": "20220225"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114086204",
+                                        "kind": "A",
+                                        "name": "SICHUAN ENERGY INT RES INST TSINGHUA UNIV",
+                                        "date": "20220225"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a new energy hydrogen production system and a control method thereof, in the new energy hydrogen production system, a new energy input module supplies power to each electrolytic bath through a power conversion module; moreover, the control system is used for controlling the power conversion module to work according to the power of the new energy input module, so that at least (N-1) electrolytic baths in the N electrolytic baths in the running state work in a preset load interval; the preset load interval is the load interval corresponding to the highest system efficiency in the electrolytic cell working interval division result pre-stored in the control system, namely, more electrolytic cells can respectively work in the preset load interval with the highest system efficiency as much as possible, so that the system efficiency is improved, and the system efficiency is optimal as much as possible."
+                },
+                {
+                    "p": "本申请提供一种新能源制氢系统及其控制方法，该新能源制氢系统中，新能源输入模块通过功率变换模块，为各电解槽供电；而且，其控制系统用于根据该新能源输入模块的功率，控制该功率变换模块工作，使处于运行状态下的N个电解槽中，至少N‑1个电解槽工作于预设带载区间；由于该预设带载区间为控制系统中预存的电解槽工作区间划分结果中对应系统效率最高的带载区间，也即本申请能够尽量使更多的电解槽分别工作于系统效率最高的预设带载区间，进而提高了系统效率，尽量使其达到最优。"
+                }
+            ]
+        }
+    }
+}

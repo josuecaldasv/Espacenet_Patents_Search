@@ -1,0 +1,224 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117603030",
+                            "kind": "A",
+                            "date": "20240227"
+                        },
+                        {
+                            "doc-number": "CN117603030",
+                            "date": "20240227"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  31/    02            A I                    "
+                        },
+                        {
+                            "text": "B01J  31/    26            A I                    "
+                        },
+                        {
+                            "text": "B01J  31/    30            A I                    "
+                        },
+                        {
+                            "text": "C07C  45/    62            A I                    "
+                        },
+                        {
+                            "text": "C07C  47/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "31",
+                            "subgroup": "0274",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "31",
+                            "subgroup": "0275",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "31",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "31",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "45",
+                            "subgroup": "62",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "2231",
+                            "subgroup": "645",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C45/62",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C47/02",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311468039",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311468039",
+                            "date": "20231107"
+                        },
+                        {
+                            "doc-number": "202311468039.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311468039",
+                            "date": "20231107"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "INST APPLIED CHEMISTRY JIANGXI ACADEMY SCIENCES"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "江西省科学院应用化学研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XU CHANGJIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI LING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU DONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YOU SHENGYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐长江, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李玲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘栋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "游胜勇"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fatty aldehyde transfer hydrogenation reduction method",
+                    "一种脂肪醛转移氢化还原方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a fatty aldehyde transfer hydrogenation reduction method, which relates to the technical field of fine organic chemical industry, and comprises the following steps: S1, sequentially adding alpha, beta-unsaturated aldehyde, an inert solvent, a catalyst and a hydrogen source into a high-pressure reaction container provided with a reflux condensation device, carrying out microwave-assisted treatment, and carrying out reduced pressure distillation to obtain alpha, beta-unsaturated aldehyde; carrying out transfer hydrogenation reduction reaction at a certain temperature; s2, after the reaction is completed, cooling to room temperature, filtering to remove the catalyst, and carrying out rotary evaporation to remove the inert solvent and other low-boiling-point substances; the catalyst comprises an active component and an auxiliary component, the active component is a surface organic ion salt modified palladium carbon catalyst, the auxiliary component is a nano rare earth oxide, and the mass ratio of the active component to the auxiliary component is (5-8): 1. The method is high in conversion rate, selectivity and yield."
+                },
+                {
+                    "p": "本发明公开了一种脂肪醛转移氢化还原方法，涉及精细有机化工技术领域，包括如下步骤：步骤S1、在配置有冷凝回流装置的高压反应容器中依次加入α,β‑不饱和醛、惰性溶剂、催化剂和氢源，微波辅助处理后，在一定温度下进行转移氢化还原反应；步骤S2、反应完全后，冷却至室温，过滤除去催化剂，旋蒸除去惰性溶剂和其它低沸点物质；所述催化剂包括活性成分和辅助成分，所述活性成分为表面有机离子盐改性钯碳催化剂，辅助成分为纳米稀土氧化物，所述活性成分与辅助成分的质量比为(5‑8):1。该方法转化率、选择性和产率高。"
+                }
+            ]
+        }
+    }
+}

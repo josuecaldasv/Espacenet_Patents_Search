@@ -1,0 +1,689 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2006054740",
+                            "kind": "A1",
+                            "date": "20060316"
+                        },
+                        {
+                            "doc-number": "US2006054740",
+                            "date": "20060316"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B64D  41/    00            A I                    "
+                        },
+                        {
+                            "text": "B64D  10/    00            A I                    "
+                        },
+                        {
+                            "text": "B64D  11/    00            A I                    "
+                        },
+                        {
+                            "text": "B64D  11/    02            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/    00            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/    02            A I                    "
+                        },
+                        {
+                            "text": "C02F   1/    04            A N                    "
+                        },
+                        {
+                            "text": "C02F   1/   461            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "64",
+                            "subclass": "D",
+                            "main-group": "10",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "64",
+                            "subclass": "D",
+                            "main-group": "10",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "64",
+                            "subclass": "D",
+                            "main-group": "11",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "64",
+                            "subclass": "D",
+                            "main-group": "11",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "64",
+                            "subclass": "D",
+                            "main-group": "41",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "64",
+                            "subclass": "D",
+                            "main-group": "41",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "64",
+                            "subclass": "D",
+                            "main-group": "41",
+                            "subgroup": "007",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "64",
+                            "subclass": "D",
+                            "main-group": "41",
+                            "subgroup": "007",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "64",
+                            "subclass": "D",
+                            "main-group": "2041",
+                            "subgroup": "005",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "64",
+                            "subclass": "D",
+                            "main-group": "2041",
+                            "subgroup": "005",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "1",
+                            "subgroup": "461",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "1",
+                            "subgroup": "461",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "2103",
+                            "subgroup": "002",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "2103",
+                            "subgroup": "002",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "2201",
+                            "subgroup": "009",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "2201",
+                            "subgroup": "009",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "2250",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "2250",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "A",
+                            "main-group": "20",
+                            "subgroup": "212",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "A",
+                            "main-group": "20",
+                            "subgroup": "212",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "T",
+                            "main-group": "90",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "T",
+                            "main-group": "90",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "244/58"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "244/118.5"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "429/413"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "13723105",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US20050137231",
+                            "date": "20050525"
+                        },
+                        {
+                            "doc-number": "11137231"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": {
+                                "doc-number": "US20050137231",
+                                "date": "20050525"
+                            }
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "DE20041026226",
+                                    "date": "20040528"
+                                },
+                                {
+                                    "doc-number": "10 2004 026 226.8"
+                                },
+                                {
+                                    "doc-number": "10 2004 026 226"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20040598456P",
+                                    "date": "20040803"
+                                },
+                                {
+                                    "doc-number": "60598456"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "AIRBUS GMBH [DE]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "AIRBUS DEUTSCHLAND GMBH"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HOFFJANN CLAUS [DE]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SCHULDZIG HANS-GEORG [DE]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GRUENDEL HARALD [DE]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HEINRICH HANS-JUERGEN [DE]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "HOFFJANN CLAUS, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "SCHULDZIG HANS-GEORG, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "GRUENDEL HARALD, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "HEINRICH HANS-JUERGEN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Aircraft having integrated electrochemical supply system",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5705051",
+                                        "name": "COIN RICHARD J [US], et al",
+                                        "date": "19980106"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5705051",
+                                        "kind": "A",
+                                        "name": "COIN RICHARD J [US], et al",
+                                        "date": "19980106"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4314984",
+                                        "name": "FROSCH ROBERT A ADMINISTRATOR, et al",
+                                        "date": "19820209"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4314984",
+                                        "kind": "A",
+                                        "name": "FROSCH ROBERT A ADMINISTRATOR, et al",
+                                        "date": "19820209"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2004043276",
+                                        "name": "HOFFJANN CLAUS [DE], et al",
+                                        "date": "20040304"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2004043276",
+                                        "kind": "A1",
+                                        "name": "HOFFJANN CLAUS [DE], et al",
+                                        "date": "20040304"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2004058230",
+                                        "name": "HSU MICHAEL S [US]",
+                                        "date": "20040325"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2004058230",
+                                        "kind": "A1",
+                                        "name": "HSU MICHAEL S [US]",
+                                        "date": "20040325"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4445990",
+                                        "name": "KIM BANG M [US], et al",
+                                        "date": "19840501"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4445990",
+                                        "kind": "A",
+                                        "name": "KIM BANG M [US], et al",
+                                        "date": "19840501"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5207877",
+                                        "name": "WEINBERG NORMAN L [US], et al",
+                                        "date": "19930504"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5207877",
+                                        "kind": "A",
+                                        "name": "WEINBERG NORMAN L [US], et al",
+                                        "date": "19930504"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2002058175",
+                                        "name": "RUHL ROBERT C [US]",
+                                        "date": "20020516"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2002058175",
+                                        "kind": "A1",
+                                        "name": "RUHL ROBERT C [US]",
+                                        "date": "20020516"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4332650",
+                                        "name": "FOH STEPHEN E, et al",
+                                        "date": "19820601"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4332650",
+                                        "kind": "A",
+                                        "name": "FOH STEPHEN E, et al",
+                                        "date": "19820601"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2004137290",
+                                        "name": "WOODS RICHARD ROOT [US], et al",
+                                        "date": "20040715"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2004137290",
+                                        "kind": "A1",
+                                        "name": "WOODS RICHARD ROOT [US], et al",
+                                        "date": "20040715"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2003207164",
+                                        "name": "MCELROY JAMES FREDERICK [US], et al",
+                                        "date": "20031106"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2003207164",
+                                        "kind": "A1",
+                                        "name": "MCELROY JAMES FREDERICK [US], et al",
+                                        "date": "20031106"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5074975",
+                                        "name": "OLOMAN COLIN W [CA], et al",
+                                        "date": "19911224"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5074975",
+                                        "kind": "A",
+                                        "name": "OLOMAN COLIN W [CA], et al",
+                                        "date": "19911224"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5372710",
+                                        "name": "FRANK HELGE [DE]",
+                                        "date": "19941213"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5372710",
+                                        "kind": "A",
+                                        "name": "FRANK HELGE [DE]",
+                                        "date": "19941213"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6834831",
+                                        "name": "DAGGETT DAVID [US]",
+                                        "date": "20041228"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6834831",
+                                        "kind": "B2",
+                                        "name": "DAGGETT DAVID [US]",
+                                        "date": "20041228"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "An aircraft includes a supply system with an electrochemical reactor for generating energy, hydrogen, oxygen and clear water from grey water, a hydrocarbon containing fuel and air, so that the up to now separated systems for supply of clear water, generation of energy and generation of oxygen are combined to a combined system. The necessary redundancies may thereby be secured by two or more systems of the same kind, which may be operated completely independently of each other."
+            }
+        }
+    }
+}

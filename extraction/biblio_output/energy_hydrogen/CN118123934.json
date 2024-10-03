@@ -1,0 +1,178 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118123934",
+                            "kind": "A",
+                            "date": "20240604"
+                        },
+                        {
+                            "doc-number": "CN118123934",
+                            "date": "20240604"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B26D   7/    00            A I                    "
+                        },
+                        {
+                            "text": "B26D   7/    06            A I                    "
+                        },
+                        {
+                            "text": "B26D   7/    18            A I                    "
+                        },
+                        {
+                            "text": "B26D   7/    27            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "26",
+                            "subclass": "D",
+                            "main-group": "7",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "26",
+                            "subclass": "D",
+                            "main-group": "7",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "26",
+                            "subclass": "D",
+                            "main-group": "7",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "26",
+                            "subclass": "D",
+                            "main-group": "7",
+                            "subgroup": "27",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "26",
+                            "subclass": "D",
+                            "main-group": "2007",
+                            "subgroup": "0018",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410430598",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410430598",
+                            "date": "20240411"
+                        },
+                        {
+                            "doc-number": "202410430598.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410430598",
+                            "date": "20240411"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUZHOU BOSONG INTELLIGENT TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "苏州泊松智能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GENG GUANGZHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU DALONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO AIMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "耿广战, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘大龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭爱民"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen energy battery exchange membrane cutting device and method",
+                    "一种氢能源电池交换膜裁切装置及方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a hydrogen energy battery exchange membrane cutting device and method. The hydrogen energy battery exchange membrane cutting device comprises a feeding assembly, a cutting assembly and a cutting assembly, the film passing assembly is arranged on the downstream portion of the feeding assembly and comprises a film passing roller, a balance weight roller, a tightness detection sensor and a jacking device, the balance weight roller and the film passing roller are arranged in a spaced mode, the tightness detection sensor is used for detecting the tightness of the film material, and the jacking device is connected with the balance weight roller; the material changing assembly is arranged below the feeding assembly and used for switching the film materials; the rolling cutting device is arranged at the downstream of the membrane passing assembly and is used for cutting the membrane material; the discharging assembly is arranged on the downstream of the hobbing device and used for receiving products; the material collecting assembly is arranged above the discharging assembly and used for recycling waste materials; the material roll detection sensor is separately arranged with the feeding assembly and the material receiving assembly at intervals and is used for detecting the diameter of the material roll; and the control module is respectively connected with the tightness sensor, the jacking device and the material coil detection sensor. The film material consumption can be monitored in real time, new and old film materials can be conveniently connected, and the machining efficiency is improved."
+                },
+                {
+                    "p": "本发明涉及一种氢能源电池交换膜裁切装置及方法包括：上料组件，用于膜料上料定位；过膜组件，设置于上料组件下游，包括过膜辊、配重辊、松紧检测传感器和顶升装置，配重辊与过膜辊间隔设置，松紧检测传感器用于检测膜料松紧度，顶升装置与配重辊连接；换料组件，设置于上料组件下方，用于切换膜料；滚切装置，设置于过膜组件下游，用于裁切膜料；下料组件，设置于滚切装置下游，用于产品接收；收料组件，设置于下料组件上方，用于废料回收；料卷检测传感器，分别与上料组件和收料组件间隔设置，检测料卷直径；控制模块，分别与松紧传感器、顶升装置和料卷检测传感器连接。本发明能够实时监测膜料用量，便于新旧膜料连接，提升加工效率。"
+                }
+            ]
+        }
+    }
+}

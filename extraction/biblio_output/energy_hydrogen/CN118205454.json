@@ -1,0 +1,142 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118205454",
+                            "kind": "A",
+                            "date": "20240618"
+                        },
+                        {
+                            "doc-number": "CN118205454",
+                            "date": "20240618"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L  58/    31            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    34            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "58",
+                            "subgroup": "31",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "58",
+                            "subgroup": "34",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410210411",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410210411",
+                            "date": "20240226"
+                        },
+                        {
+                            "doc-number": "202410210411.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410210411",
+                            "date": "20240226"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "TEHAI HYDROGEN ENERGY TESTING BAODING CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "特嗨氢能检测（保定）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FENG LILI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DUAN ZHIJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "封利利, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "段志洁"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Control method and device for heating of automobile engine",
+                    "汽车发动机加热的控制方法和装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a control method and device for heating of an automobile engine. The method comprises the steps that a car using instruction sent based on a target account is received, and the car using instruction is sent before a user corresponding to the target account uses a target car; starting a heater and a cooling water pump of a fuel cell engine of the target automobile in response to the automobile using instruction; the heater is controlled to heat the cooling liquid circulating in the cooling loop in a preset mode, the heated cooling liquid is obtained, and the cooling liquid is output by the cooling water pump; and based on the heated cooling liquid, a fuel cell engine of the target automobile is preheated. The technical problem that the heating time of the engine is too long when the automobile is started in the low-temperature environment, and the user experience is affected is solved."
+                },
+                {
+                    "p": "本发明公开了一种汽车发动机加热的控制方法和装置。其中，该方法包括：接收基于目标账户发出的用车指令，其中，用车指令为在目标账户对应的用户使用目标汽车之前发出的；响应于用车指令，开启目标汽车的燃料电池发动机的加热器和冷却水泵；控制加热器对在冷却回路中以预设模式循环的冷却液进行加热，得到加热后的冷却液，其中，冷却液由冷却水泵输出；基于加热后的冷却液，对目标汽车的燃料电池发动机进行预热。本发明解决了在低温环境下启动汽车时发动机加热时间过长影响用户体验感的技术问题。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118148779",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118148779",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B64D  27/    10            A I                    "
+                        },
+                        {
+                            "text": "F02C   7/    18            A I                    "
+                        },
+                        {
+                            "text": "F02C   7/    22            A I                    "
+                        },
+                        {
+                            "text": "F02C   7/    26            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "64",
+                            "subclass": "D",
+                            "main-group": "27",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "C",
+                            "main-group": "7",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "C",
+                            "main-group": "7",
+                            "subgroup": "22",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "C",
+                            "main-group": "7",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410201190",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410201190",
+                            "date": "20240223"
+                        },
+                        {
+                            "doc-number": "202410201190.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410201190",
+                            "date": "20240223"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "JINCHENG NANJING ELECTROMECHANICAL HYDRAULIC PRESSURE ENG RES CT AVIATION IND CORP"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国航空工业集团公司金城南京机电液压工程研究中心"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG QI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU LIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HOU LEYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张奇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐亮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "侯乐毅"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Aircraft hydrogen-fired power system and aircraft",
+                    "一种飞机燃氢动力系统及飞行器"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an aircraft hydrogen-fired power system and an aircraft, and belongs to the technical field of aviation power systems.According to the system, in the ground starting and aerial working states, after air from the environment enters a hydrogen-fired engine, a part of compressed air passes through a hydrogen energy transmission device firstly, and then enters a hydrogen-fired engine; the pre-cooled air and gaseous hydrogen obtained by the hydrogen energy transmission device are pre-cooled in the hydrogen energy transmission device, and the pre-cooled air enters the hydrogen combustion auxiliary power device to be compressed and is combusted and expanded with the gaseous hydrogen from the hydrogen energy transmission device; then the compressed air enters the hydrogen combustion engine and serves as fuel in the hydrogen combustion engine to be mixed with the other part of compressed air from the environment after the compressed air enters the hydrogen combustion engine to be combusted and expanded to do work, and finally the compressed air is discharged; when a hydrogen turbine power mode is adopted to provide power for the aircraft, only a hydrogen energy transmission device is added on the basis of an original hydrogen-fired engine and an original hydrogen-fired auxiliary power device, modification is small, and the modification cost is reduced."
+                },
+                {
+                    "p": "本发明提供一种飞机燃氢动力系统及飞行器，属于航空动力系统技术领域，该系统在地面起动和空中工作状态下，来自环境的空气进入燃氢发动机后的一部分压缩空气先经氢能传输装置，在氢能传输装置内与氢能传输装置得到的气态氢完成预冷，预冷后的空气进入燃氢辅助动力装置经过压缩，并和氢能传输装置出来的气态氢燃烧和膨胀，再进入燃氢发动机并作为燃料在燃氢发动机中与来自环境的空气进入燃氢发动机后的另一部分压缩空气混合燃烧、膨胀做功，最后排出；本发明采用氢涡轮动力方式给飞机提供动力时，仅仅在原来的燃氢发动机、燃氢辅助动力装置的基础上增加了氢能传输装置，改动较小，降低了改造成本。"
+                }
+            ]
+        }
+    }
+}

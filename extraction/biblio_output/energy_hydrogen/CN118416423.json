@@ -1,0 +1,145 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118416423",
+                            "kind": "A",
+                            "date": "20240802"
+                        },
+                        {
+                            "doc-number": "CN118416423",
+                            "date": "20240802"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "A62C   3/    06            A I                    "
+                        },
+                        {
+                            "text": "A62C   3/    07            A I                    "
+                        },
+                        {
+                            "text": "A62C  37/    38            A I                    "
+                        },
+                        {
+                            "text": "A62C  37/    50            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410648688",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410648688",
+                            "date": "20240523"
+                        },
+                        {
+                            "doc-number": "202410648688.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410648688",
+                            "date": "20240523"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CRRC DATONG CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中车大同电力机车有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI JIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " REN GUANGHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MA PEIGUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEI XIUYING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO QIFAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任广慧, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马培国, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "魏秀英, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵启帆"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fireproof detection control system and fireproof control method of hydrogen energy hybrid power locomotive",
+                    "氢能源混合动力机车的防火检测控制系统与防火控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a fireproof detection control system and a fireproof control method of a hydrogen energy hybrid power locomotive, which are applied to a hydrogen storage room of the hydrogen energy hybrid power locomotive, and the system comprises a monitoring module which comprises a plurality of sensors and is used for monitoring a monitoring signal in the hydrogen storage room, a first fireproof instruction and a second fireproof instruction are output according to the monitoring signals, and the monitoring signals at least comprise hydrogen concentration, air pressure and temperature; the controllable hydrogen escape module is connected with the monitoring module and is set to be started in response to the first fireproof instruction, so that hydrogen is diffused; and the controllable fire extinguishing module is connected with the monitoring module and is started in response to the second fire prevention instruction, detects a fire point and sprays a fire extinguishing material to the fire point. According to the embodiment of the invention, the safety of the hydrogen storage room of the hydrogen energy hybrid power locomotive can be improved."
+                },
+                {
+                    "p": "本公开提供一种氢能源混合动力机车的防火检测控制系统与防火控制方法，应用于氢能源混合动力机车的储氢间，系统包括：监控模块，包括多个传感器，用于监控所述储氢间内的监测信号，并根据所述监测信号输出第一防火指令和第二防火指令，所述监测信号至少包括氢气浓度、气压、温度；可控氢气逃逸模块，连接所述监控模块，设置为响应所述第一防火指令开启，以使氢气扩散；可控灭火模块，连接所述监控模块，设置为响应所述第二防火指令开启，检测起火点并对所述起火点喷射灭火材料。本公开实施例可以提高氢能源混合动力机车的储氢间的安全性。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2024043355",
+                            "kind": "A1",
+                            "date": "20240208"
+                        },
+                        {
+                            "doc-number": "US2024043355",
+                            "date": "20240208"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "C07C   4/    04            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "4",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "4",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C4/04",
+                                    "classification-value": "I",
+                                    "generating-office": "EP"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C11/04",
+                                    "classification-value": "I",
+                                    "generating-office": "EP"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "202217880973",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US202217880973",
+                            "date": "20220804"
+                        },
+                        {
+                            "doc-number": "17880973"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "US202217880973",
+                            "date": "20220804"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "KELLOGG BROWN & ROOT LLC [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "Kellogg Brown & Root LLC"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "KLAVERS HENDRIK WOLTERUS [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " REYNEKE RIAN [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LORING MARK PHILIP [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "Klavers, Hendrik Wolterus, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "Reyneke, Rian, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "Loring, Mark Philip"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Low CO2 Emission Ethane Cracker",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4663493",
+                                        "name": "VORA BIPIN V [US], et al",
+                                        "date": "19870505"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4663493",
+                                        "kind": "A",
+                                        "name": "VORA BIPIN V [US], et al",
+                                        "date": "19870505"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5120892",
+                                        "name": "SKRABA FRANK W [US]",
+                                        "date": "19920609"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5120892",
+                                        "kind": "A",
+                                        "name": "SKRABA FRANK W [US]",
+                                        "date": "19920609"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US11512257",
+                                        "name": "SPICER DAVID [US], et al",
+                                        "date": "20221129"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "11512257",
+                                        "kind": "B1",
+                                        "name": "SPICER DAVID [US], et al",
+                                        "date": "20221129"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "Low carbon dioxide-emitting processes and systems for steam cracking hydrocarbons to produce products such as ethylene are described. The processes and systems involve cracking the feed in a furnace that is configured to burn a hydrogen-rich fuel, which produces less carbon dioxide than methane, which is typically used as fuel for such furnaces. The hydrogen-rich stream can be isolated and recycled from the cracker tail gas."
+            }
+        }
+    }
+}

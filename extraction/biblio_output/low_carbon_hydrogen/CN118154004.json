@@ -1,0 +1,175 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118154004",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118154004",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0639            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/    10            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06395",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "103",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211508682",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211508682",
+                            "date": "20221129"
+                        },
+                        {
+                            "doc-number": "202211508682.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211508682",
+                            "date": "20221129"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHN ENERGY INVEST GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " NAT INST CLEAN & LOW CARBON ENERGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家能源投资集团有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京低碳清洁能源研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "KWAK SOO-YOUNG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU CONGMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE GUANGLI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAI JUNXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭秀盈, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘聪敏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何广利, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "翟俊香"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen quality full-period management and control method, device and equipment and storage medium",
+                    "氢气品质全周期管控方法、装置、设备以及存储介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The embodiment of the invention provides a hydrogen quality full-period management and control method, device and equipment and a storage medium. The method comprises the following steps: acquiring hydrogen related parameters uploaded by each hydrogen operation device; wherein each hydrogen operation device relates to each hydrogen operation link, the hydrogen related parameter comprises a device identifier, and the device identifier is associated with the hierarchical relationship of each hydrogen operation device; storing the hydrogen related parameters uploaded by each hydrogen operation device according to a preset data structure; and when a preset hydrogen analysis condition is met, calling the hydrogen related parameters of each hydrogen operation device to carry out hydrogen quality abnormity source analysis. In this way, all hydrogen operation links and hydrogen related parameters of all devices are gathered together for hydrogen abnormal source analysis, the hydrogen quality abnormal source analysis mode is unified, the hydrogen quality abnormal source can be accurately positioned, and meanwhile full-period management of management and control platform devices can be achieved."
+                },
+                {
+                    "p": "本公开的实施例提供了一种氢气品质全周期管控方法、装置、设备以及存储介质。所述方法包括:获取各氢气操作设备上传的氢气相关参数；其中，所述各氢气操作设备涉及氢气的各操作环节，所述氢气相关参数包括设备标识，所述设备标识与所述各氢气操作设备的层级关系关联；将所述各氢气操作设备上传的氢气相关参数按照预设数据结构进行存储；在满足预设氢气分析条件时，调用所述各氢气操作设备的氢气相关参数进行氢气品质异常来源分析。以此方式，实现了将氢气的各操作环节、各设备的氢气相关参数都汇总在一起进行氢气异常来源分析，统一了氢气品质异常来源分析的方式，有利于精确定位氢气品质异常来源，同时可以实现管控平台设备的全周期管理。"
+                }
+            ]
+        }
+    }
+}

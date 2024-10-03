@@ -1,0 +1,142 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116826799",
+                            "kind": "A",
+                            "date": "20230929"
+                        },
+                        {
+                            "doc-number": "CN116826799",
+                            "date": "20230929"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   9/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "28",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "9",
+                            "subgroup": "062",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310728103",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310728103",
+                            "date": "20230619"
+                        },
+                        {
+                            "doc-number": "202310728103.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310728103",
+                            "date": "20230619"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "JIANGNAN SHIPYARD GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "江南造船（集团）有限责任公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG ZHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO SHOUJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BAI BING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张政, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵守君, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "白冰"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Ship hydrogen circulation system and control method thereof",
+                    "一种船舶氢循环系统及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "According to the ship hydrogen circulation system and the control method thereof, the ship hydrogen circulation system supports pulse operation, equipment in the circulation system does not need to be kept in operation at the same time, and energy consumption of the equipment in the circulation system can be reduced to the maximum extent. The ship hydrogen circulation system can effectively utilize seawater wind energy or redundant energy of a ship main power grid, on the basis that the energy consumption of the circulation system is as little as possible, operation of the circulation system is guaranteed and maintained, hydrogen is stably generated, and when a ship breaks down seriously to cause power loss or the capacity of a high-pressure hydrogen storage tank is about to be full, the circulation system is started. According to the system, the problems that the wind power generation output voltage is unstable and the electric energy storage capacity is insufficient are effectively solved, the selected fuel energy storage density is large, the hydrogen power generation device is free of pollution during combustion, and low-carbon green operation of the ship is powerfully promoted."
+                },
+                {
+                    "p": "本发明提供一种船舶氢循环系统及其控制方法，船舶氢循环系统支持脉冲作业，循环系统里的设备不需要同时保持进行，能够最大程度上降低循环系统中设备的耗能。该船舶氢循环系统能够有效地利用海水风能或者船舶主电网冗余能量，在该循环系统本身耗能尽可能少的基础上，保证并维持循环系统的运转，并稳定的产生氢气，在船舶出现重大故障而导致失电或者高压储氢罐容量快要满时，氢发电装置投入运行并对全船进行供电，该系统有效解决了风力发电输出电压不稳定、电能储存容量不够的问题，所选用的燃料能量储存密度大，氢发电装置燃烧无污染，有力地推进了船舶低碳绿色运营。"
+                }
+            ]
+        }
+    }
+}

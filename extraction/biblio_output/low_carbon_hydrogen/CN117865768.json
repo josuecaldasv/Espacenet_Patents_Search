@@ -1,0 +1,226 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117865768",
+                            "kind": "A",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "CN117865768",
+                            "date": "20240412"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    24            A I                    "
+                        },
+                        {
+                            "text": "C07C   4/    02            A I                    "
+                        },
+                        {
+                            "text": "C07C   5/    35            A I                    "
+                        },
+                        {
+                            "text": "C07C  11/    24            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "4",
+                            "subgroup": "025",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "5",
+                            "subgroup": "35",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C4/025",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C11/24",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C5/35",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C11/24",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410049218",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20241049218",
+                            "date": "20240112"
+                        },
+                        {
+                            "doc-number": "202410049218.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20241049218",
+                            "date": "20240112"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV BEIJING CHEM TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京化工大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU ZHENYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PAN YUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU QINGYA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHI LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAN YUXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘振宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "潘岳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘清雅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "石磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "闫玉新"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for producing acetylene and co-producing hydrogen through high-temperature cracking of micromolecular alkane heated by electromagnetic induction",
+                    "一种利用电磁感应加热小分子烷烃高温裂解生产乙炔联产氢气的方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a method for producing acetylene and co-producing hydrogen through high-temperature cracking of micromolecular alkane heated by electromagnetic induction, and belongs to the technical field of acetylene production in energy chemical industry. The carbon medium such as coke, graphite or needle coke is heated through electromagnetic induction, the acetylene and the hydrogen are produced through rapid heating and cracking of small-molecule alkane penetrating through the high-temperature carbon medium, the small-molecule alkane conversion rate is 100%, the acetylene yield is larger than or equal to 40%, and the hydrogen yield is larger than or equal to 61%. Compared with a traditional partial oxidation method and a plasma method, the method provided by the invention has the advantages of simple equipment, low energy consumption, low material consumption, low cost, high acetylene yield and large amount of co-produced hydrogen."
+                },
+                {
+                    "p": "本发明提供了一种利用电磁感应加热小分子烷烃高温裂解生产乙炔联产氢气的方法，属于能源化工乙炔生产技术领域。本发明利用电磁感应加热焦炭、石墨或针状焦等炭介质，利用小分子烷烃穿过高温炭介质快速升温裂解生产乙炔联产氢气，小分子烷烃转化率为100％，乙炔收率≥40％，氢气收率≥61％。与传统部分氧化法和等离子体法相比，本发明提供的方法设备简单、能耗低、物耗低、成本低，乙炔收率高，联产氢气量大。"
+                }
+            ]
+        }
+    }
+}

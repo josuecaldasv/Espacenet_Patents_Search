@@ -1,0 +1,208 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118156541",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118156541",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04007            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04014            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04089            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04225            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04007",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04014",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04059",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04089",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04225",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410426890",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410426890",
+                            "date": "20240410"
+                        },
+                        {
+                            "doc-number": "202410426890.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410426890",
+                            "date": "20240410"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING SINOHYTEC CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京亿华通科技股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XIAO DONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SI ZONGZHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JIAYING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHI BINGJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FANG CHUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PEI GUANRU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "肖东, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "司宗正, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李佳莹, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "施冰杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "方川, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "裴冠茹"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fuel cell engine cold energy utilization system, control method and fuel cell engine",
+                    "一种燃料电池发动机冷能利用系统、控制方法及燃料电池发动机"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a fuel cell engine cold energy utilization system, a control method and a fuel cell engine. The fuel cell engine cold energy utilization system comprises a heat dissipation system and an air system. The cooling system comprises a radiator, a temperature sensor, a water pump, an electric pile, a hydrogen plate heat exchanger and an intercooler; the air system comprises an air compressor connected with the intercooler, and the air compressor is connected with an air filter; the hydrogen plate heat exchanger is connected with the liquid hydrogen gasification device, a flow guide cover is arranged between the liquid hydrogen gasification device and the radiator, liquid hydrogen exchanges heat with ambient air through the liquid hydrogen gasification device to reduce the temperature of the ambient air, and the low-temperature ambient air becomes an air inlet source of the radiator through the flow guide cover. Cold energy generated after liquid hydrogen is gasified is used for reducing the air inlet temperature of the surrounding environment, reducing the power consumption of a radiator fan and an air compressor and improving the output efficiency of a fuel cell system, low-temperature air passes through the radiator through the flow guide cover, the gas-liquid temperature difference of the radiator can be reduced, and the heat dissipation efficiency is improved."
+                },
+                {
+                    "p": "本发明公开了一种燃料电池发动机冷能利用系统、控制方法及燃料电池发动机，包括散热系统和空气系统；所述散热系统包括散热器、温度传感器、水泵、电堆、氢气板换和中冷器；所述空气系统包括与中冷器连接的空压机，空压机连接空滤；所述氢气板换连接液氢气化装置，液氢气化装置和散热器之间设置有导流罩，液氢通过液氢气化装置与环境空气进行热交换降低环境空气温度，低温的环境空气通过导流罩成为散热器的进气源，本发明中，利用液氢气化后的冷能降低周围环境进气温度，降低散热器风扇及空压机功耗，提升燃料电池系统输出效率，低温空气通过导流罩通过散热器，可降低散热器气液温差，提高散热效率。"
+                }
+            ]
+        }
+    }
+}

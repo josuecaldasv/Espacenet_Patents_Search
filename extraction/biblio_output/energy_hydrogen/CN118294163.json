@@ -1,0 +1,154 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118294163",
+                            "kind": "A",
+                            "date": "20240705"
+                        },
+                        {
+                            "doc-number": "CN118294163",
+                            "date": "20240705"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "G01M  17/   007            A I                    "
+                    }
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410371965",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410371965",
+                            "date": "20240329"
+                        },
+                        {
+                            "doc-number": "202410371965.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410371965",
+                            "date": "20240329"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHANGCHUN AUTOMOTIVE TEST CENTER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "长春汽车检测中心有限责任公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SHAO SHUAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MA ZHILIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING ZHIBAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU ZHONGYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO HANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG LINA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG HAIDONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邵帅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马志良, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁志宝, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "武忠宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵航, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王丽娜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张海东"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "New energy automobile safety collision evaluation method and system",
+                    "一种新能源汽车安全碰撞测评方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a new energy automobile safety collision evaluation method and system, and the method comprises the following steps: constructing a hydrogen energy automobile test environment, arranging a dummy on a driving position of a hydrogen energy automobile, and connecting the hydrogen energy automobile with a collision traction device; executing a collision test on the hydrogen energy vehicle, and obtaining battery management message interaction condition data, collision message interaction condition data, power-off duration data, dummy condition data, vehicle basic data and battery condition data in the collision test process; power management safety evaluation is carried out based on the vehicle basic data, the battery management message interaction condition data, the collision message interaction condition and the power-off duration data, passenger safety evaluation is carried out based on the vehicle basic data and the dummy condition data, and battery safety evaluation is carried out based on the vehicle basic data and the battery condition data."
+                },
+                {
+                    "p": "本发明公开了一种新能源汽车安全碰撞测评方法及系统，所述测评方法包括下列步骤：构建氢能源汽车测试环境，并在氢能源汽车的驾驶位上设置假人，并将氢能源汽车与碰撞牵引设备连接；对氢能源汽车执行碰撞测试，获取碰撞测试过程中的电池管理报文交互情况数据、碰撞报文交互情况数据、下电时长数据、假人情况数据、车辆基础数据以及电池情况数据；基于车辆基础数据、电池管理报文交互情况数据、碰撞报文交互情况、下电时长数据进行电力管理安全评价，基于车辆基础数据、假人情况数据进行乘员安全评价，基于车辆基础数据、电池情况数据进行电池安全评价。"
+                }
+            ]
+        }
+    }
+}

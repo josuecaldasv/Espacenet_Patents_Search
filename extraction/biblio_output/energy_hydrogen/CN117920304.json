@@ -1,0 +1,261 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117920304",
+                            "kind": "A",
+                            "date": "20240426"
+                        },
+                        {
+                            "doc-number": "CN117920304",
+                            "date": "20240426"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  27/    24            A I                    "
+                        },
+                        {
+                            "text": "B01J  35/    39            A I                    "
+                        },
+                        {
+                            "text": "B01J  37/    08            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    22            A I                    "
+                        },
+                        {
+                            "text": "C07C  51/    00            A I                    "
+                        },
+                        {
+                            "text": "C07C  53/    02            A I                    "
+                        },
+                        {
+                            "text": "C07C  53/    08            A I                    "
+                        },
+                        {
+                            "text": "C07C  59/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "27",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "082",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "084",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "22",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "51",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C51/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C53/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C51/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C53/08",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "3",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C51/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C59/06",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410068794",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20241068794",
+                            "date": "20240117"
+                        },
+                        {
+                            "doc-number": "202410068794.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20241068794",
+                            "date": "20240117"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV BEIJING TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京工业大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "QU DAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG XINBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN ZAICHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曲丹, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨馨波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙再成"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Novel nitrogen-doped carbon dot modified carbon nitride as well as preparation method and application thereof",
+                    "一种新型氮掺杂碳点改性氮化碳及其制备方法及应用"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses novel nitrogen-doped carbon dot modified carbon nitride as well as a preparation method and application thereof. The preparation method comprises the following steps: preparing a carbon nitride material: firstly, preparing the carbon nitride material from a precursor by adopting a high-temperature cracking method, and washing the obtained carbon nitride material by using deionized water and ethanol; the nitrogen-doped carbon dot modified carbon nitride is prepared by the following steps: dispersing a carbon source and a passivator by using a solvent to obtain a first dispersion liquid, adding a carbon nitride material into the first dispersion liquid, uniformly dispersing to obtain a second dispersion liquid, synthesizing the second dispersion liquid by adopting a hydrothermal-solvothermal method, and finally, washing by using deionized water and an ethanol solution, carrying out suction filtration and drying to obtain the nitrogen-doped carbon dot modified carbon nitride. The nitrogen-doped carbon dot modified carbon nitride photocatalyst is obtained. According to the method, green and pollution-free solar energy can be used as an energy source, waste plastics can be treated, high-added-value chemicals can be produced along with production of green energy hydrogen, the catalyst performance and stability are good, and the method has a very good application prospect."
+                },
+                {
+                    "p": "本发明公开了一种新型氮掺杂碳点改性氮化碳及其制备方法及应用，包括：制备氮化碳材料：首先对前驱体采用高温裂解法制备氮化碳材料，使用去离子水和乙醇洗涤所得的氮化碳材料；氮掺杂碳点改性氮化碳：将碳源和钝化剂使用溶剂分散得到第一分散液，之后取氮化碳材料加入至第一分散液中分散均匀第二分散液，将第二分散液采用水热‑溶剂热法进行合成，最后，使用去离子水和乙醇溶液洗涤、抽滤、干燥，得到氮掺杂碳点改性氮化碳光催化剂。本发明的方法，可以利用绿色无污染的太阳能作为能源，并且可以处理废弃塑料，而且还伴随着绿色能源氢气的产生，同时可以产生高附加值化学品，催化剂性能以及稳定性较好，具有很好的应用前景。"
+                }
+            ]
+        }
+    }
+}

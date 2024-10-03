@@ -1,0 +1,201 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118336766",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118336766",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410228767",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410228767",
+                            "date": "20240229"
+                        },
+                        {
+                            "doc-number": "202410228767.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410228767",
+                            "date": "20240229"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHANGJIANG INSTITUTE OF SURVEY PLANNING DESIGN AND RES CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "长江勘测规划设计研究有限责任公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HU YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU HAIBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE JIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI XINGQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG TIANTIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN QIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAO JINTAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAN BINGSHUANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡昱, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘海波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李兴强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张甜甜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈乾, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高硼, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郝锦涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谭丙双"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "New energy off-grid hydrogen production system based on energy storage and hydrogen storage and control method thereof",
+                    "一种基于储能储氢的新能源离网制氢系统及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a new energy off-grid hydrogen production system based on energy storage and hydrogen storage and a control method of the new energy off-grid hydrogen production system. The off-grid hydrogen production system comprises an energy supply part, a hydrogen involving part and an intelligent control unit. And the energy supply part is used for converting new energy such as solar energy and wind energy into electric energy through devices such as an energy supply converter, and the electric energy is used for supplying energy to a hydrogen production device and accessories thereof or storing energy to an energy storage device. And the hydrogen related part is used for preparing hydrogen by the hydrogen production device, supplying hydrogen for downstream hydrogen loads, or storing hydrogen by the hydrogen storage device. The intelligent control unit is used for adjusting the operation states of the energy storage device, the hydrogen production device and the hydrogen storage device according to the output condition of the new energy power supply and the hydrogen load curve, and it is guaranteed that the new energy output power is matched with the hydrogen load; meanwhile, wind abandoning and light abandoning are reduced, so that the overall performance of the off-grid hydrogen production system is improved, and efficient and stable hydrogen supply is achieved."
+                },
+                {
+                    "p": "本发明公开一种基于储能储氢的新能源离网制氢系统及其控制方法，离网制氢系统包括供能部分和涉氢部分、智能控制单元；供能部分，通过供能变换器等装置将太阳能、风能等新能源能量转换为电能，用于制氢装置及其辅件供能，或用于储能装置储能。涉氢部分是指制氢装置制备氢气，供给下游用氢负荷用氢，或用于储氢装置储氢。智能控制单元，根据新能源电源出力情况和用氢负荷曲线，利用智能控制单元调节储能装置、制氢装置以及储氢装置的运行状态，保证新能源输出功率与用氢负荷匹配；同时减少弃风、弃光，以提高离网制氢系统的整体性能，实现高效稳定的供氢。"
+                }
+            ]
+        }
+    }
+}

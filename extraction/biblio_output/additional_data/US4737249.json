@@ -1,0 +1,524 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "4737249",
+                            "kind": "A",
+                            "date": "19880412"
+                        },
+                        {
+                            "doc-number": "US4737249",
+                            "date": "19880412"
+                        }
+                    ]
+                },
+                "classification-ipc": {
+                    "text": "C25B1/02"
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B  11/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "11",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "11",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "129",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "129",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "204/293"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "205/638"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "205/639"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "82851586",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US19860828515",
+                            "date": "19860212"
+                        },
+                        {
+                            "doc-number": "828515"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": {
+                                "doc-number": "US19860828515",
+                                "date": "19860212"
+                            }
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US19820357986",
+                                    "date": "19820315"
+                                },
+                                {
+                                    "doc-number": "357,986"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "INCO ALLOYS INT [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "INCO ALLOYS INTERNATIONAL, INC"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SHEPARD JR VANCE R [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HALL DALE E [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ARMS JOHN T [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CLARK WILLIAM D K [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "SHEPARD, JR., VANCE R, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "HALL, DALE E, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "ARMS, JOHN T, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "CLARK, WILLIAM D. K"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Electrolytic production of hydrogen",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3645796",
+                                        "name": "BOHM HARALD, et al",
+                                        "date": "19720229"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3645796",
+                                        "kind": "A",
+                                        "name": "BOHM HARALD, et al",
+                                        "date": "19720229"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3669745",
+                                        "name": "BECCU KLAUS",
+                                        "date": "19720613"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3669745",
+                                        "kind": "A",
+                                        "name": "BECCU KLAUS",
+                                        "date": "19720613"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3793435",
+                                        "name": "REILLY J, et al",
+                                        "date": "19740219"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3793435",
+                                        "kind": "A",
+                                        "name": "REILLY J, et al",
+                                        "date": "19740219"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3825418",
+                                        "name": "REILLY J, et al",
+                                        "date": "19740723"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3825418",
+                                        "kind": "A",
+                                        "name": "REILLY J, et al",
+                                        "date": "19740723"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3881960",
+                                        "name": "HASCHKA FRIEDRICH, et al",
+                                        "date": "19750506"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3881960",
+                                        "kind": "A",
+                                        "name": "HASCHKA FRIEDRICH, et al",
+                                        "date": "19750506"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4080278",
+                                        "name": "RAVIER DOMINIQUE, et al",
+                                        "date": "19780321"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4080278",
+                                        "kind": "A",
+                                        "name": "RAVIER DOMINIQUE, et al",
+                                        "date": "19780321"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4142300",
+                                        "name": "GRUEN DIETER M, et al",
+                                        "date": "19790306"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4142300",
+                                        "kind": "A",
+                                        "name": "GRUEN DIETER M, et al",
+                                        "date": "19790306"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4152145",
+                                        "name": "SANDROCK GARY D [US]",
+                                        "date": "19790501"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4152145",
+                                        "kind": "A",
+                                        "name": "SANDROCK GARY D [US]",
+                                        "date": "19790501"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4161401",
+                                        "name": "SANDROCK GARY D [US]",
+                                        "date": "19790717"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4161401",
+                                        "kind": "A",
+                                        "name": "SANDROCK GARY D [US]",
+                                        "date": "19790717"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4161402",
+                                        "name": "SANDROCK GARY D [US]",
+                                        "date": "19790717"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4161402",
+                                        "kind": "A",
+                                        "name": "SANDROCK GARY D [US]",
+                                        "date": "19790717"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4222770",
+                                        "name": "OSUMI YASUAKI, et al",
+                                        "date": "19800916"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4222770",
+                                        "kind": "A",
+                                        "name": "OSUMI YASUAKI, et al",
+                                        "date": "19800916"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4242315",
+                                        "name": "BRUNING HUGO A [NL], et al",
+                                        "date": "19801230"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4242315",
+                                        "kind": "A",
+                                        "name": "BRUNING HUGO A [NL], et al",
+                                        "date": "19801230"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4249940",
+                                        "name": "KERESZTES STEPHAN L [US], et al",
+                                        "date": "19810210"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4249940",
+                                        "kind": "A",
+                                        "name": "KERESZTES STEPHAN L [US], et al",
+                                        "date": "19810210"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4299682",
+                                        "name": "ODA YOSHIO, et al",
+                                        "date": "19811110"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4299682",
+                                        "kind": "A",
+                                        "name": "ODA YOSHIO, et al",
+                                        "date": "19811110"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Kitamura et al., Embrittlement . . . of H 2 , Electrochimica Acta, vol. 27, No. 12pp. 1723 1727."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Kitamura et al., Comparative Study . . . Cyclic Voltametry , Electrochimica Acta, vol. 27, No. 12pp. 1729 1731 (1982)."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- A. Brenner, Electrodeposition . . . Practice , Academic Press, vol. 2, 1963pp. 185 189."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- M. van Rijswick, Metal . . . Storage , Philips Res. Lab.pp. 261 271 (1978)."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- M. Miles, Evaluation . . . in Alkaline Sol. , Elect. Chem. & Int. Electrochem., vol. 60, 1975pp. 89 96."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Tohru et al., Hydrogen . . . in Alkaline Sol. , Chem. Lett., 1981, (7)pp. 965 966."
+                            },
+                            "category": " "
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "A process for the electrochemical production of hydrogen from an aqueous alkaline electrolyte characterized by the use as a cathode of a material having the general formula AB5Hx wherein A is one or more of rare earth metals and calcium, B is nickel or cobalt and x is a number, generally from 4 to 8 characteristic of saturation of the AB5-compound with hydrogen. The hydrogen is generated at a relatively low overpotential and thus at high efficiency."
+            }
+        }
+    }
+}

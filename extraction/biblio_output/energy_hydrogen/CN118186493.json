@@ -1,0 +1,218 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118186493",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118186493",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/   023            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "60",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "023",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410268920",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410268920",
+                            "date": "20240311"
+                        },
+                        {
+                            "doc-number": "202410268920.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410268920",
+                            "date": "20240311"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CSSC HANDAN PERIC HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中船（邯郸）派瑞氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GUO SHAOBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " NING NAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YUAN XIANMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MA RONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " NIU QIAOYUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE RUIPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MENG XIAOYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭少波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宁楠, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "袁先明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马嵘, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "牛巧云, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贺瑞鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孟晓宇"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method and equipment for improving purity of hydrogen in oxygen in alkaline water electrolysis hydrogen production equipment",
+                    "一种提高碱性水电解制氢设备中氧中氢纯度的方法和设备"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a method and equipment for improving the purity of hydrogen in oxygen in alkaline water electrolysis hydrogen production equipment, and the method comprises the following steps: analyzing equipment parameters influencing the gas purity of the water electrolysis hydrogen production equipment, and determining the relationship between each equipment parameter and the gas purity through a test; according to the gas purity requirement in the water electrolysis hydrogen production equipment and the influence degree of each equipment parameter on the gas purity, the suggested value of each equipment parameter meeting the gas purity requirement is solved, and according to the suggested value of each equipment parameter, a corresponding parameter control strategy is formulated; and each equipment parameter control strategy is written into the PLC, so that the control of each equipment parameter in the water electrolysis hydrogen production equipment is realized. The membrane regulating valve and the frequency converter are arranged in the hydrogen production equipment to control the circulating water flow of the system, so that the problem that the gas purity is poor when the alkaline water electrolysis equipment operates under wide power fluctuation is remarkably improved, the purity and the operation safety of the gas produced by the equipment are ensured, and the operable power range of the alkaline water electrolysis hydrogen production equipment is widened."
+                },
+                {
+                    "p": "本发明公开了一种提高碱性水电解制氢设备中氧中氢纯度的方法和设备，该方法包括以下步骤：分析影响水电解制氢设备气体纯度的设备参数，通过试验确定各设备参数与气体纯度之间的关系；根据水电解制氢设备中气体纯度要求以及各设备参数对气体纯度的影响程度，求取满足气体纯度要求下，各设备参数的建议值，根据各设备参数的建议值，制定对应的参数控制策略；将各设备参数控制策略写入PLC，实现对水电解制氢设备中各设备参数的控制。本发明通过在制氢设备中设置薄膜调节阀和变频器控制系统循环水流量，显著改善碱性水电解设备在宽功率波动下运行时，气体纯度差的问题，保证设备产气的纯度及运行安全，拓宽了碱性水电解制氢设备的可运行功率范围。"
+                }
+            ]
+        }
+    }
+}

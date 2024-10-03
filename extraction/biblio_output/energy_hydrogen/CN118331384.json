@@ -1,0 +1,170 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118331384",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118331384",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    19            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "G05F   1/    67            A I                    "
+                        },
+                        {
+                            "text": "G06F  17/    11            A I                    "
+                        },
+                        {
+                            "text": "G06F  17/    18            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410287477",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410287477",
+                            "date": "20240313"
+                        },
+                        {
+                            "doc-number": "202410287477.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410287477",
+                            "date": "20240313"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA THREE GORGES UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "三峡大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XU HENGSHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU CHUNYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI KANGHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG DIKANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZENG XIANJIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG SIWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐恒山, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘春燕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李康辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王地康, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曾宪金, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王思维"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "INC-based light storage coupling hydrogen production system control method and system",
+                    "一种基于INC的光储耦合制氢系统控制方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an INC-based light-storage coupled hydrogen production system control method and system, and the method comprises the steps: building a mathematical model of a light-storage coupled hydrogen production system, and building a photovoltaic cell model, an electrochemical energy storage system model and a PEM electrolytic cell model; the photovoltaic system and the energy storage system are directly connected with the direct current bus through the converter, MPPT control and self-adaptive control methods are correspondingly adopted, and the load end is connected with the PEM electrolytic cell. A droop control superposition bidirectional DC-DC converter is used as a lithium battery output end interface to realize output or absorption of photovoltaic power supply fluctuation energy, and control of charging and discharging of an energy storage system is realized. Analyzing the working characteristics of the photovoltaic cell and the PEM electrolytic cell, and introducing a coefficient related to the current I to correct the value of a characteristic curve dP/dU based on a variable-step MPPT algorithm of an improved conductance increment method; the energy conversion rate and the hydrogen production efficiency of the photovoltaic direct-current coupling hydrogen production system are remarkably improved by improving the variable-step MPPT algorithm of the incremental conductance method."
+                },
+                {
+                    "p": "本发明公开一种基于INC的光储耦合制氢系统控制方法及系统，包括：搭建光储耦合制氢系统的数学模型，建立光伏电池模型、电化学储能系统模型和PEM电解槽模型；光伏系统以及储能系统均通过变流器与直流母线直接相连，并相应采取MPPT控制和自适应控制方法，负荷端连接PEM电解槽；采用下垂控制叠加双向DC‑DC变流器作为锂电池输出端接口来实现输出或吸收光伏电源波动能量，实现对储能系统充放电的控制；分析光伏电池及PEM电解槽的工作特性，基于改进电导增量法的变步长MPPT算法，引入与电流I相关的系数对特性曲线dP/dU的值进行修正；本发明通过改进电导增量法的变步长MPPT算法使得光伏直流耦合制氢系统的能量转化率和产氢效率得到显著提高。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118232368",
+                            "kind": "A",
+                            "date": "20240621"
+                        },
+                        {
+                            "doc-number": "CN118232368",
+                            "date": "20240621"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "28",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "466",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410290563",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410290563",
+                            "date": "20240314"
+                        },
+                        {
+                            "doc-number": "202410290563.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410290563",
+                            "date": "20240314"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV TIANJIN"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "天津大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HE JIAWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU ZHANGXI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI BIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何佳伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴张曦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李斌"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Electricity-hydrogen energy storage coordinated configuration method of photovoltaic off-grid hydrogen production system",
+                    "光伏离网制氢系统的电-氢储能协调配置方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an electricity-hydrogen energy storage coordinated configuration method for a photovoltaic off-grid hydrogen production system, and the method comprises the steps: recording a system fault occurrence moment t0 to a DC bus voltage Udc recovery moment t3 and a zero point occurrence moment t2 of output power, and obtaining the energy released by a storage battery in a fault recovery period t0-t3 from a stage I, a stage II-A to a stage II-B; obtaining the output power of the storage battery after the DC bus voltage Udc recovers the moment t3; establishing a power dynamic response equation of the electrolytic cell and a power dynamic response equation of the fuel cell; recording the moment t4 when the output power of the fuel cell reaches the maximum output value, and obtaining the energy released by the storage battery in the stage III; generating a coordination strategy of each stage of hydrogen energy storage and electrochemical energy storage; and the maximum output and the k-value electrochemical energy storage capacity of the fuel cell are obtained. The economical efficiency and the power supply reliability of the photovoltaic direct-current off-grid hydrogen production system are improved."
+                },
+                {
+                    "p": "本发明公开了一种光伏离网制氢系统的电‑氢储能协调配置方法，记系统故障发生的时刻t0至直流母线电压Udc恢复时刻t3，以及输出功率的零点发生时刻t2，获得阶段Ⅰ、阶段Ⅱ‑A至阶段Ⅱ‑B的故障恢复期间t0～t3的蓄电池释放的能量；获得直流母线电压Udc恢复时刻t3之后的蓄电池输出功率；建立电解槽的功率动态响应方程和燃料电池的功率动态响应方程；记燃料电池输出功率达到最大出力值的时刻t4，获得阶段Ⅲ的蓄电池释放的能量；生成氢储能和电化学储能每个阶段的协调配合策略；求得燃料电池的最大出力和k值电化学储能容量。本发明提高了光伏直流离网制氢系统的经济性和供电可靠性。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118229020",
+                            "kind": "A",
+                            "date": "20240621"
+                        },
+                        {
+                            "doc-number": "CN118229020",
+                            "date": "20240621"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06N   3/   006            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/   018            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0201            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "N",
+                            "main-group": "3",
+                            "subgroup": "006",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "0631",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "018",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0206",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410441103",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410441103",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "202410441103.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410441103",
+                            "date": "20240412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHN ENERGY TAIZHOU POWER GENERATION CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " NANJING ZIRAN TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家能源集团泰州发电有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "南京自然科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JIANG XINJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YE LUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU HAILEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU XIAOWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DONG XUEYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蒋欣军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "叶罗, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "许海雷, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周晓韡, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董学育"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Energy system optimization scheduling method considering flexible resources and green certificate carbon transactions",
+                    "考虑灵活性资源和绿证碳交易的能源系统优化调度方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an energy system optimization scheduling method considering flexible resources and green certificate carbon transactions, and the method comprises the steps: introducing the waste heat power generation of an organic Rankine cycle at a source side, and removing the characteristic that the power is determined by heat of a cogeneration unit; building a combined heat and power generation unit and gas-fired boiler gas hydrogen doping model by considering that a proper proportion of hydrogen is doped into natural gas; establishing a flexible supply-demand characteristic by considering a system flexible resource supply-demand characteristic, and establishing a flexibility margin model; a green certificate carbon trading mechanism is introduced, the economical efficiency and the low-carbon property of the system are considered, a low-carbon economic dispatching model with the minimum sum of the energy purchasing cost, the equipment maintenance cost, the demand response cost and the green certificate carbon trading cost as an objective function is established, and the objective function is solved by adopting a multi-strategy improved raccoon longnose optimization algorithm. The improved raccoon optimization algorithm designed by the invention is strong in search capability, high in precision and good in robustness, can effectively and reasonably distribute the output of equipment in the system, and provides a reliable and economical optimization scheduling method meeting the flexibility of the system for the system."
+                },
+                {
+                    "p": "本发明公开考虑灵活性资源和绿证碳交易的能源系统优化调度方法，在源侧引入有机朗肯循环的余热发电，解除热电联产机组“以热定电”特性；考虑在天然气中掺入适当比例氢气构建热电联产机组和燃气锅炉燃气掺氢模型；考虑系统灵活性资源供需特性建立灵活性供需特性，建立灵活性裕度模型；引入绿证碳交易机制，兼顾系统经济性和低碳性，建立以购能成本、设备维护成本、需求响应成本和绿证碳交易成本之和最低为目标函数的低碳经济调度模型，采用多策略改进长鼻浣熊优化算法对目标函数进行求解。本发明设计的改进长鼻浣熊优化算法搜索能力强，精度高和鲁棒性好，能够有效合理分配系统中设备出力，为系统提供可靠经济以及满足系统灵活性的优化调度方法。"
+                }
+            ]
+        }
+    }
+}

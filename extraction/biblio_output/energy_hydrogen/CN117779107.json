@@ -1,0 +1,159 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117779107",
+                            "kind": "A",
+                            "date": "20240329"
+                        },
+                        {
+                            "doc-number": "CN117779107",
+                            "date": "20240329"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311866529",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311866529",
+                            "date": "20231228"
+                        },
+                        {
+                            "doc-number": "202311866529.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311866529",
+                            "date": "20231228"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV HEFEI TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "合肥工业大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI FEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAN JIAMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FANG YICHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YONGXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAN RUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN QIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG XING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李飞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谈家明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "方益成, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张永新, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "甘睿, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张兴"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Multi-electrolytic cell power distribution and switching method",
+                    "一种多电解槽功率分配及投切方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a multi-electrolytic cell power distribution and switching method, and belongs to the field of new energy hydrogen production and control. The method comprises the following steps: acquiring index data of the electrolytic cell under multiple experiment input power Ph, wherein the index data comprises electrolytic cell efficiency data, electrolytic cell gas production rate data and electrolytic cell allowance data; the evaluation score of the index data is obtained through a TOPSIS method, and the optimal working section of the electrolytic cell is determined; and distributing the total input power of the electrolytic cells and switching the electrolytic cells. According to the method, power distribution of the electrolytic cell unit is performed according to the optimal working section of the electrolytic cell, so that the overall working efficiency of the electrolytic cell unit is improved, and the service life of the whole electrolytic cell unit is prolonged."
+                },
+                {
+                    "p": "本发明提供了一种多电解槽功率分配及投切方法，属于新能源制氢和控制领域。该方法包括：电解槽在多次实验输入功率Ph下的指标数据的采集，所述指标数据包括电解槽效率数据、电解槽产气量数据和电解槽裕量数据；采用TOPSIS法得到指标数据的评价分数，确定电解槽的最优工作段；分配电解槽的输入总功率和投切电解槽。本方法根据电解槽的最优工作段进行电解槽机组功率分配，使得电解槽机组整体的工作效率得到提高，增加了整个电解槽机组的寿命。"
+                }
+            ]
+        }
+    }
+}

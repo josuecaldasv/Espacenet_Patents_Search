@@ -1,0 +1,159 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118388782",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118388782",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C08G  83/    00            A I                    "
+                        },
+                        {
+                            "text": "C25B  11/   095            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410495175",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410495175",
+                            "date": "20240424"
+                        },
+                        {
+                            "doc-number": "202410495175.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410495175",
+                            "date": "20240424"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV OF SHANGHAI FOR SCIENCE & TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "上海理工大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "FAN JINCHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG HUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG ZIJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAO WEIJU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BI QINGYUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN MIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN SIHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "范金辰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王梓鉴, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郝伟举, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "毕庆员, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈敏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈思衡"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Chiral ZIF catalyst as well as preparation method and application thereof",
+                    "一种手性ZIF催化剂及其制备方法和应用"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a chiral ZIF catalyst and a preparation method and application thereof, and relates to the technical field of electrocatalysis, and the preparation method comprises the following steps: dissolving a cobalt salt and dimethylimidazole in an alcohol solvent, carrying out a reaction, and collecting ZIF-67; dissolving the ZIF-67 in an alcohol solvent to form a ZIF-67 alcohol solution; and carrying out ligand exchange on the ZIF-67 alcoholic solution and the His solution, and collecting the chiral ZIF catalyst. According to the preparation method provided by the embodiment of the invention, a ZIF-67 metal organic framework is prepared from a cobalt salt alcoholic solution and a dimethylimidazole alcoholic solution, histidine is taken as a chiral source, and the chiral ZIF catalyst is prepared through ligand exchange at room temperature. On one hand, the introduction of a chiral ligand His can cause the chirality to be amplified from the ligand to a metal active site, so that the spin state of the active site is changed, the spin state change is mainly caused by the introduction of the chiral ligand, and the change of the spin state can influence the adsorption and desorption of an oxygen-containing intermediate in the OER process; therefore, the reaction energy barrier in the OER process is optimized, and the overpotential is reduced; and on the other hand, due to the introduction of chirality, a spin polarization current is generated in the electrocatalytic water splitting process, so that the intermediate is influenced by spin reforming, and the overpotential required by the spin overturning process is reduced, namely the potential required by complete water splitting is reduced, so that the hydrogen with the same content can be separated out by using the minimum energy."
+                },
+                {
+                    "p": "本申请公开了一种手性ZIF催化剂及其制备方法和应用，涉及电催化技术领域，包括：使钴盐与二甲基咪唑溶于醇溶剂中，进行反应后，收集ZIF‑67；使所述ZIF‑67溶于醇溶剂中形成ZIF‑67醇溶液；使ZIF‑67醇溶液与His溶液进行配体交换，收集手性ZIF催化剂。本申请实施例提供的制备方法，采用钴盐醇溶液与二甲基咪唑醇溶液制备ZIF‑67金属有机框架，以组氨酸为手性源，通过室温下配体交换实现手性ZIF催化剂的制备。一方面，手性配体His的引入可以导致手性由配体放大到金属活性位点，导致活性位点的自旋状态发生改变，自旋状态的改变主要是由于手性配体的引入，而自旋状态的改变可以影响OER过程中的含氧中间体的吸附与解析附，从而优化OER过程中的反应能垒，降低过电位；另一方面，由于手性的引入，在电催化水裂解过程中产生自旋极化电流，使中间体受自旋重整的影响，降低自旋翻转过程所需要的过电势即将全解水所需电势降低，从而能够用最小的能量析出同样含量的氢气。"
+                }
+            ]
+        }
+    }
+}

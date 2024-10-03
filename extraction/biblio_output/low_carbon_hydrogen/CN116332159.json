@@ -1,0 +1,482 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116332159",
+                            "kind": "A",
+                            "date": "20230627"
+                        },
+                        {
+                            "doc-number": "CN116332159",
+                            "date": "20230627"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J   8/    00            A I                    "
+                        },
+                        {
+                            "text": "B01J   8/    08            A I                    "
+                        },
+                        {
+                            "text": "B01J  19/    10            A I                    "
+                        },
+                        {
+                            "text": "B82Y  40/    00            A I                    "
+                        },
+                        {
+                            "text": "C01B  32/    16            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "8",
+                            "subgroup": "0015",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "8",
+                            "subgroup": "082",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "8",
+                            "subgroup": "085",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "19",
+                            "subgroup": "0053",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "19",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "82",
+                            "subclass": "Y",
+                            "main-group": "40",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "32",
+                            "subgroup": "16",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2202",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310317875",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310317875",
+                            "date": "20230328"
+                        },
+                        {
+                            "doc-number": "202310317875.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310317875",
+                            "date": "20230328"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIVERSITY OF SCIENCE AND TECHNOLOGY BEIJING"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " UNIV OF SCIENCE AND TECHNOLOGY BEIJING SHUNDE INNOVATION COLLEGE"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京科技大学, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京科技大学顺德创新学院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YUE FANQIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU HUANMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN HONGMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG BUSHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "岳凡钦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘焕明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈鸿明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张卜生"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method and device for preparing carbon nano tube through ultrasonic-assisted catalytic cracking of hydrocarbon",
+                    "一种超声辅助催化裂解碳氢化合物制备碳纳米管的方法和装置"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CA2280234",
+                                        "name": "LUCENT TECHNOLOGIES INC [US], et al",
+                                        "date": "20000321"
+                                    },
+                                    {
+                                        "country": "CA",
+                                        "doc-number": "2280234",
+                                        "kind": "A1",
+                                        "name": "LUCENT TECHNOLOGIES INC [US], et al",
+                                        "date": "20000321"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2004265212",
+                                        "name": "VARADAN VIJAY [US], et al",
+                                        "date": "20041230"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2004265212",
+                                        "kind": "A1",
+                                        "name": "VARADAN VIJAY [US], et al",
+                                        "date": "20041230"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2005163696",
+                                        "name": "UHM HAN S [US], et al",
+                                        "date": "20050728"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2005163696",
+                                        "kind": "A1",
+                                        "name": "UHM HAN S [US], et al",
+                                        "date": "20050728"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "KR100763841B",
+                                        "name": "KOREA ENERGY RESEARCH INST [KR]",
+                                        "date": "20071005"
+                                    },
+                                    {
+                                        "country": "KR",
+                                        "doc-number": "100763841",
+                                        "kind": "B1",
+                                        "name": "KOREA ENERGY RESEARCH INST [KR]",
+                                        "date": "20071005"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2008279755",
+                                        "name": "SPENCER JAMES T [US]",
+                                        "date": "20081113"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2008279755",
+                                        "kind": "A1",
+                                        "name": "SPENCER JAMES T [US]",
+                                        "date": "20081113"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102608295",
+                                        "name": "UNIV CHINA PETROLEUM",
+                                        "date": "20120725"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102608295",
+                                        "kind": "A",
+                                        "name": "UNIV CHINA PETROLEUM",
+                                        "date": "20120725"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103435029",
+                                        "name": "WUHAN BOLIXIN NANO SCIENCE & TECHNOLOGY CO LTD",
+                                        "date": "20131211"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103435029",
+                                        "kind": "A",
+                                        "name": "WUHAN BOLIXIN NANO SCIENCE & TECHNOLOGY CO LTD",
+                                        "date": "20131211"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN203558855U",
+                                        "name": "WUHAN BOLIXIN NANO TECHNOLOGY CO LTD",
+                                        "date": "20140423"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "203558855",
+                                        "kind": "U",
+                                        "name": "WUHAN BOLIXIN NANO TECHNOLOGY CO LTD",
+                                        "date": "20140423"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103924114",
+                                        "name": "UNIV NANCHANG",
+                                        "date": "20140716"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103924114",
+                                        "kind": "A",
+                                        "name": "UNIV NANCHANG",
+                                        "date": "20140716"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107474869",
+                                        "name": "CHINA PETROLEUM & CHEM CORP",
+                                        "date": "20171215"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107474869",
+                                        "kind": "A",
+                                        "name": "CHINA PETROLEUM & CHEM CORP",
+                                        "date": "20171215"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN210683695U",
+                                        "name": "BEIJING HERON ENGINEERING TECH CO LTD, et al",
+                                        "date": "20200605"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "210683695",
+                                        "kind": "U",
+                                        "name": "BEIJING HERON ENGINEERING TECH CO LTD, et al",
+                                        "date": "20200605"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111362253",
+                                        "name": "INNER MONGOLIA JUNCHENG NEW ENERGY TECH CO LTD",
+                                        "date": "20200703"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111362253",
+                                        "kind": "A",
+                                        "name": "INNER MONGOLIA JUNCHENG NEW ENERGY TECH CO LTD",
+                                        "date": "20200703"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114988388",
+                                        "name": "UESTC",
+                                        "date": "20220902"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114988388",
+                                        "kind": "A",
+                                        "name": "UESTC",
+                                        "date": "20220902"
+                                    }
+                                ]
+                            },
+                            "category": "YX"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The method comprises the following steps: putting a catalyst into an ultrasonic-assisted catalytic cracking furnace, introducing ultrasonic waves into a furnace tube, and carrying out carbon-hydrogen bond cracking on carbon source gas in the furnace tube by the catalyst in an ultrasonic environment at a relatively low temperature, so as to obtain the carbon nanotube. According to the method, the effect of an ultrasonic field on carbon-hydrogen bond cracking is utilized, so that the temperature for preparing the carbon nano tube from hydrocarbon is greatly reduced, the energy consumption is further reduced, and the problems that the yield and quality of the carbon nano tube are influenced due to increase of the tube diameter of the carbon nano tube caused by union of catalytic active metal at high temperature are solved; meanwhile, under the action of ultrasonic waves, the phenomenon that amorphous carbon adheres to the inner wall of the furnace tube is effectively prevented, and the problem that the furnace tube is blocked is avoided."
+                },
+                {
+                    "p": "本发明公开了一种超声辅助催化裂解碳氢化合物制备碳纳米管的方法和装置，本发明将催化剂放入超声辅助催化裂解炉，将超声波导入炉管内，在超声环境以及较低温度下，实现催化剂对炉管内碳源气体的碳氢键裂解，得到碳纳米管。本发明利用超声波场对碳氢键裂解的作用，不仅大大降低了碳氢化合物制备碳纳米管的温度，进而降低了能耗，还克服了催化活性金属因高温产生并聚而使碳纳米管管径增大，影响碳纳米管产量和质量等问题；同时，在超声波的作用下，本发明有效防止了无定形碳在炉管内壁粘壁现象发生，避免了堵塞炉管的问题。"
+                }
+            ]
+        }
+    }
+}

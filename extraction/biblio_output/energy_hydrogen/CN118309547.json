@@ -1,0 +1,120 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118309547",
+                            "kind": "A",
+                            "date": "20240709"
+                        },
+                        {
+                            "doc-number": "CN118309547",
+                            "date": "20240709"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    38            A I                    "
+                        },
+                        {
+                            "text": "F01N   3/    00            A I                    "
+                        },
+                        {
+                            "text": "F01N   3/    08            A I                    "
+                        },
+                        {
+                            "text": "F01N   5/    02            A I                    "
+                        },
+                        {
+                            "text": "F01N  13/    00            A I                    "
+                        },
+                        {
+                            "text": "F02D  41/    00            A I                    "
+                        },
+                        {
+                            "text": "F02M  21/    02            A I                    "
+                        },
+                        {
+                            "text": "F02M  21/    06            A I                    "
+                        },
+                        {
+                            "text": "F25J   1/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410421071",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410421071",
+                            "date": "20240409"
+                        },
+                        {
+                            "doc-number": "202410421071.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410421071",
+                            "date": "20240409"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "YANGZHOU AOMEI INTELLIGENT TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "扬州澳美智能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DENG ZHE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邓哲"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Catalytic reduction comprehensive treatment system for tail gas of LNG internal combustion engine and operation method",
+                    "LNG内燃机尾气催化还原综合处理系统及运行方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to an LNG internal combustion engine tail gas catalytic reduction comprehensive treatment system and an operation method, the LNG internal combustion engine tail gas catalytic reduction comprehensive treatment system comprises an ECU, an internal combustion engine, a tail gas catalytic reduction comprehensive treatment system, a synthesis gas pipe and an exhaust manifold, and the internal combustion engine is connected with the tail gas catalytic reduction comprehensive treatment system through the synthesis gas pipe and the exhaust manifold; the tail gas catalytic reduction comprehensive treatment system comprises a gas heat exchange device, a three-way catalyst and a gas separator. After tail gas of an LNG internal combustion engine is catalyzed by a three-way catalyst, carbon dioxide, water vapor and nitrogen in gas are separated through a gas separator, the nitrogen is directly discharged into the atmosphere, and part of the separated carbon dioxide and water vapor are mixed with gasified LNG, reheated and catalytically reduced into synthesis gas of carbon monoxide and hydrogen and then recycled to the internal combustion engine. Waste heat of tail gas is fully utilized, heat efficiency is improved, and fuel is saved; carbon dioxide is recycled through cold energy of LNG, zero-carbon emission of tail gas only discharging nitrogen can be achieved, and environmental pollution is reduced."
+                },
+                {
+                    "p": "本发明涉及一种LNG内燃机尾气催化还原综合处理系统和运行方法，包括ECU、内燃机、尾气催化还原综合处理系统、合成气管和排气总管，所述内燃机分别通过所述合成气管、所述排气总管与所述尾气催化还原综合处理系统连接；所述尾气催化还原综合处理系统包括气体热交换装置、三元催化器、气体分离器。LNG内燃机尾气经三元催化器催化后，利用气体分离器将气体中的二氧化碳、水气和氮气分离，氮气直接排入大气，分离的二氧化碳和水气一部分与气化LNG混合重新加热被催化还原成为一氧化碳和氢气的合成气后再循环至内燃机，充分利用了尾气的余热，提高了热效率和节省燃料；利用LNG的冷能回收利用二氧化碳，可实现仅排放氮气的尾气零碳排放，减少环境污染。"
+                }
+            ]
+        }
+    }
+}

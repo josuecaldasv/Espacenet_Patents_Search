@@ -1,0 +1,511 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118156543",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118156543",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    04            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04014            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0444            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0606            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0662            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "047",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04014",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04022",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04447",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0606",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0662",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410565053",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410565053",
+                            "date": "20240509"
+                        },
+                        {
+                            "doc-number": "202410565053.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410565053",
+                            "date": "20240509"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV SHANDONG SCIENCE & TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "山东科技大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHAO ZILIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE WENPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO BIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG ZHANGU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU JITAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YUHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵子亮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何文鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭斌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王战古, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "于继泰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张宇航"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Ammonia fuel cell energy recovery system",
+                    "一种氨燃料电池能量回收系统"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2010127475",
+                                        "name": "TAKUMA KK",
+                                        "date": "20100610"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2010127475",
+                                        "kind": "A",
+                                        "name": "TAKUMA KK",
+                                        "date": "20100610"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2014356738",
+                                        "name": "BELL JIMMY TODD [US], et al",
+                                        "date": "20141204"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2014356738",
+                                        "kind": "A1",
+                                        "name": "BELL JIMMY TODD [US], et al",
+                                        "date": "20141204"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111957270",
+                                        "name": "NATIONAL ENGINEERING RES CENTER OF CHEMICAL FERTILIZER CATALYST",
+                                        "date": "20201120"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111957270",
+                                        "kind": "A",
+                                        "name": "NATIONAL ENGINEERING RES CENTER OF CHEMICAL FERTILIZER CATALYST",
+                                        "date": "20201120"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN214753865U",
+                                        "name": "QINGDAO CHUANGQI XINNENG CATALYTIC TECH CO LTD",
+                                        "date": "20211116"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "214753865",
+                                        "kind": "U",
+                                        "name": "QINGDAO CHUANGQI XINNENG CATALYTIC TECH CO LTD",
+                                        "date": "20211116"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2021367248",
+                                        "name": "GAO YONG [CN]",
+                                        "date": "20211125"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2021367248",
+                                        "kind": "A1",
+                                        "name": "GAO YONG [CN]",
+                                        "date": "20211125"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115092884",
+                                        "name": "CHINA MERCHANTS MARINE EQUIPMENT RES INSTITUTE CO LTD, et al",
+                                        "date": "20220923"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115092884",
+                                        "kind": "A",
+                                        "name": "CHINA MERCHANTS MARINE EQUIPMENT RES INSTITUTE CO LTD, et al",
+                                        "date": "20220923"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "KR20220148374",
+                                        "name": "DAEWOO SHIPBUILDING & MARINE                                                                         [KR]",
+                                        "date": "20221107"
+                                    },
+                                    {
+                                        "country": "KR",
+                                        "doc-number": "20220148374",
+                                        "kind": "A",
+                                        "name": "DAEWOO SHIPBUILDING & MARINE                                                                         [KR]",
+                                        "date": "20221107"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115799566",
+                                        "name": "LG ELECTRONICS INC",
+                                        "date": "20230314"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115799566",
+                                        "kind": "A",
+                                        "name": "LG ELECTRONICS INC",
+                                        "date": "20230314"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116544466",
+                                        "name": "HARBIN INST TECHNOLOGY                                                                              ",
+                                        "date": "20230804"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116544466",
+                                        "kind": "A",
+                                        "name": "HARBIN INST TECHNOLOGY                                                                              ",
+                                        "date": "20230804"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117170421",
+                                        "name": "HANGZHOU ELECTRIC EQUIPMENT MFG CO LTD, et al",
+                                        "date": "20231205"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117170421",
+                                        "kind": "A",
+                                        "name": "HANGZHOU ELECTRIC EQUIPMENT MFG CO LTD, et al",
+                                        "date": "20231205"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2023179893",
+                                        "name": "IHI CORP",
+                                        "date": "20231220"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2023179893",
+                                        "kind": "A",
+                                        "name": "IHI CORP",
+                                        "date": "20231220"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117559044",
+                                        "name": "UNIV BEIJING TECHNOLOGY                                                                             ",
+                                        "date": "20240213"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117559044",
+                                        "kind": "A",
+                                        "name": "UNIV BEIJING TECHNOLOGY                                                                             ",
+                                        "date": "20240213"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117747887",
+                                        "name": "UNIV FUZHOU                                                                                         , et al",
+                                        "date": "20240322"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117747887",
+                                        "kind": "A",
+                                        "name": "UNIV FUZHOU                                                                                         , et al",
+                                        "date": "20240322"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117810494",
+                                        "name": "UNIV FUZHOU                                                                                         , et al",
+                                        "date": "20240402"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117810494",
+                                        "kind": "A",
+                                        "name": "UNIV FUZHOU                                                                                         , et al",
+                                        "date": "20240402"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of fuel cells, and particularly relates to an ammonia fuel cell energy recovery system which comprises a liquid ammonia vaporization preheating system, an ammonia thermal decomposition system, a gas separation system, a fuel cell, a fuel cell waste gas parallel recovery system and a fuel cell cathode and anode outlet energy series recovery system which are connected in sequence, the liquid ammonia vaporizing and preheating system is used for vaporizing and preheating liquid ammonia; the ammonia thermal decomposition system is used for ammonia thermal decomposition and heat exchange with the liquid ammonia vaporization preheating system; the gas separation system is used for separating hydrogen from other gases and collecting the hydrogen, the separated other gases enter the fuel cell waste gas parallel recovery system, and the hydrogen enters the fuel cell to generate electric energy; the fuel cell waste gas parallel recovery system is used for introducing fuel gas into the ammonia thermal decomposition system for combustion and heat release; and the fuel cell cathode and anode outlet energy series recovery system is used for absorbing fuel cell cathode and anode outlet waste gas and exchanging heat with the liquid ammonia vaporization preheating system."
+                },
+                {
+                    "p": "本发明属于燃料电池技术领域，尤其涉及一种氨燃料电池能量回收系统，包括：依次连接的液体氨汽化预热系统、氨热分解系统、气体分离系统、燃料电池、燃料电池废气并联回收系统和燃料电池阴阳极出口能量串联回收系统；液体氨汽化预热系统，用于液体氨的汽化和预热；氨热分解系统，用于氨加热分解以及用于与液体氨汽化预热系统热交换；气体分离系统，用于氢气与其他气体分离，并收集氢气，分离出的其他气体进入到燃料电池废气并联回收系统内，氢气进入到燃料电池内产生电能；燃料电池废气并联回收系统，用于将燃气通入氨热分解系统燃烧放热；燃料电池阴阳极出口能量串联回收系统，用于吸收燃料电池阴阳极出口废气并与液体氨汽化预热系统热交换。"
+                }
+            ]
+        }
+    }
+}

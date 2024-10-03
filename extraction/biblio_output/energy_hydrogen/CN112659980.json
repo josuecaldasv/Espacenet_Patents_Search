@@ -1,0 +1,376 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "112659980",
+                            "kind": "A",
+                            "date": "20210416"
+                        },
+                        {
+                            "doc-number": "CN112659980",
+                            "date": "20210416"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L  50/    72            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    30            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "T",
+                            "main-group": "10",
+                            "subgroup": "72",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "T",
+                            "main-group": "90",
+                            "subgroup": "16",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "T",
+                            "main-group": "90",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202011619004",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202011619004",
+                            "date": "20201231"
+                        },
+                        {
+                            "doc-number": "202011619004.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202011619004",
+                            "date": "20201231"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "DAYUN MOTOR CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "大运汽车股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YANG ZHICHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG XUEFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SU TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨志超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张学锋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苏涛"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen system control method suitable for new energy hydrogen fuel cell vehicle",
+                    "一种适用于新能源氢燃料电池汽车的氢系统控制方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN201849424U",
+                                        "name": "SHANGHAI FUEL CELL VEHICLE POWERTRAIN CO LTD",
+                                        "date": "20110601"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "201849424",
+                                        "kind": "U",
+                                        "name": "SHANGHAI FUEL CELL VEHICLE POWERTRAIN CO LTD",
+                                        "date": "20110601"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1",
+                            "rel-passage": {
+                                "passage": "* 说明书第[0008]段、图1 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102358201",
+                                        "name": "UNIV WUHAN TECH",
+                                        "date": "20120222"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102358201",
+                                        "kind": "A",
+                                        "name": "UNIV WUHAN TECH",
+                                        "date": "20120222"
+                                    }
+                                ]
+                            },
+                            "category": [
+                                "A",
+                                "Y"
+                            ],
+                            "rel-claims": [
+                                "1",
+                                "1"
+                            ],
+                            "rel-passage": {
+                                "passage": "* 说明书第[0028]-[0049]段、图1 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN204161142U",
+                                        "name": "ZHENGZHOU YUTONG BUS CO LTD",
+                                        "date": "20150218"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "204161142",
+                                        "kind": "U",
+                                        "name": "ZHENGZHOU YUTONG BUS CO LTD",
+                                        "date": "20150218"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-2",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108146236",
+                                        "name": "ZHENGZHOU YUTONG BUS CO LTD",
+                                        "date": "20180612"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108146236",
+                                        "kind": "A",
+                                        "name": "ZHENGZHOU YUTONG BUS CO LTD",
+                                        "date": "20180612"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2019020098",
+                                        "name": "ZHENGZHOU YUTONG BUS CO LTD [CN]",
+                                        "date": "20190131"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2019020098",
+                                        "kind": "A1",
+                                        "name": "ZHENGZHOU YUTONG BUS CO LTD [CN]",
+                                        "date": "20190131"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-2",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109334430",
+                                        "name": "WUHAN LUOGEFU HYDROGEN ENERGY AUTOMOBILE CO LTD",
+                                        "date": "20190215"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109334430",
+                                        "kind": "A",
+                                        "name": "WUHAN LUOGEFU HYDROGEN ENERGY AUTOMOBILE CO LTD",
+                                        "date": "20190215"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-2",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110450678",
+                                        "name": "ZHEJIANG BELORD NEW ENERGY CO LTD",
+                                        "date": "20191115"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110450678",
+                                        "kind": "A",
+                                        "name": "ZHEJIANG BELORD NEW ENERGY CO LTD",
+                                        "date": "20191115"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-2",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2020102344",
+                                        "name": "TOYOTA IND CORP, et al",
+                                        "date": "20200702"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2020102344",
+                                        "kind": "A",
+                                        "name": "TOYOTA IND CORP, et al",
+                                        "date": "20200702"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-2",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 田晟等, \"纯电动汽车上下电及电池管理系统故障控制策略\", 《华南理工大学学报(自然科学版)》"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-2",
+                            "rel-passage": {
+                                "passage": "* 第110-117页 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 支雪磊等, \"纯氢纯氧燃料电池电源控制器快速原型开发\", 《电源技术》"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-2",
+                            "rel-passage": {
+                                "passage": "* 第56-78页 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 吴书龙, \"新能源汽车电池技术浅析(一)\", 《汽车维修与保养》"
+                            },
+                            "category": "A",
+                            "rel-claims": "1",
+                            "rel-passage": {
+                                "passage": "* 第25-34页 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a hydrogen system control method suitable for a new energy hydrogen fuel cell vehicle. A hydrogen system comprises a hydrogen fuel cell, a fuel cell controller, a hydrogen storage system, a hydrogen storage controller and a boosting DC-DC converter. A whole vehicle CAN communication network topology is formulated, and communication protocols and electrical interfaces of a fuel cell controller, a hydrogen storage controller, a boost DCDC converter and a whole vehicle controller are respectively compiled; and a control strategy is made for the vehicle control unit, and the vehicle control unit directly controls the fuel cell controller, the hydrogen storage controller and the boost DC-DC converter according to the control strategy. The vehicle control unit directly controls the fuel cell controller, the hydrogen storage controller and the boost DC-DC converter, so that the control flexibility of the vehicle to each system is improved, and the control dynamic response time is prolonged; the hydrogen fuel cell is independently controlled by the fuel cell controller, so that complex functions caused by the fact that the vehicle controller is compatible with the functions of the fuel cell controller are avoided."
+                },
+                {
+                    "p": "本发明涉及一种适用于新能源氢燃料电池汽车的氢系统控制方法，其中氢系统包括氢燃料电池及燃料电池控制器、储氢系统及储氢控制器和升压DC‑DC变换器；制定整车CAN通讯网络拓扑，分别编制燃料电池控制器、储氢控制器、升压DC‑DC变换器与整车控制器的通讯协议和电气接口；为整车控制器制定控制策略，整车控制器根据控制策略分别直接控制燃料电池控制器、储氢控制器和升压DC‑DC变换器。本发明中的整车控制器直接对燃料电池控制器、储氢控制器和升压DC‑DC变换器进行控制，提高了整车对各系统控制的灵活性和控制的动态响应时间；氢燃料电池由燃料电池控制器独立控制，避免整车控制器兼容燃料电池控制器功能而带来的功能复杂。"
+                }
+            ]
+        }
+    }
+}

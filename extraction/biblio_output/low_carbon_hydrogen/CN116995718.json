@@ -1,0 +1,181 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116995718",
+                            "kind": "A",
+                            "date": "20231103"
+                        },
+                        {
+                            "doc-number": "CN116995718",
+                            "date": "20231103"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        },
+                        {
+                            "text": "H02M   3/   158            A I                    "
+                        },
+                        {
+                            "text": "H02M   3/   335            A I                    "
+                        },
+                        {
+                            "text": "H02M   7/    81            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "381",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "46",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "3",
+                            "subgroup": "1582",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "3",
+                            "subgroup": "335",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "7",
+                            "subgroup": "81",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "30",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202210450144",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202210450144",
+                            "date": "20220426"
+                        },
+                        {
+                            "doc-number": "202210450144.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202210450144",
+                            "date": "20220426"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHN ENERGY INVEST GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " NAT INST CLEAN & LOW CARBON ENERGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家能源投资集团有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京低碳清洁能源研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "MOU SHUJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "牟树君"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Battery control system and control method",
+                    "电池的控制系统和控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a battery control system and method, the system comprises an SOC battery, a staggered Buck/Boost module, a CLLC resonant converter, a T-type three-level module and a controller, the controller is used for determining a first given current value according to the target generation power indicated by a power generation instruction, and determining the target generation power according to the first given current value. The control module is used for controlling the staggered Buck/Boost module, the CLLC resonant converter and the T-type three-level module so as to control the output current of the SOC battery and enable the SOC battery to supply power to the power grid according to the target generation power, and the controller is used for determining a second given current value according to the target electrolysis power provided by the power grid to the SOC battery and controlling the SOC battery to supply power to the power grid according to the second given current value. And controlling the staggered Buck/Boost module, the CLLC resonant converter and the T-type three-level module so as to control the input current of the SOC battery and enable the SOC battery to perform electrolytic hydrogen production."
+                },
+                {
+                    "p": "本公开涉及一种电池的控制系统和控制方法，该系统包括SOC电池、交错Buck/Boost模块、CLLC谐振变换器、T型三电平模块和控制器，控制器，用于根据发电指令指示的目标发电功率，确定第一给定电流值，并根据第一给定电流值，对交错Buck/Boost模块、CLLC谐振变换器和T型三电平模块进行控制，以控制SOC电池的输出电流，使SOC电池按照目标发电功率向电网供电，控制器，用于根据电网提供给SOC电池的目标电解功率，确定第二给定电流值，并根据第二给定电流值，对交错Buck/Boost模块、CLLC谐振变换器和T型三电平模块进行控制，以控制SOC电池的输入电流，使SOC电池进行电解制氢。"
+                }
+            ]
+        }
+    }
+}

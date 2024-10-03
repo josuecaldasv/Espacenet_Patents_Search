@@ -1,0 +1,180 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118352985",
+                            "kind": "A",
+                            "date": "20240716"
+                        },
+                        {
+                            "doc-number": "CN118352985",
+                            "date": "20240716"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06N   3/   006            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410269582",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410269582",
+                            "date": "20240311"
+                        },
+                        {
+                            "doc-number": "202410269582.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410269582",
+                            "date": "20240311"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HEBEI UNIV OF ENGINEERING"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "河北工程大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG JIXUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEN YUJING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU KEGUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING SHUAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TIAN HAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG JIHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王继选, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "温宇婧, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邬可贵, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁帅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘阳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "田浩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张记华"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Optimal configuration method for wind-light-water-hydrogen storage multi-energy complementary system based on improved multi-objective particle swarm optimization",
+                    "一种基于改进多目标粒子群算法的风光水氢储多能互补系统优化配置方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to an optimal configuration method for a wind-light-water-hydrogen storage multi-energy complementary system based on an improved multi-objective particle swarm optimization algorithm, and the method comprises the following specific steps: (1) adding a photovoltaic power generation system, a wind power generation system, a pumped storage system, an energy storage battery system and a hydrogen energy storage system into an original conventional power grid structure, establishing a wind-light-water-hydrogen storage multi-energy complementary optimization model by taking the lowest total cost of the system and the minimum carbon emission in the whole life cycle as objective functions; (2) improving a multi-target particle swarm based on an asynchronous change learning factor and an exponential nonlinear decreasing inertia weight, and taking two target functions as fitness functions of a multi-target particle swarm algorithm; and (3) introducing an example, solving the model, generating a group of Pareto leading edge optimal solution sets, introducing TOPSIS to solve the optimal solution of the system, and determining the optimal scheme of each energy source in the multi-energy complementary system. According to the method, the economical efficiency and the environmental protection property of the multi-energy complementary system are comprehensively considered, and theoretical support is provided for application of the multi-energy complementary system."
+                },
+                {
+                    "p": "本发明为一种基于改进多目标粒子群算法的风光水氢储多能互补系统优化配置方法，具体步骤如下：(1)在原有的传统电网结构中加入光伏发电系统、风力发电系统、抽水蓄能系统、储能电池系统和氢储能系统，以系统总成本最低和全生命周期碳排放量最小为目标函数，建立风光水氢储多能互补优化模型；(2)基于异步变化的学习因子和指数型的非线性递减惯性权重对多目标粒子群进行改进，以两个目标函数作为多目标粒子群算法的适应度函数；(3)引入算例，对模型进行求解，生成一组Pareto前沿最优解集，引入TOPSIS求出系统最优解，确定多能互补系统中各能源的最优方案。本发明综合考虑了多能互补系统的经济性和环保性，为多能互补系统的应用提供了理论支持。"
+                }
+            ]
+        }
+    }
+}

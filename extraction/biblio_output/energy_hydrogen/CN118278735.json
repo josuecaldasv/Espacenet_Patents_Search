@@ -1,0 +1,178 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118278735",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118278735",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F17C   1/    00            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    08            A I                    "
+                        },
+                        {
+                            "text": "G06F  16/    29            A I                    "
+                        },
+                        {
+                            "text": "G06F  18/    23            A I                    "
+                        },
+                        {
+                            "text": "G06F  18/  2433            A I                    "
+                        },
+                        {
+                            "text": "G06F  30/    18            A I                    "
+                        },
+                        {
+                            "text": "G06F  30/    27            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0635            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/   083            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0832            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "G06T  17/    10            A I                    "
+                        },
+                        {
+                            "text": "G06F 111/    04            A N                    "
+                        },
+                        {
+                            "text": "G06F 111/    08            A N                    "
+                        },
+                        {
+                            "text": "G06F 113/    14            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410370255",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410370255",
+                            "date": "20240329"
+                        },
+                        {
+                            "doc-number": "202410370255.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410370255",
+                            "date": "20240329"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "DALIAN NEUSOFT UNIV OF INFORMATION"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "大连东软信息学院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SUN DONGSHI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG WENDI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO DI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO GUANGWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAO FUYUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙冬石, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王文娣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭笛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭广巍, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郝福月"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen energy storage and transportation risk early warning system based on digital twinborn and intelligent perception",
+                    "基于数字孪生及智慧感知的氢能储运风险预警系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of hydrogen energy storage and transportation, in particular to a hydrogen energy storage and transportation risk early warning system based on digital twinning and intelligent perception, which comprises a hydrogen energy storage and transportation system, an intelligent perception system and a data twinning system, the hydrogen energy storage and transportation system comprises a tank car filling link, a road transportation link, consumption terminal unloading and daily operation and management. According to the construction of the data twinning system, firstly, digital models of numerous existing roads and station buildings are integrated into the digital twinning system; according to the method, the virtual entity corresponding to the real world is established in the virtual world based on the digital twinning technology, and the probability of hydrogen energy storage and transportation risk early warning in the real world is improved by means of analysis of the virtual digital entity. A design framework of a hydrogen energy storage, transportation, loading and unloading transportation management system is constructed based on digital twinning, and a new perspective is provided for active safety of hydrogen energy storage and transportation through functions of the system, an implementation method and an application scene."
+                },
+                {
+                    "p": "本发明涉及氢能储运技术领域，具体为基于数字孪生及智慧感知的氢能储运风险预警系统，包括氢能储运系统、智慧感知系统和数据孪生系统，数据孪生系统建立在氢能储运系统与智慧感知系统上，氢能储运系统包括槽车充装环节、道路运输环节、消费终端卸车和日常经营与管理；数据孪生系统的构建首先将众多已有的道路、场站建筑的数字化模型整合到数字孪生系统中。本发明基于数字孪生技术在虚拟世界中建立与现实世界相对应的虚拟实体，并借助对虚拟数字实体的分析实现提升现实世界氢能储运风险预警的概率。基于数字孪生构建了氢能储运装卸运输管理系统的设计构架，通过系统的功能、实现方法及应用场景，为氢能储运主动安全实现提供了一个新的视角。"
+                }
+            ]
+        }
+    }
+}

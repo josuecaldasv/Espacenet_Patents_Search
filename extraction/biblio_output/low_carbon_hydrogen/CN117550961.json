@@ -1,0 +1,256 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117550961",
+                            "kind": "A",
+                            "date": "20240213"
+                        },
+                        {
+                            "doc-number": "CN117550961",
+                            "date": "20240213"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  31/    24            A I                    "
+                        },
+                        {
+                            "text": "C07C  45/    50            A I                    "
+                        },
+                        {
+                            "text": "C07C  47/    12            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "31",
+                            "subgroup": "2452",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "124",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "45",
+                            "subgroup": "29",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "45",
+                            "subgroup": "505",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "2531",
+                            "subgroup": "822",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/124",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C33/025",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C45/29",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C47/21",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "3",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C45/505",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C47/12",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311512204",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311512204",
+                            "date": "20231114"
+                        },
+                        {
+                            "doc-number": "202311512204.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311512204",
+                            "date": "20231114"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANGHAI ZHONGHUA TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "上海中化科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU CHUANZHUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI YONGGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ZHIJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TANG YITIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘传卓, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李永刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李志坚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "汤易天"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for synthesizing 1, 9-azelaic dialdehyde",
+                    "一种合成1,9-壬二醛的方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a method for synthesizing 1, 9-azelaic dialdehyde, which comprises the following steps: (1) hydrolysis reaction: carrying out hydrolysis reaction on a compound shown in a formula I to prepare 7-octylene-1-alcohol; (2) selective oxidation reaction: carrying out selective oxidation reaction on the 7-octylene-1 alcohol to prepare 7-octenal; (3) hydroformylation reaction: carrying out hydroformylation reaction on the 7-octenal, hydrogen and carbon monoxide in the presence of a homogeneous catalyst to prepare 1, 9-azelaic dialdehyde; wherein the homogeneous catalyst is prepared from rhodium dicarbonyl acetylacetonate and 4, 6-di (diphenylphosphine) phenazine. The method for synthesizing 1, 9-azelaic dialdehyde has the advantages of high reaction efficiency, low cost, simplicity and convenience in operation, high total yield of products and few byproducts."
+                },
+                {
+                    "p": "本发明提供一种合成1,9‑壬二醛的方法，所述方法包括以下步骤：(1)水解反应：使式I化合物进行水解反应，制得7‑辛烯‑1‑醇；(2)选择性氧化反应：使7‑辛烯‑1醇进行选择性氧化反应，制得7‑辛烯醛；(3)氢甲酰化反应：在均相催化剂的存在下使7‑辛烯醛与氢气和一氧化碳进行氢甲酰化反应，制得1,9‑壬二醛；其中，所述均相催化剂由二羰基乙酰丙酮铑与4,6‑二(二苯基膦)吩嗪组成。采用本方法合成1,9‑壬二醛具有反应高效、成本较低、操作简便、产物总收率较高和副产物少的优点。"
+                }
+            ]
+        }
+    }
+}

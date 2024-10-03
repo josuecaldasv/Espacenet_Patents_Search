@@ -1,0 +1,198 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118198434",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118198434",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G01M   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0432            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0438            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04664            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "3",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0432",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0438",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04679",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410322133",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410322133",
+                            "date": "20240320"
+                        },
+                        {
+                            "doc-number": "202410322133.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410322133",
+                            "date": "20240320"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WUHAI JIENING NEW ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "乌海杰宁新能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DONG JIAYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG ZHIHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG ZHIMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YUAN TIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU BOWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董佳怡, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王智慧, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王志民, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "袁田, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "许博伟"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen fuel cell leakage monitoring and alarming system and method",
+                    "一种氢燃料电池泄露监测报警系统及方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a hydrogen fuel cell leakage monitoring and alarming system and method, and the system comprises a plurality of protection units which are used for sealing all valves in a hydrogen fuel cell system respectively, are filled with gas, and form a sealed cavity; a plurality of monitoring terminals which are arranged in one-to-one correspondence with the protection units and are used for monitoring the air pressure value and the temperature value of the air in the sealing cavity; the processing unit is used for judging that the valve in the sealing cavity is abnormal according to the change of the ratio of the air pressure value to the temperature value of any sealing cavity; and the alarm unit is used for sending out a first alarm signal when the valve is judged to be abnormal. The method has the effect of detecting the leakage of a small amount of hydrogen in the hydrogen fuel cell in time, and judges whether the hydrogen fuel cell leaks or not according to the ideal gas state equation P * V = n * R * T and the change condition of the ratio of the air pressure to the temperature in the sealing cavity through the control variable on the basis of the change condition of the ratio of the air pressure to the temperature in the sealing cavity."
+                },
+                {
+                    "p": "本申请涉及一种氢燃料电池泄露监测报警系统及方法，其中的监测报警系统包括:多个保护单元，用于分别密封氢燃料电池系统中的各个阀门，所述保护单元内充有气体并形成密封腔；多个监测终端，各所述监测终端与所述保护单元一一对应设置，用于监测所述密封腔内气体的气压值和温度值；处理单元，用于根据任一所述密封腔的所述气压值和所述温度值的比值发生变化时，判断所述密封腔内的阀门存在异常；报警单元，用于当判断有阀门存在异常时发出第一报警信号。本申请具有及时检测到氢燃料电池发生少量氢气泄漏的效果，根据理想气体状态方程P*V=n*R*T，通过控制变量，以密封腔内气压与温度的比值变化情况为依据，判断氢燃料电池是否有泄露发生。"
+                }
+            ]
+        }
+    }
+}

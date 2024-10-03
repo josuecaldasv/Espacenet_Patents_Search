@@ -1,0 +1,309 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116637625",
+                            "kind": "A",
+                            "date": "20230825"
+                        },
+                        {
+                            "doc-number": "CN116637625",
+                            "date": "20230825"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  23/    80            A I                    "
+                        },
+                        {
+                            "text": "B01J  35/    00            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   149            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    08            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    20            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "80",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "35",
+                            "subgroup": "40",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "35",
+                            "subgroup": "615",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "35",
+                            "subgroup": "635",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "149",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "52",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/149",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/08",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/149",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/202",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310486237",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310486237",
+                            "date": "20230428"
+                        },
+                        {
+                            "doc-number": "202310486237.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310486237",
+                            "date": "20230428"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "YANCHANG ZHONGKE DALIAN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "延长中科（大连）能源科技股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LYU XINXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BAE IN-EON"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU SHANGJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU WEICHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG GUOJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIA CHUNHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YULING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAO XUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG HUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吕新新, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘勇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "裴仁彦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐尚君, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "于伟臣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王国建, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "夏春晖, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张玉玲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曹雪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王辉"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Ester hydrogenation catalyst as well as preparation method and application thereof",
+                    "一种酯加氢催化剂及其制备方法和应用"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an ester hydrogenation catalyst and a preparation method and application thereof, and belongs to the field of chemical catalyst preparation. The invention relates to an ester hydrogenation catalyst. The ester hydrogenation catalyst comprises CuO and ZnO, the molar ratio of CuO to ZnO is (5: 1)-(1: 5); the specific surface area of the ester hydrogenation catalyst is 95-120 m &lt; 2 &gt;/g. The catalyst is an alloy catalyst, is small in particle size, high in dispersity, strong in anti-sintering performance and good in catalytic activity, and is mild in reaction condition, low in hydrogen-ester ratio, high in raw material conversion rate and high in product selectivity when being used for preparing low-carbon alcohol through ester hydrogenation."
+                },
+                {
+                    "p": "本申请公开了一种酯加氢催化剂及其制备方法和应用，属于化工催化剂制备领域。一种酯加氢催化剂，所述酯加氢催化剂包括CuO和ZnO；所述CuO与所述ZnO的摩尔比为5：1‑1：5；所述酯加氢催化剂的比表面积为95‑120m2/g。该催化剂为合金催化剂，其粒径小、分散度高、抗烧结性能强、催化活性好，用于酯类加氢制低碳醇时，反应条件较为温和，氢酯比低，原料转化率高，产物选择性高。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,501 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "112953021",
+                            "kind": "A",
+                            "date": "20210611"
+                        },
+                        {
+                            "doc-number": "CN112953021",
+                            "date": "20210611"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "70",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "023",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "28",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "28",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "381",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "381",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "381",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "9",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "00",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "24",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "24",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "24",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "28",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "28",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "28",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "133",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202110202867",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202110202867",
+                            "date": "20210223"
+                        },
+                        {
+                            "doc-number": "202110202867.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202110202867",
+                            "date": "20210223"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUNGROW POWER SUPPLY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "阳光电源股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG XINJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张新建"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Renewable energy hydrogen production system and control method thereof",
+                    "一种可再生能源制氢系统及其控制方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2017149606",
+                                        "name": "TOSHIBA KK [JP]",
+                                        "date": "20170908"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2017149606",
+                                        "kind": "A1",
+                                        "name": "TOSHIBA KK [JP]",
+                                        "date": "20170908"
+                                    }
+                                ]
+                            },
+                            "category": "YX"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109962482",
+                                        "name": "GEN RES INST NONFERROUS METALS",
+                                        "date": "20190702"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109962482",
+                                        "kind": "A",
+                                        "name": "GEN RES INST NONFERROUS METALS",
+                                        "date": "20190702"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2019170097",
+                                        "name": "TOKYO GAS CO LTD",
+                                        "date": "20191003"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2019170097",
+                                        "kind": "A",
+                                        "name": "TOKYO GAS CO LTD",
+                                        "date": "20191003"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110565108",
+                                        "name": "XIAN THERMAL POWER RES INST CO, et al",
+                                        "date": "20191213"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110565108",
+                                        "kind": "A",
+                                        "name": "XIAN THERMAL POWER RES INST CO, et al",
+                                        "date": "20191213"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN211367754U",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD",
+                                        "date": "20200828"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "211367754",
+                                        "kind": "U",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD",
+                                        "date": "20200828"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2021008235",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD [CN]",
+                                        "date": "20210121"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2021008235",
+                                        "kind": "A1",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD [CN]",
+                                        "date": "20210121"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112366728",
+                                        "name": "SICHUAN ENERGY INTERNET RESEARCH INSTITUTE OF TSINGHUA UNIV",
+                                        "date": "20210212"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112366728",
+                                        "kind": "A",
+                                        "name": "SICHUAN ENERGY INTERNET RESEARCH INSTITUTE OF TSINGHUA UNIV",
+                                        "date": "20210212"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a renewable energy hydrogen production system and a control method thereof. The renewable energy hydrogen production system comprises a renewable energy power generation system, a main hydrogen production system, an auxiliary hydrogen production system and a controller, the output end of the renewable energy power generation system is connected with the main hydrogen production system and the auxiliary hydrogen production system through an electrical conversion device, and the capacity of the main hydrogen production system is larger than or equal to that of the auxiliary hydrogen production system. The output electrical performance parameters of the renewable energy power generation system are monitored in real time through the controller, start-stop control over the main hydrogen production system and the auxiliary hydrogen production system is achieved, the power utilization range of renewable energy is widened, renewable energy power generation is used for hydrogen production to the maximum extent, the hydrogen production cost of the renewable energy is reduced, and engineering practicability is improved."
+                },
+                {
+                    "p": "本发明涉及一种可再生能源制氢系统及其控制方法，所述可再生能源制氢系统包括可再生能源发电系统、主制氢系统、副制氢系统以及控制器，所述可再生能源发电系统的输出端通过电气变换装置分别与所述主制氢系统以及所述副制氢系统相连接，且所述主制氢系统的容量大于等于所述副制氢系统的容量。通过控制器实时监测可再生能源发电系统的输出电性能参数，实现对主制氢系统以及副制氢系统的启停控制，提高可再生能源的功率利用范围，最大限度地将可再生能源发电用于制氢，降低可再生能源的制氢成本，提高工程实用性。"
+                }
+            ]
+        }
+    }
+}

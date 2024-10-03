@@ -1,0 +1,118 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118320581",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118320581",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01D  53/    22            A I                    "
+                        },
+                        {
+                            "text": "B01D  53/    26            A I                    "
+                        },
+                        {
+                            "text": "C01B  32/    50            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0662            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  1246            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410442301",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410442301",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "202410442301.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410442301",
+                            "date": "20240412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANDONG UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "山东大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HAN JITIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIANG WENXING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "韩吉田, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "梁文兴"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Distributed energy system based on SOFC and tail gas utilization method",
+                    "一种基于SOFC的分布式能源系统和尾气利用方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a distributed energy system based on an SOFC and a tail gas utilization method, and belongs to the technical field of fuel cells. The system comprises an SOFC; the anode gas inlet end of the SOFC is communicated with the gasification furnace; the cathode air inlet end of the SOFC is communicated with a second air compressor; a cathode gas outlet end of the SOFC is communicated with a permeation side inlet of the WGSMR, and an anode gas outlet end of the SOFC is communicated with a supply side inlet of the WGSMR; a permeation side outlet of the WGSMR is sequentially communicated with a gas turbine, a third boiler and a fourth boiler; a supply side outlet of the WGSMR is sequentially communicated with the rear combustion chamber, the Rankine cycle device, the first boiler, the second boiler and the carbon dioxide trapping device; a steam generation device of the refrigeration unit comprises a first boiler and a third boiler; a steam generation device of the fresh water production unit comprises a second boiler and a fourth boiler. The SOFC, the WGSMR and the combustion chamber are connected to cooperatively process anode tail gas and cathode tail gas of the SOFC to obtain hydrogen-poor gas, the hydrogen-poor gas is combusted to generate a high-temperature combustion product containing a large amount of carbon dioxide, and water vapor in the high-temperature combustion product is condensed and removed in the heat recovery process to form high-concentration carbon dioxide."
+                },
+                {
+                    "p": "本发明涉及一种基于SOFC的分布式能源系统和尾气利用方法，属于燃料电池技术领域。系统包括：SOFC；SOFC的阳极进气端连通气化炉；SOFC的阴极进气端连通第二空压机；SOFC的阴极出气端连通WGSMR的渗透侧入口，SOFC的阳极出气端连通WGSMR的供给侧入口；WGSMR的渗透侧出口依次连通燃气轮机、第三锅炉和第四锅炉；WGSMR的供给侧出口依次连通后燃烧室、朗肯循环装置、第一锅炉、第二锅炉和二氧化碳捕集装置；制冷单元的蒸汽发生装置包括第一锅炉和第三锅炉；淡水生产单元的蒸汽发生装置包括第二锅炉和第四锅炉。本发明将SOFC、WGSMR和燃烧室连接，协同处理SOFC的阳极尾气和阴极尾气，获得贫氢气体，经过燃烧生成含有大量二氧化碳的高温燃烧产物，高温燃烧产物中的水蒸气经过热回收过程冷凝去除，形成高浓度的二氧化碳。"
+                }
+            ]
+        }
+    }
+}

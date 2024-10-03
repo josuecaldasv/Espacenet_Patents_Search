@@ -1,0 +1,204 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116401868",
+                            "kind": "A",
+                            "date": "20230707"
+                        },
+                        {
+                            "doc-number": "CN116401868",
+                            "date": "20230707"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  30/    20            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0201            A I                    "
+                        },
+                        {
+                            "text": "G06Q  40/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "G06F 111/    04            A N                    "
+                        },
+                        {
+                            "text": "G06F 113/    04            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "30",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0206",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "40",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "2111",
+                            "subgroup": "04",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "2113",
+                            "subgroup": "04",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310360723",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310360723",
+                            "date": "20230406"
+                        },
+                        {
+                            "doc-number": "202310360723.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310360723",
+                            "date": "20230406"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV CHINA THREE GORGES CTGU"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "三峡大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "FU ZHAOLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XUE TIANLIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO YAJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAN RUNZE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "付兆隆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "薛田良, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵雅洁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "韩润泽"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Comprehensive energy system low-carbon optimization operation method considering electricity-to-gas efficient hydrogen utilization",
+                    "一种考虑电转气高效用氢的综合能源系统低碳优化运行方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "A comprehensive energy system low-carbon optimization operation method considering efficient hydrogen utilization of electricity-to-gas is characterized by comprising the following steps that 1, on the basis of a traditional comprehensive energy system model, a two-stage electricity-to-gas operation process is introduced, refined modeling is conducted on manufacturing, utilization and storage links of hydrogen energy at the same time, and a two-stage electricity-to-gas operation process is introduced; therefore, the comprehensive energy system with the hydrogen energy utilization function is constructed; 2, carbon emission of the comprehensive energy system is further limited by introducing a stepped carbon transaction mechanism, so that a comprehensive energy system low-carbon economic operation model considering the stepped carbon transaction mechanism and efficient hydrogen utilization is constructed; 3, the built comprehensive energy system low-carbon economic operation model considering the stepped carbon transaction mechanism and efficient hydrogen utilization is a mixed integer nonlinear model, the mixed integer nonlinear model needs to be converted into a mixed integer linear model firstly, and then the mixed integer linear model is solved through MATLAB software."
+                },
+                {
+                    "p": "一种考虑电转气高效用氢的综合能源系统低碳优化运行方法，其特征在于，包括以下步骤：步骤1：在传统综合能源系统模型的基础上，引入两阶段电转气运行过程，同时对氢能的制造、利用、存储环节进行精细化建模，从而构建含氢能利用的综合能源系统；步骤2：通过引入阶梯式碳交易机制进一步限制综合能源系统的碳排放，从而构建考虑阶梯式碳交易机制和高效用氢的综合能源系统低碳经济运行模型；步骤3：建立的考虑阶梯式碳交易机制和高效用氢的综合能源系统低碳经济运行模型为混合整数非线性模型，需先通过转化将其变为混合整数线性模型，再采用MATLAB软件对其进行求解。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117217452",
+                            "kind": "A",
+                            "date": "20231212"
+                        },
+                        {
+                            "doc-number": "CN117217452",
+                            "date": "20231212"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311120075",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311120075",
+                            "date": "20230831"
+                        },
+                        {
+                            "doc-number": "202311120075.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311120075",
+                            "date": "20230831"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV NORTH CHINA ELECTRIC POWER"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " BEIJING UNIV OF SCIENCE AND TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华北电力大学, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京科技大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG SHUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI YINGZI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN LI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SEO JIN-HO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GENG ZIHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张硕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李英姿, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈丽, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐振晧, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "耿子涵"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for determining hydrogenation network based on renewable energy hydrogen production",
+                    "基于可再生能源制氢的加氢网络的确定方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a method for determining a hydrogenation network based on renewable energy hydrogen production, and the method comprises the steps: determining hydrogen refueling station information in the hydrogenation network, and the hydrogen refueling station information comprises the position of a hydrogen refueling station and the hydrogen demand of each hydrogen refueling station; constructing a dual-target planning model of the hydrogenation network at least based on the hydrogen supply cost and the hydrogen delivery amount in the hydrogenation network; the hydrogen refueling station information is at least utilized, the dual-target planning model is solved, hydrogen production point information is determined, and the hydrogen production point information comprises the hydrogen production point position, the hydrogen supply amount of each hydrogen production point to the hydrogen refueling station and the storage and transportation mode. According to the scheme of the invention, hydrogenation requirements and hydrogen supply in the hydrogenation network can be effectively matched, and layout optimization of the hydrogenation network based on renewable energy hydrogen production is realized."
+                },
+                {
+                    "p": "本申请公开了基于可再生能源制氢的加氢网络的确定方法，包括：确定所述加氢网络中加氢站信息，所述加氢站信息包括加氢站位置及各加氢站的氢气需求量；至少基于氢气供应成本和加氢网络中的氢气输送量，构建加氢网络的双目标规划模型；至少利用所述加氢站信息，求解所述双目标规划模型，确定出制氢点信息，所述制氢点信息包括：制氢点位置、各制氢点对加氢站的氢气供应量及储运方式。根据本申请的方案，能够有效匹配加氢网络中的加氢需求和氢气供应，实现基于可再生能源制氢的加氢网络的布局优化。"
+                }
+            ]
+        }
+    }
+}

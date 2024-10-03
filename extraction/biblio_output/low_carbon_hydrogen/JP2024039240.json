@@ -1,0 +1,229 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "JP",
+                            "doc-number": "2024039240",
+                            "kind": "A",
+                            "date": "20240322"
+                        },
+                        {
+                            "doc-number": "JP2024039240",
+                            "date": "20240322"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H01L  21/  3065            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01L21/302&105A"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01L21/302&301N"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/AA02"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/AA09"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/BA09"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/BB12"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/BB13"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/BB18"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/BB22"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/BB23"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/BB25"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/BB26"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/BB28"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/CA02"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/CA03"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/CA06"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/DA00"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/DA01"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/DA03"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/DA15"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/DA16"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/DA23"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/DA25"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/DA26"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/EA03"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/EA13"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/EA28"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/EB04"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "JP",
+                            "doc-number": "2022143639",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "JP20220143639",
+                            "date": "20220909"
+                        },
+                        {
+                            "doc-number": "2022143639"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "JP20220143639",
+                            "date": "20220909"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "TOKYO ELECTRON LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "東京エレクトロン株式会社"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ANAMI MASATO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ISHIDA WAKAKO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAMAMOTO SHINYA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "阿南  真郷, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "石田  和香子, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "山本  真也"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "ETCHING METHOD AND PLASMA PROCESSING APPARATUS",
+                    "エッチング方法及びプラズマ処理装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "To provide a technique for forming a highly vertical recess in a silicon oxide film by etching while suppressing etching of a mask made of polycrystalline silicon and a silicon nitride film.SOLUTION: In the etching of a silicon oxide film in a disclosed etching method, a plasma is generated from an etching gas that includes a fluorocarbon gas, a gas consisting of molecules containing carbon and hydrogen, and a nitrogen-containing gas. The level of the source signal used for plasma generation is high in a first period and low in a second period alternating with the first period. The level of the bias signal used to draw ions from the plasma is low during a third period and high during a fourth period alternating with the third period. The third period at least partially overlaps the first period. The fourth period at least partially overlaps the second period.SELECTED DRAWING: Figure 3"
+                },
+                {
+                    "p": "【課題】多結晶シリコン製のマスク及びシリコン窒化膜がエッチングされることを抑制しつつ、エッチングにより高い垂直性を有する凹部をシリコン酸化膜に形成する技術を提供する。【解決手段】開示されるエッチング方法におけるシリコン酸化膜のエッチングでは、フルオロカーボンガス、炭素及び水素を含む分子からなるガス、並びに窒素含有ガスを含むエッチングガスからプラズマが生成される。プラズマの生成のために用いられるソース信号のレベルは、第１の期間において高く、第１の期間と交互の第２の期間において低い。プラズマからイオンを引き込むために用いられるバイアス信号のレベルは、第３の期間において低く、第３の期間と交互の第４の期間において高い。第３の期間は、第１の期間と少なくとも部分的に重複する。第４の期間は、第２の期間と少なくとも部分的に重複する。【選択図】図３"
+                }
+            ]
+        }
+    }
+}

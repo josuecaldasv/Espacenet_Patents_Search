@@ -1,0 +1,168 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116739238",
+                            "kind": "A",
+                            "date": "20230912"
+                        },
+                        {
+                            "doc-number": "CN116739238",
+                            "date": "20230912"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/   067            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    26            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310548970",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310548970",
+                            "date": "20230512"
+                        },
+                        {
+                            "doc-number": "202310548970.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310548970",
+                            "date": "20230512"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV WUHAN"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "武汉大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HU ZHIJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN JINPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WENG CHANGHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU SHENGHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU HAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO MINGXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡志坚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘妍, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈锦鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "翁菖宏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘盛辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡号, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高明鑫"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Low-carbon economic dispatching method for integrated energy system",
+                    "一种综合能源系统低碳经济调度方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a comprehensive energy system low-carbon economic dispatching method, and relates to the technical field of comprehensive energy system optimization dispatching, and the method comprises the steps: building a carbon capture power plant operation model according to the composition and operation parameters of a carbon capture power plant; a corresponding hydrogen energy utilization model is constructed based on the operation parameters of the two-stage electricity-to-gas, the hydrogen fuel cell, the hydrogen storage tank and the fuel gas hydrogen-doped combined heat and power generation; and combining the carbon capture power plant operation model with all the hydrogen energy utilization models to form a comprehensive energy system, and obtaining a comprehensive energy system scheduling model with the minimum total cost based on the constraint condition of the comprehensive energy system and a cost accounting model. The operation economic cost of the comprehensive energy system is reduced, meanwhile, deep decarburization and emission reduction are achieved, and the wind power consumption rate and the energy utilization efficiency of the system are effectively improved. The problems that in the prior art, an integrated energy system is high in operation economic cost, and the wind power consumption rate and the energy utilization efficiency of the system are insufficient are solved."
+                },
+                {
+                    "p": "本发明公开了一种综合能源系统低碳经济调度方法，涉及综合能源系统优化调度技术领域，该方法包括：根据碳捕集电厂的构成和运行参数，建立碳捕集电厂运行模型；基于两段式电转气、氢燃料电池、储氢罐和燃气掺氢热电联产的运行参数，构建对应的氢能利用模型；将碳捕集电厂运行模型与所有的氢能利用模型结合为综合能源系统，基于综合能源系统的约束条件和成本核算模型，获取总成本最小的综合能源系统调度模型。在降低综合能源系统运行经济成本的同时实现深度脱碳减排，并有效提升系统的风电消纳率以及能源利用效率。解决了现有技术中综合能源系统运行经济成本高，系统的风电消纳率及能源利用效率不足的问题。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118217773",
+                            "kind": "A",
+                            "date": "20240621"
+                        },
+                        {
+                            "doc-number": "CN118217773",
+                            "date": "20240621"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01D  45/    12            A I                    "
+                        },
+                        {
+                            "text": "B01D  53/   047            A I                    "
+                        },
+                        {
+                            "text": "B01D  53/    22            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    50            A I                    "
+                        },
+                        {
+                            "text": "C01B  33/   027            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "45",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "53",
+                            "subgroup": "047",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "53",
+                            "subgroup": "22",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "50",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "33",
+                            "subgroup": "027",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "0405",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "042",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410331433",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410331433",
+                            "date": "20240322"
+                        },
+                        {
+                            "doc-number": "202410331433.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410331433",
+                            "date": "20240322"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "JIANGSU ZHONGNENG SILICON INDUSTRY TECH DEVELOPMENT CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "江苏中能硅业科技发展有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WU YUZHE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG LIMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU MEILI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FAN XIAODONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FAN JINJIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴钰哲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蒋立民, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘美丽, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "樊晓冬, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "范津津"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen separation method and system for particle silicon production",
+                    "一种用于颗粒硅生产的氢气分离方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a hydrogen separation method and system for particle silicon production. The hydrogen separation method comprises the following steps: carrying out heat exchange cooling on hydrogen-containing tail gas discharged by a fluidized bed; carrying out gas-solid separation on the hydrogen-containing tail gas subjected to heat exchange cooling, and filtering out silicon powder in the hydrogen-containing tail gas; compressing the hydrogen-containing tail gas from which the silicon powder is filtered; carrying out membrane separation treatment on the compressed hydrogen-containing tail gas; and carrying out adsorption treatment on the hydrogen-containing tail gas from which the silane gas is separated by the membrane separation treatment to obtain hydrogen. The method improves the purity of separated hydrogen, effectively prolongs the service life of equipment, and has the advantages of low equipment investment and low energy consumption."
+                },
+                {
+                    "p": "本发明公开了一种用于颗粒硅生产的氢气分离方法及系统，氢气分离方法包括将流化床排出的含氢尾气进行换热冷却；对换热冷却后的含氢尾气进行气固分离，滤除含氢尾气中的硅粉；将滤除硅粉的含氢尾气进行压缩；对压缩后的含氢尾气进行膜分离处理；对膜分离处理分离出硅烷气的含氢尾气进行吸附处理，得到氢气。本发明提高了分离氢气的纯度，有效提高了设备使用寿命，具备设备投资少，能耗低的优点。"
+                }
+            ]
+        }
+    }
+}

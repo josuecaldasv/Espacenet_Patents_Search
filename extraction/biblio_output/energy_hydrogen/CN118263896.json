@@ -1,0 +1,218 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118263896",
+                            "kind": "A",
+                            "date": "20240628"
+                        },
+                        {
+                            "doc-number": "CN118263896",
+                            "date": "20240628"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G05B  13/    04            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "05",
+                            "subclass": "B",
+                            "main-group": "13",
+                            "subgroup": "042",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "28",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "46",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "24",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "28",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410351658",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410351658",
+                            "date": "20240326"
+                        },
+                        {
+                            "doc-number": "202410351658.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410351658",
+                            "date": "20240326"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV CHINA MINING"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国矿业大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HAN DENGKE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI QIUSHUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DONG XINWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHENG ZHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "韩登科, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李秋硕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王玙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董新伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "程钊"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Power coordination control method for heat and hydrogen energy storage grid-connected alternating current micro-grid system",
+                    "一种热、氢储能并网交流微电网系统功率协调控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a heat and hydrogen energy storage grid-connected AC micro-grid system power coordination control method, which relates to the technical field of power management, and comprises the following steps: S1, respectively establishing a hydrogen energy storage model and a heat energy storage model, and determining the charging and discharging efficiency and the energy storage capacity of a heat and hydrogen energy storage system; s2, a heat and hydrogen energy storage combined control strategy is set according to the hydrogen energy storage model and the heat energy storage model, and energy management is carried out; and S3, designing a power coordination control algorithm in combination with the real-time operation condition of the system and the external environment factors. The charging and discharging efficiency and the energy storage capacity are obtained by establishing a hydrogen energy storage model and a heat energy storage model, then a combined control strategy is set by using parameters of heat and hydrogen energy storage, energy management of an energy storage system is performed according to the control strategy, output of an energy storage unit in a micro-grid is scientifically controlled, real-time fluctuation of new energy is made up, and the energy storage efficiency of the micro-grid is improved. Therefore, the power is stabilized within a certain range, the requirement of stable power supply is met, and power coordination control of the micro-grid system is realized."
+                },
+                {
+                    "p": "本发明公开了一种热、氢储能并网交流微电网系统功率协调控制方法，涉及电力管理技术领域，包括以下步骤：S1、分别建立氢储能模型和热储能模型，确定热、氢储能系统的充放电效率和储能容量；S2、根据氢储能模型和热储能模型设定热、氢储能联合控制策略，进行能量管理；S3、结合系统的实时运行情况和外部环境因素，设计功率协调控制算法。本发明通过建立氢储能模型和热储能模型获得其充放电效率和储能容量，然后利用热、氢储能的参数设定联合控制策略，根据控制策略进行储能系统的能量管理，科学控制微电网内储能单元出力，弥补新能源实时波动性，使稳定在一定的范围内，满足稳定供电的要求，实现微电网系统的功率协调控制。"
+                }
+            ]
+        }
+    }
+}

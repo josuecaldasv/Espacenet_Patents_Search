@@ -1,0 +1,183 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118329312",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118329312",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F17C  13/    00            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    02            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    04            A I                    "
+                        },
+                        {
+                            "text": "G01M   3/    24            A I                    "
+                        },
+                        {
+                            "text": "G06F  18/   213            A I                    "
+                        },
+                        {
+                            "text": "G06F  18/  2131            A I                    "
+                        },
+                        {
+                            "text": "G06F  18/   214            A I                    "
+                        },
+                        {
+                            "text": "G06F  18/  2433            A I                    "
+                        },
+                        {
+                            "text": "G06N  20/    10            A I                    "
+                        },
+                        {
+                            "text": "G08B   5/    36            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410205845",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410205845",
+                            "date": "20240226"
+                        },
+                        {
+                            "doc-number": "202410205845.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410205845",
+                            "date": "20240226"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUAINAN NORMAL UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "淮南师范学院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI FENGHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG KAIFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI DONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DOU LITONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BI YAOSHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAN KELIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU SHULIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李峰辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄凯峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李冬, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "窦礼同, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "毕尧山, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "詹可亮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘树林"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Real-time monitoring method for special valve for hydrogen energy transportation",
+                    "一种氢能运输专用阀门实时监测方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a real-time monitoring method for a special valve for hydrogen energy transportation, and relates to the technical field of valve monitoring, and the method comprises the following steps: S1, liquefying hydrogen gas, storing the liquefied hydrogen gas in a hydrogen storage tank, obtaining a sound signal of the hydrogen storage tank in real time in the transportation process of the hydrogen storage tank, and storing the obtained sound signal; and S2, the obtained sound signal of the hydrogen storage tank is processed, so that data support is provided for subsequent recognition of the state of the valve of the hydrogen storage tank. According to the real-time monitoring method for the special valve for hydrogen energy transportation, the position information of each hydrogen storage tank is obtained, naming operation with the content of non-repeated digital codes is carried out on each hydrogen storage tank, and connection with the sound signals of each hydrogen storage tank is established, so that timely processing is carried out when it is recognized that the valve of each hydrogen storage tank breaks down, and the safety of hydrogen energy transportation is improved. And through the constructed hydrogen storage tank valve fault identification model, detection of transient internal leakage sound wave signals of the hydrogen storage tank valve is realized."
+                },
+                {
+                    "p": "本发明公开了一种氢能运输专用阀门实时监测方法，涉及阀门监测技术领域，包括以下步骤：S1：将氢气气体液化后储存在储氢罐内，在储氢罐运输过程中对储氢罐的声音信号进行实时获取，并对获取的声音信号进行存储，S2：对获取的储氢罐的声音信号进行处理，从而为后续对储氢罐阀门状态的识别提供数据支撑。本发明提出了一种氢能运输专用阀门实时监测方法，通过获取各个储氢罐的位置信息以及对各个储氢罐进行内容为不重复数字编码的命名操作，并与各个储氢罐的声音信号建立联系，以便在识别出储氢罐阀门出现故障时进行及时处理，且通过构建的储氢罐阀门故障识别模型实现对储氢罐阀门出现瞬态型内漏声波信号的检测。"
+                }
+            ]
+        }
+    }
+}

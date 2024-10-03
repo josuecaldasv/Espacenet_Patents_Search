@@ -1,0 +1,115 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118345405",
+                            "kind": "A",
+                            "date": "20240716"
+                        },
+                        {
+                            "doc-number": "CN118345405",
+                            "date": "20240716"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/   042            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    67            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    08            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410213177",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410213177",
+                            "date": "20240227"
+                        },
+                        {
+                            "doc-number": "202410213177.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410213177",
+                            "date": "20240227"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "TSINGHUA UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "清华大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HAN MINFANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CUI TONGHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "韩敏芳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "崔同慧"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "High-efficiency solid oxide electrolytic hydrogen production system and method coupled with industrial high-temperature waste heat",
+                    "耦合工业高温余热的高效率固体氧化物电解制氢系统和方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a high-efficiency solid oxide electrolysis hydrogen production system and method coupled with industrial high-temperature waste heat, and the system comprises a solid oxide electrolysis SOEC hydrogen production subsystem, a heating assembly and a heat exchange assembly, and the heat exchange assembly recovers heat of first high-temperature tail gas and second high-temperature tail gas at an outlet of the SOEC hydrogen production subsystem; reaction gas and purging gas required by hydrogen production of the SOEC hydrogen production subsystem are heated through the recycled heat, and initial reaction gas and initial purging gas are obtained; the heating assembly evaporates water vapor based on the heat source meeting the preset temperature, the initial reaction gas and the initial purge gas are heated to the target temperature, and target reaction gas and target purge gas are obtained; the SOEC hydrogen production subsystem generates hydrogen on the SOEC fuel electrode side and generates oxygen on the SOEC oxygen electrode side based on the target reaction gas and the target purge gas. Therefore, the problem that the heat exchange layout of the system in the related technology cannot meet the heat required by steam evaporation and gas overheating when the SOEC system works is solved, the electric energy consumption of the system is reduced, and the hydrogen production efficiency of the system is improved."
+                },
+                {
+                    "p": "本申请涉及一种耦合工业高温余热的高效率固体氧化物电解制氢系统和方法，包括：固体氧化物电解SOEC制氢子系统、加热组件和换热组件，换热组件回收SOEC制氢子系统出口的第一高温尾气和第二高温尾气的热量，利用回收热量加热SOEC制氢子系统制氢所需的反应气和吹扫气，得到初始反应气和初始吹扫气；加热组件基于满足预设温度的热源蒸发水蒸汽，将初始反应气和初始吹扫气加热至目标温度，得到目标反应气和目标吹扫气；SOEC制氢子系统基于目标反应气和目标吹扫气在SOEC燃料电极侧生成氢气，在SOEC氧电极侧生成氧气。由此，解决了相关技术中系统换热布局无法满足SOEC系统工作时蒸汽蒸发和气体过热所需热量等问题，降低了系统电能消耗，提高了系统制氢效率。"
+                }
+            ]
+        }
+    }
+}

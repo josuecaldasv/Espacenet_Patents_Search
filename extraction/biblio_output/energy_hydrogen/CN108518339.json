@@ -1,0 +1,188 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "108518339",
+                            "kind": "A",
+                            "date": "20180911"
+                        },
+                        {
+                            "doc-number": "CN108518339",
+                            "date": "20180911"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F04B  49/    06            A I                    "
+                        },
+                        {
+                            "text": "B01D  61/    00            A I                    "
+                        },
+                        {
+                            "text": "F04B  39/    10            A I                    "
+                        },
+                        {
+                            "text": "F04B  51/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "61",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "39",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "49",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "51",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201810346909",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201810346909",
+                            "date": "20180418"
+                        },
+                        {
+                            "doc-number": "201810346909.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201810346909",
+                            "date": "20180418"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING HUAQING WEITUO ENERGY SAVING TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京华清微拓节能技术股份公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JING YUXIU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QI XIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU YONGYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HONG JIAJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KONG LINGKAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "景毓秀, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "齐心, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "于永洋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "洪家杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孔令凯"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Oil refinery low-energy hydrogen recovery method",
+                    "种炼油厂低能耗氢气回收方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an oil refinery low-energy hydrogen recovery method. By arranging actuators on air inlet valves of air cylinders at all stages of a raw gas compressor and a product gas compressor in an oil refinery hydrogen recovery system, the actuators are controlled through a control unit, so that the air inlet valves are operated to close in a delayed manner, only gas, with a certain capacity, needing to be compressed is compressed in a compression cycle, redundant gas, without being compressed, returns back to an air inlet header again, and gas capacity stepless regulation withinthe range of 0-100% is achieved. According to the oil refinery low-energy hydrogen recovery method, the air inlet valves are controlled to close in the delayed manner, gas capacity stepless regulationwithin the range of 0-100% is achieved, in addition, the compressors can be controlled according to a master control variable, the value is automatically tracked and stabilized, and the compressors are stably started, loaded, switched and stopped; and system self faults can be automatically removed."
+                },
+                {
+                    "p": "本发明公开了种炼油厂低能耗氢气回收方法，通过在炼油厂氢气回收系统中的原料气压缩机和产品气压缩机的各级气缸进气阀上设置执行机构，由控制单元控制执行机构以操作进气阀延迟关闭，使压缩循环只压缩需要压缩的气量，多余气体未经压缩而重新返回到进气总管，实现0～100%范围内气量无级调节。本发明控制进气阀延迟关闭，实现0～100%范围内气量无级调节，且能根据主控变量对压缩机进行控制，自动跟踪并稳定此值，实现压缩机的平稳启动、加载、切换和停机；当系统自身故障时可自动切除。"
+                }
+            ]
+        }
+    }
+}

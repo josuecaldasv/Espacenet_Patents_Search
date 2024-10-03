@@ -1,0 +1,181 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118428191",
+                            "kind": "A",
+                            "date": "20240802"
+                        },
+                        {
+                            "doc-number": "CN118428191",
+                            "date": "20240802"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  17/    11            A I                    "
+                        },
+                        {
+                            "text": "G06F  17/    18            A I                    "
+                        },
+                        {
+                            "text": "G06F  30/    25            A I                    "
+                        },
+                        {
+                            "text": "G16C  20/    10            A I                    "
+                        },
+                        {
+                            "text": "G06F 119/    08            A N                    "
+                        },
+                        {
+                            "text": "G06F 119/    14            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410690878",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410690878",
+                            "date": "20240530"
+                        },
+                        {
+                            "doc-number": "202410690878.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410690878",
+                            "date": "20240530"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "XIAN JIAOTONG UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西安交通大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHEN RONGHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIAO XINKUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHONG YUBAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING WEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG XINKAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " AKIHO TADASHI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SU GUANGHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TIAN WENXI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈荣华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "肖鑫坤, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "钟昱堡, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁雯, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王鑫凯, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "秋穗正, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苏光辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "田文喜"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for analyzing hydrogen risk in nuclear reactor containment based on multiphase particle method",
+                    "一种基于多相粒子法的核反应堆安全壳内氢气风险分析方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "A risk analysis method for hydrogen in a nuclear reactor containment based on a multiphase particle method comprises the following specific steps: 1, carrying out particle modeling on gas between a nuclear reactor pressure vessel and the containment, and filling a set initial gas area with different types of particles; 2, explicitly calculating a gravity item; 3, calculating a surface tension item by adopting an interphase surface tension model; 4, introducing a multiphase viscosity model to calculate a viscous force item; 5, building a pressure Poisson equation by considering a multi-phase density model, and implicitly solving relative pressure; 6, calculating a temperature field based on an energy conservation equation; 7, obtaining the hydrogen concentration of each part in the containment, and carrying out hydrogen flammability analysis and detonation probability calculation; and 8, propelling the simulation time until the detonation occurrence probability reaches a limit value or the gas distribution is stable. According to the method, heat and mass transfer calculation of gas in a nuclear reactor containment space is carried out based on a meshless particle method, and hydrogen flammability analysis and detonation probability calculation are completed after hydrogen concentration data are obtained."
+                },
+                {
+                    "p": "一种基于多相粒子法的核反应堆安全壳内氢气风险分析方法，具体步骤如下：1，对核反应堆压力容器与安全壳之间的气体进行粒子建模，使用不同类型的粒子填充设定的初始气体区域；2，显式计算重力项；3，采用相间表面张力模型计算表面张力项；4，引入多相粘度模型计算粘性力项；5，考虑多相密度模型构建压力泊松方程，隐式求解相对压力；6，基于能量守恒方程计算温度场；7，得到安全壳内各处氢气浓度，开展氢气可燃性分析与爆轰概率计算；8，推进模拟时间，直至爆轰发生概率到达限值或气体分布稳定。本发明方法基于无网格粒子方法开展核反应堆安全壳空间内气体的传热传质计算，得到氢气浓度数据后完成氢气可燃性分析与爆轰概率计算。"
+                }
+            ]
+        }
+    }
+}

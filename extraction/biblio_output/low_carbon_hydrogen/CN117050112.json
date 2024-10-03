@@ -1,0 +1,241 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117050112",
+                            "kind": "A",
+                            "date": "20231114"
+                        },
+                        {
+                            "doc-number": "CN117050112",
+                            "date": "20231114"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "A61K  47/    24            A I                    "
+                        },
+                        {
+                            "text": "C07F   9/  6574            A I                    "
+                        },
+                        {
+                            "text": "C08K   5/  5313            A I                    "
+                        },
+                        {
+                            "text": "C08L  63/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "61",
+                            "subclass": "K",
+                            "main-group": "47",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "F",
+                            "main-group": "9",
+                            "subgroup": "657172",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "5",
+                            "subgroup": "5313",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "2201",
+                            "subgroup": "02",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "2201",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08K5/5313",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08L63/00",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211694582",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211694582",
+                            "date": "20221228"
+                        },
+                        {
+                            "doc-number": "202211694582.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211694582",
+                            "date": "20221228"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV XIHUA"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西华大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "FU ZHICHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN MINGJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO LIHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DENG JINNI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG TING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG XINWEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN KANGYAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "符志成, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈明军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭丽华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邓瑾妮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "汪婷, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨新闻, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈康耀"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Benzoazepine-containing DOPO derivative as well as preparation method and application thereof",
+                    "一种含苯并氮杂卓的DOPO衍生物及其制备方法和应用"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a novel DOPO derivative containing benzazepine and preparation and application thereof, and belongs to the field of polymer synthesis. The invention provides a novel benzoazepine-containing DOPO (9, 10-dihydro-9-oxa-10-phosphaphenanthrene-10-oxide) derivative, the structural general formula of which is as shown in formula I. In the formula I, R1 and R2 are alkyl of various structures, naphthenic base with 3-6 carbon atoms, alkenyl with 2-6 carbon atoms, aryl alkenyl with 8-12 carbon atoms, aryl or hydrogen; x is hetero atoms such as N, O or S. The obtained benzoazepine-containing novel DOPO derivative not only can be used as an organic synthesis intermediate, but also is an excellent flame retardant capable of realizing high flame retardance in high polymer materials such as epoxy resin, polyurethane, polyester, polyamide and the like through a low addition amount due to excellent thermal stability and multiple flame-retardant elements. # imgabs0 #"
+                },
+                {
+                    "p": "本发明涉及一种含苯并氮杂卓的新型DOPO衍生物及其制备和应用，属于高分子合成领域。本发明提供一种新型的含苯并氮杂卓的DOPO衍生物，其结构通式如式I所示，其中，R1、R2为各类结构的烷基、具有3‑6个碳原子的环烷基、具有2‑6个碳原子的烯基、具有8～12个碳原子的芳基烯基、芳基或氢；X为N、O或S等杂原子。所得含苯并氮杂卓的新型DOPO衍生物不仅可作为有机合成中间体，因热稳定性优秀且阻燃元素多，因此是一种可通过低添加量就可在环氧树脂、聚氨酯、聚酯、聚酰胺等高分子材料中实现高阻燃的优异阻燃剂。#imgabs0#"
+                }
+            ]
+        }
+    }
+}

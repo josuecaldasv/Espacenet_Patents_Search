@@ -1,0 +1,288 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "113663705",
+                            "kind": "A",
+                            "date": "20211119"
+                        },
+                        {
+                            "doc-number": "CN113663705",
+                            "date": "20211119"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  27/    24            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "27",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "35",
+                            "subgroup": "39",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "042",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202110821036",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202110821036",
+                            "date": "20210720"
+                        },
+                        {
+                            "doc-number": "202110821036.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202110821036",
+                            "date": "20210720"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV SUZHOU SCI & TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "苏州科技大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HU JUNDIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI XUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI CHANGMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡俊蝶, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李雪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李长明"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Lanthanum vanadate/graphite phase carbon nitride composite material as well as preparation method and application thereof",
+                    "一种钒酸镧/石墨相氮化碳复合材料及其制备方法和应用"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102698784",
+                                        "name": "UNIV ZHEJIANG NORMAL",
+                                        "date": "20121003"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102698784",
+                                        "kind": "A",
+                                        "name": "UNIV ZHEJIANG NORMAL",
+                                        "date": "20121003"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第5-18段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107033907",
+                                        "name": "CHENGDU AERONAUTIC POLYTECHNIC",
+                                        "date": "20170811"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107033907",
+                                        "kind": "A",
+                                        "name": "CHENGDU AERONAUTIC POLYTECHNIC",
+                                        "date": "20170811"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108601967",
+                                        "name": "UNIV LELAND STANFORD JUNIOR",
+                                        "date": "20180928"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108601967",
+                                        "kind": "A",
+                                        "name": "UNIV LELAND STANFORD JUNIOR",
+                                        "date": "20180928"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111036272",
+                                        "name": "UNIV JIANGSU",
+                                        "date": "20200421"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111036272",
+                                        "kind": "A",
+                                        "name": "UNIV JIANGSU",
+                                        "date": "20200421"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 彭绍琴等, \"“糠醛、糠醇和糠酸为电子给体在Pt/TiO2上光催化制氢”\""
+                            },
+                            "category": "Y",
+                            "rel-claims": "10",
+                            "rel-passage": {
+                                "passage": "* 第1212-1224页 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Xiaoping Liu等, \"“Enhanced visible-light photocatalytic activity of a g-C3N4/m-LaVO4 heterojunction: band offset determination”\""
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 第645-655页 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- M. Zahedifar等, \"“Synthesis of LaVO4: Dy3+ luminescent nanostructure and optimization of its performance as down-converter in dye-sensitized solar cells”\""
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 第66-73页 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a lanthanum vanadate/graphite phase carbon nitride composite material as well as a preparation method thereof and application of the lanthanum vanadate/graphite phase carbon nitride composite material as a photocatalyst. The invention relates to the technical field of new energy functional materials. The preparation method comprises the steps of preparing graphite-phase carbon nitride nanosheets and lanthanum vanadate nanosheets; and mixing and grinding the lanthanum vanadate nanosheets and graphite phase carbon nitride, and calcining to obtain the lanthanum vanadate/graphite phase carbon nitride composite material. The invention also discloses application of the lanthanum vanadate/graphite phase carbon nitride composite material in preparation of new energy hydrogen through photocatalytic decomposition of water and synergistic production of furfural. The lanthanum vanadate/graphite-phase carbon nitride composite material prepared by the invention is simple in synthesis step, and has excellent visible light responsiveness, high carrier mobility and high specific surface area, so that the composite material has very strong absorption capacity to visible light and high photocatalytic hydrogen production efficiency, can effectively utilize photo-generated holes, oxidizes a biomass material furfuryl alcohol into a high-added-value product furfural, and has a wide application prospect."
+                },
+                {
+                    "p": "本发明公开了一种钒酸镧/石墨相氮化碳复合材料和其制备方法，以及其作为光催化剂的应用。本发明涉及新能源功能材料技术领域。制备方法包括：制备石墨相氮化碳纳米片和钒酸镧纳米片；将钒酸镧纳米片与石墨相氮化碳混合研磨后煅烧，得到钒酸镧/石墨相氮化碳复合材料。本发明还公开了钒酸镧/石墨相氮化碳复合材料在光催化分解水制备氢气新能源协同生产糠醛的应用。本发明制备的钒酸镧/石墨相氮化碳复合材料合成步骤简单，具有优异的可见光响应性、高载流子迁移率和高比表面积，因此，该复合材料对可见光有很强的吸收能力，光催化产氢效率高，并且可有效利用光生空穴，将生物质材料糠醇氧化为高附加值产物糠醛，具有广泛应用前景。"
+                }
+            ]
+        }
+    }
+}

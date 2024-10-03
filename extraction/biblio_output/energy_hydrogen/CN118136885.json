@@ -1,0 +1,198 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118136885",
+                            "kind": "A",
+                            "date": "20240604"
+                        },
+                        {
+                            "doc-number": "CN118136885",
+                            "date": "20240604"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04119            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04298            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0438            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04992            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04126",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04298",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0438",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04992",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410414985",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410414985",
+                            "date": "20240408"
+                        },
+                        {
+                            "doc-number": "202410414985.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410414985",
+                            "date": "20240408"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING YIHUATONG HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京亿华通氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHAO XINGWANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU JIAQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FANG CHUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YUAN DIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵兴旺, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李阳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘佳奇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "方川, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "袁殿"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Humidification control method, control module and device of fuel cell system",
+                    "一种燃料电池系统的增湿控制方法、控制模块及装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a humidification control method, control module and device for a fuel cell system, and the method comprises the steps: generating a first control signal based on a starting instruction transmitted by the fuel cell system, transmitting the first control signal to a water source heat pump, and controlling the water source heat pump to start, water flowing in from the inlet end of the second channel of the water source heat pump is heated into high-temperature steam in the second channel through the heat of the galvanic pile cooling liquid absorbed from the first channel, and the high-temperature steam is discharged into the high-temperature steam chamber from the outlet end of the second channel to be stored; and on the basis of the target steam injection amount of the injection valve, a second control signal is generated and sent to the injection valve, so that the opening degree of the injection valve is adjusted, the high-temperature steam is injected into the humidification mixing cavity from the high-temperature steam chamber according to the target steam injection amount to be mixed with air in the humidification mixing cavity, and the air in the humidification mixing cavity is humidified. Therefore, the high-temperature steam is produced by utilizing the heat generated by the electric pile to humidify the inlet air of the electric pile, so that the humidifying energy consumption is reduced, and the energy utilization rate of the fuel cell system is improved."
+                },
+                {
+                    "p": "本申请提供了一种燃料电池系统的增湿控制方法、控制模块及装置，方法包括：基于燃料电池系统发送的开机指令，生成第一控制信号并发送到水源热泵，控制水源热泵启动，使从水源热泵第二通道的入口端流入的水在第二通道中通过从第一通道中吸收的电堆冷却液的热量加热为高温蒸汽，并从第二通道的出口端排出到高温蒸汽室中存储；基于喷射阀的目标蒸汽喷射量，生成第二控制信号并发送到喷射阀，以调整喷射阀的开度，使高温蒸汽按照目标蒸汽喷射量从高温蒸汽室喷射到加湿混合腔中与加湿混合腔中的空气混合，对加湿混合腔中的空气进行增湿。这样，利用电堆产热生产高温蒸汽来对电堆进气空气增湿，从而减少增湿能耗，提高了燃料电池系统的能量利用率。"
+                }
+            ]
+        }
+    }
+}

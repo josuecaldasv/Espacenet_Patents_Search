@@ -1,0 +1,195 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116624295",
+                            "kind": "A",
+                            "date": "20230822"
+                        },
+                        {
+                            "doc-number": "CN116624295",
+                            "date": "20230822"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F02M  21/    02            A I                    "
+                        },
+                        {
+                            "text": "F02M  21/    06            A I                    "
+                        },
+                        {
+                            "text": "F02M  25/    12            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "21",
+                            "subgroup": "0206",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "21",
+                            "subgroup": "0221",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "21",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "25",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310588906",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310588906",
+                            "date": "20230523"
+                        },
+                        {
+                            "doc-number": "202310588906.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310588906",
+                            "date": "20230523"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV TIANJIN"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "天津大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "PAN JIAYING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG SHIDUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEI HAIQIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHU GEQUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU QIHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING HAILONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "潘家营, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王士铎, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卫海桥, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "舒歌群, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡启航, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁海龙"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Regenerative rereaction type internal combustion engine waste heat ammonia hydrogen production system and control method",
+                    "一种回热再反应式的内燃机余热氨制氢系统及控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a regenerative rereaction type internal combustion engine waste heat ammonia hydrogen production system and a control method, and relates to the technical field of production, conversion, storage and utilization of clean zero-carbon fuel. The system mainly comprises an internal combustion engine, a cooling water tank, a liquid ammonia tank, a vaporizing chamber, a heat regenerator, a heater, an ammonia reactor, a temperature sensor, an ammonia sensor, a fuel supply system and various control valves. The system not only utilizes the waste heat of the internal combustion engine, but also recovers the waste heat of the ammonia-hydrogen mixed gas after reaction, so that the gas inlet efficiency is improved, and the energy utilization efficiency is higher; meanwhile, the ammonia hydrogen production system provided by the invention can realize multiple reactions of ammonia-hydrogen mixed gas, and can effectively control the ammonia decomposition degree and flexibly regulate and control the ammonia-hydrogen ratio and total flow of intake air of the internal combustion engine in cooperation with corresponding control strategies, thereby solving the problems of low ammonia decomposition efficiency, poor responsiveness to working conditions of the internal combustion engine and the like of the existing system."
+                },
+                {
+                    "p": "本发明公开一种回热再反应式的内燃机余热氨制氢系统及控制方法，涉及清洁零碳燃料的生产、转化、储存和利用技术领域，系统主要组件包括内燃机、冷却水箱、液氨罐、气化室、回热器、加热器、氨反应器、温度传感器、氨传感器、燃料供应系统及各类控制阀门。该系统除利用内燃机余热外，还对反应后的氨氢混合气余热进行回收，提高进气效率，且能量利用效率更高；同时，本发明提出的氨制氢系统可实现氨氢混合气的多次反应，配合相应控制策略，可有效控制氨分解程度，灵活调控内燃机进气的氨氢比例和总流量，解决现有系统氨分解效率低、对内燃机工况响应性差等问题。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118336774",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118336774",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    24            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410439464",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410439464",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "202410439464.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410439464",
+                            "date": "20240412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUANENG CLEAN ENERGY RES INSTITUTE"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " HUANENG ZHANGYE ENERGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国华能集团清洁能源技术研究院有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华能张掖能源有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG CHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO HAIJIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU ZHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JINYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张畅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭海礁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴展, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王金意, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王伟"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Operation control method of electricity-hydrogen coupling system and electricity-hydrogen coupling system",
+                    "一种电氢耦合系统的运行控制方法及电氢耦合系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an operation control method of an electricity-hydrogen coupling system and the electricity-hydrogen coupling system, and relates to the technical field of new energy power generation. According to the method, by obtaining the prediction related parameters corresponding to the power station power and the power station power instruction related parameters, the purpose of economical efficiency optimization is achieved, the power grid electric quantity interaction limitation requirement is met at the same time, and the power station power adjusting instruction and the electrolytic cell power adjusting instruction corresponding to each moment are obtained. According to the invention, through operation management and control of the new energy and the hydrogen production module, real-time matching of dynamic adjustment characteristics of the system is realized, so that different power grid electric quantity interaction limitation requirements are met, and relatively high economy is realized at the same time."
+                },
+                {
+                    "p": "本申请提出了一种电氢耦合系统的运行控制方法及电氢耦合系统，涉及新能源发电技术领域。本申请通过获取电站功率对应的预测相关参数和电站功率指令相关参数，以经济性最优为目的，且同时满足电网电量交互限制需求，获取每个时刻对应的电站功率调节指令和电解槽功率调节指令。本申请通过对新能源、制氢模块的运行管控，使系统动态调节特性实现实时匹配，从而满足不同的电网电量交互限制需求，同时实现较高的经济性。"
+                }
+            ]
+        }
+    }
+}

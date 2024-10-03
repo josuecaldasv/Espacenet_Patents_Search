@@ -1,0 +1,221 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "102231450",
+                            "kind": "A",
+                            "date": "20111102"
+                        },
+                        {
+                            "doc-number": "CN102231450",
+                            "date": "20111102"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M  14/    00            A I                    "
+                        },
+                        {
+                            "text": "H01G   9/   048            A I                    "
+                        },
+                        {
+                            "text": "H01G   9/    20            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201110105270",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201110105270",
+                            "date": "20110426"
+                        },
+                        {
+                            "doc-number": "2011101052705"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201110105270",
+                            "date": "20110426"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING INST TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING INSTITUTE OF TECHNOLOGY"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHUANBAO CAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QIANG YU\n"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "CAO CHUANBAO, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "YU QIANG"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Autobias photoelectrochemical cell based on p-type silicon photocathode, and preparation method thereof",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101853973"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101853973",
+                                        "kind": "A"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 说明书第[0008]-[0015]段，说明书附图1 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2005005963"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2005005963",
+                                        "kind": "A1"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 见说明书第3-4栏，说明书附图1-2 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2011042229"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2011042229",
+                                        "kind": "A1"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 见说明书第19、24段，说明书附图1 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 吴茵等, \"硅纳米线阵列的制备及其光伏应用\", 《太阳能学报》, (20060831), vol. 27, no. 8"
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 第811-816页 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Ming-Liang Zhang et al, \"Preparation of Large-Area Uniform Silicon Nanowires Arrays through Metal-Assisted Chemical Etching\", 《the Journal of Physical Chemistry C》, (20080304), vol. 112, no. 12, doi:doi:10.1021/JP077053O, XP   002547175"
+                            },
+                            "category": [
+                                "Y",
+                                "A"
+                            ],
+                            "rel-claims": [
+                                "6",
+                                "1-6"
+                            ],
+                            "rel-passage": {
+                                "passage": "* 第4444 -4450页 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Shannon W. Boettcher et al, \"Photoelectrochemical Hydrogen Evolution Using Si Microwire Arrays\", 《Journal of American Chemical Society》, (20110107), no. 133, pages 1216 - 1219"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 第1216-1219页 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Gopal K. Mor et al, \"p-Type Cu-Ti-O Nanotube Arrays and Their Use in Self-Biased Heterojunction Photoelectrochemical Diodes for Hydrogen Generation\", 《Nano Letters》, (20080610), vol. 8, no. 7, doi:doi:10.1021/nl080572y, pages 1906 - 1911, XP   055180748"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 第1906-1911页 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 谢会开等, \"光电化学电池（PEC）分解水制氢技术\", 《能源研究与利用》, (19931231), no. 1"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 第5页 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "The invention discloses an autobias photoelectrochemical cell (PEC) based on p-type silicon photocathode, and a preparation method thereof, especially relates to an autobias PEC which can be provided for realizing solar energy conversion and comprises semiconductor one-dimensional nanostructure photoelectrode, and a preparation method thereof. The invention belongs to the field of clean and renewable new energy use and new material preparation. The autobias PEC based on the p-type silicon photocathode comprises a nano-structure photocathode, a nano-structure photoanode, electrolytic solution,conductors and the like, wherein the nano-structure photocathode comprises a p-type silicon substrate and p-type silicon nano-wire arrays. The growth parts prepared through chemical erosion on the silicon substrate are the p-type silicon nano-wire arrays which align regularly and grow perpendicular to the p-type silicon substrate. With the method provided by the present invention, the p-type silicon nano-wire arrays are prepared on a large scale through a low-cost chemical etching method, and then are assembled to a solar hydrogen production autobias PEC which can be provided for realizing the solar energy-hydrogen energy conversion without extra energies."
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118394150",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118394150",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01D  53/    04            A I                    "
+                        },
+                        {
+                            "text": "B01D  53/    26            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    56            A I                    "
+                        },
+                        {
+                            "text": "G05D  23/    20            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410481629",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410481629",
+                            "date": "20240419"
+                        },
+                        {
+                            "doc-number": "202410481629.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410481629",
+                            "date": "20240419"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUNSHINE HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "阳光氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "QIAN LIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG GONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "钱亮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张功"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen heating temperature control method and hydrogen drying device and system",
+                    "一种氢气加热温度控制方法、氢气干燥装置及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a hydrogen heating temperature control method and a hydrogen drying device and system. The hydrogen heating temperature control method comprises the following steps: acquiring feed-forward control power of a heater, a set hydrogen temperature, a feedback hydrogen temperature and a hydrogen outlet temperature; calculating a heating gain according to the set hydrogen temperature and the feedback hydrogen temperature; calculating heating power according to feed-forward control power of the heater and the heating gain; and if the hydrogen outlet temperature is smaller than a feedback temperature threshold value, the heater is controlled to heat the hydrogen according to the heating power. Compared with the prior art, the regeneration of the hydrogen drying device is controlled by controlling the heating power of the heater, and the heating power is calculated according to the feedforward control power and the heating gain in the process, so that the regeneration of the hydrogen drying device is realized; the control mode of the embodiment is beneficial to avoiding the hysteresis quality of heating temperature control and the influence of hydrogen flow velocity fluctuation on hydrogen heating control."
+                },
+                {
+                    "p": "本发明公开了一种氢气加热温度控制方法、氢气干燥装置及系统。该氢气加热温度控制方法包括：获取加热器的前馈控制功率、设定氢气温度、反馈氢气温度和氢气出气温度；根据所述设定氢气温度和所述反馈氢气温度计算加热增益；根据所述加热器的前馈控制功率和所述加热增益计算加热功率；若所述氢气出气温度小于反馈温度阈值，则根据所述加热功率控制所述加热器加热所述氢气。与现有技术相比，本发明实施例通过控制加热器的加热功率对氢气干燥装置的再生进行控制，并在此过程中根据前馈控制功率和加热增益对加热功率进行计算，进而实现氢气干燥装置的再生，本实施例的控制方式有利于避免加热温度控制的滞后性以及氢气流速波动对氢气加热控制的影响。"
+                }
+            ]
+        }
+    }
+}

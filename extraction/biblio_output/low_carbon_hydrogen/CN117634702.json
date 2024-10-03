@@ -1,0 +1,191 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117634702",
+                            "kind": "A",
+                            "date": "20240301"
+                        },
+                        {
+                            "doc-number": "CN117634702",
+                            "date": "20240301"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/   067            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0201            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06313",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "067",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0201",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311711339",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311711339",
+                            "date": "20231213"
+                        },
+                        {
+                            "doc-number": "202311711339.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311711339",
+                            "date": "20231213"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV CHONGQING"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "重庆大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MAO BOLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHANG XUESONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIAN YINGZI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "毛博龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "常雪松, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "鲜英子"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Virtual power plant dispatching optimization method for hydrogen energy storage power station",
+                    "面向氢储能电站的虚拟电厂调度优化方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a virtual power plant scheduling optimization method for a hydrogen energy storage power station, and the method comprises the steps: building a virtual power plant which accords with a power grid system architecture formed by the aggregation of distributed field-level units in reality, building a mathematical model of each field-level unit in the virtual power plant, building a stepped carbon transaction cost calculation model, and building a day-ahead optimization scheduling model. And scheduling the operation power of each field-level unit in a real power grid system according to the day-ahead optimization scheduling model. According to the method, the operation power of each field-level unit is scheduled by taking the minimization of the total cost of the system as a target, the hybrid electric energy storage of the hydrogen energy storage power station capable of selling hydrogen is allocated in the VPP, and a flexible market consumption space mainly based on low-carbon operation economy is provided under the condition of time-of-use electricity price. Compared with a traditional VPP system which does not consider the stepped carbon transaction cost and has the same configuration under a fixed electricity price condition, the method provided by the invention can significantly reduce the carbon emission and the electricity purchasing cost of the system, and can improve the economic-environmental benefit capability of the system."
+                },
+                {
+                    "p": "本发明面向氢储能电站的虚拟电厂调度优化方法，其包括构建与现实中由分布式场级单元聚合构成的电网系统架构相符的虚拟电厂，建立虚拟电厂中各场级单元的数学模型，建立阶梯式碳交易成本计算模型，建立日前优化调度模型，并根据日前优化调度模型对现实电网系统中的各场级单元的运行功率进行调度。本发明以最小化系统总成本为目标对各场级单元的运行功率进行调度，其将可售卖氢的氢储能电站混合电储能在VPP中调配能量，在分时电价条件下提供以低碳运行经济性为主的灵活市场消纳空间。相较于传统不考虑阶梯式碳交易成本且固定电价条件下相同配置VPP系统，本发明所提出方法能显著减少系统碳排放量和购电成本，能提升系统的经济‑环境效益能力。"
+                }
+            ]
+        }
+    }
+}

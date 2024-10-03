@@ -1,0 +1,188 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "114744646",
+                            "kind": "A",
+                            "date": "20220712"
+                        },
+                        {
+                            "doc-number": "CN114744646",
+                            "date": "20220712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    24            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "466",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "24",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "28",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "70",
+                            "subgroup": "30",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202210503857",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202210503857",
+                            "date": "20220510"
+                        },
+                        {
+                            "doc-number": "202210503857.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202210503857",
+                            "date": "20220510"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUNSHINE HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "阳光氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHAO SHIHUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JIANGSONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵士环, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李江松"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "New energy hydrogen production system and variable power hydrogen production control method",
+                    "新能源制氢系统及变功率制氢控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a new energy hydrogen production system and a variable power hydrogen production control method, the method can be applied to a hydrogen energy controller in the new energy hydrogen production system, after the current power grid side power of the new energy hydrogen production system is determined, whether the power grid side power is equal to the target bias power of the new energy hydrogen production system is judged, and if not, the new energy hydrogen production system is started. If yes, the power grid side power in the new energy hydrogen production system is adjusted according to the size relation between the power grid side power and the target bias power; namely, the bias power can be added to the grid-connected point to control the power of the power grid side, so that variable-power hydrogen production is realized, the influence of the output fluctuation of the new energy power generation system on the hydrogen production system is effectively reduced, the power failure of the whole hydrogen production system from the power grid is reduced, and the existing variable-power hydrogen production mode for controlling the power of the grid-connected point to be zero is avoided; therefore, the overall operation efficiency of the new energy hydrogen production system is improved, and the new energy hydrogen production system is high in economic value."
+                },
+                {
+                    "p": "本申请提供了一种新能源制氢系统及变功率制氢控制方法，该方法可应用于新能源制氢系统中的氢能控制器，该方法在确定出新能源制氢系统的当前电网侧功率之后，判断电网侧功率是否等于新能源制氢系统的目标偏置功率，若不等于，则根据电网侧功率与目标偏置功率之间的大小关系，对新能源制氢系统中的电网侧功率进行调整；也即，本申请可以通过在并网点添加偏置功率以控制电网侧功率的方式，实现变功率制氢，有效减小了新能源发电系统出力波动对制氢系统的影响，减小了整个制氢系统从电网下电，避免了现有控制并网点功率为零的变功率制氢方式，会导致电网频繁馈电和下电，影响电网稳定运行的问题，提高了新能源制氢系统的整体运行效率，经济价值高。"
+                }
+            ]
+        }
+    }
+}

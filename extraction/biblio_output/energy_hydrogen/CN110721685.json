@@ -1,0 +1,320 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "110721685",
+                            "kind": "A",
+                            "date": "20200124"
+                        },
+                        {
+                            "doc-number": "CN110721685",
+                            "date": "20200124"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  23/    50            A I                    "
+                        },
+                        {
+                            "text": "B01J  23/    72            A I                    "
+                        },
+                        {
+                            "text": "C07C  45/    00            A I                    "
+                        },
+                        {
+                            "text": "C07C  47/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "50",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "72",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "35",
+                            "subgroup": "39",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "45",
+                            "subgroup": "002",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "52",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C45/002",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C47/04",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201911114183",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201911114183",
+                            "date": "20191114"
+                        },
+                        {
+                            "doc-number": "201911114183.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201911114183",
+                            "date": "20191114"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV SHANDONG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "山东师范大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SHI XIFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHI WENWEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG JIAHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI XIAOFEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "石锡峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "迟文文, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张佳惠, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李小飞"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Composite photocatalytic material, and preparation method and application thereof",
+                    "一种复合光催化材料及其制备方法和应用"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102430407",
+                                        "name": "FUJIAN INST RES STR MATTER CAS",
+                                        "date": "20120502"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102430407",
+                                        "kind": "A",
+                                        "name": "FUJIAN INST RES STR MATTER CAS",
+                                        "date": "20120502"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2014204200",
+                                        "name": "UNIV SOGANG RES FOUNDATION [KR]",
+                                        "date": "20141224"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2014204200",
+                                        "kind": "A1",
+                                        "name": "UNIV SOGANG RES FOUNDATION [KR]",
+                                        "date": "20141224"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN106883087",
+                                        "name": "UNIV INNER MONGOLIA",
+                                        "date": "20170623"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "106883087",
+                                        "kind": "A",
+                                        "name": "UNIV INNER MONGOLIA",
+                                        "date": "20170623"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "8-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第[0006]段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108855076",
+                                        "name": "UNIV SHANDONG",
+                                        "date": "20181123"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108855076",
+                                        "kind": "A",
+                                        "name": "UNIV SHANDONG",
+                                        "date": "20181123"
+                                    }
+                                ]
+                            },
+                            "category": [
+                                "Y",
+                                "X"
+                            ],
+                            "rel-claims": "8-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第[0010]-[0016],[0025]，[0031]段 *[X] 1-7"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 王保伟等, \"甲醇直接脱氢制甲醛催化剂研究进展\", 《化工进展》"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 第390-394页 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a composite photocatalytic material, and a preparation method and an application thereof. The preparation method specifically comprises the following steps: dispersing a metal salt and a semiconductor carrier material in pure methanol, carrying out illumination in-situ reduction to synthesize the photocatalyst that is the monodisperse metal elementary substance loaded semiconductor carrier material. The catalyst is directly applied to high-selectivity photocatalytic dehydrogenation of methanol to prepare anhydrous formaldehyde without separation, and clean energy hydrogen with high additional values is also generated. No oxidant needs to be introduced in the formaldehyde preparation process, no byproduct water is generated, the selectivity of formaldehyde is improved, and the preparation cost is reduced. Compared with a traditional fixed bed method, a method for preparing anhydrous formaldehyde through photocatalytic oxidation dehydrogenation of methanol has theadvantages of high selectivity, low cost, economical property and environmental friendliness, so the method has good industrial production and application prospects."
+                },
+                {
+                    "p": "本发明提供一种复合光催化材料及其制备方法和应用。具体的，本发明通过将金属盐和半导体载体材料分散于纯甲醇中，光照原位还原，合成单分散金属单质负载半导体载体材料的光催化剂。无需分离直接应用于高选择性光催化甲醇脱氢制无水甲醛，同时生成高附加值的清洁能源氢气。且在制甲醛的过程中不需要通入任何氧化剂，无副产物水生成，提高了甲醛的选择性，降低了制备成本。与传统的固定床方法相比，本发明的光催化氧化甲醇脱氢制无水甲醛的选择性高，且成本低，经济环保，因此具有良好的工业化生产应用之前景。"
+                }
+            ]
+        }
+    }
+}

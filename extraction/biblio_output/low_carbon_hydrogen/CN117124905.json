@@ -1,0 +1,195 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117124905",
+                            "kind": "A",
+                            "date": "20231128"
+                        },
+                        {
+                            "doc-number": "CN117124905",
+                            "date": "20231128"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L  53/    54            A I                    "
+                        },
+                        {
+                            "text": "B60L  53/    57            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0606            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "53",
+                            "subgroup": "54",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "53",
+                            "subgroup": "57",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0606",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311107529",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311107529",
+                            "date": "20230830"
+                        },
+                        {
+                            "doc-number": "202311107529.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311107529",
+                            "date": "20230830"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV XI AN JIAOTONG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西安交通大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JING DENGWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG WEIDING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SU JINZHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU MAOCHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG BIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG XIAOHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHI JINWEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "敬登伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王伟丁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苏进展, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘茂昌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "江彪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张霄汉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "师进文"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Off-grid electric vehicle charging pile based on ammonia-hydrogen conversion",
+                    "一种基于氨氢转换的离网式电动车充电桩"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of electric vehicle charging piles, and relates to an off-grid electric vehicle charging pile based on ammonia-hydrogen conversion, which comprises an ammonia decomposition hydrogen production system, a hydrogen fuel power generation system and an electric vehicle charging system.The fuel of a fuel cell is supplied by using an ammonia decomposition hydrogen production method, and the characteristics of low cost and mature transportation technology are achieved; the hydrogen fuel cell is used for generating power to supply electric energy to the charging pile system, and the characteristics of zero pollution and zero carbon emission are achieved; electric vehicle charging in a remote area or an area where a power grid is not easy to reach is not limited by power grid coverage any more, and the influence of charging inconvenience on overall popularization of the electric vehicle is avoided; and meanwhile, the use and carbon emission of traditional fossil energy are avoided from the source."
+                },
+                {
+                    "p": "本发明属于电动车充电桩技术领域,涉及一种基于氨氢转换的离网式电动车充电桩，包括氨分解制氢系统、氢燃料发电系统、电动车充电系统，本发明利用氨分解制氢法供给燃料电池的燃料，具有成本低、运输技术成熟的特点；利用氢燃料电池发电供给充电桩系统电能，具有零污染、零碳排放的特点；使得在较偏远地区或者电网不易到达地区电动车充电不再受到电网覆盖的限制，避免了因充电不便对电动汽车的整体推广普及的影响；同时本发明从根源上避免了传统化石能源的使用及碳排放。"
+                }
+            ]
+        }
+    }
+}

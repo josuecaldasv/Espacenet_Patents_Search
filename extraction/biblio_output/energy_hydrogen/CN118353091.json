@@ -1,0 +1,200 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118353091",
+                            "kind": "A",
+                            "date": "20240716"
+                        },
+                        {
+                            "doc-number": "CN118353091",
+                            "date": "20240716"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01C   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    08            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410450583",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410450583",
+                            "date": "20240415"
+                        },
+                        {
+                            "doc-number": "202410450583.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410450583",
+                            "date": "20240415"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CNPC SHENZHEN NEW ENERGY RES INSTITUTE CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " PETROCHINA COMPANY LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " THE KUNLUN TRUST CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中石油深圳新能源研究院有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国石油天然气股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "昆仑信托有限责任公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG HANGZHOU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAN ZHIYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FAN JIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " OUYANG DENGHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO YUEJING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FAN WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEN XIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王杭州, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "闫志勇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "范劼, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "欧阳镫浩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵月晶, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "范伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "温馨"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Energy scheduling processing system and method",
+                    "一种能源调度处理系统及方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an energy scheduling processing system and method, and belongs to the technical field of new energy. The system comprises a treatment unit and an energy production and supply system, and the energy production and supply system comprises a new energy power generation module, a biomass power generation module, an electric heating module, a water electrolysis hydrogen production module, an alcohol synthesis module, an ammonia synthesis module, a power output module, a hydrogen output module, an alcohol output module and an ammonia output module; the processing unit is in communication connection with the energy generation and supply system; the new energy power generation module and the biomass power generation module supply power to the electric heating module, the water electrolysis hydrogen production module and the power output module; the processing unit is used for acquiring operation parameters, carbon dioxide load and nitrogen load of the new energy power generation module, the biomass power generation module, the power output module, the hydrogen output module, the alcohol output module and the ammonia output module; and controlling the energy production and supply system to operate according to the operation parameters, the carbon dioxide load and the nitrogen load. According to the system, the problem that wind energy and solar energy power generation is unstable is solved."
+                },
+                {
+                    "p": "本申请提供一种能源调度处理系统及方法，属于新能源技术领域。该系统包括：处理单元及能源产供系统，能源产供系统，包括新能源发电模块、生物质发电模块、电加热模块、电解水制氢模块、醇合成模块、氨合成模块、电输出模块、氢输出模块、醇输出模块及氨输出模块；处理单元与能源产供系统通信连接；新能源发电模块及生物质发电模块，向电加热模块、电解水制氢模块及电输出模块供电；处理单元，获取新能源发电模块、生物质发电模块、电输出模块、氢输出模块、醇输出模块及氨输出模块的运行参数及二氧化碳负荷、氮气负荷；根据运行参数及二氧化碳负荷、氮气负荷，控制能源产供系统运行。本申请的系统，解决了风能和太阳能发电不稳定的问题。"
+                }
+            ]
+        }
+    }
+}

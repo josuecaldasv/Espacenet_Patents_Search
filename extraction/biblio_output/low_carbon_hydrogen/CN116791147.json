@@ -1,0 +1,155 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116791147",
+                            "kind": "A",
+                            "date": "20230922"
+                        },
+                        {
+                            "doc-number": "CN116791147",
+                            "date": "20230922"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/   023            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "60",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "023",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202210255949",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202210255949",
+                            "date": "20220315"
+                        },
+                        {
+                            "doc-number": "202210255949.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202210255949",
+                            "date": "20220315"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHN ENERGY INVEST GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " NAT INST CLEAN & LOW CARBON ENERGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家能源投资集团有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京低碳清洁能源研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YANG WENQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XING XIAOWEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨文强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邢小文"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Electrolytic bath impedance detection method and device and water electrolysis hydrogen production device",
+                    "电解槽阻抗检测方法、装置和电解水制氢装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to an electrolytic bath impedance detection method and device and a water electrolysis hydrogen production device. The electrolytic bath is applied to a water electrolysis hydrogen production device, the water electrolysis hydrogen production device comprises the electrolytic bath and a hydrogen production power supply, and the hydrogen production power supply comprises an electric reactor. The method comprises the steps that when the water electrolysis hydrogen production device is controlled to operate, first voltage at the two ends of the electrolytic bath and first current output by the hydrogen production power source are detected; injecting an alternating current signal with a preset frequency into the current of the reactor, and detecting a second voltage at the two ends of the electrolytic bath and a second current output by the hydrogen production power supply; and determining the impedance of the electrolytic cell according to the first voltage, the first current, the second voltage and the second current. Therefore, the influence of the inductive impedance of the reactor on the electrolytic bath impedance detection result can be reduced, the calculated electrolytic bath impedance is more accurate, and a reliable basis is provided for maintenance of the electrolytic bath."
+                },
+                {
+                    "p": "本公开涉及一种电解槽阻抗检测方法、装置和电解水制氢装置。所述电解槽应用于电解水制氢装置，所述电解水制氢装置包括所述电解槽和制氢电源，所述制氢电源包括电抗器。所述方法包括：在控制所述电解水制氢装置运行时，检测所述电解槽两端的第一电压和所述制氢电源输出的第一电流；向所述电抗器的电流上注入预定频率的交流电信号，并检测所述电解槽两端的第二电压和所述制氢电源输出的第二电流；根据所述第一电压、所述第一电流、所述第二电压和所述第二电流确定出所述电解槽的阻抗。这样，能够减小电抗器的感性阻抗对电解槽阻抗检测结果的影响，使得计算得到的电解槽阻抗更加准确，从而为电解槽的维护提供可靠的依据。"
+                }
+            ]
+        }
+    }
+}

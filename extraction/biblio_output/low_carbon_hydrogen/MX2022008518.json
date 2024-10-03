@@ -1,0 +1,535 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "MX",
+                            "doc-number": "2022008518",
+                            "kind": "A",
+                            "date": "20220808"
+                        },
+                        {
+                            "doc-number": "MX2022008518",
+                            "date": "20220808"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "A01N  43/    00            A I                    "
+                        },
+                        {
+                            "text": "A01N  43/    80            A I                    "
+                        },
+                        {
+                            "text": "A01N  43/    90            A I                    "
+                        },
+                        {
+                            "text": "A01P  13/    00            A I                    "
+                        },
+                        {
+                            "text": "C07D 251/    08            A I                    "
+                        },
+                        {
+                            "text": "C07D 251/    10            A I                    "
+                        },
+                        {
+                            "text": "C07D 413/    10            A I                    "
+                        },
+                        {
+                            "text": "C07D 413/    14            A I                    "
+                        },
+                        {
+                            "text": "C07D 498/    02            A I                    "
+                        },
+                        {
+                            "text": "C07D 498/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "43",
+                            "subgroup": "80",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "43",
+                            "subgroup": "80",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "43",
+                            "subgroup": "80",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "43",
+                            "subgroup": "80",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "43",
+                            "subgroup": "90",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "43",
+                            "subgroup": "90",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "43",
+                            "subgroup": "90",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "43",
+                            "subgroup": "90",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "01",
+                            "subclass": "P",
+                            "main-group": "13",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "01",
+                            "subclass": "P",
+                            "main-group": "13",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "261",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "261",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "413",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "413",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "413",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "413",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "413",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "413",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "413",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "413",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "417",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "417",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "417",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "471",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "471",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "471",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "497",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "498",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "498",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "498",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "498",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "513",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "513",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "513",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "MX",
+                            "doc-number": "2022008518",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "MX20220008518",
+                            "date": "20210112"
+                        },
+                        {
+                            "doc-number": "2022008518"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "CN20201056836",
+                                    "date": "20200116"
+                                },
+                                {
+                                    "doc-number": "202010056836.9"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "CN202010131605",
+                                    "date": "20200228"
+                                },
+                                {
+                                    "doc-number": "202010131605.X"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "WO2021CN71289",
+                                    "date": "20210112"
+                                },
+                                {
+                                    "doc-number": "PCT/CN2021/071289"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "QINGDAO KINGAGROOT CHEMICAL COMPOUND CO LTD [CN]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "QINGDAO KINGAGROOT CHEMICAL COMPOUND CO., LTD"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HUA RONGBAO [CN]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PENG XUEGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO DE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIAN LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CUI QI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "HUA Rongbao, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "PENG Xuegang, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "ZHAO De, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "LIAN Lei, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "CUI Qi"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "FUSED RING SUBSTITUTED AROMATIC COMPOUND AND PREPARATION METHOD THEREFOR, HERBICIDAL COMPOSITION, AND USE THEREOF.",
+                    "UN COMPUESTO AROMATICO SUSTITUIDO CON ANILLO FUNDIDO, METODO DE PREPARACION, COMPOSICION HERBICIDA Y SU USO."
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of pesticides, and specifically relates to a fused ring substituted aromatic compound and a preparation method therefor, a herbicidal composition, and the use thereof. The fused ring substituted aromatic compound is as represented by general formula I, wherein Q represents aa, bb or cc, etc.; Y represents a halogen, a haloalkyl, cyano, nitro or amino; Z represents hydrogen, a halogen or hydroxyl; M represents CH or N; Het represents a cyclic structure that shares two carbon atoms at the 4- and 5-positions with an isoxazoline ring to form a fused ring; and X&lt;sub&gt;1&lt;/sub&gt; and X&lt;sub&gt;2&lt;/sub&gt; each independently represents hydrogen, a halogen, or nitro, etc. The compound has an excellent herbicidal activity against grassy weeds, broadleaf weeds, etc. even at a low application rate, and has a high selectivity to crops."
+                },
+                {
+                    "p": "La invención se refiere al campo de la tecnología de pesticidas y en particular, a un tipo de compuesto aromático sustituido con anillo fundido, un método de preparación, una composición herbicida y su uso. El compuesto aromático sustituido con anillo fundido representado por la fórmula general I: (ver Fórmula) en la cual, Q representa (ver Fórmulas) Y representa halógeno, haloalquilo, ciano, nitro o amino; Z representa H, halógeno o hidroxi; M representa CH o N; Het representa una estructura cíclica que comparte dos átomos de carbono en las posiciones 4 y 5 con anillo de isoxazolina para formar un anillo fundido; X1, X2 representan, cada uno en forma independiente, H, halógeno o nitro, etc. El compuesto tiene excelente actividad herbicida contra malezas gramíneas, malezas de hoja ancha, etc. incluso con bajos índices de aplicación, y tiene alta selectividad para los cultivos."
+                }
+            ]
+        }
+    }
+}

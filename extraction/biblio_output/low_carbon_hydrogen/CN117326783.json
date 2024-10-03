@@ -1,0 +1,215 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117326783",
+                            "kind": "A",
+                            "date": "20240102"
+                        },
+                        {
+                            "doc-number": "CN117326783",
+                            "date": "20240102"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C03B   5/    16            A I                    "
+                        },
+                        {
+                            "text": "C03B   5/   235            A I                    "
+                        },
+                        {
+                            "text": "C03B   5/    24            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "03",
+                            "subclass": "B",
+                            "main-group": "5",
+                            "subgroup": "16",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "03",
+                            "subclass": "B",
+                            "main-group": "5",
+                            "subgroup": "2353",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "03",
+                            "subclass": "B",
+                            "main-group": "5",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311285325",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311285325",
+                            "date": "20230928"
+                        },
+                        {
+                            "doc-number": "202311285325.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311285325",
+                            "date": "20230928"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NANJING FIBERGLASS RES & DESIGN INSTITUTE CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "南京玻璃纤维研究设计院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TANG YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN MING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DI QINGSONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG JIANJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QIAO LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHU LINA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG XIAOLEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HOU CHAOGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI WEIJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "唐宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙鸣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "狄青松, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄健健, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "乔磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "初丽娜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王晓磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "侯超刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李卫军"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Combustion system of glass fiber tank furnace and control method thereof",
+                    "一种玻璃纤维池窑的燃烧系统及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a combustion system of a glass fiber tank furnace. The combustion system comprises a fuel conveying pipeline, a combustion gun, the glass fiber tank furnace and an intelligent control device, wherein the fuel conveying pipeline comprises a hydrogen pipeline, a natural gas pipeline, an oxygen pipeline and a gas mixing pipeline, the output end of the hydrogen pipeline and the output end of the natural gas pipeline are both connected with the input end of the gas mixing pipeline through a gas mixing device, and the output end of the gas mixing pipeline and the output end of the oxygen pipeline are both connected with the combustion gun; the combustion guns are located on the inner wall of the glass fiber tank furnace and used for igniting gas in the gas mixing pipeline and the oxygen pipeline so as to heat the glass fiber tank furnace; the intelligent control device is electrically connected with the fuel conveying pipeline and the glass fiber tank furnace and used for adjusting the flow of hydrogen, natural gas and oxygen in the gas mixing pipeline and the oxygen pipeline according to electric signals output by the glass fiber tank furnace. According to the scheme, low-carbon emission can be achieved, the temperature and the combustion atmosphere in the glass fiber tank furnace can be accurately controlled, and the combustion efficiency is improved."
+                },
+                {
+                    "p": "本发明提供了一种玻璃纤维池窑的燃烧系统，包括燃料输送管道、燃烧枪、玻璃纤维池窑和智能控制装置；其中：燃料输送管道包括氢气管道、天然气管道、氧气管道和混气管道，氢气管道的输出端和天然气管道的输出端均通过混气装置与混气管道的输入端相连接，混气管道的输出端和氧气管道的输出端均与燃烧枪相连接；燃烧枪位于玻璃纤维池窑内壁，用于点燃混气管道和氧气管道中的气体，以加热玻璃纤维池窑；智能控制装置与燃料输送管道和玻璃纤维池窑电连接，用于根据玻璃纤维池窑输出的电信号，以分别调节混气管道和氧气管道中的氢气、天然气和氧气流量。本方案，不仅能够实现低碳排放，而且能够准确控制玻璃纤维池窑中的温度和燃烧气氛，提高燃烧效率。"
+                }
+            ]
+        }
+    }
+}

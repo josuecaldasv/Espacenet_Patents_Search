@@ -1,0 +1,171 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118154221",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118154221",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  17/    10            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0201            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    40            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "17",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0206",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "40",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410311494",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410311494",
+                            "date": "20240318"
+                        },
+                        {
+                            "doc-number": "202410311494.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410311494",
+                            "date": "20240318"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV FUZHOU"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "福州大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XIE SHIWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAN YANYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谢仕炜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "颜燕玉"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Coupled network hydrogen energy pricing Stackelberg game model building and solving method considering user behaviors of hydrogen energy vehicle",
+                    "计及氢能源汽车用户行为的耦合网络氢能源定价Stackelberg博弈模型构建及求解方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a coupled network hydrogen energy pricing Stackelberg game model building and solving method considering user behaviors of a hydrogen energy vehicle. Comprising the steps of establishing a mixed traffic flow model containing energy consumption constraints, considering an optimization objective and operation constraints of the mixed traffic flow model, and performing equivalent description by adopting a popularization variational inequality; a second-order cone optimization model of the power distribution network meeting the hydrogen production requirement of the hydrogen-containing energy automobile is established, and coupling of an urban electric power traffic coupling network is achieved; according to the above, establishing a hydrogen energy pricing strategy model, and converting the hydrogen energy pricing strategy model into a mathematical programming problem containing a variational inequality; and according to the characteristics of the model, a second-order fixed point iterative algorithm and a projection-contraction algorithm II are adopted to solve the problem, and a complete method for solving the equilibrium state of the coupling network is formed. According to the method, a new coordination optimization method can be provided for the urban power-traffic coupling network, the method is reliable and effective, and fine modeling of actual problems is achieved."
+                },
+                {
+                    "p": "本发明涉及一种计及氢能源汽车用户行为的耦合网络氢能源定价Stackelberg博弈模型构建及求解方法。包括：建立了含能耗约束的混合交通流模型，考虑其优化目标和运行约束，采用推广变分不等式进行等效描述；建立含氢能源汽车制氢需求的配电网二阶锥优化模型，实现了城市电力交通耦合网络的耦合；根据前述，建立一种氢能定价策略模型，将其转化为含有变分不等式的数学规划问题；根据模型的特性，采用二阶不动点迭代算法以及投影‑收缩算法Ⅱ对问题进行求解，形成求解耦合网络均衡状态的完整方法。本发明能够为城市电力‑交通耦合网络提供一种新的协调优化的方法，该方法可靠有效，实现对实际问题的精细化建模。"
+                }
+            ]
+        }
+    }
+}

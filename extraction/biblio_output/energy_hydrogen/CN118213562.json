@@ -1,0 +1,181 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118213562",
+                            "kind": "A",
+                            "date": "20240618"
+                        },
+                        {
+                            "doc-number": "CN118213562",
+                            "date": "20240618"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04014            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04029            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0432            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04701            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04992            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04014",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04029",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04358",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04701",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04992",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410388259",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410388259",
+                            "date": "20240401"
+                        },
+                        {
+                            "doc-number": "202410388259.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410388259",
+                            "date": "20240401"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ANHUI JIANGHUAI AUTOMOBILE GROUP CORP LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "安徽江淮汽车集团股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YI BIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG YUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU WANFA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "易彪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "江元, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘万发"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen fuel tractor fuel cell cooling system and control method",
+                    "一种氢燃料牵引车燃料电池冷却系统及控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a hydrogen fuel tractor fuel cell cooling system and a control method.The fuel cell cooling system comprises an electric pile connected with a first four-way valve through a pipeline, the first four-way valve is connected with a water pump and a deionizer through pipelines, and the water pump is connected with an electronic thermostat through a pipeline; the electronic thermostat is connected with the first three-way valve and the second four-way valve through pipelines, the first three-way valve is connected with the first heat dissipation assembly and the second heat dissipation assembly through pipelines, and the first heat dissipation assembly and the second heat dissipation assembly are connected with the second four-way valve through pipelines. The second four-way valve and the deionizer are connected with the second three-way valve through pipelines, the second three-way valve is connected with the electric pile through a pipeline, and the controller is connected with the water pump and the electronic thermostat through wires. According to the technical scheme, the problems of low efficiency, high energy consumption and short service life of the fuel cell cooling system are solved through a brand new working mode of the fuel cell cooling system combined by the double-fan radiator."
+                },
+                {
+                    "p": "本发明涉及一种氢燃料牵引车燃料电池冷却系统及控制方法，其中燃料电池冷却系统包括电堆通过管路与第一四通阀连接，第一四通阀分别通过管路与水泵及去离子器连接，水泵通过管路与电子节温器连接，电子节温器分别通过管路与第一三通阀及第二四通阀连接，第一三通阀分别通过管路与第一散热总成及第二散热总成连接，第一散热总成及第二散热总成分别通过管路与第二四通阀连接，第二四通阀及去离子器分别通过管路与第二三通阀连接，第二三通阀通过管路与电堆连接，控制器分别与水泵、电子节温器导线连接。本技术方案通过双风扇散热器组合的全新的燃料电池冷却系统的工作模式，解决了燃料电池冷却系统效率低，能耗大及使用寿命低的问题。"
+                }
+            ]
+        }
+    }
+}

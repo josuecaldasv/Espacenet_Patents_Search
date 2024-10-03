@@ -1,0 +1,218 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118229022",
+                            "kind": "A",
+                            "date": "20240621"
+                        },
+                        {
+                            "doc-number": "CN118229022",
+                            "date": "20240621"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0283            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06315",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0283",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "0075",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410451459",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410451459",
+                            "date": "20240416"
+                        },
+                        {
+                            "doc-number": "202410451459.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410451459",
+                            "date": "20240416"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV SOUTHWEST JIAOTONG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西南交通大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI QI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PU YUCHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN WEIRONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG SHIHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIN JUNHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG PEISHI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG JIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI CHUNYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李奇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蒲雨辰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈维荣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张诗慧, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "林俊宏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨佩诗, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李春阳"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Layered optimization scheduling method for comprehensive energy system in electricity-hydrogen shared energy storage area",
+                    "一种电氢共享储能区域综合能源系统分层优化调度方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a layered optimization scheduling method for a comprehensive energy system in an electricity-hydrogen shared energy storage area, and the method comprises the steps: setting a hydrogen scheduling strategy initial range of a shared energy storage station by a shared energy storage operator according to an energy reserve result of a storage battery and a hydrogen storage tank at the current moment; an upper-layer shared energy storage operator transmits electricity-hydrogen energy storage information and hydrogen scheduling strategy information to a lower-layer regional comprehensive energy system; the comprehensive energy system of the lower layer region solves a target function of multiple systems of the region by simulating a transportation path network of a gas-hydrogen trailer, obtains a scheduling result of multiple energy sources of thermoelectric hydrogen, and returns the scheduling result to the upper layer; the shared energy storage operator calculates a target function of the shared energy storage station according to the electric hydrogen energy interaction strategy of the region; judging whether the target function of the shared energy storage operator and the target functions of the regional multiple systems reach optimal values at the same time or not; and if the convergence condition is met at the same time, the optimal electricity-hydrogen energy scheduling scheme is obtained. According to the invention, energy cross-regional transfer is realized, and scheduling of electricity and hydrogen energy is optimized."
+                },
+                {
+                    "p": "本发明公开一种电氢共享储能区域综合能源系统分层优化调度方法，包括步骤：共享储能运营商根据当前时刻蓄电池、储氢罐的能源储量结果，设置共享储能站的氢气调度策略初步范围；上层共享储能运营商向下层区域综合能源系统传递电氢储能信息及氢气调度策略信息；下层区域综合能源系统通过模拟气氢拖车的运输路径网络，求解区域多系统的目标函数，得到热电氢气多种能源的调度结果，并返还给上层；共享储能运营商根据区域的电氢能源交互策略计算共享储能站的目标函数；判定共享储能运营商的目标函数和区域多系统的目标函数是否同时达到最优值；若同时达到收敛条件，则此时为最佳电氢能源调度方案。本发明实现能源跨区域转移，优化电、氢能源的调度。"
+                }
+            ]
+        }
+    }
+}

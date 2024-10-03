@@ -1,0 +1,127 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118191641",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118191641",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "G01R  31/   389            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "R",
+                            "main-group": "31",
+                            "subgroup": "389",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211600476",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211600476",
+                            "date": "20221212"
+                        },
+                        {
+                            "doc-number": "202211600476.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211600476",
+                            "date": "20221212"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "DALIAN INST CHEM & PHYSICS CAS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国科学院大连化学物理研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GENG JIANGTAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHAO ZHIGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "耿江涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邵志刚"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for on-line measurement of internal resistance of electric pile in hydrogen fuel cell system",
+                    "一种氢燃料电池系统内电堆内阻在线测量的方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a method for on-line measurement of the internal resistance of an electric pile in a hydrogen fuel cell system. The method comprises the following steps: obtaining the internal resistance of a fuel cell electric pile or each single cell through a current interruption method; after the fuel cell module electric pile internal resistance test is finished, the controller controls the fuel cell module to recover discharging or recover discharging after a period of static time; after the fuel cell module recovers discharging, the fuel cell module and the energy storage cell module jointly supply power to the external load, or the fuel cell module supplies power to the external load and charges the energy storage cell module at the same time; and the fuel cell module and the energy storage cell module are connected in parallel. According to the measured internal resistance, the operation parameters of the galvanic pile can be adjusted and optimized, so that the water balance in the galvanic pile is always in an optimal state, and the performance and reliability of the fuel cell are improved."
+                },
+                {
+                    "p": "本发明提供一种氢燃料电池系统内电堆内阻在线测量的方法，包括以下步骤：通过电流中断法获取燃料电池电堆或各单电池内阻；燃料电池模块电堆内阻测试结束后，控制器控制燃料电池模块恢复放电或经过一段静止时间后再恢复放电；燃料电池模块恢复放电后，燃料电池模块与储能电池模块共同对外负载供电，或者由燃料电池模块对外部负载供电、同时对储能电池模块充电；所述燃料电池模块和储能电池模块并联。本发明根据所测内阻，可调节优化电堆操作参数，使电堆内部水平衡始终处于最佳状态，促进燃料电池性能和可靠性的提升。"
+                }
+            ]
+        }
+    }
+}

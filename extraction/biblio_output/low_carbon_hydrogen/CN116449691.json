@@ -1,0 +1,182 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116449691",
+                            "kind": "A",
+                            "date": "20230718"
+                        },
+                        {
+                            "doc-number": "CN116449691",
+                            "date": "20230718"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C10G  11/    02            A I                    "
+                        },
+                        {
+                            "text": "G05B  13/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "G",
+                            "main-group": "11",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "05",
+                            "subclass": "B",
+                            "main-group": "13",
+                            "subgroup": "042",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "90",
+                            "subgroup": "02",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202210023796",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20221023796",
+                            "date": "20220110"
+                        },
+                        {
+                            "doc-number": "202210023796.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20221023796",
+                            "date": "20220110"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA PETROLEUM & CHEM CORP"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SINOPEC DALIAN RES INST PETROLEUM & PETROCHEMICALS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国石油化工股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国石油化工股份有限公司大连石油化工研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG YANGFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BAI LILI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TONG YULIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAN MINGSONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王阳峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "白丽莉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "童宇亮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谭明松"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Raw oil processing control method and device",
+                    "原料油加工控制方法和装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a raw oil processing control method and device. The method comprises the following steps: acquiring an initial control parameter of a raw oil processing system under a current working condition; based on the initial control parameters and a generated product prediction model, determining a generated product prediction result of the current working condition; determining a target control parameter of the current working condition based on a preset optimization condition and the generated product prediction result; controlling the raw oil processing system based on the target control parameter; wherein the generated product prediction model comprises at least one of a low-carbon hydrocarbon flow prediction model, a low-carbon hydrocarbon hydrogen content prediction model, a liquid-phase oil flow prediction model and a liquid-phase oil hydrogen content prediction model. According to the method and the device provided by the invention, the generated product of the raw oil can be accurately predicted and optimized, and the hydrogen consumption in the oil refining process is reduced under the condition of ensuring the yield of the target product."
+                },
+                {
+                    "p": "本发明提供一种原料油加工控制方法和装置，其中方法包括：获取原料油加工系统在当前工况下的初始控制参数；基于所述初始控制参数和生成产物预测模型，确定所述当前工况的生成产物预测结果；基于预设优化条件和所述生成产物预测结果，确定所述当前工况的目标控制参数；基于所述目标控制参数对所述原料油加工系统进行控制；其中，所述生成产物预测模型包括低碳烃流量预测模型、低碳烃氢含量预测模型、液相油流量预测模型和液相油氢含量预测模型中的至少一种。本发明提供的方法和装置，能够对原料油的生成产物进行准确地预测和优化，在保证目标产物收率的情况下，降低了炼油过程中的氢气消耗。"
+                }
+            ]
+        }
+    }
+}

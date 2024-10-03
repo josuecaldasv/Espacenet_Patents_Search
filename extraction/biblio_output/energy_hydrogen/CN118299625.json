@@ -1,0 +1,195 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118299625",
+                            "kind": "A",
+                            "date": "20240705"
+                        },
+                        {
+                            "doc-number": "CN118299625",
+                            "date": "20240705"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04082            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04089            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04119            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0656            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410710401",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410710401",
+                            "date": "20240603"
+                        },
+                        {
+                            "doc-number": "202410710401.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410710401",
+                            "date": "20240603"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHENZHEN QINGRUI FUEL CELL TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "深圳市氢瑞燃料电池科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JIA KUNHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG ZHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贾坤晗, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张震"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen energy standby power system",
+                    "一种氢能备电系统"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2010266923",
+                                        "name": "MCELROY JAMES F [US], et al",
+                                        "date": "20101021"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2010266923",
+                                        "kind": "A1",
+                                        "name": "MCELROY JAMES F [US], et al",
+                                        "date": "20101021"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111244501",
+                                        "name": "SHANGHAI EVERPOWER TECH LTD",
+                                        "date": "20200605"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111244501",
+                                        "kind": "A",
+                                        "name": "SHANGHAI EVERPOWER TECH LTD",
+                                        "date": "20200605"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112993362",
+                                        "name": "SHANGHAI YIFENG HYDROGEN ENERGY TECH CO LTD",
+                                        "date": "20210618"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112993362",
+                                        "kind": "A",
+                                        "name": "SHANGHAI YIFENG HYDROGEN ENERGY TECH CO LTD",
+                                        "date": "20210618"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115732726",
+                                        "name": "SHANGHAI QINGCHEN NEW ENERGY TECH CO LTD",
+                                        "date": "20230303"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115732726",
+                                        "kind": "A",
+                                        "name": "SHANGHAI QINGCHEN NEW ENERGY TECH CO LTD",
+                                        "date": "20230303"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The hydrogen energy standby power system comprises a hydrogen tank, an electrochemical hydrogen pump, a first direct-current power source, a reversible electric pile, a first gas-liquid separator, a cooling fan, a water pump, a water tank, an oxygen tank, a second gas-liquid separator, a controller, a second direct-current power source and a load. The hydrogen tank is respectively connected with the electrochemical hydrogen pump and the reversible electric pile; the electrochemical hydrogen pump is connected with the first direct-current power supply; the first gas-liquid separator is respectively connected with the reversible galvanic pile and the electrochemical hydrogen pump; the water pump is respectively connected with the reversible electric pile and the water tank; the cooling fan is respectively connected with the water pump, the reversible electric pile and the water tank; the second gas-liquid separator is respectively connected with the reversible electric pile and the oxygen tank; the reversible electric pile is respectively connected with the controller, the second direct-current power supply and the load; the second DC power supply is connected in parallel with the load. Integrated power generation and hydrogen production can be achieved, and the cost is low."
+                },
+                {
+                    "p": "本申请涉及一种氢能备电系统，包括氢气罐、电化学氢泵、第一直流电源、可逆电堆、第一气液分离器、散热风扇、水泵、水箱、氧气罐、第二气液分离器、控制器、第二直流电源和负载；所述氢气罐分别与所述电化学氢泵、所述可逆电堆连接；所述电化学氢泵与所述第一直流电源连接；所述第一气液分离器分别与所述可逆电堆、所述电化学氢泵连接；所述水泵分别与所述可逆电堆、所述水箱连接；所述散热风扇分别与所述水泵、所述可逆电堆、所述水箱连接；所述第二气液分离器分别与所述可逆电堆、所述氧气罐连接；所述可逆电堆分别与所述控制器、所述第二直流电源、所述负载连接；所述第二直流电源与所述负载并联连接。本申请能实现一体化发电和制氢，成本较低。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118412495",
+                            "kind": "A",
+                            "date": "20240730"
+                        },
+                        {
+                            "doc-number": "CN118412495",
+                            "date": "20240730"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L  58/    32            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04298            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04701            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410413257",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410413257",
+                            "date": "20240408"
+                        },
+                        {
+                            "doc-number": "202410413257.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410413257",
+                            "date": "20240408"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WEICHAI BALADE HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "潍柴巴拉德氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "MA FUQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAI SHUPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG CHUANLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIA BAOJUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ZONGJI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG WEIPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马富强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "台述鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张传龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贾宝娟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李宗吉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "姜卫平"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Thermal management system control method, fuel cell engine and vehicle",
+                    "热管理系统控制方法、燃料电池发动机及车辆"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of fuel cell systems, and discloses a thermal management system control method, a fuel cell engine and a vehicle. The thermal management system control method includes starting a fuel cell engine, and controlling the thermal management system to be in a minor cycle cooling state. And judging the relationship between the temperature t1 of the cooling liquid outlet of the electric pile and the set temperature upper limit T, and controlling the thermal management system to operate in a large circulation cooling state. When the thermal management system is in a small circulation cooling state, a large circulation cooling state and a switching state, the relation between the actual loading rate and the rated loading rate of the fuel cell engine is judged, and if the actual loading rate of the fuel cell engine exceeds the rated loading rate, the liquid pump is controlled to operate at the preset rotating speed; otherwise, controlling the liquid pump to operate at a rotating speed less than the preset rotating speed. The rotating speed of the liquid pump can be reasonably regulated, overuse is avoided, the service life of the liquid pump is prolonged, and the reliability of a thermal management system is improved."
+                },
+                {
+                    "p": "本发明属于燃料电池系统技术领域，公开了一种热管理系统控制方法、燃料电池发动机及车辆。热管理系统控制方法包括启动燃料电池发动机，控制热管理系统处于小循环冷却状态。判断电堆的冷却液出口的温度t1与设定温度上限T关系，t1≥T，控制热管理系统运行在大循环冷却状态。在热管理系统处于小循环冷却状、大循环冷却状态和切换状态时，判断燃料电池发动机的实际加载速率与额定加载速率的关系，若燃料电池发动机的实际加载速率超过额定加载速率，则控制液泵以预设转速运行；否则控制液泵以小于预设转速的转速运行。能够对液泵转速进行合理调控，避免过度使用，延长液泵使用寿命，提高热管理系统可靠性。"
+                }
+            ]
+        }
+    }
+}

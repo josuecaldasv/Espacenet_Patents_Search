@@ -1,0 +1,145 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118329680",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118329680",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "G01N   5/    00            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "36",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410594556",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410594556",
+                            "date": "20240514"
+                        },
+                        {
+                            "doc-number": "202410594556.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410594556",
+                            "date": "20240514"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "MING YANG SMART ENERGY GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "明阳智慧能源集团股份公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG CHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG TAIJI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU MINGHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHENG YUYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG JINQIU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张泰基, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘明昊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郑宇洋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张进秋"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method and system for measuring water seepage amount of cathode side of water electrolysis hydrogen production system",
+                    "一种电解水制氢系统阴极侧渗水量测量方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a method and system for measuring the water seepage amount of the cathode side of a water electrolysis hydrogen production system, and the method comprises the steps: connecting a cathode outlet of the PEM water electrolysis hydrogen production system with a cathode output pipeline and a pneumatic ball valve under a totally-enclosed condition, and then connecting with a first-stage cooler for primary heat exchange; hydrogen and condensate water enter the gas-liquid separation tank from the rear end of an outlet of the first-stage cooler to be subjected to two-phase separation, the gas-liquid separation tank is arranged on an electronic platform scale with analog quantity signal output, and real-time monitoring of the overall weight of the separation tank is achieved. The real-time measurement of the water seepage amount of the cathode side can be quickly and accurately completed without stopping a water electrolysis hydrogen production system; the influence of external conditions and internal environment changes is avoided, the real-time measurement of the liquid level in the gas-liquid separation tank is realized, and compared with the prior art, the collection precision of the water seepage amount is improved, the result is more accurate and reliable, the shutdown detection time of equipment is saved, and the reliability of evaluation of the membrane electric polarity water seepage performance is ensured."
+                },
+                {
+                    "p": "本发明公开了一种电解水制氢系统阴极侧渗水量测量方法及系统，该方法是在全密闭条件下在PEM电解水制氢系统的阴极出口连接阴极输出管路与气动球阀，再与一级冷却器相连进行初次换热，氢气与冷凝水从一级冷却器出口后端进入气液分离罐内进行两相分离，将气液分离罐置于带模拟量信号输出的电子台秤上实现对分离罐整体重量的实时监控，利用气液分离罐整体的重量数据，无需电解水制氢系统停机即能快速精确的完成对阴极侧渗水量的实时测量；本发明避免了外界条件及内部环境变化的影响，实现对气液分离罐内液位的实时测量，相比于现有技术，提高了渗水量的收集精度，其结果更加精确可靠，节省设备停机检测时间，保证对膜电极性渗水性能评估的可靠性。"
+                }
+            ]
+        }
+    }
+}

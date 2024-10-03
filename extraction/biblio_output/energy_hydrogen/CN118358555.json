@@ -1,0 +1,165 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118358555",
+                            "kind": "A",
+                            "date": "20240719"
+                        },
+                        {
+                            "doc-number": "CN118358555",
+                            "date": "20240719"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60W  10/    06            A I                    "
+                        },
+                        {
+                            "text": "B60W  10/    08            A I                    "
+                        },
+                        {
+                            "text": "B60W  20/    11            A I                    "
+                        },
+                        {
+                            "text": "B60W  20/    15            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410591225",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410591225",
+                            "date": "20240513"
+                        },
+                        {
+                            "doc-number": "202410591225.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410591225",
+                            "date": "20240513"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING UNIV OF TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京工业大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JI CHANGWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU SONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG SHUOFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG JINXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HONG CHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QIANG YANFEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIANG JIANKUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "纪常伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐崧, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "汪硕峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨金鑫, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "洪琛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "强艳飞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "项健坤"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Model predictive control-based energy management strategy for ammonia-hydrogen zero-carbon internal combustion engine hybrid power system",
+                    "一种基于模型预测控制的氨氢零碳内燃机混动系统能量管理策略"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an ammonia-hydrogen zero-carbon internal combustion engine hybrid power system energy management strategy based on model predictive control. A hybrid power system comprises an ammonia-hydrogen internal combustion engine controller, an ammonia-hydrogen internal combustion engine, a generator, a generator controller, a motor controller, a power coupler and a driving motor. The whole vehicle controller obtains the whole vehicle power demand at the current moment, predicts the vehicle speed in the future s time, obtains the whole vehicle SOC constraint in the future s time based on the whole vehicle model and adjusts the volume fraction alpha of the mixed fuel gas occupied by the ammonia gas of the ammonia-hydrogen engine in real time, and finally obtains the optimal engine output power sequence through a model prediction control algorithm. Fuel consumption is reduced, the efficiency of the zero-carbon hybrid power system is improved, and the problem that in a rule-based control strategy, an optimal control method is difficult to put forward for complex working conditions due to excessive dependence on experiences of engineers is solved."
+                },
+                {
+                    "p": "本发明提供一种基于模型预测控制的氨氢零碳内燃机混动系统能量管理策略，该混合动力系统包括氨氢内燃机控制器、氨氢内燃机、发电机、发电机控制器、电机控制器和动力耦合器与驱动电机。整车控制器获取当前时刻整车功率需求、预测未来s时间内的车速、基于整车模型获取未来s时间内整车SOC约束以及实时调整氨氢发动机的氨气所占混合燃料气体的体积分数α，最终通过模型预测控制算法，获取最优发动机输出功率序列，减小燃料消耗并提高零碳混合动力系统的效率，改善基于规则的控制策略中，过于依赖工程师经验、难以对复杂工况提出最优控制方法的问题。"
+                }
+            ]
+        }
+    }
+}

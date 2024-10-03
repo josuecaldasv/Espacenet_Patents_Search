@@ -1,0 +1,208 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118132954",
+                            "kind": "A",
+                            "date": "20240604"
+                        },
+                        {
+                            "doc-number": "CN118132954",
+                            "date": "20240604"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  17/    15            A I                    "
+                        },
+                        {
+                            "text": "G06F  18/    20            A I                    "
+                        },
+                        {
+                            "text": "G06F  18/    25            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "17",
+                            "subgroup": "15",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "18",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "18",
+                            "subgroup": "25",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410307171",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410307171",
+                            "date": "20240318"
+                        },
+                        {
+                            "doc-number": "202410307171.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410307171",
+                            "date": "20240318"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV NORTH CHINA ELECTRIC POWER"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " ELECTRIC POWER SCIENT RES INST STATE GRID ZHEJIANG ELECTRIC POWER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华北电力大学, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国网浙江省电力有限公司电力科学研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU NIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LU YUFAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG KUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO BO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘念, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卢俞帆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张宽, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵波"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Reliability evaluation method for electro-hydrogen coupling system",
+                    "一种电氢耦合系统的可靠性评估方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a reliability evaluation method of an electro-hydrogen coupling system, and relates to the technical field of hydrogen energy, and the method comprises the steps: analyzing a system structure of the electro-hydrogen coupling system; obtaining a power module in the electricity-hydrogen coupling system, evaluating the reliability of a load point in the power module through an analytical method, and obtaining a power module evaluation result; obtaining a hydrogen energy module in the electricity-hydrogen coupling system, evaluating the reliability of hydrogen production equipment, a hydrogen conveying pipeline and a load point in the hydrogen energy module based on the equipment time-varying fault rate model, and obtaining a hydrogen energy module evaluation result; and according to the power module evaluation result and the hydrogen energy module evaluation result, obtaining a reliability evaluation result of the electricity-hydrogen coupling system. According to the method, the reliability evaluation of the power module and the hydrogen energy module in the electricity-hydrogen coupling system is realized, and the calculation of reliability indexes of a common electric load point, a hydrogen production load point and an electricity-hydrogen comprehensive utilization load point in the system is further realized; and a reliable basis is provided for working personnel to formulate a system planning scheme and a system operation and maintenance scheduling plan."
+                },
+                {
+                    "p": "本发明提供了电氢耦合系统的可靠性评估方法，涉及氢能技术领域，包括：分析电氢耦合系统的系统结构；获取电氢耦合系统中的电力模块，通过解析法评估电力模块中负荷点的可靠性，获取电力模块评估结果；获取电氢耦合系统中的氢能模块，基于设备时变故障率模型评估氢能模块中制氢设备、输氢管道以及负荷点的可靠性，获取氢能模块评估结果；根据电力模块评估结果和氢能模块评估结果，获取电氢耦合系统的可靠性评估结果。上述方法实现了对电氢耦合系统中电力模块和氢能模块的可靠性评估，进一步实现了对系统中普通电负荷点、制氢负荷点和电氢综合利用负荷点的可靠性指标的计算，为工作人员制定系统规划方案与系统运维检修排班计划提供可靠依据。"
+                }
+            ]
+        }
+    }
+}

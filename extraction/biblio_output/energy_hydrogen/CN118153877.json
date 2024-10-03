@@ -1,0 +1,191 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118153877",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118153877",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06315",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "28",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "381",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410308392",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410308392",
+                            "date": "20240318"
+                        },
+                        {
+                            "doc-number": "202410308392.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410308392",
+                            "date": "20240318"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV NORTH CHINA ELECTRIC POWER"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华北电力大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU NIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO YUXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG KUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘念, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗煜欣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张宽"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Electro-hydrogen fusion energy system operation method and device, storage medium and electronic equipment",
+                    "电氢融合能源系统运行方法、装置、存储介质及电子设备"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to an electricity-hydrogen fusion energy system operation method and device, a storage medium and electronic equipment. The method comprises the steps that an electricity-hydrogen fusion energy system node network of a target area is established; determining a modularity index based on a node electrical distance, a modularity index based on a hydrogen flow coefficient, a functional index based on an electric energy self-consistent rate and a functional index based on a hydrogen energy self-consistent rate; dividing to obtain a balance area division result; and establishing a typical energy supply framework and an electricity-hydrogen coupling model. According to the method, a structural and functional division index system of the balance area of the electro-hydrogen fusion energy system is constructed, a dynamic division method of the balance area is provided, a typical architecture of the electro-hydrogen fusion energy system is constructed based on the electro-hydrogen conversion relation in the system, and a multi-energy coupling mathematical model is established to describe the interconnection topological relation and the electro-hydrogen interaction characteristics; energy mutual aid of electric power and hydrogen is achieved between the energy system and the node of each electricity-hydrogen fusion area, so that the overall income of the system is increased, and the utilization efficiency of renewable energy is improved."
+                },
+                {
+                    "p": "本申请涉及一种电氢融合能源系统运行方法、装置、存储介质及电子设备，包括：建立目标区域的电氢融合能源系统节点网络；确认基于节点电气距离的模块度指标、基于氢气流量系数的模块度指标、基于电能自洽率的功能性指标和基于氢能自洽率的功能性指标；划分得到平衡区划分结果；建立典型供能架构和电氢耦合模型。本申请构建了电氢融合能源系统平衡区结构性和功能性划分指标体系，并提出平衡区动态划分方法，基于系统内的电氢转换关系构建电氢融合能源系统典型架构，建立多能耦合数学模型描述互联拓扑关系和电氢交互特性，实现了在各个电氢融合区域能源系统和节点之间进行电力和氢气的能源互济，以增加系统整体收入、促进可再生能源的利用效率。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "105186660",
+                            "kind": "A",
+                            "date": "20151223"
+                        },
+                        {
+                            "doc-number": "CN105186660",
+                            "date": "20151223"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H02J   7/    34            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "10",
+                        "subgroup": "76",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201510486504",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201510486504",
+                            "date": "20150810"
+                        },
+                        {
+                            "doc-number": "2015104865043"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201510486504",
+                            "date": "20150810"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "INST ELECTRICAL ENG CAS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "INSTITUTE OF ELECTRICAL ENGINEERING, CHINESE ACADEMY OF SCIENCES, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国科学院电工研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI FENGLIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU SHUJU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG LINGLING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "LI FENGLIN, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "HU SHUJU, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "WANG LINGLING, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李丰林, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡书举, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王玲玲"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Off-grid type wind power hydrogen production conversion system",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101330227",
+                                        "name": "UNIV SOUTHEAST [CN]",
+                                        "date": "20081224"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101330227",
+                                        "kind": "A",
+                                        "name": "UNIV SOUTHEAST [CN]",
+                                        "date": "20081224"
+                                    }
+                                ]
+                            },
+                            "category": [
+                                "Y",
+                                "X"
+                            ],
+                            "rel-claims": [
+                                "3",
+                                "1"
+                            ],
+                            "rel-passage": {
+                                "passage": "* 说明书第6页第2段，附图2 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN202949245U",
+                                        "name": "ZK ENERGY SCIENCE & TECHNOLOGY",
+                                        "date": "20130522"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "202949245",
+                                        "kind": "U",
+                                        "name": "ZK ENERGY SCIENCE & TECHNOLOGY",
+                                        "date": "20130522"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "3",
+                            "rel-passage": {
+                                "passage": "* 说明书第15-20段，附图2 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2014306645",
+                                        "name": "SALMOND COLIN [AU], et al",
+                                        "date": "20141016"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2014306645",
+                                        "kind": "A1",
+                                        "name": "SALMOND COLIN [AU], et al",
+                                        "date": "20141016"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "An off-grid type wind power hydrogen production conversion system is disclosed. A rectification unit converts an input alternating current of a wind power generation unit into a direct current. Multipath output terminals of an electrolytic direct current conversion unit are connected to a plurality of electrolytic input terminals of a water electrolyser. A direct voltage after rectification is converted into a voltage satisfying a working condition of the water electrolyser. An energy storage unit is connected to an output terminal of the rectification unit through a bidirectional direct current conversion unit. The bidirectional direct current conversion unit balances imbalance of instantaneous power of the rectification unit and the electrolytic direct current conversion unit and increases wind energy efficiency absorbed by the wind power generation unit through adjusting charging and discharging of the energy storage unit. An unloading unit is connected to the output terminal of the rectification unit so as to realize overvoltage protection. Under the off-grid condition, energy conversion during a wind energy-electric energy-hydrogen energy process, fluctuating wind energy is converted into the electric energy needed by smooth water-electrolytic hydrogen production and a wind energy utilization level is increased."
+            }
+        }
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117542715",
+                            "kind": "A",
+                            "date": "20240209"
+                        },
+                        {
+                            "doc-number": "CN117542715",
+                            "date": "20240209"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01J  37/    08            A I                    "
+                        },
+                        {
+                            "text": "H01J  37/   147            A I                    "
+                        },
+                        {
+                            "text": "H01J  37/    21            A I                    "
+                        },
+                        {
+                            "text": "H01J  37/   317            A I                    "
+                        },
+                        {
+                            "text": "H01L  21/    67            A I                    "
+                        },
+                        {
+                            "text": "H05H   1/    24            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "1475",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "21",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "3171",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "67011",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "H",
+                            "main-group": "1",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311778537",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311778537",
+                            "date": "20231222"
+                        },
+                        {
+                            "doc-number": "202311778537.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311778537",
+                            "date": "20231222"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "XINYU SEMICONDUCTOR SHANGHAI CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "芯嵛半导体（上海）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG HUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG JING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN JIONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG YI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KUANG BIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "汪辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张劲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈炯, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨一, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邝斌"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "High-energy hydrogen ion implanter and high-energy hydrogen ion beam generation method",
+                    "高能量氢离子注入机及高能量氢离子束产生方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a high-energy hydrogen ion implanter and a high-energy hydrogen ion beam generation method, and belongs to the technical field of semiconductor ion implantation, the high-energy hydrogen ion implanter comprises a hydrogen ion source, a hydrogen ion accelerator, a stripping extraction device, a scanning electromagnetic coil, a collimation electromagnetic coil, an implantation cavity and a wafer transmission system which are connected in sequence; the hydrogen ion accelerator is a cyclotron. According to the scheme, hydrogen ions reach required high energy, the occupied area is relatively small, and related technologies are relatively mature; the cyclotron outputs a column of accelerated high-energy hydrogen beams, the cross section of the high-energy hydrogen beams is spot-shaped, the beam spot scanning range covers the wafer by utilizing the scanning electromagnetic coil, and parallel strip-shaped high-energy hydrogen ion beams with the length larger than the size of the wafer are formed after the beams pass through the collimation electromagnetic coil; the high-energy hydrogen injection machine fills the blank of domestic related equipment technology, and for an IGBT chip and an FRD chip, the performance of the chip can be remarkably improved by adopting the high-energy hydrogen injection machine to carry out a back high-energy hydrogen injection process."
+                },
+                {
+                    "p": "本发明涉及一种高能量氢离子注入机及高能量氢离子束产生方法，属于半导体离子注入技术领域，高能量氢离子注入机包括有依次相连接的氢离子源、氢离子加速器、剥离引出装置、扫描电磁线圈、准直电磁线圈、注入腔体和晶圆传输系统；氢离子加速器为回旋加速器。本方案实现了使氢离子达到所需的高能量，占地面积相对较小且相关技术较为成熟；回旋加速器输出一列加速后的高能氢束流，其截面为斑点状，进而利用扫描电磁线圈让束斑扫描范围覆盖晶圆，在通过准直电磁线圈后形成长度大于晶圆尺寸的平行条带状高能氢离子束；填补了国内相关设备技术的空白，对于例如IGBT芯片以及FRD芯片，采用本方案的高能氢注入机进行背面高能氢注入工艺可显著提高芯片性能。"
+                }
+            ]
+        }
+    }
+}

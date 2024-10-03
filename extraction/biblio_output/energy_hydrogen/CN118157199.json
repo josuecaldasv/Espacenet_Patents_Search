@@ -1,0 +1,198 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118157199",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118157199",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "28",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "381",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "24",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "28",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410158650",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410158650",
+                            "date": "20240204"
+                        },
+                        {
+                            "doc-number": "202410158650.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410158650",
+                            "date": "20240204"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHENZHEN HAWAGA HYDROGEN ENERGY SCIENCE AND TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "深圳市好风光氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG XIAOCHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO MENGHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU ZHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王小成, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗蒙浩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘烨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘钊"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Pure off-grid type green electricity hydrogen production system and method",
+                    "一种纯离网式绿电制氢系统及方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a pure off-grid type green electricity hydrogen production system which comprises wind power equipment, photovoltaic equipment, energy storage equipment, a voltage transformation and rectification assembly, hydrogen production equipment and a control system, the energy storage equipment comprises a bidirectional converter and an energy storage module, and the energy storage module is electrically connected with the bidirectional converter; the energy storage module can transmit electric energy to the bidirectional converter so as to transmit the electric energy to the AC converter and/or the photovoltaic inverter, and meanwhile, the electric energy transmitted from the photovoltaic combiner box and/or the wind power combiner box can be converted by the bidirectional converter and then stored in the energy storage module, and the voltage transformation and rectification assembly is electrically connected with the AC converter and the photovoltaic inverter. The hydrogen production equipment is electrically connected with the voltage transformation and rectification assembly so as to produce hydrogen through electric energy from the voltage transformation and rectification assembly, and the control system is used for regulating and controlling the energy supply mode of the system. According to the invention, hydrogen can be efficiently, stably and safely produced in an off-grid mode by using the renewable green electricity."
+                },
+                {
+                    "p": "本申请涉及一种纯离网式绿电制氢系统，包括风力设备、光伏设备、储能设备、变压整流组件、制氢设备和控制系统，储能设备包括双向变流器及储能模块，储能模块与双向变流器电连接，储能模块能够向双向变流器传递电能进而传递至交流变流器及/或光伏逆变器，同时光伏汇流箱及/或风电汇流箱传递来的电能也可经双向变流器转换后储存到储能模块，变压整流组件与交流变流器和光伏逆变器电连接，制氢设备与变压整流组件电连接，以通过来自所述变压整流组件的电能制取氢气，控制系统用于调控系统的能量供应方式。本申请能够实现利用可再生绿电在离网模式下高效、稳定、安全地制氢。"
+                }
+            ]
+        }
+    }
+}

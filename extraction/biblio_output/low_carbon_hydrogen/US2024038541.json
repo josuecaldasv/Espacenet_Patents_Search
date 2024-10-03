@@ -1,0 +1,202 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2024038541",
+                            "kind": "A1",
+                            "date": "20240201"
+                        },
+                        {
+                            "doc-number": "US2024038541",
+                            "date": "20240201"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H01L  21/  3065            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "02068",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "3065",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "76883",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "202217961153",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US202217961153",
+                            "date": "20221006"
+                        },
+                        {
+                            "doc-number": "17961153"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US202263392655P",
+                                    "date": "20220727"
+                                },
+                                {
+                                    "doc-number": "63392655"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": {
+                                "doc-number": "US202217961153",
+                                "date": "20221006"
+                            }
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "APPLIED MATERIALS INC [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "Applied Materials, Inc"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CEN JIAJIE [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG XIAODONG [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KASHEFI KEVIN [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YOU SHI [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "CEN, Jiajie, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "WANG, Xiaodong, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "KASHEFI, Kevin, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "YOU, Shi"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "METHODS FOR REMOVING MOLYBDENUM OXIDES FROM SUBSTRATES",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US7084070",
+                                        "name": "LEE SANGHEON [US], et al",
+                                        "date": "20060801"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "7084070",
+                                        "kind": "B1",
+                                        "name": "LEE SANGHEON [US], et al",
+                                        "date": "20060801"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2023215763",
+                                        "name": "BYUN YOUNGCHOL [US], et al",
+                                        "date": "20230706"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2023215763",
+                                        "kind": "A1",
+                                        "name": "BYUN YOUNGCHOL [US], et al",
+                                        "date": "20230706"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "Methods for cleaning oxides from a substrate surface are performed without affecting low-k dielectric or carbon materials on the substrate. In some embodiments, the method may include performing a preclean process with a chlorine-based soak to remove oxides from a surface of a substrate in a back end of the line (BEOL) process and treating the surface of the substrate with a remote plasma with a hydrogen gas and at least one inert gas to remove residual chlorine residue from the surface of the substrate without damaging low-k dielectric material or carbon material on the substrate."
+            }
+        }
+    }
+}

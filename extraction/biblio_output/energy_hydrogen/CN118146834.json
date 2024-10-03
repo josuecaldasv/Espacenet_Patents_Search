@@ -1,0 +1,182 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118146834",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118146834",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C10G  67/    06            A I                    "
+                        },
+                        {
+                            "text": "C10G  67/    14            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "G",
+                            "main-group": "67",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "G",
+                            "main-group": "67",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "G",
+                            "main-group": "2400",
+                            "subgroup": "04",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211565752",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211565752",
+                            "date": "20221207"
+                        },
+                        {
+                            "doc-number": "202211565752.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211565752",
+                            "date": "20221207"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA PETROLEUM & CHEM CORP"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SINOPEC DALIAN PETROLEUM CHEMICAL RES INSTITUTE CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国石油化工股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中石化（大连）石油化工研究院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI KUNPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI SHICAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING HE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DAI MENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李坤鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李士才, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁贺, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李扬, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "代萌"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Production method of clean diesel oil",
+                    "一种清洁柴油的生产方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a production method of clean diesel oil. The method comprises the following steps: (1) feeding a diesel oil raw material and hydrogen into a hydrogenation reactor, and carrying out hydrodesulfurization reaction; (2) a material flowing out of the hydrogenation reactor exchanges heat with a diesel oil raw material through a heat exchanger and then passes through a high-pressure separator to obtain a gas-phase component and a liquid-phase component, the liquid-phase component is subjected to steam stripping through a steam stripping tower, and the liquid-phase component after impurity removal enters an adsorption dearomatization reactor filled with an aromatic hydrocarbon adsorbent from top to bottom; and (3) after the adsorption dearomatization reactor performs the adsorption dearomatization reaction, discharging unadsorbed materials from the bottom of the adsorption dearomatization reactor to obtain a clean diesel oil product. According to the invention, specific removal can be carried out by adopting different reaction modes and reaction conditions according to the reaction characteristics of sulfides and aromatic hydrocarbons in the raw materials, so that ultra-deep desulfurization can be achieved, aromatic hydrocarbon components in the oil product can be separated with relatively low hydrogen consumption, and meanwhile, a clean diesel oil product can be produced with relatively low device energy consumption."
+                },
+                {
+                    "p": "本发明公开了一种清洁柴油的生产方法。该方法包括：(1)柴油原料和氢气进入加氢反应器，进行加氢脱硫反应；(2)加氢反应器流出物料经换热器与柴油原料换热，然后经高压分离器，得到气相组分和液相组分，其中液相组分再经汽提塔汽提，脱除杂质后的液相组分自上而下进入装填芳烃吸附剂的吸附脱芳反应器；(3)吸附脱芳反应器进行吸附脱除反应后，未被吸附的物料从吸附脱芳反应器底部排出，即为清洁柴油产品。本发明能够针对原料中的硫化物和芳烃的反应特点，采用不同的反应方式和反应条件进行针对性的脱除，不仅能够达到超深度脱硫，还能够以较低的氢耗分离出油品中的芳烃组分，同时，还能够以较低的装置能耗生产清洁柴油产品。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117482982",
+                            "kind": "A",
+                            "date": "20240202"
+                        },
+                        {
+                            "doc-number": "CN117482982",
+                            "date": "20240202"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  29/   035            A I                    "
+                        },
+                        {
+                            "text": "B01J  37/    02            A I                    "
+                        },
+                        {
+                            "text": "B01J  37/    10            A I                    "
+                        },
+                        {
+                            "text": "C07C   5/   333            A I                    "
+                        },
+                        {
+                            "text": "C07C  11/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "29",
+                            "subgroup": "035",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "0201",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "5",
+                            "subgroup": "333",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "52",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C5/333",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C11/06",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311360583",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311360583",
+                            "date": "20231020"
+                        },
+                        {
+                            "doc-number": "202311360583.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311360583",
+                            "date": "20231020"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA CATALYST HOLDING CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中触媒新材料股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SUN LI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DONG ZHAOLIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SONG QUANREN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG XIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG XIANBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙利, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董兆亮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋全仁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王鑫, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王贤彬, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李进"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Gallium or indium doped S-1 molecular sieve packaged metal catalyst as well as preparation method and application thereof",
+                    "镓或铟掺杂S-1分子筛封装金属催化剂及其制备方法与应用"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a gallium or indium doped S-1 molecular sieve packaged metal catalyst and a preparation method and application thereof, in particular to application of the gallium or indium doped S-1 molecular sieve packaged metal catalyst in light alkane dehydrogenation. And drying, dipping, drying, carrying out dry glue crystallization reaction, roasting in a nitrogen atmosphere, oxidizing roasting in an air atmosphere, reducing in a hydrogen atmosphere and the like to obtain the catalyst. As a specific implementation mode for evaluating the performance of the catalyst, the performance of the catalyst in low-carbon alkane dehydrogenation is evaluated by taking propane dehydrogenation reaction as model reaction, high propane conversion rate and propylene selectivity can be obtained without adding hydrogen in the reaction process, and the catalyst is good in stability and has a good industrial application prospect. The preparation method is simple, a dry gel material is crystallized and then dried, formed, roasted and reduced to obtain the catalyst, the steps of washing, filtering and the like are omitted in the preparation process, discharge of a large amount of wastewater containing metal and a template agent is reduced, and industrial large-scale production is facilitated."
+                },
+                {
+                    "p": "一种镓或铟掺杂S‑1分子筛封装金属催化剂及其制备方法与应用，特别是在低碳烷烃脱氢的应用，首先采用水热法晶化法制备镓或铟掺杂S‑1分子筛浆料，然后经干燥、浸渍、干燥、干胶晶化反应、氮气气氛下焙烧、空气气氛下氧化焙烧以及氢气气氛还原等步骤制得上述催化剂。作为催化剂性能评价的一种具体的实施方式，以丙烷脱氢反应为模型反应来评价上述催化剂在低碳烷烃脱氢的性能，反应过程无需加入氢气，即可获得较高丙烷转化率和丙烯选择性，且催化剂稳定性良好，具有良好工业应用前景。其制备方法简单，干胶物料晶化后经干燥、成型、焙烧和还原后即制得，制备过程中无水洗、过滤等步骤，减少了大量含金属及模板剂废水的排放，利于工业放大生产。"
+                }
+            ]
+        }
+    }
+}

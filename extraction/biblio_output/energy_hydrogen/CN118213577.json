@@ -1,0 +1,181 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118213577",
+                            "kind": "A",
+                            "date": "20240618"
+                        },
+                        {
+                            "doc-number": "CN118213577",
+                            "date": "20240618"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04298            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0432            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0438            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/    06            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0612            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04298",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0432",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0438",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0618",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410521811",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410521811",
+                            "date": "20240428"
+                        },
+                        {
+                            "doc-number": "202410521811.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410521811",
+                            "date": "20240428"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV ZHEJIANG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "浙江大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "MEI DEQING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU HAONAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YANCHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "梅德庆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周浩楠, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "汪延成"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Waste heat utilization control system and method for methanol steam reforming high-temperature fuel cell",
+                    "甲醇蒸汽重整高温燃料电池的余热利用控制系统和方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a waste heat utilization control system and method for a methanol steam reforming high-temperature fuel cell. A fuel device of the control system is used for converting chemical energy of hydrogen into electric energy and supplying hydrogen-rich gas fuel, heat and compressed air in the conversion process, a heat dissipation device is used for heating and cooling a high-temperature fuel cell stack, a cooling device is used for cooling the compressed air and heat dissipation oil, and a sensor assembly is used for collecting operation state data. And the controller is used for controlling and monitoring. The waste heat utilization control system operates in the working modes of cold start operation first and second stages, low-temperature operation, self-circulation operation and heat dissipation operation. The waste heat utilization control system can meet effective cold start, heating and cooling of the high-temperature fuel cell stack in five working modes, the cold start time is shortened through waste heat recovery, the system power consumption is reduced, the waste heat utilization control efficiency is improved, a multi-way valve is used for simplifying pipelines, the number of parts is reduced, and the system structure is optimized."
+                },
+                {
+                    "p": "本发明公开了一种甲醇蒸汽重整高温燃料电池的余热利用控制系统和方法。控制系统的燃料装置用于将氢气的化学能转化为电能并在转化过程中供应富氢气体燃料、热量和压缩空气，散热装置用于加热和冷却高温燃料电池电堆，冷却装置用于冷却压缩空气和散热油，传感器组件用于运行状态数据的采集，控制器用于控制和监测。余热利用控制系统在冷启动运行第一和第二阶段、低温运行、自循环运行和散热运行的工作模式下运行。本发明的余热利用控制系统在五种工作模式下可以满足高温燃料电池电堆有效的冷启动、加热和冷却，通过余热回收缩短冷启动时间、降低系统功耗、提高余热利用控制效率，利用多通阀件简化管路，减少零部件数量，优化了系统结构。"
+                }
+            ]
+        }
+    }
+}

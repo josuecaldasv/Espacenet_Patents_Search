@@ -1,0 +1,155 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118395854",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118395854",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  30/    27            A I                    "
+                        },
+                        {
+                            "text": "G06N   3/  0464            A I                    "
+                        },
+                        {
+                            "text": "G06N   3/   049            A I                    "
+                        },
+                        {
+                            "text": "G06F 119/    14            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410487692",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410487692",
+                            "date": "20240423"
+                        },
+                        {
+                            "doc-number": "202410487692.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410487692",
+                            "date": "20240423"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "DALIAN UNIV OF TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SHENYANG FIRE RES INSTITUTE OF MEM"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "大连理工大学, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "应急管理部沈阳消防研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "BI YUBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG SHILU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BI MINGSHU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DONG WENHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "毕钰帛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王石露, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "许磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "毕明树, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董文辉"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen refueling station hydrogen leakage traceability positioning method considering perception system layout optimization",
+                    "一种考虑感知系统布局优化的加氢站氢泄漏溯源定位方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a hydrogen refueling station hydrogen leakage traceability positioning method considering perception system layout optimization, and belongs to the fields of hydrogen energy safety application, perception system layout optimization and leakage traceability early warning. According to the method, a hydrogen leakage reference data set is constructed through CFD simulation. The genetic algorithm (GA) optimizes the sensor layout so as to reduce the application cost and improve the monitoring effect at the same time. Collected wind speed, wind direction and sensor-based concentration data are subjected to multi-modal fusion, so that the model is helped to mine more potential features. The method provided by the invention can accurately predict the space coordinates of the leakage source in the hydrogen refueling station, and greatly shortens the diagnosis time in practical application. Reliable support is provided for safe application and development of hydrogen energy, and meanwhile the reference is used for locating leakage of other dangerous gases."
+                },
+                {
+                    "p": "本发明公开了一种考虑感知系统布局优化的加氢站氢泄漏溯源定位方法，属于氢能源安全应用、感知系统优化布局及泄漏溯源预警领域。该方法通过CFD仿真构建了氢气泄漏基准数据集。遗传算法（GA）优化了传感器布局，以降低应用成本，同时提高监测效果。收集到的风速、风向和基于传感器的浓度数据经过多模态融合，帮助模型挖掘出更多潜在特征。所提出的方法可准确预测加氢站中泄漏源所在的空间坐标，大大缩短了实际应用中的诊断时间。它为氢能的安全应用和发展提供了可靠的支持，同时也是定位其他危险气体泄漏的基准。"
+                }
+            ]
+        }
+    }
+}

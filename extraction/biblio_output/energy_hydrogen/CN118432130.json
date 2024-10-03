@@ -1,0 +1,204 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118432130",
+                            "kind": "A",
+                            "date": "20240802"
+                        },
+                        {
+                            "doc-number": "CN118432130",
+                            "date": "20240802"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        },
+                        {
+                            "text": "H02S  10/    12            A I                    "
+                        },
+                        {
+                            "text": "H02S  40/    38            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410440540",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410440540",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "202410440540.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410440540",
+                            "date": "20240412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHANGJIANG INSTITUTE OF SURVEY PLANNING DESIGN AND RES CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "长江勘测规划设计研究有限责任公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG TIANTIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU HAIBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAO TIELING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE JIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG XU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU ZHICHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI XINGQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI SHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张甜甜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘海波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陶铁铃, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张旭, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘智超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡昱, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李兴强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李胜"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Multi-voltage-level off-grid wind-solar-hydrogen storage integrated system",
+                    "一种多电压等级离网风光氢储集成系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of electric energy storage, in particular to a multi-voltage-level off-grid wind-solar-hydrogen storage integrated system. Comprising a low-voltage collection hydrogen production power supply system, a middle-high-voltage collection hydrogen production power supply system, a power transmission and transformation system, an electrolytic cell system, a hydrogen production power supply power distribution controller and hydrogen production station auxiliary equipment, the low-voltage collection hydrogen production power supply system comprises a close-range wind-solar power generation system, and the middle-high-voltage collection hydrogen production power supply system comprises a long-range wind-solar power generation system. The power transmission and transformation system comprises a DC cable and an AC cable. The low-voltage collection hydrogen production power supply system is connected with the input end of the electrolytic cell system through a direct-current cable; the middle-high voltage collection hydrogen production power supply system is connected with the input end of the hydrogen production power supply power distribution controller or the hydrogen production station auxiliary equipment through an alternating current cable, and the output end of the hydrogen production power supply power distribution controller is connected with the electrolytic bath system. And a low-voltage and medium-high-voltage collection mode is adopted, so that the transmission cost and the transmission loss are reduced and the transmission efficiency is improved while long-distance high-capacity transmission is met."
+                },
+                {
+                    "p": "本发明涉及电力储能技术领域，具体涉及一种多电压等级离网风光氢储集成系统。包括低压汇集制氢电源系统、中高压汇集制氢电源系统、输变电系统、电解槽系统、制氢电源功率分配控制器和制氢站辅助设备，低压汇集制氢电源系统包括近距离风光发电系统，中高压汇集制氢电源系统包括远距离风光发电系统，输变电系统包括直流电缆和交流电缆；低压汇集制氢电源系统通过直流电缆与电解槽系统的输入端连接；中高压汇集制氢电源系统通过交流电缆与制氢电源功率分配控制器或制氢站辅助设备的输入端连接，制氢电源功率分配控制器的输出端与电解槽系统连接。采用低压和中高压汇集方式，在满足远距离大容量传输的同时，降低传输成本和传输损耗，提升传输效率。"
+                }
+            ]
+        }
+    }
+}

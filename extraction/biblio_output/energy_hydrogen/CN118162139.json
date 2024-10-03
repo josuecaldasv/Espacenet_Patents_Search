@@ -1,0 +1,230 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118162139",
+                            "kind": "A",
+                            "date": "20240611"
+                        },
+                        {
+                            "doc-number": "CN118162139",
+                            "date": "20240611"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  23/    80            A I                    "
+                        },
+                        {
+                            "text": "B01J  23/    86            A I                    "
+                        },
+                        {
+                            "text": "B01J  23/   888            A I                    "
+                        },
+                        {
+                            "text": "B01J  23/   889            A I                    "
+                        },
+                        {
+                            "text": "B01J  37/    03            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   154            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "80",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "868",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "888",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "8892",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "031",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "154",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "52",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C29/154",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C31/04",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211573131",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211573131",
+                            "date": "20221208"
+                        },
+                        {
+                            "doc-number": "202211573131.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211573131",
+                            "date": "20221208"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "DALIAN INST CHEM & PHYSICS CAS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国科学院大连化学物理研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI CAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JIJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李灿, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王集杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐韬"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Catalyst for liquid sunlight methanol synthesis as well as preparation method and application of catalyst",
+                    "一种用于液态阳光甲醇合成的催化剂及其制备方法和应用"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention develops a catalyst for synthesizing liquid sunshine methanol and a preparation method and application thereof, the liquid sunshine methanol is methanol synthesized by green hydrogen prepared from CO2 and renewable energy sources, and the catalyst is composed of five elements of Cu, Zn, Al, Si and X (X = V, Cr and Mn). The catalyst is prepared by adopting a reverse coprecipitation method, and the precipitate is aged, washed, dried, roasted and molded to finally prepare the catalyst required by the synthesis of the liquid sunlight methanol. Compared with a traditional Cu-ZnO-Al2O3 catalyst, the activity and selectivity of liquid sunshine methanol synthesis are obviously improved, and the catalyst is simple in preparation method and has wide application prospects."
+                },
+                {
+                    "p": "本发明开发了一种用于液态阳光甲醇合成的催化剂及其制备方法和应用，液态阳光甲醇是利用CO2与可再生能源制取的绿氢所合成的甲醇，所述催化剂由Cu、Zn、Al、Si、X(X＝V,Cr,Mn)五种元素组成。催化剂采用反向共沉淀法制备，沉淀物经过老化、洗涤、烘干、焙烧、成型最终制得液态阳光甲醇合成所需催化剂。相比传统Cu‑ZnO‑Al2O3催化剂，本发明明显提升了液态阳光甲醇合成的活性、选择性，且催化剂制备方法简单，具有广阔的应用前景。"
+                }
+            ]
+        }
+    }
+}

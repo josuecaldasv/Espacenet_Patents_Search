@@ -1,0 +1,175 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118198490",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118198490",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M  10/  0525            A I                    "
+                        },
+                        {
+                            "text": "H01M  10/  0566            A I                    "
+                        },
+                        {
+                            "text": "H01M  10/  0567            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "10",
+                            "subgroup": "0525",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "10",
+                            "subgroup": "0566",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "10",
+                            "subgroup": "0567",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410300687",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410300687",
+                            "date": "20240315"
+                        },
+                        {
+                            "doc-number": "202410300687.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410300687",
+                            "date": "20240315"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHENGHONG KINETIC ENERGY TECH JIANGSU CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "盛虹动能科技（江苏）股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SONG KESHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI HUAWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING CHUNXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋柯晟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李华伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁春祥"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Phosphonate electrolyte additive, electrolyte and lithium ion battery",
+                    "一种膦酸酯类电解液添加剂及电解液和锂离子电池"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a phosphonate electrolyte additive, an electrolyte and a lithium ion battery. The structural formula of the phosphonate electrolyte additive is shown in the formula (1). Wherein n in the formula (1) is an integer of 1-2, R1, R2 and R3 are independently selected from one of a hydrogen group, an alkyl group, a fluoro group, a fluoroalkyl group and a phenyl group, and X is one of an oxygen atom, a sulfur atom and a methyl imino group. Compared with the prior art, the fluoroalkyl group and phenyl group on the phosphonate skeleton of the additive weaken the interaction between a solvent and lithium ions, reduce the deintercalation energy barrier of the lithium ions at the interface, facilitate the solvation and desolvation of the lithium ions, form a stable SEI film, improve the stability of an electrode-electrolyte interface, improve the wettability of the electrolyte, and improve the performance of the electrolyte. Therefore, the cycle life of the battery is effectively prolonged. In addition, the phosphonate can capture HF decomposed by the lithium salt and free radicals generated by side reaction, so that the safety performance of the battery is effectively improved."
+                },
+                {
+                    "p": "本发明公开了一种膦酸酯类电解液添加剂及电解液和锂离子电池，该膦酸酯类电解液添加剂的结构式如式(1)所示；其中，所述式(1)中n为1～2的整数，R1、R2和R3各自独立的选自氢基、烷基、氟基、氟烷基和苯基中的一种，X为氧原子、硫原子和甲基亚氨基中的一种。相比于现有技术，该添加剂的膦酸酯骨架上的氟烷基和苯基削弱了溶剂和锂离子的相互作用，降低了锂离子在界面处的脱嵌能垒，有利于锂离子溶剂化和去溶剂化，同时形成了稳定的SEI膜，改善电极‑电解液界面的稳定性，提高电解液浸润性，从而有效提高电池的循环寿命。另外，膦酸酯可以捕获锂盐分解的HF和副反应产生的自由基，有效地提高了电池的安全性能。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117927859",
+                            "kind": "A",
+                            "date": "20240426"
+                        },
+                        {
+                            "doc-number": "CN117927859",
+                            "date": "20240426"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F17C  11/    00            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    00            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    12            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "11",
+                            "subgroup": "005",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "13",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "13",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "2221",
+                            "subgroup": "012",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "2260",
+                            "subgroup": "023",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "2260",
+                            "subgroup": "03",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410124209",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410124209",
+                            "date": "20240130"
+                        },
+                        {
+                            "doc-number": "202410124209.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410124209",
+                            "date": "20240130"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SPECIAL EQUIPMENT SAFETY SUPERVISION INSPECTION INST OF JIANGSU PROVINCE"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "江苏省特种设备安全监督检验研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JIN SUKE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU MENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING YI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MENG ZHIWEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO CHANYUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU TONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "金苏柯, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "余萌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李阳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁益, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孟志文, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗婵媛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘彤"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Low-temperature solid adsorption hydrogen storage system based on LNG cold source",
+                    "一种基于LNG冷源的低温固体吸附储氢系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of hydrogen storage, in particular to a low-temperature solid adsorption hydrogen storage system based on an LNG cold source, the hydrogen storage system mainly comprises a multi-stage precooling system, a hydrogen storage system, an automatic control system and a safety detection system, and the hydrogen storage system fully utilizes LNG cold energy to precool hydrogen; hydrogen is stored in a mode of adsorbing hydrogen in a cryogenic environment by adopting active carbon with high specific surface area. According to the system and the method, low-temperature adsorption hydrogen storage, waste wind power utilization and LNG cold energy utilization are combined, and the problem of high energy consumption of hydrogen preparation and storage is solved, so that the hydrogen preparation and storage mode which is relatively low in cost, safe and efficient, full utilization of LNG cold energy, utilization of assisting wind power and realization of a dual-carbon strategic target are realized."
+                },
+                {
+                    "p": "本发明涉及储氢技术领域，尤其涉及一种基于LNG冷源的低温固体吸附储氢系统,储氢系统主要包括多级预冷系统、储氢系统、自动控制系统和安全检测系统，所述储氢系统充分利用LNG冷能对氢气进行预冷；采用高比表面积活性炭在深冷环境中吸附氢气的方式储氢。本发明中，将低温吸附储氢与风电废电利用、LNG冷能利用相结合，解决了氢气制取与存储能耗大的问题，从而实现成本较低且安全高效的制氢储氢方式与LNG冷能的充分利用，助力风能利用和双碳战略目标的实现。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118156555",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118156555",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H01M   8/ 04992            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04992",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "2250",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211566863",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211566863",
+                            "date": "20221207"
+                        },
+                        {
+                            "doc-number": "202211566863.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211566863",
+                            "date": "20221207"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WEISHI ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "未势能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XU ZHAOPAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN YADONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG DONGYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐兆攀, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈亚栋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王东雨"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogenation control method and device of fuel cell vehicle and electronic equipment",
+                    "燃料电池汽车的加氢控制方法、装置和电子设备"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a hydrogenation control method and device for a fuel cell vehicle and electronic equipment, and relates to the technical field of hydrogenation control, and the method comprises the steps: determining the hydrogenation demand of the current fuel cell vehicle according to a control instruction for a hydrogen storage system; judging whether the hydrogen concentration and the hydrogen temperature of the hydrogen storage system and the hydrogen pressure at the two ends of the pressure reducing valve meet preset hydrogenation conditions or not; if yes, the current fuel cell vehicle is controlled to conduct hydrogenation operation, so that the technical problem that safety is not high in the vehicle hydrogenation control process is solved."
+                },
+                {
+                    "p": "本发明提供了一种燃料电池汽车的加氢控制方法、装置和电子设备，涉及加氢控制的技术领域，包括：根据针对储氢系统的控制指令，确定当前燃料电池汽车的加氢需求；判断储氢系统的氢气浓度、氢气温度以及减压阀两端的氢气压力是否满足预设加氢条件；若满足，则控制当前燃料电池汽车进行加氢操作，以缓解了车辆加氢控制过程中安全性不高的技术问题。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118410645",
+                            "kind": "A",
+                            "date": "20240730"
+                        },
+                        {
+                            "doc-number": "CN118410645",
+                            "date": "20240730"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  30/    20            A I                    "
+                        },
+                        {
+                            "text": "G06F 119/    14            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410628494",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410628494",
+                            "date": "20240521"
+                        },
+                        {
+                            "doc-number": "202410628494.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410628494",
+                            "date": "20240521"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NANJING UNIV OF POSTS AND TELECOMMUNICATIONS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "南京邮电大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SHI TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHENG JIALIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHI TIANYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "施涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "盛佳林, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "施天宇"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Multi-mode flexible switching light-hydrogen complementary simulation experiment method and system",
+                    "一种多模式灵活切换的光氢互补仿真实验方法与系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a multi-mode flexible switching light-hydrogen complementary simulation experiment method and system, and relates to the technical field of renewable energy consumption, and the method comprises the steps: designing system capacity configuration, and building a series of mathematical models including a photovoltaic power generation mathematical model, a hydrogen fuel cell mathematical model, an electrolytic cell mathematical model and the like; designing a multi-mode simulation experiment function according to capacity configuration design under the condition of comprehensively considering operation targets such as energy efficient utilization, power fluctuation suppression and power grid flexible scheduling; according to a simulation experiment function and a multi-mode design, a multi-mode flexible switching cooperative control strategy, experiment steps and a method are provided, and simulation verification is carried out based on an MATLAB platform. The power regulation requirements in different modes can be accurately responded, and multi-energy complementation and cooperative operation are achieved. Technical support is provided for solving the problem of intermittent new energy consumption, and a good supporting effect is achieved on safe and economical operation of a power system under high-proportion intermittent new energy power generation access."
+                },
+                {
+                    "p": "本发明提供了一种多模式灵活切换的光氢互补仿真实验方法与系统，涉及可再生能源消纳技术领域，所述方法包括：设计系统容量配置，建立包括光伏发电数学模型、氢燃料电池数学模型、电解槽数学模型等一系列数学模型；根据容量配置设计，在全面考虑能源高效利用、抑制功率波动问题和实现电网灵活调度等运行目标的情况下，设计多模式仿真实验功能；根据仿真实验功能和多模式设计，提出多模式灵活切换协同控制策略和实验步骤和方法，并基于MATLAB平台进行了仿真验证。能够准确地响应不同模式下的功率调节需求，实现多能互补和协同运行。为解决间歇式新能源消纳问题提供技术支撑和对高比例间歇性新能源发电接入下电力系统的安全经济运行具有良好的支撑作用。"
+                }
+            ]
+        }
+    }
+}

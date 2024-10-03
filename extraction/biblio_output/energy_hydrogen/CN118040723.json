@@ -1,0 +1,222 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118040723",
+                            "kind": "A",
+                            "date": "20240514"
+                        },
+                        {
+                            "doc-number": "CN118040723",
+                            "date": "20240514"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "28",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "24",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "28",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211418994",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211418994",
+                            "date": "20221114"
+                        },
+                        {
+                            "doc-number": "202211418994.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211418994",
+                            "date": "20221114"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ELECTRIC POWER PLANNING & ENG INST CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "电力规划总院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TANG LANXI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DU ZHONGMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU DONGJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU SIYUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YATING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG SHUANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CUI YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAI CHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO HUIQIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "汤兰西, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杜忠明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐东杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘思远, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王雅婷, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王爽, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "崔阳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蔡琛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭慧倩"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method and device for determining capacity of hydrogen production station of new energy hydrogen production system",
+                    "新能源制氢系统的制氢站容量确定方法及装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a hydrogen production station capacity determination method and device of a new energy hydrogen production system, and belongs to the technical field of energy power systems. The method comprises the following steps: determining continuous output parameters of a new energy station according to the capacity and output data of the new energy station; a plurality of capacity configuration ratios are obtained, the capacity configuration ratios are the ratios of the capacity of the hydrogen production station to the capacity of the new energy station, and each capacity configuration ratio corresponds to one new energy hydrogen production system; according to the continuous output parameters and the plurality of capacity configuration ratios, determining the unit hydrogen production cost of the new energy hydrogen production system corresponding to each capacity configuration ratio; generating a hydrogen production cost schematic diagram according to the unit hydrogen production cost of the new energy hydrogen production system corresponding to each capacity configuration ratio; and determining the capacity of the hydrogen production station corresponding to the lowest unit hydrogen production cost based on the hydrogen production cost schematic diagram."
+                },
+                {
+                    "p": "本发明公开了一种新能源制氢系统的制氢站容量确定方法及装置，属于能源电力系统技术领域。所述方法包括：根据新能源场站的容量和出力数据，确定所述新能源场站的持续出力参数；获取多个容量配置比，所述容量配置比为所述制氢站的容量和新能源场站的容量的比值，每个所述容量配置比对应一个新能源制氢系统；根据所述持续出力参数和多个所述容量配置比，确定每个所述容量配置比各自对应的新能源制氢系统的单位制氢成本；根据每个所述容量配置比各自对应的新能源制氢系统的单位制氢成本，生成制氢成本示意图；基于所述制氢成本示意图，确定最低单位制氢成本对应的制氢站的容量。"
+                }
+            ]
+        }
+    }
+}

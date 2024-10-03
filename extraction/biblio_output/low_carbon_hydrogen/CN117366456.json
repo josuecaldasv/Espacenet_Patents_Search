@@ -1,0 +1,205 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117366456",
+                            "kind": "A",
+                            "date": "20240109"
+                        },
+                        {
+                            "doc-number": "CN117366456",
+                            "date": "20240109"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F17C   5/    00            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    00            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "5",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "13",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "13",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "13",
+                            "subgroup": "025",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "2221",
+                            "subgroup": "012",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "2250",
+                            "subgroup": "0404",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "2250",
+                            "subgroup": "043",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202210778840",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202210778840",
+                            "date": "20220630"
+                        },
+                        {
+                            "doc-number": "202210778840.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202210778840",
+                            "date": "20220630"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHN ENERGY INVEST GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " NAT INST CLEAN & LOW CARBON ENERGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家能源投资集团有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京低碳清洁能源研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DONG WENPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE GUANGLI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU ZHUANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董文平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何广利, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "许壮"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogenation control method and device, storage medium and electronic equipment",
+                    "加氢控制的方法、装置、存储介质和电子设备"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a hydrogenation control method and device, a storage medium and electronic equipment. The method comprises the steps that target flow, real-time flow, real-time outlet air pressure and preset hydrogenation air pressure of hydrogenation are obtained; determining a target air source from one or more air sources with different air pressures according to the real-time outlet air pressure; determining a target hydrogenation pipeline from one or more hydrogenation pipelines with different resistances according to the target flow and the real-time flow; hydrogenation is carried out on a target object to be hydrogenated through the target gas source and the target hydrogenation pipeline; and under the condition that the real-time outlet air pressure is larger than or equal to the preset hydrogenation air pressure, hydrogenation on the target object to be hydrogenated is stopped. Therefore, the utilization efficiency of the hydrogen of the gas source is improved, the influence of the throttling effect is reduced, the filling temperature rise is reduced, the filling speed is increased, the filling time is shortened, and the control flexibility of the filling process and the hydrogen filling degree of the target object are improved."
+                },
+                {
+                    "p": "本公开涉及一种加氢控制的方法、装置、存储介质和电子设备，该方法包括：获取加氢的目标流量、实时流量、实时出口气压以及预设加氢气压；根据所述实时出口气压，从一个或者多个不同气压的气源中确定目标气源；根据所述目标流量和所述实时流量，从一个或者多个不同阻力的加氢管路中，确定目标加氢管路；通过所述目标气源和所述目标加氢管路，对待加氢的目标对象进行加氢；在所述实时出口气压大于或者等于所述预设加氢气压的情况下，停止对所述待加氢的目标对象进行加氢。这样，有利于提高气源氢气的利用效率，并且减小节流效应的影响，降低加注温升从而提高加注速率缩短加注时间，提高加注过程控制的灵活性以及目标对象的氢气加满度。"
+                }
+            ]
+        }
+    }
+}

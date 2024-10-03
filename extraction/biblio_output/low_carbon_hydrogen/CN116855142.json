@@ -1,0 +1,352 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116855142",
+                            "kind": "A",
+                            "date": "20231010"
+                        },
+                        {
+                            "doc-number": "CN116855142",
+                            "date": "20231010"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C08F 220/    06            A I                    "
+                        },
+                        {
+                            "text": "C08F 220/    34            A I                    "
+                        },
+                        {
+                            "text": "C08F 236/    22            A I                    "
+                        },
+                        {
+                            "text": "C09D   5/    16            A I                    "
+                        },
+                        {
+                            "text": "C09D 133/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "220",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "D",
+                            "main-group": "5",
+                            "subgroup": "1662",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "D",
+                            "main-group": "133",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08F220/06",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08F220/343",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "3",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08F236/22",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310754437",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310754437",
+                            "date": "20230626"
+                        },
+                        {
+                            "doc-number": "202310754437.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310754437",
+                            "date": "20230626"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV MINJIANG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "闽江学院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIM BONG-CHAE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN JIPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU KAIYUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIE HUIMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIN WENYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN CHENYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU YANLIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHENG XIAOXIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHENG GUOCAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "林凤采, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈基棚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐凯玥, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谢惠敏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "林文燕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙宸奕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐艳莲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郑笑笑, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郑国才"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Multi-hydrogen-bond-mediated self-healing high-adhesion urushiol-based supramolecular antifouling paint and preparation method thereof",
+                    "一种多重氢键介导自愈合的高附着力漆酚基超分子防污涂料及其制备方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "KR20060098147",
+                                        "name": "HAN JONG SOO [KR]",
+                                        "date": "20060918"
+                                    },
+                                    {
+                                        "country": "KR",
+                                        "doc-number": "20060098147",
+                                        "kind": "A",
+                                        "name": "HAN JONG SOO [KR]",
+                                        "date": "20060918"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105732515",
+                                        "name": "XINJIANG INST OF ENG",
+                                        "date": "20160706"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105732515",
+                                        "kind": "A",
+                                        "name": "XINJIANG INST OF ENG",
+                                        "date": "20160706"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114149543",
+                                        "name": "JIANGSU FUQISEN NEW MAT CO LTD",
+                                        "date": "20220308"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114149543",
+                                        "kind": "A",
+                                        "name": "JIANGSU FUQISEN NEW MAT CO LTD",
+                                        "date": "20220308"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114410177",
+                                        "name": "ZHEJIANG ZHEJIANG NEW MAT STOCK LIMITED COMPANY",
+                                        "date": "20220429"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114410177",
+                                        "kind": "A",
+                                        "name": "ZHEJIANG ZHEJIANG NEW MAT STOCK LIMITED COMPANY",
+                                        "date": "20220429"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "KR102438107B",
+                                        "name": "HYESUNG G TECH CO LTD [KR]",
+                                        "date": "20220831"
+                                    },
+                                    {
+                                        "country": "KR",
+                                        "doc-number": "102438107",
+                                        "kind": "B1",
+                                        "name": "HYESUNG G TECH CO LTD [KR]",
+                                        "date": "20220831"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the field of biomass coatings, in particular to a multi-hydrogen-bond-mediated self-healing high-adhesion urushiol-based supramolecular antifouling coating and a preparation method thereof. Comprising the following steps: (1) synthesizing UPy-NCO; (2) enabling the UPy-NCO to react with hydroxyl acrylate to obtain a hydroxyl acrylate monomer modified by a UPy unit; (3) urushiol, acrylic acid and the hydroxyl acrylate monomer modified by the UPy unit prepared in the step (2) react, and the antifouling paint is prepared through one-step free radical polymerization. The problems that an existing hydrophilic polymer hydration layer antifouling coating is poor in adhesive force to the surface of a base material and is difficult to repair after being damaged are solved. The method has the advantages of simple process, easy mass production, abundant raw material resources, environmental protection and high safety, and can become a new technology for constructing the marine antifouling paint with excellent performance, low carbon, long effect and environmental protection."
+                },
+                {
+                    "p": "本发明涉及生物质涂料领域，尤其涉及一种多重氢键介导自愈合的高附着力漆酚基超分子防污涂料及其制备方法。包括(1)合成UPy‑NCO；(2)UPy‑NCO和羟基丙烯酸酯反应得到UPy单元修饰的羟基丙烯酸酯类单体；(3)漆酚、丙烯酸和步骤(2)制备得到的UPy单元修饰的羟基丙烯酸酯类单体反应，采用一步法自由基聚合制备防污涂料。本发明解决了现有亲水性聚合物的水合层防污涂料对基材表面的附着力差，发生破损后难以修复的问题。工艺简单，易大量生产，原料资源丰富，绿色环保，安全性高，可以成为构建性能优异、低碳、效果长久且环境友好的海洋防污涂料的一种新技术。"
+                }
+            ]
+        }
+    }
+}

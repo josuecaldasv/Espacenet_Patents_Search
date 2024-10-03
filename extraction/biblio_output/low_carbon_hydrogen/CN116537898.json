@@ -1,0 +1,225 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116537898",
+                            "kind": "A",
+                            "date": "20230804"
+                        },
+                        {
+                            "doc-number": "CN116537898",
+                            "date": "20230804"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01D  53/    18            A I                    "
+                        },
+                        {
+                            "text": "F01K   7/    32            A I                    "
+                        },
+                        {
+                            "text": "F01K  17/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "53",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "01",
+                            "subclass": "K",
+                            "main-group": "7",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "01",
+                            "subclass": "K",
+                            "main-group": "17",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "01",
+                            "subclass": "K",
+                            "main-group": "17",
+                            "subgroup": "025",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310513539",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310513539",
+                            "date": "20230508"
+                        },
+                        {
+                            "doc-number": "202310513539.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310513539",
+                            "date": "20230508"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV XI AN JIAOTONG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西安交通大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG JINSHI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XUE KAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAN JUNJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO QUANBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAN XIAOQU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN WEIXIONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHONG DAOTONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU MING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU JIPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王进仕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "薛凯, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "严俊杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵全斌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "韩小渠, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈伟雄, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "种道彤, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘继平"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Low-carbon efficient energy system based on waste heat gradient utilization and working method",
+                    "一种基于余热梯级利用的低碳高效能源系统及工作方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a low-carbon efficient energy system based on waste heat gradient utilization and a working method, and the system comprises a gas power generation unit, a supercritical carbon dioxide cycle power generation unit, an organic Rankine cycle power generation and heat supply unit and a carbon capture and utilization unit, according to gradient utilization of different grades of energy, efficient recovery of flue gas waste heat of the gas turbine is achieved. Flue gas discharged by the gas turbine firstly drives supercritical carbon dioxide cycle power generation, is used for driving organic Rankine cycle power generation after denitration, then heats heat supply network water of a primary heat supply network, is cooled after dust removal, and is discharged after carbon capture. Trapped carbon dioxide reacts with hydrogen generated by electrolyzing water to generate methane, the methane can be injected into a combustion chamber for combustion, and utilization of natural gas is reduced. According to the invention, ultra-low emission and stepped recovery of energy are realized, the smoke discharge loss is reduced, the generating capacity is increased, the carbon emission is reduced, the energy-saving and emission-reducing effects are obvious, and the economical efficiency, the environmental protection property and the energy utilization efficiency are greatly improved."
+                },
+                {
+                    "p": "本发明公开了一种基于余热梯级利用的低碳高效能源系统及工作方法，该系统包括燃气发电单元、超临界二氧化碳循环发电单元、有机朗肯循环发电及供热单元和碳捕集与利用单元，根据不同品位能量的梯级利用实现燃气透平烟气余热的高效回收。燃气透平排出的烟气先驱动超临界二氧化碳循环发电，脱硝后用于驱动有机朗肯循环发电，然后加热一次热网的热网水，除尘后被冷却降温，经碳捕集后排放。捕集到的二氧化碳与电解水生成的氢气发生反应生成甲烷，甲烷可注入燃烧室燃烧，减少天然气的利用。本发明实现了超低排放和能量的梯级回收，减少排烟损失，增加发电量，降低碳排放，节能减排效果显著，经济性、环保性和能量利用效率大大提升。"
+                }
+            ]
+        }
+    }
+}

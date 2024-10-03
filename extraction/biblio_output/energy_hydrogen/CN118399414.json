@@ -1,0 +1,119 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118399414",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118399414",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  17/    10            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410300377",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410300377",
+                            "date": "20240315"
+                        },
+                        {
+                            "doc-number": "202410300377.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410300377",
+                            "date": "20240315"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUAZHONG UNIV OF SCIENCE AND TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华中科技大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YAN MINGYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PENG HONGYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU YIJIA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "晏鸣宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "彭弘毅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周奕佳"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Non-iterative integrated energy system optimal power flow calculation method based on projection method",
+                    "基于投影法的非迭代综合能源系统最优潮流计算方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a non-iterative comprehensive energy system optimal power flow calculation method based on a projection method. The method comprises the following steps that a hydrogen-electricity-heat comprehensive energy system centralized operation model is decomposed into a hydrogen subsystem, an electricity subsystem and a heat subsystem; determining a projection space according to the coupling relationship of the subsystems and the privacy protection requirement; searching an initial vertex set of a hydrogen, electricity and heat subsystem operation space in the projection space; on the basis of the initial vertex set of each subsystem, searching residual vertexes of the subsystem through translation boundaries; reconstructing an operation space of the hydrogen-electricity-heat comprehensive energy system in the projection space by using a new constraint formed by the searched vertexes, wherein the operation space is an equivalent operation space containing all information of the centralized model; solving an optimization problem in the reconstructed operation space to obtain an optimal solution; hydrogen, electricity and heater problems are reconstructed, and power flow parameters under the optimal solution are obtained. According to the method, the mathematical model can be reconstructed and simplified while key information is reserved, and privacy information is effectively protected."
+                },
+                {
+                    "p": "本发明涉及一种基于投影法的非迭代综合能源系统最优潮流计算方法，包括以下步骤：将氢‑电‑热综合能源系统集中运行模型分解为氢、电、热子系统；通过各子系统的耦合关系及隐私保护的需求确定投影空间；在投影空间中寻找氢、电、热子系统运行空间的初始顶点集；在每个子系统初始顶点集的基础上通过平移边界寻找该子系统剩余顶点；使用所寻顶点构成的新约束在投影空间中重构氢‑电‑热综合能源系统运行空间，该运行空间即为包含集中模型所有信息的等效运行空间；在重构的运行空间中求解优化问题，得到最优解；重构氢、电、热子问题，得到最优解下的潮流参数。本发明能够在保留关键信息的同时重构并简化数学模型，且有效地保护隐私信息。"
+                }
+            ]
+        }
+    }
+}

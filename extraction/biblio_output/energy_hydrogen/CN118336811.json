@@ -1,0 +1,188 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118336811",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118336811",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410415821",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410415821",
+                            "date": "20240408"
+                        },
+                        {
+                            "doc-number": "202410415821.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410415821",
+                            "date": "20240408"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "XIAN XJ POWER ELECTRONICS TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " XUJI ELECTRIC CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西安许继电力电子技术有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "许继电气股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "NIU HUAPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIAO FEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG HUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU DUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHENG YUEBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MEI GUIFANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SONG XIAOMEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAO WENSHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "牛化鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "肖飞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "武盾, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郑月宾, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "梅桂芳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋晓梅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曹文盛"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen-electricity coupling control method and system",
+                    "一种氢电耦合控制方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a hydrogen-electricity coupling control method and system, and belongs to the technical field of power distribution network optimization scheduling. According to the scheme, the method comprises the steps that a grid-connected converter used for connecting a direct-current bus and a power grid detects the power of a grid-connected point in real time, and when electric energy flows into the power grid from the direct-current bus, the grid-connected converter judges that the power of the grid-connected point is on the grid; after the new energy system connected with the direct-current bus detects that the voltage of the direct-current bus is larger than a first set value, output is reduced, and the networking power of the grid-connected point is controlled to fall back; and when the electric energy flows into the direct-current bus from the power grid, judging that the grid-connected point power is off-grid, reducing the direct-current bus voltage by adopting a grid-connected converter, reducing the load after a hydrogen production system connected with the direct-current bus detects that the bus voltage is smaller than a second set value, and controlling the off-grid power of the grid-connected point to fall back. According to the method, the interaction power between the green electricity hydrogen production system and the alternating current power grid can be accurately and quickly regulated and controlled."
+                },
+                {
+                    "p": "本发明涉及一种氢电耦合控制方法及系统，属于配电网优化调度技术领域；方案包括用于连接直流母线和电网的并网变流器实时检测并网点功率，当电能从直流母线流入电网时判断所述并网点功率为上网，并网变流器控制直流母线电压升高，与直流母线连接的新能源系统检测到直流母线电压大于第一设定值后降低出力，控制并网点上网功率回落；当电能从电网流入直流母线时判断所述并网点功率为下网，采用并网变流器降低直流母线电压，与直流母线连接的制氢系统检测到母线电压小于第二设定值后减小负载，控制并网点下网功率回落。本法能够精准快速的调控绿电制氢系统与交流电网之间的交互功率。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,357 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116393136",
+                            "kind": "A",
+                            "date": "20230707"
+                        },
+                        {
+                            "doc-number": "CN116393136",
+                            "date": "20230707"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  23/    83            A I                    "
+                        },
+                        {
+                            "text": "B01J  35/    00            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   156            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    02            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    08            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "83",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "35",
+                            "subgroup": "50",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "156",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "52",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/156",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/156",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/08",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310250653",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310250653",
+                            "date": "20230315"
+                        },
+                        {
+                            "doc-number": "202310250653.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310250653",
+                            "date": "20230315"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NANJING UNIVERSITY OF TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "南京工业大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZENG FENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU SHUILIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN JIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FU WEIJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE YIMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TANG ZHENCHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DU RUIXING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAN XING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHONG QITONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曾丰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘水莲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈建, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "付伟杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何一鸣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "唐振辰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杜瑞兴, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谭兴, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "钟奇彤"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Preparation method and application of back-loaded cobalt-based catalyst for synthesizing higher alcohol through hydrogenation of carbon dioxide",
+                    "一种二氧化碳加氢合成高级醇反负载钴基催化剂的制备方法及应用"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5096688",
+                                        "name": "MILLER JEFFREY T [US], et al",
+                                        "date": "19920317"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5096688",
+                                        "kind": "A",
+                                        "name": "MILLER JEFFREY T [US], et al",
+                                        "date": "19920317"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2011104047",
+                                        "name": "YEH CHUIN-TIH [TW], et al",
+                                        "date": "20110505"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2011104047",
+                                        "kind": "A1",
+                                        "name": "YEH CHUIN-TIH [TW], et al",
+                                        "date": "20110505"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102266778",
+                                        "date": "20111207"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102266778",
+                                        "kind": "A",
+                                        "date": "20111207"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115532315",
+                                        "name": "NANJING UNIVERSITY OF TECHNOLOGY",
+                                        "date": "20221230"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115532315",
+                                        "kind": "A",
+                                        "name": "NANJING UNIVERSITY OF TECHNOLOGY",
+                                        "date": "20221230"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a catalyst for preparing higher alcohols through carbon dioxide conversion and a preparation method and application thereof, and belongs to the technical field of carbon dioxide resource utilization. The preparation method comprises the following steps: loading lanthanum oxide on metal cobalt nanoparticles through a reverse impregnation method, calcining, and carrying out hydrogen/carbon monoxide/nitrogen/helium/argon heat treatment to obtain a catalyst product. According to the preparation method for preparing the higher alcohol catalyst through carbon dioxide conversion, nano metal cobalt and lanthanum salt serve as raw materials, lanthanum oxide is loaded on the surface of the nano metal cobalt through a reverse impregnation method, Co0-Cox &lt; + &gt; double catalytic sites are formed at the interface of the nano metal cobalt and the lanthanum oxide, and the double catalytic sites can catalyze generation of alcohol and growth of carbon chains, so that the higher alcohol catalyst is prepared. The selectivity of higher alcohols is greatly promoted, and the selectivity of higher alcohols is higher than 85%; lanthanum oxide forms a protective layer on the surface of metal cobalt, metal cobalt is prevented from being dissolved and agglomerated, and the stability of the catalyst is remarkably improved. The preparation method has the characteristics of less waste liquid, low cost, simple process and the like, and has a good application prospect."
+                },
+                {
+                    "p": "本发明公开了一种二氧化碳转化制备高级醇催化剂及其制备方法和应用，属于二氧化碳资源化利用技术领域。所述制备方法为：通过反向浸渍法将氧化镧负载于金属钴纳米颗粒上，经煅烧、氢气/一氧化碳/氮气/氦气/氩气热处理后即得催化剂产品。本发明提供的一种二氧化碳转化制备高级醇催化剂的制备方法，以纳米金属钴和镧盐为原料，通过反向浸渍法将氧化镧负载在纳米金属钴表面，在纳米金属钴与氧化镧界面处形成Co0‑Cox+双催化位点，这些双位点可催化醇的生成和碳链的生长，极大地促进了高级醇的选择性，高级醇选择性高于85％；氧化镧在金属钴表面形成保护层，避免金属钴溶解和团聚，显著提高催化剂稳定性；所述制备方法具有废液少、成本低廉和过程简单等特点，具有良好应用前景。"
+                }
+            ]
+        }
+    }
+}

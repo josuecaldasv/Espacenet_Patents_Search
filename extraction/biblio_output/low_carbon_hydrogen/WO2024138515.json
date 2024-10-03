@@ -1,0 +1,959 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "WO",
+                            "doc-number": "2024138515",
+                            "kind": "A1",
+                            "date": "20240704"
+                        },
+                        {
+                            "doc-number": "WO2024138515",
+                            "date": "20240704"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C08F 212/    32            A I                    "
+                        },
+                        {
+                            "text": "C08F 279/    02            A I                    "
+                        },
+                        {
+                            "text": "C08L  51/    08            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "5",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "5",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "17",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "17",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "212",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "279",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "279",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "J",
+                            "main-group": "5",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "J",
+                            "main-group": "5",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "J",
+                            "main-group": "5",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "J",
+                            "main-group": "5",
+                            "subgroup": "244",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "5",
+                            "subgroup": "01",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "5",
+                            "subgroup": "3492",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "7",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "9",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "9",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "25",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "25",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "51",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "51",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "51",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "53",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "71",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "71",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "79",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2260",
+                            "subgroup": "023",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2260",
+                            "subgroup": "046",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2262",
+                            "subgroup": "101",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2307",
+                            "subgroup": "204",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2307",
+                            "subgroup": "306",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2307",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2457",
+                            "subgroup": "08",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "J",
+                            "main-group": "2325",
+                            "subgroup": "02",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "J",
+                            "main-group": "2351",
+                            "subgroup": "04",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "J",
+                            "main-group": "2371",
+                            "subgroup": "12",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "J",
+                            "main-group": "2409",
+                            "subgroup": "00",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "J",
+                            "main-group": "2409",
+                            "subgroup": "06",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "J",
+                            "main-group": "2451",
+                            "subgroup": "04",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "J",
+                            "main-group": "2453",
+                            "subgroup": "02",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "J",
+                            "main-group": "2471",
+                            "subgroup": "12",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "J",
+                            "main-group": "2479",
+                            "subgroup": "08",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "5",
+                            "subgroup": "01",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "5",
+                            "subgroup": "34924",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "7",
+                            "subgroup": "14",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F279/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F212/32",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L25/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L51/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "3",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L9/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "4",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08K5/01",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "3",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L25/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L51/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "4",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L51/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L9/06",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "3",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L53/025",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "5",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L51/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L79/085",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "6",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L71/12",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L51/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "3",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L9/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "4",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08K5/34924",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "7",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L71/12",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L51/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "2022143308",
+                            "kind": "W"
+                        },
+                        {
+                            "doc-number": "WO2022CN143308",
+                            "date": "20221229"
+                        },
+                        {
+                            "doc-number": "CN2022/143308"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "CN202211698527",
+                                "date": "20221228"
+                            },
+                            {
+                                "doc-number": "202211698527.7"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHENGYI TECHNOLOGY CO LTD [CN]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "广东生益科技股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LUO CHENG [CN]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAN SHANYIN [CN]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU YONGJING [CN]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗成, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "颜善银, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "许永静"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "RÉSINE DE BENZOCYCLOBUTÈNE, COMPOSITION DE RÉSINE LA CONTENANT ET SON UTILISATION",
+                    "BENZOCYCLOBUTENE RESIN, RESIN COMPOSITION CONTAINING SAME, AND USE THEREOF",
+                    "一种苯并环丁烯树脂、包含其的树脂组合物及其应用"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4783514",
+                                        "name": "KIRCHHOFF ROBERT A [US], et al",
+                                        "date": "19881108"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4783514",
+                                        "kind": "A",
+                                        "name": "KIRCHHOFF ROBERT A [US], et al",
+                                        "date": "19881108"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5136069",
+                                        "name": "DEVRIES ROBERT A [US], et al",
+                                        "date": "19920804"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5136069",
+                                        "kind": "A",
+                                        "name": "DEVRIES ROBERT A [US], et al",
+                                        "date": "19920804"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107501459",
+                                        "name": "JIANGSU MINGKUI POLYMER MATERIALS TECH CO LTD",
+                                        "date": "20171222"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107501459",
+                                        "kind": "A",
+                                        "name": "JIANGSU MINGKUI POLYMER MATERIALS TECH CO LTD",
+                                        "date": "20171222"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111647247",
+                                        "name": "SHANGHAI RES INSTITUTE OF MATERIALS",
+                                        "date": "20200911"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111647247",
+                                        "kind": "A",
+                                        "name": "SHANGHAI RES INSTITUTE OF MATERIALS",
+                                        "date": "20200911"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113512138",
+                                        "name": "TIANNUO PHOTOELECTRIC MAT CO LTD",
+                                        "date": "20211019"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113512138",
+                                        "kind": "A",
+                                        "name": "TIANNUO PHOTOELECTRIC MAT CO LTD",
+                                        "date": "20211019"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114736096",
+                                        "name": "HUAWEI TECH CO LTD, et al",
+                                        "date": "20220712"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114736096",
+                                        "kind": "A",
+                                        "name": "HUAWEI TECH CO LTD, et al",
+                                        "date": "20220712"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115677940",
+                                        "name": "WUHAN DESYTEK NEW MAT CO LTD",
+                                        "date": "20230203"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115677940",
+                                        "kind": "A",
+                                        "name": "WUHAN DESYTEK NEW MAT CO LTD",
+                                        "date": "20230203"
+                                    }
+                                ]
+                            },
+                            "category": "E"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "A benzocyclobutene resin, a resin composition comprising same, and a use thereof. The benzocyclobutene resin comprises at least one first structural unit and at least one second structural unit. The first structural unit has a structure represented by formula I, and the second structural unit has a structure represented by formula IIA and/or by formula IIB. The benzocyclobutene resin is an all-carbon hydrogen structure. By means of designing a polymer structure, the benzocyclobutene resin has a sufficiently low dielectric constant Dk and a dielectric loss tangent Df, a small polarity and a low water absorption rate, and has improved heat curing activity, crosslinking efficiency and crosslinking density. The benzocyclobutene resin has a high glass transition temperature and excellent dielectric properties, heat resistance and damp heat resistance. Furthermore, the benzocyclobutene resin has high modulus and mechanical mechanical properties, has excellent process processability, and can fully meet various performance requirements of a high-frequency high-speed PCB on a resin material."
+                },
+                {
+                    "p": "La présente invention concerne une résine de benzocyclobutène, une composition de résine la comprenant, et son utilisation. La résine de benzocyclobutène comprend au moins un premier motif constitutif et au moins un second motif constitutif. Le premier motif structural présente une structure représentée par la formule I, et le second motif constitutif présente une structure représentée par la formule IIA et/ou par la formule IIB. La résine de benzocyclobutène est une structure hydrogène tout carbone. Au moyen de la conception d'une structure polymère, la résine de benzocyclobutène présente une constante diélectrique Dk suffisamment faible et une tangente de perte diélectrique Df, une faible polarité et un faible taux d'absorption d'eau, et présente une activité de durcissement à chaud, une efficacité de réticulation et une densité de réticulation améliorées. La résine de benzocyclobutène présente une température de transition vitreuse élevée et d'excellentes propriétés diélectriques, une excellente résistance à la chaleur et une excellente résistance à la chaleur humide. En outre, la résine de benzocyclobutène présente un module élevé et de grandes propriétés mécaniques, présente une excellente aptitude au traitement et peut répondre pleinement aux diverses exigences de performance d'une carte de circuit imprimé à grande vitesse à haute fréquence sur un matériau de type résine."
+                },
+                {
+                    "p": "一种苯并环丁烯树脂、包含其的树脂组合物及其应用，所述苯并环丁烯树脂包含至少一种第一结构单元和至少一种第二结构单元，所述第一结构单元具有如式I所示结构，所述第二结构单元具有如式IIA和/或如式IIB所示结构。所述苯并环丁烯树脂为全碳氢结构，通过聚合物结构的设计，具有充分低的介电常数Dk和介质损耗角正切Df，极性小，吸水率低，并具有较好的热固化活性、交联效率和交联密度。所述苯并环丁烯树脂的玻璃化转变温度高，具有优异的介电性能、耐热性和耐湿热性，同时具有高的模量和力学机械性能，工艺加工性优良，能够充分满足高频高速PCB对树脂材料的各项性能要求。"
+                }
+            ]
+        }
+    }
+}

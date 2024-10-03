@@ -1,0 +1,218 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "106118771",
+                            "kind": "A",
+                            "date": "20161116"
+                        },
+                        {
+                            "doc-number": "CN106118771",
+                            "date": "20161116"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C10L   3/    08            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    02            A I                    "
+                        },
+                        {
+                            "text": "C07C   1/    02            A I                    "
+                        },
+                        {
+                            "text": "C07C   9/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "L",
+                            "main-group": "3",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C1/02",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C9/04",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201610522102",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201610522102",
+                            "date": "20160706"
+                        },
+                        {
+                            "doc-number": "201610522102.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201610522102",
+                            "date": "20160706"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV YANGZHOU"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "扬州大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TENG YUNLEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DONG BAOXIA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG LONGZHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "滕云雷, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董宝霞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王龙正"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for preparing clean fuel by reducing carbon dioxide with magnesium hydride",
+                    "种利用氢化镁还原二氧化碳制备清洁燃料的方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2008110331",
+                                        "name": "UMICORE AG & CO KG [DE], et al",
+                                        "date": "20080918"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2008110331",
+                                        "kind": "A1",
+                                        "name": "UMICORE AG & CO KG [DE], et al",
+                                        "date": "20080918"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-5",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 宋亮, \"利用碱金属氢化物与气态小分子化合物反应制备清洁燃料的研究\", 《中国优秀硕士学位论文全文数据库 工程科技Ⅰ辑》"
+                            },
+                            "category": "X",
+                            "rel-claims": "1-5",
+                            "rel-passage": {
+                                "passage": "* B015-71 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a method for preparing clean fuel by reducing carbon dioxide with magnesium hydride and belongs to the technical field of clean energy. Hydrogen anions in light metal hydride MgH2 have high activity in carbonyl reduction. The hydrogen anions are used for replacing a reduction agent, namely hydrogen, of traditional carbon dioxide methanation, and methane and hydrogen mixed gas is prepared under the heating condition. The method overcomes defects in the prior art, prepared methanation high in density can be stored, and a new means is provided for high-density storage of methane."
+                },
+                {
+                    "p": "种利用氢化镁还原二氧化碳制备清洁燃料的方法，属于清洁能源的技术领域。轻金属氢化物MgH中的氢负离子对于羰基还原有很高的活性，本发明通过使用其替代传统二氧化碳甲烷化的还原剂‑氢气，在加热条件下制备甲烷与氢气混合气体。本发明所述方法改进现有技术的不足，同时可以存储制备相当高密度的甲烷，为甲烷的高密度存储提供了新的途径方法。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117973881",
+                            "kind": "A",
+                            "date": "20240503"
+                        },
+                        {
+                            "doc-number": "CN117973881",
+                            "date": "20240503"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0637            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/   067            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "0637",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "067",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "28",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311473100",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311473100",
+                            "date": "20231107"
+                        },
+                        {
+                            "doc-number": "202311473100.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311473100",
+                            "date": "20231107"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV CHONGQING"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "重庆大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "REN ZHOUYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FENG JIANBING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任洲洋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "冯健冰"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Domain theory-based low-carbon economic operation analysis method for electricity-gas-hydrogen comprehensive energy system",
+                    "一种基于域理论的电-气-氢综合能源系统低碳经济运行分析方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of comprehensive energy system low-carbon feasibility analysis, in particular to an electricity-gas-hydrogen comprehensive energy system low-carbon economic operation analysis method based on a domain theory, which comprises the following steps: setting a carbon emission determination operation domain and an economic carbon emission determination operation domain of an electricity-gas-hydrogen comprehensive energy system with a hydrocarbon dynamic cycle mechanism; the flexibility of hydrogen energy and the uncertainty of renewable energy are considered, and a corresponding system model is established; reconstructing the CCEOR and the ECCEOR, which are non-linear and non-convex, into a CCEOR and an ECCEOR, which are linear in a deterministic mixed integer; and constructing a boundary of the CCEOR and the ECCEOR based on point-by-point simulation, and analyzing the IEHGS based on the boundary. According to the method, the low-carbon operation feasibility space of the electricity-gas-hydrogen comprehensive energy system is accurately and efficiently depicted according to the low-carbon economic operation feasibility analysis requirement."
+                },
+                {
+                    "p": "本发明涉及综合能源系统低碳可行性分析技术领域，具体是一种基于域理论的电‑气‑氢综合能源系统低碳经济运行分析方法，包括设定具有碳氢动态循环机制的电‑气‑氢综合能源系统的定碳排运行域和经济定碳排运行域，并计及氢能灵活性与可再生能源的不确定性，建立相应系统模型；将不确定性非线性非凸的CCEOR与ECCEOR重构为确定性混合整数线性的CCEOR与ECCEOR；基于逐点仿真构建CCEOR与ECCEOR的边界，并基于该边界分析所述IEHGS。本发明面向低碳经济运行可行性分析需求，精确、高效刻画了电‑气‑氢综合能源系统的低碳运行可行性空间。"
+                }
+            ]
+        }
+    }
+}

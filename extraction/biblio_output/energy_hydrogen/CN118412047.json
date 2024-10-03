@@ -1,0 +1,236 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118412047",
+                            "kind": "A",
+                            "date": "20240730"
+                        },
+                        {
+                            "doc-number": "CN118412047",
+                            "date": "20240730"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  30/    27            A I                    "
+                        },
+                        {
+                            "text": "G06F  30/    28            A I                    "
+                        },
+                        {
+                            "text": "G16C  10/    00            A I                    "
+                        },
+                        {
+                            "text": "G16C  20/    10            A I                    "
+                        },
+                        {
+                            "text": "G06F 111/    08            A N                    "
+                        },
+                        {
+                            "text": "G06F 111/    10            A N                    "
+                        },
+                        {
+                            "text": "G06F 113/    08            A N                    "
+                        },
+                        {
+                            "text": "G06F 119/    02            A N                    "
+                        },
+                        {
+                            "text": "G06F 119/    06            A N                    "
+                        },
+                        {
+                            "text": "G06F 119/    08            A N                    "
+                        },
+                        {
+                            "text": "G06F 119/    14            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410198284",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410198284",
+                            "date": "20240222"
+                        },
+                        {
+                            "doc-number": "202410198284.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410198284",
+                            "date": "20240222"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANDONG ELECTRIC POWER ENGINEERING CONSULTING INST CORP LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "山东电力工程咨询院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SONG CHUNYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO FUMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GE QUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN NA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHI XIUQIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG BO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DONG YUCAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU JIABIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI GUODONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO HAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG TIANQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIAO JINSHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋春艳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭富民, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "葛群, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈娜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "师秀钦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张博, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董玉才, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐家斌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李国栋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗浩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨天麒, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "肖金生"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Optimization method and system for initial condition of cascade filling of hydrogen storage tank",
+                    "一种储氢罐梯级加注初始条件的优化方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an optimization method and system for initial conditions of cascade filling of a hydrogen storage tank, and the method comprises the steps: building a model of a cascade filling system of the hydrogen storage tank according to a mass and energy conservation equation, heat and mass transfer and fluid mechanics; on the basis of the model of the hydrogen storage tank cascade filling system, model simulation data meeting the quantity requirement are obtained by changing filling parameters; on the basis of the simulation data, the cascade filling time, the initial pressure, the initial temperature and the air inlet temperature serve as input parameters, the final temperature, the final pressure and the pre-cooling energy consumption of the vehicle-mounted hydrogen storage tank serve as output parameters, the artificial neural network model is trained, and the corresponding relation between the input parameters and the output parameters is established; based on the corresponding relation, the minimum fusion result of the final temperature of the vehicle-mounted hydrogen storage tank and the energy consumption of the cascade filling system serves as an objective function, under the constraint condition, the objective function is solved, optimization of filling parameters is achieved, and the efficient and safe filling target can be achieved on the premise that the energy consumption is reduced as much as possible."
+                },
+                {
+                    "p": "本发明提供了一种储氢罐梯级加注初始条件的优化方法及系统，根据质量和能量守恒方程、传热传质及流体力学，建立储氢罐梯级加注系统的模型；基于储氢罐梯级加注系统的模型，通过改变加注参数，获得满足数量要求的模型仿真数据；基于仿真数据，将其中的梯级加注时间、初始压力、初始温度及进气温度作为输入参数，以车载储氢罐的最终温度、最终压力及预冷能耗为输出参数，对人工神经网络模型进行训练，建立输入参数和输出参数的对应关系；基于对应关系，以车载储氢罐最终温度和梯级加注系统能耗的融合结果最小作为目标函数，在约束条件下，对目标函数进行求解，实现对加注参数的寻优，可以在尽可能降低能耗的前提下实现高效安全的加注目标。"
+                }
+            ]
+        }
+    }
+}

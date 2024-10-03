@@ -1,0 +1,203 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118331165",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118331165",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "G05B  19/    05            A I                    "
+                    }
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410514291",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410514291",
+                            "date": "20240426"
+                        },
+                        {
+                            "doc-number": "202410514291.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410514291",
+                            "date": "20240426"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ZHONGTAI ENERGY TECH SHANGHAI CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中太能源科技（上海）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WEI YING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "魏颖, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何炜"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Remote monitoring and control system of hydrogen liquefaction factory",
+                    "一种氢气液化工厂的远程监控和控制系统"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112050080",
+                                        "name": "BEIJING INST AEROSPACE TESTING TECH",
+                                        "date": "20201208"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112050080",
+                                        "kind": "A",
+                                        "name": "BEIJING INST AEROSPACE TESTING TECH",
+                                        "date": "20201208"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115562094",
+                                        "name": "TECHNICAL INST PHYSICS & CHEMISTRY CAS                                                              ",
+                                        "date": "20230103"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115562094",
+                                        "kind": "A",
+                                        "name": "TECHNICAL INST PHYSICS & CHEMISTRY CAS                                                              ",
+                                        "date": "20230103"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN218957072U",
+                                        "name": "ZHENGZHOU LANGRUN INTELLIGENT EQUIPMENT CO LTD",
+                                        "date": "20230502"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "218957072",
+                                        "kind": "U",
+                                        "name": "ZHENGZHOU LANGRUN INTELLIGENT EQUIPMENT CO LTD",
+                                        "date": "20230502"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117389207",
+                                        "name": "XIAN ZHUOYUE WEILAI HYDROGEN ENERGY TECH CO LTD",
+                                        "date": "20240112"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117389207",
+                                        "kind": "A",
+                                        "name": "XIAN ZHUOYUE WEILAI HYDROGEN ENERGY TECH CO LTD",
+                                        "date": "20240112"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117670296",
+                                        "name": "ZHENGXING HYDROGEN ELECTRIC TECH ZHENGZHOU CO LTD",
+                                        "date": "20240308"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117670296",
+                                        "kind": "A",
+                                        "name": "ZHENGXING HYDROGEN ELECTRIC TECH ZHENGZHOU CO LTD",
+                                        "date": "20240308"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of hydrogen liquefaction remote monitoring systems, in particular to a remote monitoring and control system for a hydrogen liquefaction factory, which comprises a cloud parameter platform, a plurality of field upper computers, a remote monitoring acquisition terminal, a plurality of PLCs (Programmable Logic Controller) and a detection end which are connected with one another, the cloud parameter platform performs parameter acquisition with the remote monitoring acquisition terminal through a network, monitors operation parameters of the multiple hydrogen liquefaction devices in real time and remotely controls the multiple hydrogen liquefaction devices; the plurality of field upper computers are used for acquiring the equipment states of the plurality of hydrogen liquefaction equipment and controlling the plurality of hydrogen liquefaction equipment; and the detection end is used for collecting preset parameters of various hydrogen liquefaction devices. The data volume is much more detailed and comprehensive than that of a remote monitoring system in the prior art; maintenance personnel of a company can remotely access operation parameters of various hydrogen liquefaction devices through a browser, and can remotely edit PLC logic control at a computer terminal."
+                },
+                {
+                    "p": "本发明涉及氢液化远程监控系统技术领域，特别涉及一种氢气液化工厂的远程监控和控制系统，包括相互连接的云端参数平台、多个现场上位机、远程监控采集终端、多个PLC控制器、检测端；云端参数平台通过网路与远程监控采集终端进行参数采集，实时监视多种氢气液化设备的运行参数和远程控制多种氢气液化设备;多个现场上位机获取多种氢气液化设备的设备状态以及对多种氢气液化设备进行控制；检测端对多种氢气液化设备进行预设参数的采集。本发明数据量远比现有技术的远程监控系统详细全面；公司维护人员可以通过浏览器远程访问多种氢气液化设备的运行参数，也可以在电脑终端远程编辑PLC逻辑控制。"
+                }
+            ]
+        }
+    }
+}

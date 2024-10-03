@@ -1,0 +1,472 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118195192",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118195192",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  18/    21            A I                    "
+                        },
+                        {
+                            "text": "G06F  18/   214            A I                    "
+                        },
+                        {
+                            "text": "G06N   3/  0442            A I                    "
+                        },
+                        {
+                            "text": "G06N   3/   045            A I                    "
+                        },
+                        {
+                            "text": "G06N   3/  0464            A I                    "
+                        },
+                        {
+                            "text": "G06N   3/   049            A I                    "
+                        },
+                        {
+                            "text": "G06N   3/  0985            A I                    "
+                        },
+                        {
+                            "text": "G06N  20/    00            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "18",
+                            "subgroup": "214",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "18",
+                            "subgroup": "217",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "N",
+                            "main-group": "3",
+                            "subgroup": "0442",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "N",
+                            "main-group": "3",
+                            "subgroup": "045",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "N",
+                            "main-group": "3",
+                            "subgroup": "0464",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "N",
+                            "main-group": "3",
+                            "subgroup": "049",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "N",
+                            "main-group": "3",
+                            "subgroup": "0985",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "N",
+                            "main-group": "20",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06312",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06313",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "003",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "004",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311635495",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311635495",
+                            "date": "20231130"
+                        },
+                        {
+                            "doc-number": "202311635495.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311635495",
+                            "date": "20231130"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ELECTRIC POWER RES INST OF STATE GRID SHANDONG ELECTRIC POWER CO"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " STATE GRID CORP CHINA"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国网山东省电力公司电力科学研究院, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家电网有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YU PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHENG YAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XING JIAWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG SONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YUEJIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI YONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN SHUMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG SHIBAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG NAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QIN JIAFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU GUANGQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUAN YIFEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YIYUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG CHENGLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN LIQUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI SUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TENG WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "于芃, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "程艳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邢家维, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨颂, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王玥娇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李勇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙树敏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王士柏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王楠, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "秦佳峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周光奇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "关逸飞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘奕元, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王成龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙立群, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李笋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "滕玮"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Large-scale energy optimization management method and system for multi-energy polymerization of cold, heat, electricity, gas and hydrogen",
+                    "规模化冷热电气氢多能源聚合能源优化管理方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of modern energy management, and discloses a large-scale cold, heat, electricity, gas and hydrogen multi-energy aggregation energy optimization management method and system.The method comprises the steps that a comprehensive energy system of a single park is expressed in an energy hub mode, and then a load demand relation is established based on energy exchange and load demand relations between different parks; establishing a multi-park comprehensive energy model; establishing a multivariate time sequence joint prediction model based on an improved space-time diagram convolutional network, mining a coupling relationship among multivariate loads, renewable energy output and weather factors in the multi-park comprehensive energy model, and performing ultra-short-term joint prediction on the multivariate loads and energy power of the multi-park comprehensive energy model; and modeling the multi-park comprehensive energy model into a multi-agent system, and establishing a coordinated optimization scheduling algorithm of the multi-park comprehensive energy model based on multi-agent reinforcement learning. The energy efficiency is improved, the operation cost is reduced, the system toughness is enhanced, and the system can cope with rapidly changing market conditions."
+                },
+                {
+                    "p": "本发明属于现代能源管理技术领域，公开规模化冷热电气氢多能源聚合能源优化管理方法及系统，该方法包括：利用能量枢纽的形式表示单个园区的综合能源系统，再基于不同园区之间的能量交换与负荷需求关系，建立多园区综合能源模型；基于改进的时空图卷积网络建立多元时序联合预测模型，挖掘所述多园区综合能源模型中的多元负荷、可再生能源出力以及天气因素之间的耦合关系，对所述多园区综合能源模型的多元负荷和能源功率进行超短期联合预测；将所述多园区综合能源模型建模为多智能体系统，基于多智能体强化学习建立所述多园区综合能源模型的协调优化调度算法。本发明提高能源效率、降低运营成本、增强系统韧性，能够应对快速变化的市场条件。"
+                }
+            ]
+        }
+    }
+}

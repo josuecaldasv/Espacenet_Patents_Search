@@ -1,0 +1,194 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "6149829",
+                            "kind": "A",
+                            "date": "20001121"
+                        },
+                        {
+                            "doc-number": "US6149829",
+                            "date": "20001121"
+                        }
+                    ]
+                },
+                "classification-ipc": {
+                    "text": "B44C1/22"
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H01L  21/   311            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "32357",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "32357",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "31116",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "31116",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "216/67"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "257/E21.252"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "438/723"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "4597998",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US19980045979",
+                            "date": "19980317"
+                        },
+                        {
+                            "doc-number": "045979"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "US19980045979",
+                            "date": "19980317"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "MITZEL JAMES W [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "MITZEL, JAMES W"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TAKAMATSU TOSHIYUKI [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FUJIMURA SHUZO [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "TAKAMATSU, TOSHIYUKI, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "FUJIMURA, SHUZO"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Plasma surface treatment method and resulting device",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5591492",
+                                        "name": "HIRAI YUTAKA [JP], et al",
+                                        "date": "19970107"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5591492",
+                                        "kind": "A",
+                                        "name": "HIRAI YUTAKA [JP], et al",
+                                        "date": "19970107"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5628883",
+                                        "name": "SUGIYAMA KAZUO [JP], et al",
+                                        "date": "19970513"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5628883",
+                                        "kind": "A",
+                                        "name": "SUGIYAMA KAZUO [JP], et al",
+                                        "date": "19970513"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "A method for treating a surface of an object using a hydrogen bearing compound. The method includes a step of generating a plasma from a Gas-C in a plasma source, where the Gas-C includes at least a gas-A and a gas-B. Gas-A is selected from a compound including at least a nitrogen bearing compound (e.g., N2) or an other gas, e.g., gas of in elements in group 18 classified in the atomic periodic table. Gas-B has at least a H2O bearing compound or is preferably H2O. The method also includes a step of injecting a Gas-D downstream of the plasma source of said Gas C, and setting an object downstream of the Gas-D injection and downstream of the plasma source. The object has a surface to be processed. The method also includes a step of processing the surface of said object by a mixture species generated from the Gas-C in the plasma and the Gas-D. The H2O bearing compound in Gas-C includes a H2O bearing compound that is lower in concentration than a Gas-A concentration."
+            }
+        }
+    }
+}

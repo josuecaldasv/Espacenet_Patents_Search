@@ -1,0 +1,169 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117160192",
+                            "kind": "A",
+                            "date": "20231205"
+                        },
+                        {
+                            "doc-number": "CN117160192",
+                            "date": "20231205"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01D  53/    14            A I                    "
+                        },
+                        {
+                            "text": "C01B  17/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310725087",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310725087",
+                            "date": "20230619"
+                        },
+                        {
+                            "doc-number": "202310725087.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310725087",
+                            "date": "20230619"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HENAN JUNHENG IND GROUP BIOTECHNOLOGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "河南省君恒实业集团生物科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HUANG YUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DONG JINFU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAN XIAOHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAN RUIMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAO FEIFEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG RONGRONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHI XUSHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FAN JIANGYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄悦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董金福, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "闫晓慧, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "韩瑞敏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "姚飞飞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王荣荣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "史绪胜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "樊江岩"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for purifying bio-oil hydrogenation waste gas",
+                    "一种生物油加氢废气净化的方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a method for purifying bio-oil hydrogenation waste gas, which comprises the following steps: waste hydrogen discharged by a hydrogenation device enters a low-pressure gas desulfurization tower to be absorbed by amine liquid, acid gas is removed, the waste hydrogen enters a hydrogen production unit to be recycled, amine-rich liquid absorbing the acid gas enters a solvent regeneration tower to be regenerated, and the acid gas is released to become a lean solvent; returning the lean solvent to the amine liquid for absorption and recycling; the acid gas enters an iron series slurry absorption tower, and is discharged after being qualified after hydrogen sulfide is removed; the rich slurry absorbing hydrogen sulfide enters an oxidation regeneration tower for oxidation regeneration to generate sulfur, and the rich slurry is regenerated into lean slurry to return to the slurry absorption tower for recycling. An original amine liquid absorption and regeneration process is changed into an amine liquid and iron slurry absorption and regeneration process for separating hydrogen sulfide and carbon dioxide in the biolipid hydrogenation waste gas, so that a large amount of hydrogen in the waste hydrogen can be used after being purified, and the problem that acid gas in which carbon dioxide and hydrogen sulfide coexist cannot be purified and utilized can be solved; the carbon dioxide gas and the hydrogen sulfide gas are separated and purified."
+                },
+                {
+                    "p": "本发明涉及一种生物油加氢废气净化的方法，加氢装置排放的废氢气进入低分气脱硫塔通过胺液吸收，脱除酸性气，后进入制氢单元回用，吸收酸性气后的富胺液进入溶剂再生塔再生后释放出酸性气变成贫溶剂，贫溶剂返回胺液吸收循环使用；酸性气进入铁系浆液吸收塔，脱除掉硫化氢后合格排放；吸收硫化氢后的富浆液进入氧化再生塔进行氧化再生生成硫磺，富浆液再生为贫浆液返回浆液吸收塔循环使用。改变原有胺液吸收、再生工艺为胺液+铁系浆液吸收、再生工艺将生物油脂加氢废气中的硫化氢和二氧化碳分离，既能实现废氢气中大量的氢气净化后会用，又能解决二氧化碳和硫化氢共存的酸性气无法净化利用的问题，实现了二氧化碳气体和硫化氢气体分离净化。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,454 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "114232007",
+                            "kind": "A",
+                            "date": "20220325"
+                        },
+                        {
+                            "doc-number": "CN114232007",
+                            "date": "20220325"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    50            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    17            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "50",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "17",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202111394216",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202111394216",
+                            "date": "20211123"
+                        },
+                        {
+                            "doc-number": "202111394216.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202111394216",
+                            "date": "20211123"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINESE CHINA ENERGY GROUP CLEAN ENERGY TECH RESEARCH INSTITUTE LIMITED COMPANY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SICHUAN HUA ENERGY HYDROGEN ENERGY SCIENCE AND TECH LIMITED COMPANY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " HUA ENERGY GROUP TECH INNOVATION CENTER LIMITED COMPANY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SICHUAN HUAENEN TAIPING POST HYDROPOWER LTD RESPONSIBILITY COMPANY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SICHUAN HUAENERGY BAOXING RIVER WATER AND ELECTRICITY LTD RESPONSIBILITY COMPANY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " WATER AND ELECTRICITY LTD RESPONSIBILITY COMPANY OF JIANGZHUANG RIVER OF SICHUAN PROVINCE"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SICHUAN CHINA ENERGY EAST WEST GUAN WATER AND ELECTRICITY SHARE LTD COMPANY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SICHUAN HUCHENKANGZHI HYDROELECTRIC LTD RESPONSIBILITY COMPANY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SICHUAN HUANGHEN FULING RIVER HYDROPOWER LTD RESPONSIBILITY COMPANY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " HUA ENERGY MINGTAI ELECTRIC POWER LTD RESPONSIBILITY COMPANY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国华能集团清洁能源技术研究院有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "四川华能氢能科技有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华能集团技术创新中心有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "四川华能太平驿水电有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "四川华能宝兴河水电有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "四川华能嘉陵江水电有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "四川华能东西关水电股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "四川华能康定水电有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "四川华能涪江水电有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华能明台电力有限责任公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG FAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JINYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU ZHIYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU LIPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO HAIJIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG PENGJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " REN ZHIBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG CHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU XIANMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PAN LONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王凡, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王金意, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "余智勇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘丽萍, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王韬, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭海礁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王鹏杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任志博, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张畅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐显明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "潘龙"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for producing hydrogen by electrolyzing water through three-electrode system",
+                    "一种三电极体系电解水制氢方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105420748",
+                                        "name": "UNIV FUDAN",
+                                        "date": "20160323"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105420748",
+                                        "kind": "A",
+                                        "name": "UNIV FUDAN",
+                                        "date": "20160323"
+                                    }
+                                ]
+                            },
+                            "category": "X",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 说明书第[0005]-[0016]段，附图1 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105463497",
+                                        "name": "UNIV FUDAN",
+                                        "date": "20160406"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105463497",
+                                        "kind": "A",
+                                        "name": "UNIV FUDAN",
+                                        "date": "20160406"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105734600",
+                                        "name": "UNIV FUDAN",
+                                        "date": "20160706"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105734600",
+                                        "kind": "A",
+                                        "name": "UNIV FUDAN",
+                                        "date": "20160706"
+                                    }
+                                ]
+                            },
+                            "category": "X",
+                            "rel-claims": "1、6-8",
+                            "rel-passage": {
+                                "passage": "* 说明书第[0005]-[0015]段，附图1 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2016204743",
+                                        "name": "EXERGY POWER SYSTEMS CO LTD",
+                                        "date": "20161208"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2016204743",
+                                        "kind": "A",
+                                        "name": "EXERGY POWER SYSTEMS CO LTD",
+                                        "date": "20161208"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111534830",
+                                        "name": "UNIV NANJING TECH",
+                                        "date": "20200814"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111534830",
+                                        "kind": "A",
+                                        "name": "UNIV NANJING TECH",
+                                        "date": "20200814"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a three-electrode system water electrolysis hydrogen production method which comprises the following steps: assembling an electrolytic bath; a first circuit is formed among a hydrogen evolution cathode plate, an auxiliary electrode plate and an external power supply in an electrolytic bath, and meanwhile, a second circuit is formed among the auxiliary electrode plate, an oxygen evolution anode plate and the external power supply, so that the hydrogen is prepared by reaction on the hydrogen evolution cathode plate through closing of the first circuit and opening of the second circuit. The first circuit is switched off and the second circuit is switched on, so that oxygen is prepared through reaction on the oxygen evolution anode plate, and in the same electrolytic cell, the hydrogen evolution cathode plate, the auxiliary electrode plate and the oxygen evolution anode plate are connected with an external power supply to form two circuits. The hydrogen and the oxygen are respectively prepared by controlling the closing and opening of the two circuits, so that the prepared hydrogen and oxygen are not mixed, and the separation cost is reduced."
+                },
+                {
+                    "p": "本申请提出一种三电极体系电解水制氢方法，包括如下过程，组装电解槽；将电解槽中的析氢阴极板、辅助电极板和外部电源之间组成第一电路，同时将辅助电极板、析氧阳极板和外部电源之间组成第二电路，以通过所述第一电路闭合和所述第二电路断开使得所述析氢阴极板上发生反应制备得到氢气，通过所述第一电路断开和所述第二电路闭合使得所述析氧阳极板上发生反应制备得到氧气，在同一个电解槽中，将析氢阴极板、辅助电极板和析氧阳极板三个电极与外部电源之间连接成两个电路，通过控制两个电路的闭合和断开实现氢气和氧气的分别制备，进而使得制备的氢气和氧气不会出现混合的现象，简化了分离成本。"
+                }
+            ]
+        }
+    }
+}

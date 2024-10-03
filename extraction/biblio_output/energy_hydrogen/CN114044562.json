@@ -1,0 +1,231 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "114044562",
+                            "kind": "A",
+                            "date": "20220215"
+                        },
+                        {
+                            "doc-number": "CN114044562",
+                            "date": "20220215"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C02F   1/   461            A I                    "
+                        },
+                        {
+                            "text": "C02F 103/    08            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "1",
+                            "subgroup": "46104",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "2103",
+                            "subgroup": "08",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202111448755",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202111448755",
+                            "date": "20211130"
+                        },
+                        {
+                            "doc-number": "202111448755.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202111448755",
+                            "date": "20211130"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "YANGTZE DELTA REGION INST TSINGHUA UNIV ZHEJIANG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "浙江清华长三角研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIANG ZIZHUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "梁子卓"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Integrated system of electrolysis device and water treatment desalination system",
+                    "一种电解装置和水处理淡化系统的集成系统"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2010090425",
+                                        "name": "TOSHIBA CORP",
+                                        "date": "20100422"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2010090425",
+                                        "kind": "A",
+                                        "name": "TOSHIBA CORP",
+                                        "date": "20100422"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "3-5,9",
+                            "rel-passage": {
+                                "passage": "* 说明书第[0046]-[0049]段，附图3 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2018287179",
+                                        "name": "RUEGER DIETMAR [DE], et al",
+                                        "date": "20181004"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2018287179",
+                                        "kind": "A1",
+                                        "name": "RUEGER DIETMAR [DE], et al",
+                                        "date": "20181004"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书摘要 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110904464",
+                                        "name": "UNIV SHENZHEN",
+                                        "date": "20200324"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110904464",
+                                        "kind": "A",
+                                        "name": "UNIV SHENZHEN",
+                                        "date": "20200324"
+                                    }
+                                ]
+                            },
+                            "category": [
+                                "X",
+                                "Y"
+                            ],
+                            "rel-claims": [
+                                "1-2,6-10",
+                                "3-5"
+                            ],
+                            "rel-passage": {
+                                "passage": "* 说明书第[0007]-[0011], [0023]，[0033]-[0034]段, 附图2 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110923738",
+                                        "name": "SHANGHAI INST APPLIED PHYSICS CAS",
+                                        "date": "20200327"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110923738",
+                                        "kind": "A",
+                                        "name": "SHANGHAI INST APPLIED PHYSICS CAS",
+                                        "date": "20200327"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第[0024]段 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 詹怀宇, 《制浆原理与工程》, 北京：中国轻工业出版社, vol. 4, page 173"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an integrated system of an electrolysis device and a water treatment desalination system. The integrated system comprises an electrolysis device, a third heat exchanger and a water treatment device, and is used for receiving part of heat transferred by the third heat exchanger and carrying out desalination treatment on seawater to obtain water vapor and high-concentration saline water, and the other part of heat collected by the third heat exchanger is used for preheating feed gas supplied to the electrolysis device. Creative system integration is adopted, and renewable energy hydrogen production, an electrolysis device and a water treatment system are systematically integrated, so that the problem of redundant power consumption of renewable energy power generation is solved, and electric energy is converted into hydrogen for storage through electrolysis of the electrolysis device in time. Rich waste heat of the electrolysis device can be utilized to provide fresh water for a renewable energy source device environment through the water treatment system, meanwhile, water vapor and pure water required by electrolysis can be provided for similar high-temperature and low-temperature electrolysis systems, and produced high-concentration saline water can be used as an industrial raw material to be further processed and treated to prepare industrial products such as salt, alkali, chlorine and the like."
+                },
+                {
+                    "p": "本发明公开了一种电解装置和水处理淡化系统的集成系统，包括电解装置，第三热交换器，水处理装置，用于接收第三热交换器传递的部分热量，并用于海水的淡化处理以得到水蒸气与高浓度盐水，经过第三热交换器收集的热量另一部分用于供给电解装置的原料气预热。本发明采用开创性的系统集成，将可再生能源制氢、电解装置和水处理系统进行系统集成，不仅解决可再生能源发电的冗余电量消纳问题，将电能及时通过电解装置电解转换为氢气储存，还可利用电解装置丰富的余热通过水处理系统为可再生能源装置环境提供淡水，同时也可为类似高温和低温电解系统提供电解所需的水蒸气和纯水，产出的高浓度盐水可用作工业原料进行进一步加工处理，制取盐、碱、氯气等工业产品。"
+                }
+            ]
+        }
+    }
+}

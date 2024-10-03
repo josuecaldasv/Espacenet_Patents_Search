@@ -1,0 +1,211 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118309418",
+                            "kind": "A",
+                            "date": "20240709"
+                        },
+                        {
+                            "doc-number": "CN118309418",
+                            "date": "20240709"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "E21B  49/    00            A I                    "
+                        },
+                        {
+                            "text": "G01V   3/    38            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410477067",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410477067",
+                            "date": "20240419"
+                        },
+                        {
+                            "doc-number": "202410477067.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "CN202310439358",
+                                "date": "20230423"
+                            },
+                            {
+                                "doc-number": "2023104393583"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANDONG UNIV OF SCIENCE AND TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "山东科技大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG LI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAN XIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ZHENHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GENG XUESEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAI QIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI XINLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张丽, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "韩笑, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李振华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "耿学森, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "翟强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李昕龙"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Quantitative evaluation method for gas saturation of tight sandstone reservoir",
+                    "一种致密砂岩储层含气饱和度定量评价方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "RU2784205"
+                                    },
+                                    {
+                                        "country": "RU",
+                                        "doc-number": "2784205",
+                                        "kind": "C1"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102692654",
+                                        "name": "UNIV CHINA PETROLEUM",
+                                        "date": "20120926"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102692654",
+                                        "kind": "A",
+                                        "name": "UNIV CHINA PETROLEUM",
+                                        "date": "20120926"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109521487",
+                                        "name": "UNIV CHINA PETROLEUM EAST CHINA",
+                                        "date": "20190326"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109521487",
+                                        "kind": "A",
+                                        "name": "UNIV CHINA PETROLEUM EAST CHINA",
+                                        "date": "20190326"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a tight sandstone reservoir gas saturation quantitative evaluation method, and relates to the technical field of tight sandstone reservoir gas saturation evaluation. Double epithermal neutron detectors (a near epithermal neutron detector and a far epithermal neutron detector) are used for recording epithermal neutron counts at different positions; the detector records epithermal neutron counts with energy higher than that of thermal neutrons, influences of formation diffusion and radiation capture are avoided, the neutrons are only subjected to a moderation process before being recorded by the detector, the hydrogen content of the formation can be reflected more effectively, and then the ratio of the near epithermal neutron counts to the far epithermal neutron counts is calculated. The formation gas saturation is quantitatively determined by defining the relative variation parameter of the counting ratio of the near and far epithermal neutrons reflecting the gas saturation, and the method is more severe in parameter change than other different counting ratios, and is more sensitive to response to the gas saturation in a compact sandstone reservoir."
+                },
+                {
+                    "p": "本发明公开了一种致密砂岩储层含气饱和度定量评价方法，涉及致密砂岩储层含气饱和度评价技术领域，利用双超热中子探测器(近超热中子探测器和远超热中子探测器)记录不同位置处超热中子计数，探测器记录能量高于热中子的超热中子计数，避开了地层扩散和辐射俘获的影响，使中子在被探测器记录之前只经历了慢化过程，更能有效的反映地层的含氢量，再计算近、远超热中子计数比值，定义反映含气饱和度的近、远超热中子计数比值的相对变化量参数定量确定地层含气饱和度，其方法要比其它不同计数比值的参数变化更加剧烈，在致密砂岩储层中对含气饱和度响应更加灵敏。"
+                }
+            ]
+        }
+    }
+}

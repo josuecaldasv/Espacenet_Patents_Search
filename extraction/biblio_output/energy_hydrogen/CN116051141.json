@@ -1,0 +1,155 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116051141",
+                            "kind": "A",
+                            "date": "20230502"
+                        },
+                        {
+                            "doc-number": "CN116051141",
+                            "date": "20230502"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06N   7/    01            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0201            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    26            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0201",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211383287",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211383287",
+                            "date": "20221107"
+                        },
+                        {
+                            "doc-number": "202211383287.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211383287",
+                            "date": "20221107"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV NORTH CHINA TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北方工业大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI JIANLIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIANG ZHONGHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI GUANGHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIAO KE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李建林, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "梁忠豪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李光辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "肖珂"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen energy storage system electrolytic bath type selection method for complex multiple working conditions",
+                    "一种用于复杂多工况的氢储能系统电解槽选型方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a hydrogen energy storage system electrolytic cell type selection method for complex multiple working conditions, which comprises the following steps: determining probability distribution of different renewable energy source hydrogen production scenes, use probabilities of multiple types of electrolytic cells and use probabilities of the multiple types of electrolytic cells in different scenes in each region according to the data statistical result of an existing large-number platform; the data are used as input (a prior probability matrix) of an electrolytic cell type selection decision system, and then an electrolytic cell use probability matrix (a posterior probability matrix) under different application service working conditions is calculated through a Bayesian estimation method according to the known prior probability. The use probabilities of different types of electrolytic cells in different hydrogen production scenes are dynamically corrected according to the Bayesian formula, so that the multi-main-body matching characteristic of the renewable energy hydrogen production and energy storage system is effectively ensured, and the distribution problems of maximum utilization of resources and maximum economic benefits in the renewable energy hydrogen production system are solved; and it can be effectively guaranteed that the hydrogen energy storage system is applied to economical construction in multiple types of scenes in the future."
+                },
+                {
+                    "p": "本发明公开了一种用于复杂多工况的氢储能系统电解槽选型方法，包括步骤：根据现有大数平台数据统计结果，确定各个地区不同可再生能源制氢场景概率分布、多类型电解槽使用概率以及不同场景下多类型电解槽使用概率，将这些数据作为电解槽选型决策系统的输入(先验概率矩阵)，再根据前述已知的先验概率通过贝叶斯估计方法计算得到不同应用服务工况下的电解槽使用概率矩阵(后验概率矩阵)。根据贝叶斯公式的动态修正不同类型电解槽在不同制氢场景下的使用概率，有效的保证了可再生能源制氢储能系统的多主体匹配特性，解决了可再生能源制氢系统中资源最大化利用及经济效益最大化的分配问题，可有效保障未来氢储能系统应用于多类型场景下的经济性建设。"
+                }
+            ]
+        }
+    }
+}

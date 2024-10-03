@@ -1,0 +1,152 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118315629",
+                            "kind": "A",
+                            "date": "20240709"
+                        },
+                        {
+                            "doc-number": "CN118315629",
+                            "date": "20240709"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/  0432            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04858            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04992            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410515975",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410515975",
+                            "date": "20240427"
+                        },
+                        {
+                            "doc-number": "202410515975.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410515975",
+                            "date": "20240427"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GUANGDONG YUNTAO HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "广东云韬氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DENG QINGYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YE XUHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JIAJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DONG LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LU LIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG QIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邓庆延, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "叶旭宏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李佳俊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "鲁亮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨强"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Cold machine operation control method of fuel cell system",
+                    "一种燃料电池系统冷机运行控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a cold machine operation control method of a fuel cell system. The method comprises the following steps: starting a fuel cell system to operate, collecting the temperature of a fuel cell in-pile cooling liquid in real time, and comparing the temperature with a preset temperature threshold Ttar in real time; if the current in-pile water temperature is less than or equal to a preset temperature threshold value, entering a cold machine state, and if the in-pile water temperature is greater than the preset temperature threshold value, entering a hot machine state; in a cold machine state, when a corresponding power request of the whole vehicle is responded to carry out power load pulling, the power load pulling is correspondingly limited according to a single-chip voltage variance value V sigma and a single-chip minimum voltage value Vcell sent by the electric pile inspection module; when the heat engine is in a heat engine state, no limitation is made, and real-time following load pulling is carried out in response to a whole vehicle power request; according to the invention, the problem of fault shutdown caused by over-low single-chip voltage when the fuel cell system is loaded along with the required power in a cold machine state is solved; the problem of poor single-chip consistency when the fuel cell system is loaded along with the required power in a cold machine state is solved."
+                },
+                {
+                    "p": "本发明公开一种燃料电池系统冷机运行控制方法。本发明方法为：燃料电池系统启动运行，实时采集燃料电池入堆冷却液温度与预设温度阈值Ttar进行实时比较；当前入堆水温≤预设温度阈值，则进入冷机状态，入堆水温＞预设温度阈值，则进入热机状态；当处于冷机状态，在响应整车对应功率请求进行功率拉载时，会根据电堆巡检模块发出的单片电压方差值Vσ及单片最低电压值Vcell，对功率拉载做对应限制；当热机状态，不做任何限制，响应整车功率请求进行实时跟随拉载；本发明解决燃料电池系统冷机状态下，跟随需求功率拉载时出现单片电压过低导致故障停机的问题；解决燃料电池系统冷机状态下，跟随需求功率拉载时出现单片一致性差问题。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116399082",
+                            "kind": "A",
+                            "date": "20230707"
+                        },
+                        {
+                            "doc-number": "CN116399082",
+                            "date": "20230707"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F25J   3/    06            A I                    "
+                        },
+                        {
+                            "text": "F25J   5/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "25",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "069",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "25",
+                            "subclass": "J",
+                            "main-group": "5",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310113790",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310113790",
+                            "date": "20230215"
+                        },
+                        {
+                            "doc-number": "202310113790.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "CN202210398045",
+                                "date": "20220412"
+                            },
+                            {
+                                "doc-number": "2022103980453"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV BEIHANG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京航空航天大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LING GUILONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAI GUOBIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE BIJIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WENG HUIYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "凌桂龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蔡国飙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贺碧蛟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "翁惠焱"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Helium recycling and liquefying system for plume ultralow-temperature experiment",
+                    "用于羽流超低温实验的氦气回收液化系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a helium recycling and liquefying system for a plume ultralow-temperature experiment, and belongs to the field of vacuum science. The method specifically comprises the steps that helium stored in the high-purity helium storage system is liquefied and refrigerated through the helium refrigeration and liquefaction system and conveyed into the liquefaction machine, the purity of the helium produced by the liquefaction machine is detected through the helium purity analysis system, and when the helium is pure helium, the helium is stored in the liquid helium storage system and used for cooling of the liquid helium heat sink system. Otherwise, the helium recovery system is started, the helium is purified through the helium purification system, and the helium is returned to the helium refrigeration and liquefaction system again; the liquid helium heat sink system realizes temperature control of a liquid helium heat sink by using liquid helium or low-temperature helium according to plume experiment requirements, adsorbs multi-component plume gases such as carbon, hydrogen, oxygen and nitrogen, and completes an ultrahigh vacuum plume experiment; meanwhile, the liquid helium heat sink system is connected with the helium refrigerating and liquefying system, and closed circulation and real-time liquefying and refrigerating of helium are achieved."
+                },
+                {
+                    "p": "本发明公开了用于羽流超低温实验的氦气回收液化系统，属于真空科学领域；具体为：高纯氦储存系统存储的氦气通过氦气制冷与液化系统进行液化和制冷，输送到液化机中，利用氦气纯度分析系统对液化机产出的氦气纯度进行检测，当为纯氦气后，储存于液氦储存系统中，供液氦热沉系统降温使用。否则，启动氦气回收系统，利用氦气纯化系统将其进行纯化，再次返回到氦气制冷与液化系统；液氦热沉系统依据羽流实验需求，利用液氦或低温氦气实现液氦热沉本身的温度控制，吸附碳、氢、氧、氮等多组分羽流气体，完成超高真空羽流实验；同时，液氦热沉系统与氦气制冷与液化系统相连，实现氦气的闭式循环以及实时液化和制冷。"
+                }
+            ]
+        }
+    }
+}

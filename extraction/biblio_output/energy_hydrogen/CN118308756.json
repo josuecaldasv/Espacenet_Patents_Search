@@ -1,0 +1,125 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118308756",
+                            "kind": "A",
+                            "date": "20240709"
+                        },
+                        {
+                            "doc-number": "CN118308756",
+                            "date": "20240709"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    08            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410491717",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410491717",
+                            "date": "20240423"
+                        },
+                        {
+                            "doc-number": "202410491717.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410491717",
+                            "date": "20240423"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SANY HYDROGEN ENERGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "三一氢能有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LAN LIJUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI XING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU TANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "兰利娟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李行, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周塘"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Electrolytic cell and control method thereof",
+                    "电解槽及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of electrolytic hydrogen production, and provides an electrolytic bath and a control method thereof.The electrolytic bath comprises a bath body, a plurality of small electrolytic chambers arranged in the length direction of the bath body are arranged in the bath body, electrolyte channels of the small electrolytic chambers are communicated, n small electrolytic chambers form a module, each module is provided with a liquid inlet, and n is larger than or equal to 1; compared with the whole cell body, the flow resistance in a single module is greatly reduced, the circulation efficiency of the electrolyte in each small electrolysis chamber is obviously improved, the electrolyte is more uniformly distributed in each small electrolysis chamber, and the electrolyte in the single small electrolysis chamber is uniformly distributed; therefore, the temperature distribution of the single electrolysis cell and the cell body is more uniform, and the working efficiency of each electrolysis cell is ensured; and on the other hand, by adjusting the flow of the liquid inlet in the corresponding module, the temperature of the small electrolysis chamber can be adjusted, so that the problem of overtemperature or uneven temperature distribution of a certain small electrolysis chamber is effectively avoided."
+                },
+                {
+                    "p": "本发明涉及电解制氢的技术领域，提供一种电解槽及其控制方法，电解槽包括：槽体，内设有沿槽体长度方向排布的多个电解小室，多个电解小室的电解液通道相导通，n个电解小室为一个模块，每个模块上均设置有进液口，其中，n≥1；与整个槽体相比，单个模块中的流动阻力大大减小，每个电解小室内电解液的循环效率得到显著的提高，电解液更加均匀地分布于每个电解小室内，且单个电解小室内的电解液分布均匀，进而使得单个电解小室以及槽体的温度分布更加均匀，每个电解小室的工作效率得以保证；另一方面，通过调节对应模块上进液口的流量，可以对电解小室的温度进行调节，从而有效避免某一电解小室超温或温度分布不均的问题。"
+                }
+            ]
+        }
+    }
+}

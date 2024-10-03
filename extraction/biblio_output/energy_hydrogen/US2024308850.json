@@ -1,0 +1,160 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2024308850",
+                            "kind": "A1",
+                            "date": "20240919"
+                        },
+                        {
+                            "doc-number": "US2024308850",
+                            "date": "20240919"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    02            A I                    "
+                        },
+                        {
+                            "text": "C01B  21/    38            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/   042            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "025",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "21",
+                            "subgroup": "38",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "042",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "02",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "202418606962",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US202418606962",
+                            "date": "20240315"
+                        },
+                        {
+                            "doc-number": "18606962"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US202363453018P",
+                                    "date": "20230317"
+                                },
+                                {
+                                    "doc-number": "63453018"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": {
+                                "doc-number": "US202418606962",
+                                "date": "20240315"
+                            }
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NUSCALE POWER LLC [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "NuScale Power, LLC"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TSANG FRANCIS Y [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " REYES JR JOSÉ N [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "Tsang, Francis Y, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "Reyes, Jr., José N"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "INTEGRATED ENERGY SYSTEMS FOR ENERGY PRODUCTION AND GREEN INDUSTRIAL APPLICATIONS, SUCH AS THE PRODUCTION OF NITRIC ACID"
+            },
+            "abstract": {
+                "p": "Described herein are techniques that may be performed in an Integrated Energy System (IES) to produce Nitric Acid (HNO3) while minimizing a carbon footprint. Such techniques, as performed by a resource production plant, may comprise receiving electricity and steam from a power plant to produce Hydrogen (H2) gas from the steam at a Hydrogen (H2) production sub-plant, receiving electricity from the power plant and air from the environment to produce Nitrogen (N2) gas at a Nitrogen (N2) production sub-plant, producing Ammonia (NH3) from the Hydrogen (H2) gas and the Nitrogen (N2) gas at a nitrogen production sub-plant, and producing Nitric Acid (HNO3) from the Ammonia (NH3) at a Nitric Acid (HNO3) production sub-plant."
+            }
+        }
+    }
+}

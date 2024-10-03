@@ -1,0 +1,613 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2020299130",
+                            "kind": "A1",
+                            "date": "20200924"
+                        },
+                        {
+                            "doc-number": "US2020299130",
+                            "date": "20200924"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    00            A I                    "
+                        },
+                        {
+                            "text": "F01K  27/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "0094",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "01",
+                            "subclass": "K",
+                            "main-group": "11",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "01",
+                            "subclass": "K",
+                            "main-group": "27",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "22",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "003",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "22",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04216",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04216",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "065",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "065",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "201916358411",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US201916358411",
+                            "date": "20190319"
+                        },
+                        {
+                            "doc-number": "16358411"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20080084923P",
+                                    "date": "20080730"
+                                },
+                                {
+                                    "doc-number": "61084923"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20080086316P",
+                                    "date": "20080805"
+                                },
+                                {
+                                    "doc-number": "61086316"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20080088492P",
+                                    "date": "20080813"
+                                },
+                                {
+                                    "doc-number": "61088492"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20080094513P",
+                                    "date": "20080905"
+                                },
+                                {
+                                    "doc-number": "61094513"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20080098514P",
+                                    "date": "20080919"
+                                },
+                                {
+                                    "doc-number": "61098514"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20080102465P",
+                                    "date": "20081003"
+                                },
+                                {
+                                    "doc-number": "61102465"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20080104534P",
+                                    "date": "20081010"
+                                },
+                                {
+                                    "doc-number": "61104534"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20080105660P",
+                                    "date": "20081015"
+                                },
+                                {
+                                    "doc-number": "61105660"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20080106932P",
+                                    "date": "20081020"
+                                },
+                                {
+                                    "doc-number": "61106932"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20080109088P",
+                                    "date": "20081028"
+                                },
+                                {
+                                    "doc-number": "61109088"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20080110253P",
+                                    "date": "20081031"
+                                },
+                                {
+                                    "doc-number": "61110253"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20080112491P",
+                                    "date": "20081107"
+                                },
+                                {
+                                    "doc-number": "61112491"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20080114735P",
+                                    "date": "20081114"
+                                },
+                                {
+                                    "doc-number": "61114735"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20080193543P",
+                                    "date": "20081205"
+                                },
+                                {
+                                    "doc-number": "61193543"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20080139293P",
+                                    "date": "20081219"
+                                },
+                                {
+                                    "doc-number": "61139293"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090145022P",
+                                    "date": "20090115"
+                                },
+                                {
+                                    "doc-number": "61145022"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090146962P",
+                                    "date": "20090123"
+                                },
+                                {
+                                    "doc-number": "61146962"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090150571P",
+                                    "date": "20090206"
+                                },
+                                {
+                                    "doc-number": "61150571"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090152500P",
+                                    "date": "20090213"
+                                },
+                                {
+                                    "doc-number": "61152500"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090156328P",
+                                    "date": "20090227"
+                                },
+                                {
+                                    "doc-number": "61156328"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090158252P",
+                                    "date": "20090306"
+                                },
+                                {
+                                    "doc-number": "61158252"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090160145P",
+                                    "date": "20090313"
+                                },
+                                {
+                                    "doc-number": "61160145"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090164151P",
+                                    "date": "20090327"
+                                },
+                                {
+                                    "doc-number": "61164151"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090166495P",
+                                    "date": "20090403"
+                                },
+                                {
+                                    "doc-number": "61166495"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090170418P",
+                                    "date": "20090417"
+                                },
+                                {
+                                    "doc-number": "61170418"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090174346P",
+                                    "date": "20090430"
+                                },
+                                {
+                                    "doc-number": "61174346"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090176675P",
+                                    "date": "20090508"
+                                },
+                                {
+                                    "doc-number": "61176675"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090178796P",
+                                    "date": "20090515"
+                                },
+                                {
+                                    "doc-number": "61178796"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090180456P",
+                                    "date": "20090522"
+                                },
+                                {
+                                    "doc-number": "61180456"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090182468P",
+                                    "date": "20090529"
+                                },
+                                {
+                                    "doc-number": "61182468"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090186660P",
+                                    "date": "20090612"
+                                },
+                                {
+                                    "doc-number": "61186660"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090218771P",
+                                    "date": "20090619"
+                                },
+                                {
+                                    "doc-number": "61218771"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090220911P",
+                                    "date": "20090626"
+                                },
+                                {
+                                    "doc-number": "61220911"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090222721P",
+                                    "date": "20090702"
+                                },
+                                {
+                                    "doc-number": "61222721"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20090226541P",
+                                    "date": "20090717"
+                                },
+                                {
+                                    "doc-number": "61226541"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "WO2009US52072",
+                                    "date": "20090729"
+                                },
+                                {
+                                    "doc-number": "PCT/US2009/052072"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US201113054198",
+                                    "date": "20110114"
+                                },
+                                {
+                                    "doc-number": "13054198"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": {
+                                "doc-number": "US201916358411",
+                                "date": "20190319"
+                            }
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BRILLIANT LIGHT POWER INC [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "BRILLIANT LIGHT POWER, INC"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "MILLS RANDELL L [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "MILLS, RANDELL L"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "HETEROGENEOUS HYDROGEN-CATALYST REACTOR\n"
+            },
+            "abstract": {
+                "p": "A power source and hydride reactor is provided comprising a reaction cell for the catalysis of atomic hydrogen to form hydrinos. a source of atomic hydrogen, a source of a hydrogen catalyst comprising a solid, liquid, or heterogeneous catalyst reaction mixture. The catalysis reaction is activated or initiated and propagated by one or more chemical other reactions. These reactions maintained on a electrically conductive support can be of several classes such as (i) exothermic reactions which provide the activation energy for the hydrino catalysis reaction, (ii) coupled reactions that provide for at least one of a source of catalyst or atomic hydrogen to support the hydrino catalyst reaction, (iii) free radical reactions that serve as an acceptor of electrons from the catalyst during the hydrino catalysis reaction, (iv) oxidation-reduction reactions that, in an embodiment, serve as an acceptor of electrons from the catalyst during the hydrino catalysis reaction, (v) exchange reactions such as anion exchange that facilitate the action of the catalyst to become ionized as it accepts energy from atomic hydrogen to form hydrinos, and (vi) getter, support, or matrix-assisted hydrino reaction that may provide at least one of a chemical environment for the hydrino reaction, act to transfer electrons to facilitate the H catalyst function, undergoes a reversible phase or other physical change or change in its electronic state, and binds a lower-energy hydrogen product to increase at least one of the extent or rate of the hydrino reaction. Power and chemical plants that can be operated continuously using electrolysis or thermal regeneration reactions maintained in synchrony with at least one of power and lower-energy-hydrogen chemical production."
+            }
+        }
+    }
+}

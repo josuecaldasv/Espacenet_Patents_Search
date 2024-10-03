@@ -1,0 +1,145 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118386951",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118386951",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L  50/    75            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    12            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    30            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    40            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410514674",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410514674",
+                            "date": "20240426"
+                        },
+                        {
+                            "doc-number": "202410514674.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410514674",
+                            "date": "20240426"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HYDROGEN SHANGHAI NEW ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "氢通（上海）新能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YANG KUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG XINLEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG XU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI HAODONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " REN YAHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨琨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张新磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张旭, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李浩东, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任亚辉"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Energy control method for multiple sets of fuel cell systems",
+                    "一种多套燃料电池系统能量控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of new energy, and discloses a multi-fuel cell system energy control method, which comprises the following steps: acquiring road condition information; obtaining the required output power of the fuel cell system according to the relation curve of the throughput and the matched output power and the road condition information; calculating to obtain a correction coefficient according to the full life cycle throughput of the power battery system; calculating the adjusted output power of the fuel cell system according to the required output power and the correction coefficient; comparing the adjusted output power with a rated output power range, and determining a distribution mode of power output of each set of fuel cell; determining the variable load rate of the fuel cell system according to the correction coefficient; adjusting the output mode of the output power of the fuel cell system according to the variable load rate in combination with the distribution mode of the power output of each set of fuel cell; according to the variable load frequency of the fuel cell system and a set threshold value, a relation curve of throughput and matched output power is adjusted; the service life of the energy system is effectively prolonged."
+                },
+                {
+                    "p": "本申请涉及新能源技术领域，公开了一种多套燃料电池系统能量控制方法，包括获取路况信息；根据吞吐量与配合输出功率关系曲线和路况信息得到燃料电池系统的需求输出功率；根据动力电池系统全生命周期吞吐量，计算得到修正系数；根据需求输出功率和修正系数计算的得到燃料电池系统的调整输出功率；将调整输出功率与额定输出功率范围比较，确定每套燃料电池功率输出的分配方式；根据修正系数确定燃料电池系统的变载速率；根据变载速率，并结合每套燃料电池功率输出的分配方式对燃料电池系统输出功率的输出方式进行调节；根据燃料电池系统变载频率与设定阈值，调整吞吐量与配合输出功率关系曲线；本申请有效延长了能量系统的运行寿命。"
+                }
+            ]
+        }
+    }
+}

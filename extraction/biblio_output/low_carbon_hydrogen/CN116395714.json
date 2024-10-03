@@ -1,0 +1,456 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116395714",
+                            "kind": "A",
+                            "date": "20230707"
+                        },
+                        {
+                            "doc-number": "CN116395714",
+                            "date": "20230707"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01C   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C07C   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C07C   9/    04            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   152            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   153            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   156            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "0415",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "043",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "0435",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "152",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "153",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "156",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "2527",
+                            "subgroup": "24",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "52",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C1/0415",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C9/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C1/043",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C9/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "3",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C1/0435",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C9/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "4",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/152",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "5",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/153",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "6",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/156",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310369433",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310369433",
+                            "date": "20230407"
+                        },
+                        {
+                            "doc-number": "202310369433.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310369433",
+                            "date": "20230407"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV TSINGHUA"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "清华大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YAN BINHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FENG KAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "颜彬航, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "冯凯"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Chemical-looping ammonia synthesis device and method coupled with carbon dioxide hydrogenation process",
+                    "一种耦合二氧化碳加氢过程的化学链合成氨装置和方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CA2891185",
+                                        "name": "UNIV ONTARIO INST OF TECHNOLOGY [CA]",
+                                        "date": "20140515"
+                                    },
+                                    {
+                                        "country": "CA",
+                                        "doc-number": "2891185",
+                                        "kind": "A1",
+                                        "name": "UNIV ONTARIO INST OF TECHNOLOGY [CA]",
+                                        "date": "20140515"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108217687",
+                                        "name": "UNIV NANJING SCI & TECH",
+                                        "date": "20180629"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108217687",
+                                        "kind": "A",
+                                        "name": "UNIV NANJING SCI & TECH",
+                                        "date": "20180629"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110982558",
+                                        "name": "UNIV SOUTHEAST",
+                                        "date": "20200410"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110982558",
+                                        "kind": "A",
+                                        "name": "UNIV SOUTHEAST",
+                                        "date": "20200410"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN214745627U",
+                                        "name": "XIAN THERMAL POWER RES INST CO",
+                                        "date": "20211116"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "214745627",
+                                        "kind": "U",
+                                        "name": "XIAN THERMAL POWER RES INST CO",
+                                        "date": "20211116"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114506858",
+                                        "name": "QINGDAO BIOLOGICAL ENERGY AND PROCESS RES INSTITUTE OF CHINESE ACADEMY OF SCIENCES",
+                                        "date": "20220517"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114506858",
+                                        "kind": "A",
+                                        "name": "QINGDAO BIOLOGICAL ENERGY AND PROCESS RES INSTITUTE OF CHINESE ACADEMY OF SCIENCES",
+                                        "date": "20220517"
+                                    }
+                                ]
+                            },
+                            "category": "X"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a chemical-looping ammonia synthesis device and method coupled with a carbon dioxide hydrogenation process, and belongs to the technical field of ammonia synthesis. According to the method, rich nitrogen and hydrogen species can be formed on the surface and the subsurface of a synthetic ammonia reactor 2 by the catalyst, ammonia gas is produced at the same time, the process is a thermodynamic process, and only low-concentration ammonia gas can be produced. After entering the carbon dioxide reactor 1, the catalyst carrying nitrogen and hydrogen species can be partially oxidized, the nitrogen and hydrogen species on the surface can be removed, and ammonia gas and carbon dioxide hydrogenation products are produced. The concentration of the produced ammonia gas is not limited by thermodynamic equilibrium of synthesis ammonia, high-concentration ammonia gas can be produced under normal pressure, and the high cost caused by high-pressure operation in the synthesis ammonia industry is greatly reduced. In addition, the catalyst can hydrogenate carbon dioxide into various carbon-based energy carriers at the same time, and carbon emission in the synthesis ammonia industry is reduced."
+                },
+                {
+                    "p": "本发明提供了一种耦合二氧化碳加氢过程的化学链合成氨装置和方法，属于合成氨技术领域。在本发明中，所述催化剂在合成氨反应器2中表面和亚表面会形成丰富的氮氢物种，同时产出氨气，该过程是热力学过程，只能产出低浓度氨气。携带氮氢物种的催化剂进入二氧化碳反应器1中后，将会被部分氧化并脱除表面氮氢物种产出氨气与二氧化碳加氢产物。此时产出氨气的浓度不受合成氨热力学平衡限制，可以在常压下产出高浓度氨气，大大降低合成氨工业因高压操作带来的高成本。此外，催化剂可以同时将二氧化碳加氢为多种碳基能源载体，减少合成氨工业的碳排放。"
+                }
+            ]
+        }
+    }
+}

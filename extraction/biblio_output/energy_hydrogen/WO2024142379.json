@@ -1,0 +1,230 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "WO",
+                            "doc-number": "2024142379",
+                            "kind": "A1",
+                            "date": "20240704"
+                        },
+                        {
+                            "doc-number": "WO2024142379",
+                            "date": "20240704"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "38",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "JP",
+                            "doc-number": "2022048598",
+                            "kind": "W"
+                        },
+                        {
+                            "doc-number": "WO2022JP48598",
+                            "date": "20221228"
+                        },
+                        {
+                            "doc-number": "JP2022/048598"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "WO2022JP48598",
+                            "date": "20221228"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HITACHI LTD [JP]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "株式会社日立製作所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "FURUTA FUTOSHI [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " OZEKI MASATAKA [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WATANABE KEIJI [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "古田　太, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "尾関　正高, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "渡邉　敬司"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "SYSTÈME DE COMMANDE DE PUISSANCE ET SYSTÈME DE PRODUCTION D'HYDROGÈNE",
+                    "POWER CONTROL SYSTEM AND HYDROGEN PRODUCTION SYSTEM",
+                    "電力制御システムおよび水素製造システム"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "EP2963761",
+                                        "name": "HALDOR TOPSOE AS                                                                                    [DK]",
+                                        "date": "20160106"
+                                    },
+                                    {
+                                        "country": "EP",
+                                        "doc-number": "2963761",
+                                        "kind": "A1",
+                                        "name": "HALDOR TOPSOE AS                                                                                    [DK]",
+                                        "date": "20160106"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2019246433",
+                                        "name": "AQUAHYDREX INC [US]",
+                                        "date": "20191226"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2019246433",
+                                        "kind": "A1",
+                                        "name": "AQUAHYDREX INC [US]",
+                                        "date": "20191226"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2021161540",
+                                        "name": "SIEMENS GAMESA RENEWABLE ENERGY AS",
+                                        "date": "20211011"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2021161540",
+                                        "kind": "A",
+                                        "name": "SIEMENS GAMESA RENEWABLE ENERGY AS",
+                                        "date": "20211011"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "In an electrolyzer system such as a hydrogen production system 1, the conversion efficiency of a power source is reduced and the flexibility of controlling the individual electrolyzers is reduced. The hydrogen production system 1 comprises: a plurality of electrolytic pairs A100A and B100B connected in series with each other, the electrolytic pairs consisting of electrolytic cells 13A and 13B and AC/DC converters 11A and 11B that supply power to the electrolytic cells; a dummy pair 10 that is connected in series with the electrolytic pairs A100A and B100B and consists of a capacitor 12 that can input energy and an AC/DC converter 11 connected to the capacitor 12; and an arithmetic device 14 having an input unit 141 that receives input information including current command values to the electrolytic cells 13A and 13B and electrolytic cell voltages of the plurality of electrolytic cells, a voltage command value calculation unit 142 that uses the input information to calculate a voltage command value that is a voltage correction value for the AC/DC converter 11, and an output unit 143 that outputs the voltage command value to the AC/DC converter 11."
+                },
+                {
+                    "p": "Dans un système d'électrolyseur tel qu'un système de production d'hydrogène 1, l'efficacité de conversion d'une source d'alimentation est réduite et la flexibilité de commande des électrolyseurs individuels est réduite. Le système de production d'hydrogène 1 comprend : une pluralité de paires électrolytiques A100A et B100B connectées en série les unes aux autres, les paires électrolytiques consistant en des cellules électrolytiques 13A et 13B et des convertisseurs CA/CC 11A et 11B qui fournissent de l'énergie aux cellules électrolytiques ; une paire factice 10 qui est connectée en série avec les paires électrolytiques A100A et B100B et est constituée d'un condensateur 12 qui peut entrer de l'énergie et d'un convertisseur CA/CC 11 connecté au condensateur 12 ; et un dispositif arithmétique 14 comprenant une unité d'entrée 141 qui reçoit des informations d'entrée comprenant des valeurs de commande de courant vers les cellules électrolytiques 13A et 13B et des tensions de cellule électrolytique de la pluralité de cellules électrolytiques, une unité de calcul de valeur de commande de tension 142 qui utilise les informations d'entrée pour calculer une valeur de commande de tension qui est une valeur de correction de tension pour le convertisseur CA/CC 11, et une unité de sortie 143 qui délivre la valeur de commande de tension au convertisseur CA/CC 11."
+                },
+                {
+                    "p": "水素製造システム１といった電解槽システムにおいて、電源の変換効率が悪くなり、個別の電解槽の制御の柔軟性が削減される。電解槽１３Ａ、１３Ｂおよび当該電解槽に電力を供給するＡＣ／ＤＣコンバータ１１Ａ、１１Ｂで構成される電解対であって、互いに直列接続される複数の電解対Ａ１００Ａ、Ｂ１００Ｂと、電解対Ａ１００Ａ、Ｂ１００Ｂと直列接続され、エネルギを投入可能なキャパシタ１２および当該キャパシタ１２と接続するＡＣ／ＤＣコンバータ１１で構成されるダミー対１０と、電解槽１３Ａ、１３Ｂへの電流指令値および複数の電解槽の電解槽電圧を含む入力情報を受け付ける入力部１４１と、入力情報を用いて、ＡＣ／ＤＣコンバータ１１に対する電圧の補正値である電圧指令値を算出する電圧指令値算出部１４２と、電圧指令値を、ＡＣ／ＤＣコンバータ１１に出力する出力部１４３を有する演算装置１４を有する水素製造システム１。"
+                }
+            ]
+        }
+    }
+}

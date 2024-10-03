@@ -1,0 +1,173 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118333292",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118333292",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "F28D  20/    00            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0283            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   1/    10            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    14            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    35            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410228807",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410228807",
+                            "date": "20240229"
+                        },
+                        {
+                            "doc-number": "202410228807.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410228807",
+                            "date": "20240229"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANDONG INSPUR SMART ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "山东浪潮智慧能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG BIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO YINGCHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG GUOZHUANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO XIAOLEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO CHANGWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG MINGXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王彪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵颖超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王国壮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭晓磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵长伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张明鑫"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Comprehensive energy system and operation optimization method thereof",
+                    "一种综合能源系统及其运行优化方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a comprehensive energy system and an operation optimization method thereof, and relates to the technical field of comprehensive energy, and the comprehensive energy system comprises a photovoltaic generating set, a wind generating set, a hydroelectric generating set, a solar thermal collector, an electricity storage device, a heat storage device, a cold storage device, a gas turbine, a waste heat boiler, an absorption refrigerator, an electrolytic bath, a hydrogen storage tank and a multi-stage fuel cell. According to the comprehensive energy system and the operation optimization method thereof, redundant electric energy in the photovoltaic generating set, the wind generating set and the hydroelectric generating set can be converted into direct current to enter the electrolytic bath, electrolyzed water in the electrolytic bath is promoted to react and decompose to generate hydrogen, and the generated hydrogen can be conveyed into the hydrogen storage tank to be stored as standby energy; and meanwhile, a method of establishing a plurality of models and comparing the models with a control group is adopted, so that the working state of the equipment components in the comprehensive energy system can be monitored in time."
+                },
+                {
+                    "p": "本发明公开了一种综合能源系统及其运行优化方法，涉及综合能源技术领域，包括光伏发电机组、风力发电机组、水力发电机组、太阳能集热器、储电设备、储热设备、储冷设备、燃气轮机、余热锅炉、吸收式制冷机、电解槽、储氢罐和多级燃料电池。该综合能源系统及其运行优化方法，光伏发电机组、风力发电机组和水力发电机组内多余的电能会转化为直流电进入电解槽内部，促进电解槽内部的电解水进行反应分解生成氢气，生成的氢气会被运送至储氢罐内进行存储作为备用能源，实现对能源的充分利用，同时采用建立多个模型和对照组进行比对的方法，可以及时对综合能源系统内的设备组件工作状态进行监测。"
+                }
+            ]
+        }
+    }
+}

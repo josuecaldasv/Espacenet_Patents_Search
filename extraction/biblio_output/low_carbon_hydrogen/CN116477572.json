@@ -1,0 +1,528 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116477572",
+                            "kind": "A",
+                            "date": "20230725"
+                        },
+                        {
+                            "doc-number": "CN116477572",
+                            "date": "20230725"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    12            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    34            A I                    "
+                        },
+                        {
+                            "text": "C10B  53/    00            A I                    "
+                        },
+                        {
+                            "text": "C10B  57/    00            A I                    "
+                        },
+                        {
+                            "text": "C10J   3/    64            A I                    "
+                        },
+                        {
+                            "text": "C10J   3/    84            A I                    "
+                        },
+                        {
+                            "text": "C10K   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C10K   1/    08            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    08            A I                    "
+                        },
+                        {
+                            "text": "F22B   1/    18            A I                    "
+                        },
+                        {
+                            "text": "F27D  17/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "34",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "B",
+                            "main-group": "53",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "B",
+                            "main-group": "57",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "B",
+                            "main-group": "57",
+                            "subgroup": "005",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "64",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "84",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "046",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "65",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "081",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "22",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "1892",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "27",
+                            "subclass": "D",
+                            "main-group": "17",
+                            "subgroup": "004",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "06",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "1241",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "093",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "0946",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "0959",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "27",
+                            "subclass": "D",
+                            "main-group": "2017",
+                            "subgroup": "006",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310323134",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310323134",
+                            "date": "20230330"
+                        },
+                        {
+                            "doc-number": "202310323134.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310323134",
+                            "date": "20230330"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHAANXI BLOWER GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "陕西鼓风机（集团）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TIAN ZHONGFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG CHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIE YONGKANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO WANHU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU WEIMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG BIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU BIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SONG GENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YUAN HAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG XIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU CHENGJUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MIAO YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "田中锋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张晨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谢永康, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵万虎, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘伟明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王斌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘斌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋庚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "袁浩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王鑫, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘成娟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苗雨"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "System for preparing synthesis gas based on coal chemical coupling coking and renewable energy sources",
+                    "一种基于煤化工耦合焦化、可再生能源制备合成气的系统"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105883851",
+                                        "name": "HENAN ZHONGHONG GROUP COAL CO LTD",
+                                        "date": "20160824"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105883851",
+                                        "kind": "A",
+                                        "name": "HENAN ZHONGHONG GROUP COAL CO LTD",
+                                        "date": "20160824"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 权利要求1 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN106244180",
+                                        "name": "CITIC HEAVY IND CO LTD",
+                                        "date": "20161221"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "106244180",
+                                        "kind": "A",
+                                        "name": "CITIC HEAVY IND CO LTD",
+                                        "date": "20161221"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 权利要求1 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114752413",
+                                        "name": "CN SHENHUA COAL LIQUID & CHEM, et al",
+                                        "date": "20220715"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114752413",
+                                        "kind": "A",
+                                        "name": "CN SHENHUA COAL LIQUID & CHEM, et al",
+                                        "date": "20220715"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 权利要求1 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a system for preparing synthesis gas based on coal chemical coupling coking and renewable energy sources, the system comprises a coal coking system, a water electrolysis hydrogen production system and a gasification device, the coal coking system comprises a coke oven, a purification and separation device and a synthesis gas compression device, a carbonization chamber of the coke oven is connected with a first gas inlet of the purification and separation device through a pipeline, and a second gas inlet of the purification and separation device is connected with a second gas inlet of the gasification device; a first gas outlet of the purification separation device is connected with a combustion chamber of the coke oven, a second gas outlet of the purification separation device is connected with the synthesis gas compression device, the water electrolysis hydrogen production system comprises a water electrolysis hydrogen production device, the water electrolysis hydrogen production device is provided with an oxygen exhaust port and a hydrogen exhaust port, the oxygen exhaust port is connected with a gas inlet of the combustion chamber, and the hydrogen exhaust port is connected with a gas outlet of the combustion chamber. The hydrogen exhaust port is connected with the synthesis gas compression device, and the exhaust port of the gasification device is connected with the second gas inlet of the purification and separation device. The defects of fluctuation adjustment of external carbon supplementation and green hydrogen large-scale utilization, low-efficiency utilization of hydrogen-rich gas and high CO2 capture cost in the prior art can be overcome."
+                },
+                {
+                    "p": "本发明提供一种基于煤化工耦合焦化、可再生能源制备合成气的系统，包括煤焦化系统、电解水制氢系统及气化装置，所述煤焦化系统包括焦炉、净化分离装置及合成气压缩装置，焦炉的炭化室通过管路连接净化分离装置的第一进气口，净化分离装置的第一出气口连接焦炉的燃烧室，净化分离装置的第二出气口连接所述合成气压缩装置，电解水制氢系统包括电解水制氢装置，电解水制氢装置具有氧气排气口和氢气排气口，氧气排气口连接所述燃烧室的进气口，氢气排气口连接所述合成气压缩装置，气化装置的排气口连接净化分离装置的第二进气口。能够克服现有技术中外部补碳、绿氢规模化利用的波动调节、富氢气体低效利用和CO2捕集成本高的缺陷。"
+                }
+            ]
+        }
+    }
+}

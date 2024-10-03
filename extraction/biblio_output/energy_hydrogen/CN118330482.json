@@ -1,0 +1,142 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118330482",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118330482",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G01M  15/    00            A I                    "
+                        },
+                        {
+                            "text": "G01R  21/    00            A I                    "
+                        },
+                        {
+                            "text": "G01R  31/   367            A I                    "
+                        },
+                        {
+                            "text": "G01R  31/   385            A I                    "
+                        },
+                        {
+                            "text": "G01R  31/   387            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410440059",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410440059",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "202410440059.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410440059",
+                            "date": "20240412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING SINOHYTEC CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京亿华通科技股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI YUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TENG CHAOJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FANG CHUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李源, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "滕朝军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "方川"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fuel cell engine feed balance test method and system",
+                    "一种燃料电池发动机馈电平衡测试方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a fuel cell engine feed balance test method and system, and the method comprises the steps: carrying out the initialization of a total feed amount, transmitting operation information to a centralized monitoring module through a pure resistance consumption module, and calculating a maximum feed capability value through a first calculation model; the centralized monitoring module compares the total feed capacity with the maximum feed capacity value, and the pure resistance consumption module calculates the current feed power through a second calculation model, and adjusts the power consumption of the test board, so that the operation state of the test board is balanced; and the centralized monitoring module sets a load rate threshold value, calculates a real-time power utilization load rate through a third calculation model, compares the real-time power utilization load rate with the load rate threshold value, and controls the total feed quantity to be increased step by step if the real-time power utilization load rate accords with the load rate threshold value. The method solves the problem that the hydrogen fuel engine test system uses feedback type load to produce grid-connected electric energy which is not matched with the power distribution load absorption capacity of a factory area, further reduces the probability of islanding effect, and reduces the electric energy disposal cost of the hydrogen fuel cell engine test system."
+                },
+                {
+                    "p": "本发明公开了一种燃料电池发动机馈电平衡测试方法及系统，包括：对总馈电量进行初始化，通过纯阻消纳模块将运行信息发送至集中监控模块，通过第一计算模型计算最大馈电能力值；集中监控模块将总馈电量与最大馈电能力值比较，纯阻消纳模块通过第二计算模型计算当前馈电功率，并调节测试台的耗电功率，使测试台运行状态均衡；集中监控模块设定负荷率阈值，通过第三计算模型计算实时用电负荷率，与负荷率阈值比较，若符合，则控制总馈电量步进增加。该方法解决氢燃料发动机测试系统使用回馈式负载生产并网的电能与厂区配电负荷消纳能力不匹配的情况，进一步减小了孤岛效应发生的概率，使氢燃料电池发动机测试系统的电能处置成本降低。"
+                }
+            ]
+        }
+    }
+}

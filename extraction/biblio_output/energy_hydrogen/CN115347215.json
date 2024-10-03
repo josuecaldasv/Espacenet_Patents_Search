@@ -1,0 +1,208 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "115347215",
+                            "kind": "A",
+                            "date": "20221115"
+                        },
+                        {
+                            "doc-number": "CN115347215",
+                            "date": "20221115"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B  15/   021            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04007            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04089            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/    12            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "021",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04052",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04059",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04097",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202210947103",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202210947103",
+                            "date": "20220809"
+                        },
+                        {
+                            "doc-number": "202210947103.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202210947103",
+                            "date": "20220809"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV HUAZHONG SCIENCE TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华中科技大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI XI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU GUOQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PENG JINGXUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ZEXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李曦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘国强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "彭靖轩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵魏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李泽新"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Reversible solid oxide battery thermal management method and system",
+                    "一种可逆固体氧化物电池热管理方法和系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a reversible solid oxide battery thermal management method and system, and belongs to the field of energy (hydrogen energy) conversion and storage in renewable energy sources. Considering that the gas flow of a fuel electrode loop is consistent, fuel side tail gas is secondarily introduced into the evaporator, and internal waste heat is used as an ideal heat source to vaporize liquid water, so that the evaporator is replaced by a water-gas heat exchanger, and thermal stress caused by relatively low-temperature waste gas flowing out of the evaporator to a condenser is small; in the air loop, heat of secondary high-temperature air is recovered through a heat recovery unit, the heat recovery unit can be a heat-electricity or heat-heat conversion device, and in order to avoid the influence of continuous high temperature on the heat recovery unit, a phase change material based on latent heat energy storage is further adopted for storing heat. Experiments prove that high system efficiency is achieved on the premise that thermal safety is effectively guaranteed."
+                },
+                {
+                    "p": "本发明公开了一种可逆固体氧化物电池热管理方法和系统，属于可再生能源中的能源(氢能)转换与存储领域。考虑到燃料电极回路的气体流量具有一致性，本发明将燃料侧尾气二次通入进蒸发器，利用内部废热作为理想的热源汽化液态水，从而将蒸发器替代为一个水‑气换热器，蒸发器流出相对低温的废气对冷凝器造成的热应力较小；在空气回路中，将次高温的空气由一个热回收单元回收热量，该热回收单元可以是热‑电或热‑热转换装置，为避免持续的高温对热回收单元的影响，本发明进一步采用基于潜热储能的相变材料存储热量。实验证明，本发明有效保障热安全的前提，实现了很高的系统效率。"
+                }
+            ]
+        }
+    }
+}

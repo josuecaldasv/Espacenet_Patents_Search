@@ -1,0 +1,204 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117646251",
+                            "kind": "A",
+                            "date": "20240305"
+                        },
+                        {
+                            "doc-number": "CN117646251",
+                            "date": "20240305"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    50            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    70            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "50",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "65",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "70",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311387207",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311387207",
+                            "date": "20231024"
+                        },
+                        {
+                            "doc-number": "202311387207.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311387207",
+                            "date": "20231024"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "XIAN LONGI HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西安隆基氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "REN JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG ZEWU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YA'NAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MA JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任俊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄泽武, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张亚楠, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马军"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Renewable energy hydrogen production control method and device, electronic equipment and storage medium",
+                    "可再生能源制氢控制方法、装置、电子设备及存储介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The embodiment of the invention provides a renewable energy hydrogen production control method and device, electronic equipment and a storage medium. The renewable energy hydrogen production control method comprises the following steps: acquiring the power generation power of a renewable energy power generation system, the working efficiency of an energy storage system and the optimal operation power of each started electrolytic cell in a water electrolysis hydrogen production system; and determining the actual operation power of each started electrolytic cell based on the generated power, the working efficiency and the optimal operation power. In the embodiment of the invention, the actual operation power of each started electrolytic cell is determined by comprehensively considering the generation power of the renewable energy power generation system, the working efficiency of the energy storage system and the optimal operation power of each started electrolytic cell in the water electrolysis hydrogen production system, so that the overall characteristics of the renewable energy hydrogen production system can be combined; renewable energy hydrogen production control is carried out from the angle of maximization of the energy utilization rate of the whole renewable energy hydrogen production system, and the accuracy and rationality of renewable energy hydrogen production control are improved."
+                },
+                {
+                    "p": "本申请实施例提供了一种可再生能源制氢控制方法、装置、电子设备及存储介质。可再生能源制氢控制方法包括：获取可再生能源发电系统的发电功率、储能系统的工作效率、以及电解水制氢系统中各已开启电解槽的最佳运行功率；基于发电功率、工作效率以及最佳运行功率，确定各已开启电解槽的实际运行功率。本申请实施例中，通过综合考虑可再生能源发电系统的发电功率、储能系统的工作效率、以及电解水制氢系统中各已开启电解槽的最佳运行功率，确定出各所述已开启电解槽的实际运行功率，从而能够结合可再生能源制氢系统的整体特性，从整体可再生能源制氢系统能量利用率最大化的角度进行可再生能源制氢控制，提升可再生能源制氢控制的准确性、合理性。"
+                }
+            ]
+        }
+    }
+}

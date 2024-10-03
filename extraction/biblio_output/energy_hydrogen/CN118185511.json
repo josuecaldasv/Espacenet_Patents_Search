@@ -1,0 +1,234 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118185511",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118185511",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C09J  11/    06            A I                    "
+                        },
+                        {
+                            "text": "C09J 105/    00            A I                    "
+                        },
+                        {
+                            "text": "H01M   4/    62            A I                    "
+                        },
+                        {
+                            "text": "H01M  10/   052            A I                    "
+                        },
+                        {
+                            "text": "H01M  10/  0525            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "J",
+                            "main-group": "11",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "J",
+                            "main-group": "105",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "622",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "10",
+                            "subgroup": "052",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "10",
+                            "subgroup": "0525",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C09J105/00",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08K5/5399",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410216464",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410216464",
+                            "date": "20240227"
+                        },
+                        {
+                            "doc-number": "202410216464.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410216464",
+                            "date": "20240227"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUNAN XINGFUSHIDAI NEW ENERGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "湖南幸福时代新能源有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HU LIYING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO YUNTAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU DIHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZENG XIAWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI DAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡利英, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭云涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘迪华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曾夏伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李丹"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Binder for lithium ion battery and preparation method of binder",
+                    "一种锂离子电池用粘结剂及其制备方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a binder for a lithium ion battery and a preparation method of the binder, and belongs to the technical field of battery binders.The preparation method comprises the steps that a hexa (4-phosphonic acid-phenoxy) cyclotriphosphazene precursor product is prepared and then reacts with galactomannan in an in-situ crosslinking mode to prepare freeze-dried glue powder, and the freeze-dried glue powder is added to the lithium ion battery to prepare the binder for the lithium ion battery. The preparation method comprises the following steps: carrying out sensitization treatment by using an acidic stannous chloride solution to obtain pretreated rubber powder with a divalent stannous compound, and mixing the pretreated rubber powder with a nanogold solution to reduce nanogold particles so as to obtain the binder for the lithium ion battery; through the synergistic effect of covalent bonds and hydrogen bonds, compared with a common binder, the binding agent has stronger binding power and interface bonding effect, is beneficial to improving the mechanical property of an electrode plate and adapting to volume expansion of an electrode material, and is beneficial to improving the long-cycle stability of an electrode; the triangular hole topological structure can provide an efficient conductive channel and improve the conductivity of the binder; and the nano gold particles are beneficial to reducing impedance between the current collector and the electrode material, so that the conductivity of the binder is further improved."
+                },
+                {
+                    "p": "本发明公开了一种锂离子电池用粘结剂及其制备方法，属于电池粘结剂技术领域，首先制备出六(4‑膦酸‑苯氧基)环三磷腈前体产物，再以原位交联的方式和半乳甘露聚糖反应制备出冻干胶粉，通过酸性氯化亚锡溶液敏化处理得到带有二价亚锡化合物的预处理胶粉，混入纳米金溶液还原出纳米金颗粒，得到锂离子电池用粘结剂；通过共价键和氢键协同作用，相较于普通的粘结剂具有更强的粘结力和界面键合作用，有助于提高电极片的机械性能和适应电极材料的体积膨胀，有利于提高电极的长循环稳定性；其三角孔拓扑结构可以提供高效的导电通道，改善粘结剂的导电性；纳米金颗粒有助于降低集流体与电极材料间的阻抗，进一步提高粘结剂的导电性能。"
+                }
+            ]
+        }
+    }
+}

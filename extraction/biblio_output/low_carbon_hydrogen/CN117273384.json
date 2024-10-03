@@ -1,0 +1,228 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117273384",
+                            "kind": "A",
+                            "date": "20231222"
+                        },
+                        {
+                            "doc-number": "CN117273384",
+                            "date": "20231222"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0201            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    26            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06315",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0206",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311427182",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311427182",
+                            "date": "20231031"
+                        },
+                        {
+                            "doc-number": "202311427182.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311427182",
+                            "date": "20231031"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV HOHAI"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "河海大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HUA HAOCHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU HAOXING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN XINGYING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU KUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAN LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHEN JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING YI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MEI FEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG BO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "华昊辰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴浩星, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈星莺, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "余昆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "甘磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "沈俊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁一, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "梅飞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王博"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Comprehensive energy system double-layer collaborative optimization method considering hydrogen energy gradient utilization",
+                    "一种计及氢能梯级利用的综合能源系统双层协同优化方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a comprehensive energy system double-layer collaborative optimization method considering hydrogen energy gradient utilization. The method comprises the following steps: modeling a combined cooling heating and power system containing hydrogen energy gradient utilization; establishing a user PMV index model; establishing a user utility function model; establishing a user income model by taking the user satisfaction and the energy consumption economy as targets; establishing a comprehensive energy operator revenue function; establishing a master-slave game double-layer model by taking an integrated energy operator as an upper-layer leader and a user as a lower-layer follower; and a CPLEX solver is nested in the adaptive differential evolution algorithm to solve the optimal energy management method. The hydrogen-oxygen fuel cell equipment is introduced into the P2G technology, the P2G process is subjected to refined analysis, stepped utilization of hydrogen energy can be achieved, the problem that the hydrogen energy utilization rate is low due to the fact that conversion of other energy sources such as hydrogen energy and electric energy is not considered in the current P2G technology is solved, a hydrogen energy stepped utilization optimization strategy considering system carbon circulation is provided, and the method is suitable for large-scale popularization and application. And bidirectional coupling conversion of electric energy and hydrogen energy is realized."
+                },
+                {
+                    "p": "本发明公开了一种计及氢能梯级利用的综合能源系统双层协同优化方法，步骤如下：含氢能梯级利用的冷热电联产系统建模；建立用户PMV指标模型；建立用户效用函数模型；以用户满意度和用能经济性为目标，建立用户收益模型；建立综合能源运营商收益函数；以综合能源运营商为上层领导者，用户为下层跟随者，建立主从博弈双层模型；采用自适应差分进化算法嵌套CPLEX求解器求解最优能量管理方法。本发明通过在P2G技术中引入氢氧燃料电池设备，将P2G过程细化分析，能够实现氢能的阶梯利用，解决当前P2G技术中未考虑氢能与电能等其他能源转化引发氢能利用率低的问题，提出了考虑系统碳循环的氢能梯级利用优化策略，实现了电能与氢能双向耦合转化。"
+                }
+            ]
+        }
+    }
+}

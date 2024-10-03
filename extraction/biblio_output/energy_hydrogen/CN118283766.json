@@ -1,0 +1,192 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118283766",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118283766",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H04W   4/    80            A I                    "
+                        },
+                        {
+                            "text": "H04W  52/    18            A I                    "
+                        },
+                        {
+                            "text": "H04W  72/   566            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410367710",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410367710",
+                            "date": "20240328"
+                        },
+                        {
+                            "doc-number": "202410367710.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410367710",
+                            "date": "20240328"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "THREE GORGES TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "三峡科技有限责任公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG BAOPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG BING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU HUAJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QI ZHIXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU DI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU ZHE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN MINGXUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI DONGFANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG WENYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU ZHANGTAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张宝平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "江冰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周华杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "齐志新, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴迪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘哲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈明轩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李冬芳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王文雍, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郁章涛"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "New energy hydrogen production mobile operation and maintenance equipment communication channel transmission method and system",
+                    "一种新能源制氢移动运维设备通信信道传输方法和系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a communication channel transmission method and system for new energy hydrogen production mobile operation and maintenance equipment, and the method comprises the steps: firstly managing and controlling each wireless communication module of the new energy hydrogen production mobile operation and maintenance equipment based on a safety rule, and enabling the maximum channel power of each wireless communication module in a management and control state not to exceed the corresponding safety power; all the communication channels capable of communicating at present are obtained through the wireless communication modules, and a connection network composed of all the communication channels capable of communicating at present is established. And when operation and maintenance personnel need to send information through the connection network in the step 2, the data volume and the information emergency degree of the information are confirmed, the channel occupancy rate, the channel bandwidth and the channel power upper limit of all the communication channels capable of communicating are obtained at the same time, and corresponding wireless communication module control and communication channel selection are carried out according to the emergency degree of the sent information. According to the invention, the operation and maintenance personnel can still maintain a good communication capability with the remote monitoring system after entering the wind power plant."
+                },
+                {
+                    "p": "本发明提供了一种新能源制氢移动运维设备通信信道传输方法和系统，其中方法包括：首先基于安全规则管控新能源制氢移动运维设备的各无线通讯模块，使各无线通讯模块在管控状态下的最大信道功率不超过其对应的安全功率。然后通过各无线通讯模块获取当前全部可通讯的通信信道，并建立由当前全部可通讯的通信信道组成的连接网络。当运维人员需要通过步骤2的连接网络发送信息时：确认信息的数据量和信息紧急程度，同时获取全部可通讯的通信信道的信道占用率、信道带宽和信道功率上限，并根据发送信息的紧急程度进行相应的无线通讯模块控制和通信信道选择。本发明可以使得运维人员进入风电场后仍然可与远程监控系统保持较好程度的通讯能力。"
+                }
+            ]
+        }
+    }
+}

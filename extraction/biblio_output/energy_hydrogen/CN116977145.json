@@ -1,0 +1,195 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116977145",
+                            "kind": "A",
+                            "date": "20231031"
+                        },
+                        {
+                            "doc-number": "CN116977145",
+                            "date": "20231031"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  30/    20            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    26            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "30",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310997736",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310997736",
+                            "date": "20230809"
+                        },
+                        {
+                            "doc-number": "202310997736.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310997736",
+                            "date": "20230809"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NANJING INST TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "南京工程学院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG FANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QIAN JUNJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU DONGLI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO RUIYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI HAOQUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU BEISHUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHU LINGFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王芳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "钱俊杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐懂理, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高瑞阳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李昊泉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐北硕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "朱凌峰"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Comprehensive energy system low-carbon economic operation method considering whole-process carbon footprint, storage medium and equipment",
+                    "计及全过程碳足迹的综合能源系统低碳经济运行方法、存储介质及设备"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a comprehensive energy system low-carbon economic operation method considering whole-process carbon footprint, a storage medium and equipment, and the method comprises the steps: coupling four energy sources, namely electric energy, hydrogen energy, heat energy and natural gas, and building a comprehensive energy system; kalina cycle and an electric boiler are introduced on the basis of a traditional combined heat and power generation unit, and an electricity and heat output model of the combined heat and power generation unit is established; establishing a stepped carbon transaction cost model through the ectogenic carbon footprint and the endogenic carbon footprint; the method comprises the following steps: establishing a low-carbon economic operation model of the integrated energy system by taking the minimum total operation cost of the integrated energy system as a target and taking equipment operation and power balance as constraint conditions, establishing an optimization model on a Yalmip platform in an MATLAB environment, and calling an IPOPT solver through a Yalmip toolbox for solving to obtain the output power of each equipment in the integrated energy system. According to the invention, the energy utilization efficiency and the energy utilization flexibility can be improved, the carbon emission is reduced, and the realization of a dual-carbon target is facilitated."
+                },
+                {
+                    "p": "本发明公开了一种计及全过程碳足迹的综合能源系统低碳经济运行方法、存储介质及设备，包括：将电能、氢能、热能与天然气四种能源耦合，建立综合能源系统；在传统热电联产机组的基础上引入卡琳娜循环和电锅炉，建立了热电联产机组电、热输出模型；通过外生碳足迹、内生碳足迹建立阶梯式碳交易成本模型；建立以综合能源系统运行总成本最小为目标、以设备运行、功率平衡为约束条件的综合能源系统低碳经济运行模型，在MATLAB环境下在Yalmip平台建立优化模型，并通过Yalmip工具箱调用IPOPT求解器进行求解，得到综合能源系统中各设备的输出功率。本发明能够提高能源利用效率和用能灵活性且减少碳排放量，有助于“双碳”目标的实现。"
+                }
+            ]
+        }
+    }
+}

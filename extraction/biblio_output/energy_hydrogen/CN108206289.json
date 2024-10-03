@@ -1,0 +1,234 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "108206289",
+                            "kind": "A",
+                            "date": "20180626"
+                        },
+                        {
+                            "doc-number": "CN108206289",
+                            "date": "20180626"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04007            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04082            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04089            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0612            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0662            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  1007            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04007",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04067",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04089",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04201",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0618",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0662",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201611179408",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201611179408",
+                            "date": "20161219"
+                        },
+                        {
+                            "doc-number": "201611179408.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201611179408",
+                            "date": "20161219"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA HYDROGEN NEW ENERGY TECH COMPANY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中氢新能技术有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHOU MINGQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周明强"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fuel cell prepared based on methanol and water renormalization",
+                    "种基于甲醇和水重整制备燃料电池"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104779410",
+                                        "name": "SHENZHEN EXTENDER NEW ENERGY CO LTD",
+                                        "date": "20150715"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104779410",
+                                        "kind": "A",
+                                        "name": "SHENZHEN EXTENDER NEW ENERGY CO LTD",
+                                        "date": "20150715"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第3-17段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105655612",
+                                        "name": "DALIAN INST CHEMICAL PHYSICS CAS",
+                                        "date": "20160608"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105655612",
+                                        "kind": "A",
+                                        "name": "DALIAN INST CHEMICAL PHYSICS CAS",
+                                        "date": "20160608"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第49-82段 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a fuel cell prepared based on methanol and water renormalization. The fuel cell comprises an evaporation chamber; an evaporator is arranged in the evaporating chamber; the evaporating chamber is connected with a renormalization chamber; the renormalization chamber is connected with a high temperature fuel cell stack through a micro channel; an anode and a cathode are arranged in the high temperature fuel cell stack; a proton membrane is arranged between the anode and the cathode; and the anode is provided with a catalyst. The advantages are that: hydrogen energy carriedby methanol is converted into electric energy, hydrogen energy carried by water is converted into electric energy, extraction and utilization of energy in water is realized, waste of heat utility isavoided; cycle utilization can be realized; and hydrogen production efficiency and methanol conversion rate are increased."
+                },
+                {
+                    "p": "本发明公开了种基于甲醇和水重整制备燃料电池，包含蒸发室，所述蒸发室内设有蒸发器，所述蒸发室与重整室相连，所述重整室通过微通道与高温燃料电池电堆相连，所述高温燃料电池电堆设有阳极和阴极，所述的阳极和阴极之间设有质子膜，所述阳极处设有催化剂；本发明的优点在于：不但将甲醇中携带的氢能量转换为电能，同时将水中含有的氢能转化为电能，实现水中能量的提取与利用；热量效用无浪费，能够进行循环利用，提高了制氢效率和甲醇转化率。\n"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118352571",
+                            "kind": "A",
+                            "date": "20240716"
+                        },
+                        {
+                            "doc-number": "CN118352571",
+                            "date": "20240716"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04223            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04225            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410530849",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410530849",
+                            "date": "20240429"
+                        },
+                        {
+                            "doc-number": "202410530849.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410530849",
+                            "date": "20240429"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ZHONGQI CHUANGZHI TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中汽创智科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XU SHANPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAO ANWEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YI SHENGUANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YANQING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI QINGBING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐善鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陶安文, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "易慎光, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘岩青, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李庆兵"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Activation method of proton exchange membrane fuel cell stack",
+                    "一种质子交换膜燃料电池堆的活化方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an activation method of a proton exchange membrane fuel cell stack. The activation method comprises the following steps: (1) introducing humidified air into the cathode, introducing humidified nitrogen into the anode, and wetting the electrode; after wetting is finished, nitrogen in the anode is switched into hydrogen, and air is kept to be introduced into the cathode; (2) first activation: sequentially carrying out first upload, second upload and first download on the current density; (3) second activation: reducing the flow value of cathode air to perform oxygen-deficient activation, and then restoring the flow value of the air in the cathode to perform activation; repeating the second activation; and (4) obtaining a voltage average value at a preset time, recording the voltage average value as U1, after the U1 is obtained, recording that the first round of activation process is finished, repeating the steps (2)-(3), carrying out the Xth round of activation process, and after the Ux value does not change any more, ending the activation. According to the invention, the problems of slow activation reaction, overlong activation time, incomplete catalytic activation performance and high activation energy consumption of the initial galvanic pile are effectively solved."
+                },
+                {
+                    "p": "本发明提供了一种质子交换膜燃料电池堆的活化方法。所述活化方法包括：(1)阴极通入加湿空气，阳极通入加湿氮气，进行电极润湿；润湿结束后，将阳极中的氮气切换为氢气，阴极中保持通入空气；(2)第一活化：将电流密度依次进行第一升载、第二升载和第一降载；(3)第二活化：降低阴极空气的流量值进行欠氧活化，然后恢复阴极中空气的流量值进行活化；重复进行第二活化；(4)得到预设时间下的电压平均值，记为U1，得到U1后，记为第一轮活化过程结束，重复进行步骤(2)‑(3)，进行第X轮的活化过程，Ux数值不再变化后，活化结束。本发明有效地解决了初始电堆活化反应缓慢、活化时间过长、催化活化性能不完全及活化耗能大的问题。"
+                }
+            ]
+        }
+    }
+}

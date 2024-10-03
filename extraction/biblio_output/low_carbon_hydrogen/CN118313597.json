@@ -1,0 +1,151 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118313597",
+                            "kind": "A",
+                            "date": "20240709"
+                        },
+                        {
+                            "doc-number": "CN118313597",
+                            "date": "20240709"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  30/    20            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/   067            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    26            A I                    "
+                        },
+                        {
+                            "text": "G06F 111/    04            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410409196",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410409196",
+                            "date": "20240407"
+                        },
+                        {
+                            "doc-number": "202410409196.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410409196",
+                            "date": "20240407"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NORTH CHINA ELECTRIC POWER UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华北电力大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LYU YOU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ZEYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DENG DAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHI YIJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG TENGHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吕游, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李泽洋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邓丹, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "时一钧, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王腾辉"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Low-carbon scheduling method and device for integrated energy system, medium and product",
+                    "一种综合能源系统的低碳调度方法、装置、介质及产品"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a low-carbon scheduling method and device for an integrated energy system, a medium and a product, and relates to the field of energy scheduling. The method comprises the following steps: establishing a comprehensive energy system model considering the photo-thermal coupling combined heat and power generation unit; wherein the comprehensive energy system model comprises a hydrogen energy system model, a combined heat and power generation unit model and a carbon capture equipment model; constructing a carbon emission model; wherein the carbon emission model comprises a carbon emission quota model and an actual carbon emission model; according to the carbon emission model and the comprehensive energy system model, taking power balance constraint, energy storage operation constraint and equipment operation constraint as constraint conditions, taking the minimum weighted average value of the carbon emission and the new energy abandoned energy rate as a target function, and calculating and considering the output power of the photo-thermal coupling cogeneration unit; the photo-thermal coupling combined heat and power generation unit comprises a wind power unit, a photovoltaic unit and a thermal power unit. According to the invention, the wind and light abandoning rate and the carbon emission can be reduced."
+                },
+                {
+                    "p": "本发明公开一种综合能源系统的低碳调度方法、装置、介质及产品，涉及能源调度领域。方法包括：建立考虑光热耦合热电联产机组的综合能源系统模型；其中，综合能源系统模型包括氢能系统模型、热电联产机组模型和碳捕集设备模型；构建碳排放模型；其中，碳排放模型包括碳排放配额模型和实际碳排放量模型；根据碳排放模型和综合能源系统模型，以功率平衡约束、储能运行约束及设备运行约束为约束条件，以碳排放量和新能源弃能率的加权平均值最小为目标函数，计算考虑光热耦合热电联产机组的输出功率；考虑光热耦合热电联产机组包括风电、光伏和火电机组。本发明能够降低弃风弃光率和碳排放量。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118281951",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118281951",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        },
+                        {
+                            "text": "H02J  13/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410267502",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410267502",
+                            "date": "20240308"
+                        },
+                        {
+                            "doc-number": "202410267502.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410267502",
+                            "date": "20240308"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "YANGTZE RIVER DELTA REGION INTEGRATED DEMONSTRATION ZONE SHANGHAI TONGYANG LOW CARBON TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "长三角一体化示范区（上海）同杨低碳科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "PAN ZHIHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG QIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN YUHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TANG XIAOQIONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "潘志灏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张秦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙宇昊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "唐晓琼"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Comprehensive energy management system based on intelligent power distribution cabinet",
+                    "一种基于智能配电柜的综合能源管理系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a comprehensive energy management system based on an intelligent power distribution cabinet, and relates to the technical field of energy management. The comprehensive energy management system based on the intelligent power distribution cabinet comprises a comprehensive energy data acquisition and storage subsystem, a comprehensive energy data analysis and calculation subsystem, a comprehensive energy transfer subsystem and a comprehensive energy storage subsystem, the comprehensive energy data acquisition and storage subsystem is used for acquiring and storing historical comprehensive energy data and real-time power consumption data of the intelligent power distribution cabinet, and the historical comprehensive energy data of the intelligent power distribution cabinet comprises historical electric energy data, historical light energy data, historical hydrogen energy data and historical heat energy data; according to the comprehensive energy data analysis and calculation subsystem, the difference value between the energy supply efficiency value and the energy consumption efficiency value is monitored in real time, intelligent regulation and control are conducted according to the set difference value range, the system can respond to energy fluctuation in time, the efficient and stable operation state is kept, and the real-time responsiveness of the system is improved."
+                },
+                {
+                    "p": "本发明公开了一种基于智能配电柜的综合能源管理系统，涉及能源管理技术领域。该基于智能配电柜的综合能源管理系统，包括：综合能源数据获取与存储子系统、综合能源数据分析与计算子系统、综合能源调动子系统、综合能源存储子系统；所述综合能源数据获取与存储子系统，用于获取智能配电柜的历史综合能源数据与实时耗电数据，并进行存储，所述智能配电柜的历史综合能源数据包括历史电能数据、历史光能数据、历史氢能数据、历史热能数据；所述综合能源数据分析与计算子系统，本发明通过实时监测供能效率值、耗能效率值之间的差值，并根据设定的差值范围进行智能调控，使系统能够及时响应能源波动，保持高效稳定的运行状态，提高系统的实时响应性。"
+                }
+            ]
+        }
+    }
+}

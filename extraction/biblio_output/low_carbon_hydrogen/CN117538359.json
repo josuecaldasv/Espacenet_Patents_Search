@@ -1,0 +1,391 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117538359",
+                            "kind": "A",
+                            "date": "20240209"
+                        },
+                        {
+                            "doc-number": "CN117538359",
+                            "date": "20240209"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G01N  23/  2206            A I                    "
+                        },
+                        {
+                            "text": "G01N  23/  2251            A I                    "
+                        },
+                        {
+                            "text": "G01N  27/    26            A I                    "
+                        },
+                        {
+                            "text": "G01N  27/    30            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "23",
+                            "subgroup": "2206",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "23",
+                            "subgroup": "2251",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "27",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "27",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311581556",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311581556",
+                            "date": "20231124"
+                        },
+                        {
+                            "doc-number": "202311581556.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311581556",
+                            "date": "20231124"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHENZHEN GENERAL HYDROGEN TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "深圳市通用氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XUE XIAOWU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG JINQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG LI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAO KEGUANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "薛晓武, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄金强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王丽, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "尧克光"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Rapid evaluation method for mechanical life of proton membrane",
+                    "一种质子膜机械寿命快速评价方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO9821773",
+                                        "name": "DAIS CORP [US]",
+                                        "date": "19980522"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "9821773",
+                                        "kind": "A1",
+                                        "name": "DAIS CORP [US]",
+                                        "date": "19980522"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2010143823",
+                                        "name": "TANAKA SHIRO [JP], et al",
+                                        "date": "20100610"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2010143823",
+                                        "kind": "A1",
+                                        "name": "TANAKA SHIRO [JP], et al",
+                                        "date": "20100610"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2012237848",
+                                        "name": "MITTELSTEADT CORTNEY K [US], et al",
+                                        "date": "20120920"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2012237848",
+                                        "kind": "A1",
+                                        "name": "MITTELSTEADT CORTNEY K [US], et al",
+                                        "date": "20120920"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "EP2871698",
+                                        "name": "EUROPEAN UNION REPRESENTED BY THE EUROPEAN COMMISS [BE]",
+                                        "date": "20150513"
+                                    },
+                                    {
+                                        "country": "EP",
+                                        "doc-number": "2871698",
+                                        "kind": "A1",
+                                        "name": "EUROPEAN UNION REPRESENTED BY THE EUROPEAN COMMISS [BE]",
+                                        "date": "20150513"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112611747",
+                                        "name": "SUNRISE POWER CO LTD",
+                                        "date": "20210406"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112611747",
+                                        "kind": "A",
+                                        "name": "SUNRISE POWER CO LTD",
+                                        "date": "20210406"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112763392",
+                                        "name": "SUNRISE POWER CO LTD",
+                                        "date": "20210507"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112763392",
+                                        "kind": "A",
+                                        "name": "SUNRISE POWER CO LTD",
+                                        "date": "20210507"
+                                    }
+                                ]
+                            },
+                            "category": "X"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2021367244",
+                                        "name": "WANG SULI [CN], et al",
+                                        "date": "20211125"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2021367244",
+                                        "kind": "A1",
+                                        "name": "WANG SULI [CN], et al",
+                                        "date": "20211125"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113991125",
+                                        "name": "FAW JIEFANG AUTOMOTIVE CO",
+                                        "date": "20220128"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113991125",
+                                        "kind": "A",
+                                        "name": "FAW JIEFANG AUTOMOTIVE CO",
+                                        "date": "20220128"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114324484",
+                                        "name": "BEIJING BILLION WHARTON SCIENCE AND TECH CO LTD",
+                                        "date": "20220412"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114324484",
+                                        "kind": "A",
+                                        "name": "BEIJING BILLION WHARTON SCIENCE AND TECH CO LTD",
+                                        "date": "20220412"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2022236911",
+                                        "name": "SINOHYKEY TECH GUANGZHOU CO LTD [CN]",
+                                        "date": "20221117"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2022236911",
+                                        "kind": "A1",
+                                        "name": "SINOHYKEY TECH GUANGZHOU CO LTD [CN]",
+                                        "date": "20221117"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115528282",
+                                        "name": "STATE POWER INVESTMENT GROUP HYDROGEN ENERGY TECH DEVELOPMENT CO LTD",
+                                        "date": "20221227"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115528282",
+                                        "kind": "A",
+                                        "name": "STATE POWER INVESTMENT GROUP HYDROGEN ENERGY TECH DEVELOPMENT CO LTD",
+                                        "date": "20221227"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a method for rapidly evaluating the mechanical life of a proton membrane, which comprises the following steps of: preparing a membrane electrode by using the proton membrane before testing, and testing the initial electrochemical properties, including LSV and IV properties, of the proton membrane by matching with carbon paper; performing SEM characterization on the cross section of the proton membrane by using a scanning electron microscope; the method comprises the following steps: building a monocell or fuel cell stack by using a proton membrane, carrying out dry-wet cycle treatment for 200 times, taking out the proton membrane, observing the SEM of the section morphology, coating the surface of the proton membrane with a catalyst layer, and testing the electrochemical performance such as LSV and IV performance. The method provided by the technical scheme of the invention mainly takes the proton membrane as a core, and is different from the use of a traditional proton membrane, namely coating a catalyst layer and matching with carbon paper, directly using the proton membrane to simulate a dry-wet cycle test, and applying free radicals to attack the membrane, so that the test time is effectively shortened, the cost is saved, and the method is simple and rapid; the scheme is simple, and the cost is saved; according to the technical scheme, the temperature is low, and safety is higher."
+                },
+                {
+                    "p": "本发明公开了一种质子膜机械寿命快速评价方法，测试前使用质子膜制备膜电极，配合碳纸对质子膜的初始电化学性能包括LSV、IV性能进行测试；同时使用扫描电镜对质子膜的截面进行SEM表征；使用质子膜搭建单电池或燃料电池堆，进行干湿循环处理，并循环200次后，将质子膜取出，观察其截面形貌SEM，同时对其表面涂覆催化层，测试其电化学性能如LSV和IV性能。本申请的技术方案提出的方法主要为以质子膜为核心，区别于传统的质子膜的使用，即涂覆催化层并配合碳纸使用，直接使用质子膜模拟干湿循环测试，同时施加自由基对膜的攻击，有效减少测试时间，同时节省成本，简单快捷；其方案简单，节省成本；本技术方案中温度较低，更安全。"
+                }
+            ]
+        }
+    }
+}

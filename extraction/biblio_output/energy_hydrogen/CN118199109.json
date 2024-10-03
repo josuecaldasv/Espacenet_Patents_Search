@@ -1,0 +1,165 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118199109",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118199109",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "28",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "388",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410212702",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410212702",
+                            "date": "20240227"
+                        },
+                        {
+                            "doc-number": "202410212702.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410212702",
+                            "date": "20240227"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV SOUTHEAST"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "东南大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG CHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TANG YI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHENG CHENYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王辰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "汤奕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郑晨一"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Island micro-grid model prediction control strategy for weight dynamic adaptive adjustment",
+                    "一种权重动态自适应调节的孤岛微电网模型预测控制策略"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an island micro-grid model prediction control strategy based on dynamic self-adaptive weight adjustment, and aims to solve the problem that at present, hybrid energy storage power is difficult to scientifically and reasonably distribute, firstly, an island direct current micro-grid model containing electricity/hydrogen hybrid energy storage and a bottom layer coordination control strategy are built; secondly, constructing a state-space equation of the micro-grid, and establishing and solving a target function by taking minimization of an energy storage power tracking error and an energy storage state variable quantity as targets; and finally, performing dynamic self-adaptive adjustment on the state weight factor in the rolling optimization process, reducing the possibility of energy storage state out-of-limit, and using a state machine control strategy when the energy storage state is out-of-limit, thereby improving the flexibility of the control strategy. The result shows that the model prediction control strategy based on weight dynamic adaptive adjustment can improve the energy management efficiency and reliability of the microgrid on the basis of absorbing the unbalanced power of the island microgrid."
+                },
+                {
+                    "p": "本发明提供了一种权重动态自适应调节的孤岛微电网模型预测控制策略，针对目前混合储能功率难以实现科学合理分配的问题，首先搭建含电/氢混合储能的孤岛直流微电网模型和底层协调控制策略；然后构建微电网状态空间方程，以最小化储能功率跟踪误差和储能状态变化量为目标，建立并求解目标函数；最后在滚动优化的过程中对状态权重因子进行动态自适应调节，降低储能状态越限的可能性，并在储能状态越限时使用状态机控制策略，提高控制策略灵活性。结果表明，基于权重动态自适应调节的模型预测控制策略可以在消纳孤岛微电网不平衡功率的基础上，提高微电网能量管理效能和可靠性。"
+                }
+            ]
+        }
+    }
+}

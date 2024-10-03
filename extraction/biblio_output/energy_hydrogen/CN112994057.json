@@ -1,0 +1,339 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "112994057",
+                            "kind": "A",
+                            "date": "20210618"
+                        },
+                        {
+                            "doc-number": "CN112994057",
+                            "date": "20210618"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H02J   3/    32            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2310",
+                            "subgroup": "64",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "B",
+                            "main-group": "70",
+                            "subgroup": "3225",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "70",
+                            "subgroup": "30",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "04",
+                            "subclass": "S",
+                            "main-group": "20",
+                            "subgroup": "222",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202110162898",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202110162898",
+                            "date": "20210205"
+                        },
+                        {
+                            "doc-number": "202110162898.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202110162898",
+                            "date": "20210205"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "INST ELECTRICAL ENG CAS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国科学院电工研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DENG WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PEI WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING LI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KONG LI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邓卫, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "裴玮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁立, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孔力"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Economical operation control method of modular energy router system",
+                    "一种模块化能量路由器系统的经济运行控制方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104505867",
+                                        "name": "GOLDEN COOPERATE INFORMATION & AUTOMATION TECHNOLOGY NANJING CO LTD",
+                                        "date": "20150408"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104505867",
+                                        "kind": "A",
+                                        "name": "GOLDEN COOPERATE INFORMATION & AUTOMATION TECHNOLOGY NANJING CO LTD",
+                                        "date": "20150408"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109378866",
+                                        "name": "ELECTRIC POWER RES INST OF STATE GRID SHANDONG ELECTRIC POWER CO, et al",
+                                        "date": "20190222"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109378866",
+                                        "kind": "A",
+                                        "name": "ELECTRIC POWER RES INST OF STATE GRID SHANDONG ELECTRIC POWER CO, et al",
+                                        "date": "20190222"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109888774",
+                                        "name": "UNIV WUHAN",
+                                        "date": "20190614"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109888774",
+                                        "kind": "A",
+                                        "name": "UNIV WUHAN",
+                                        "date": "20190614"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110289622",
+                                        "name": "STATE GRID ZHEJIANG ELECTRIC POWER CO LTD JIAXING POWER SUPPLY CO",
+                                        "date": "20190927"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110289622",
+                                        "kind": "A",
+                                        "name": "STATE GRID ZHEJIANG ELECTRIC POWER CO LTD JIAXING POWER SUPPLY CO",
+                                        "date": "20190927"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110535190",
+                                        "name": "QINGDAO INSTITUTE OCEAN ENGINEERING OF TIANJIN UNIV CO LTD",
+                                        "date": "20191203"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110535190",
+                                        "kind": "A",
+                                        "name": "QINGDAO INSTITUTE OCEAN ENGINEERING OF TIANJIN UNIV CO LTD",
+                                        "date": "20191203"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2021012298",
+                                        "name": "UNIV NORTHEASTERN [CN]",
+                                        "date": "20210128"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2021012298",
+                                        "kind": "A1",
+                                        "name": "UNIV NORTHEASTERN [CN]",
+                                        "date": "20210128"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 高爽等, \"含分布式光伏的多级变压交直流混合配电网经济性评估\", 《电网技术》"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 第1520-1528页 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an economic operation control method of a modular energy router system, the system comprises a plug-and-play module, the plug-and-play module comprises a direct current bus interface and an alternating current bus interface, the direct current bus interface and the alternating current bus interface are respectively used for being connected to an external direct current bus or an alternating current bus, or used for connecting the plug-and-play module directly to a parent cabinet; when the plug-and-play module is connected to the external direct current bus and the alternating current bus through the direct current bus interface and the alternating current bus interface or is connected to an external parent cabinet for operation, an integrated operation strategy is executed; and when the plug-and-play module is not connected with the external direct current bus or alternating current bus and is used as a portable mobile device, an independent operation strategy is executed. The control method provided by the invention is beneficial to improving the utilization rate of distributed energy/hydrogen energy, effectively makes up the existing defects, realizes economic optimization, and has a wide application prospect."
+                },
+                {
+                    "p": "本发明提出一种模块化能量路由器系统的经济运行控制方法，所述的系统包括即插即用模块，所述即插即用模块包括直流母线接口，以及交流母线接口，分别用于连接到外部直流母线或交流母线，或将即插即用模块直接连接到母体柜；当所述即插即用模块通过直流母线接口、交流母线接口接入外部直流母线、交流母线时或者例如接入外部母体柜运行时，执行集成运行策略；当所述即插即用模块不与外部直流母线或交流母线连接，作为便携式移动装置使用时，执行独立运行策略。本发明的控制方法有利于提升分布式能源/氢能利用率，有效弥补现有缺陷，实现经济优化，应用前景广阔。"
+                }
+            ]
+        }
+    }
+}

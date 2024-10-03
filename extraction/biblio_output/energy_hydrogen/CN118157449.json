@@ -1,0 +1,217 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118157449",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118157449",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "H02M   1/    00            A I                    "
+                        },
+                        {
+                            "text": "H02M   1/    12            A I                    "
+                        },
+                        {
+                            "text": "H02M   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02M   3/    07            A I                    "
+                        },
+                        {
+                            "text": "H02M   3/   158            A I                    "
+                        },
+                        {
+                            "text": "H02M   7/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "1",
+                            "subgroup": "007",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "1",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "3",
+                            "subgroup": "01",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "3",
+                            "subgroup": "07",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "3",
+                            "subgroup": "158",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "7",
+                            "subgroup": "068",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410330004",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410330004",
+                            "date": "20240322"
+                        },
+                        {
+                            "doc-number": "202410330004.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410330004",
+                            "date": "20240322"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HARBIN INST TECHNOLOGY WEIHAI"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "哈尔滨工业大学（威海）"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "MENG FANGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI QUANHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI HONGYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孟凡刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李泉慧, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高蕾, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李泓意"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "High-power water electrolysis hydrogen production power supply based on multi-pulse rectifier",
+                    "一种基于多脉波整流器的大功率电解水制氢电源"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a water electrolysis hydrogen production power supply based on a multi-pulse rectifier, and relates to the technical field of power electronics. Aiming at the problems of poor reliability, low efficiency, high cost, low input electric energy quality and the like of a traditional water electrolysis hydrogen production power supply, the invention provides the water electrolysis hydrogen production power supply based on the multi-pulse rectifier, the number of rectifier diodes is reduced by designing a main transformer, and then the cost is reduced and the efficiency is improved; the harmonic suppression effect is enhanced by designing the harmonic suppression circuit, and the input electric energy quality is improved while the reliability is considered. Compared with a traditional hydrogen production power supply, the water electrolysis hydrogen production power supply based on the multi-pulse rectifier is easy to control, easy to install, high in reliability, high in efficiency, low in cost and high in input electric energy quality."
+                },
+                {
+                    "p": "本发明提供了一种基于多脉波整流器的电解水制氢电源，涉及电力电子技术领域。本发明针对传统电解水制氢电源可靠性差，效率低，成本高，输入电能质量低等问题，提出一种基于多脉波整流器的电解水制氢电源，通过设计主变压器降低整流二极管的数量，进而降低成本并提高效率；通过设计谐波抑制电路增强谐波抑制效果，在兼顾可靠性的同时提高输入电能质量。本发明所述的基于多脉波整流器的电解水制氢电源与传统制氢电源相比控制简单，安装容易，可靠性高，效率高，成本低，输入电能质量高。"
+                }
+            ]
+        }
+    }
+}

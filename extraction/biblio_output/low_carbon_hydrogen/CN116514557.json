@@ -1,0 +1,380 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116514557",
+                            "kind": "A",
+                            "date": "20230801"
+                        },
+                        {
+                            "doc-number": "CN116514557",
+                            "date": "20230801"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "C04B  35/   628            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "35",
+                            "subgroup": "62863",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "35",
+                            "subgroup": "62884",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "2235",
+                            "subgroup": "5244",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310538103",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310538103",
+                            "date": "20230512"
+                        },
+                        {
+                            "doc-number": "202310538103.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310538103",
+                            "date": "20230512"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV BEIHANG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京航空航天大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI LU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU CHUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MA CHAOLI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHENG RUIXIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIAO YUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李露, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "许淳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马朝利, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郑瑞晓, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "肖元"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for efficiently and stably preparing SiC interface coating",
+                    "一种高效稳定制备SiC界面涂层的方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3776759",
+                                        "name": "FORD L, et al",
+                                        "date": "19731204"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3776759",
+                                        "kind": "A",
+                                        "name": "FORD L, et al",
+                                        "date": "19731204"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "DE4129102",
+                                        "name": "DORNIER GMBH [DE]",
+                                        "date": "19930304"
+                                    },
+                                    {
+                                        "country": "DE",
+                                        "doc-number": "4129102",
+                                        "kind": "A1",
+                                        "name": "DORNIER GMBH [DE]",
+                                        "date": "19930304"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "DE19828843",
+                                        "name": "DAIMLER CHRYSLER AG [DE]",
+                                        "date": "19991230"
+                                    },
+                                    {
+                                        "country": "DE",
+                                        "doc-number": "19828843",
+                                        "kind": "A1",
+                                        "name": "DAIMLER CHRYSLER AG [DE]",
+                                        "date": "19991230"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2005181192",
+                                        "name": "STEFFIER WAYNE S [US]",
+                                        "date": "20050818"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2005181192",
+                                        "kind": "A1",
+                                        "name": "STEFFIER WAYNE S [US]",
+                                        "date": "20050818"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2005257568",
+                                        "name": "TAFT TERRY L [US], et al",
+                                        "date": "20051124"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2005257568",
+                                        "kind": "A1",
+                                        "name": "TAFT TERRY L [US], et al",
+                                        "date": "20051124"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103290386",
+                                        "name": "UNIV CENTRAL SOUTH",
+                                        "date": "20130911"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103290386",
+                                        "kind": "A",
+                                        "name": "UNIV CENTRAL SOUTH",
+                                        "date": "20130911"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2017088418",
+                                        "name": "IBIDEN CO LTD",
+                                        "date": "20170525"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2017088418",
+                                        "kind": "A",
+                                        "name": "IBIDEN CO LTD",
+                                        "date": "20170525"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107058975",
+                                        "name": "UNIV SHANGHAI",
+                                        "date": "20170818"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107058975",
+                                        "kind": "A",
+                                        "name": "UNIV SHANGHAI",
+                                        "date": "20170818"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110261256",
+                                        "name": "UNIV SHANGHAI",
+                                        "date": "20190920"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110261256",
+                                        "kind": "A",
+                                        "name": "UNIV SHANGHAI",
+                                        "date": "20190920"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112209721",
+                                        "name": "UNIV BEIHANG",
+                                        "date": "20210112"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112209721",
+                                        "kind": "A",
+                                        "name": "UNIV BEIHANG",
+                                        "date": "20210112"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114986673",
+                                        "name": "AVIC MANUFACTURING TECH INST                                                                        ",
+                                        "date": "20220902"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114986673",
+                                        "kind": "A",
+                                        "name": "AVIC MANUFACTURING TECH INST                                                                        ",
+                                        "date": "20220902"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a method for efficiently and stably preparing a SiC interface coating, belongs to the technical field of ceramic-based composite materials, and solves the problems that in the prior art, the deposition rate is low, the process stability is insufficient, and a deposition product does not conform to the stoichiometric ratio. According to the method for efficiently and stably preparing the SiC interface coating, MTS serves as a precursor, MTS is introduced into the reaction furnace through a hydrogen bubbling method to deposit the SiC interface coating, the carbon-silicon ratio of the coating is approximately 1: 1 within the error range, and the coating purity is high; the specially designed graphite mold is adopted to regulate and control the residence time of reaction gas, the deposition speed is high, the deposition morphology is stable, and the mold use and maintenance cost is low; the flow of each path of gas is controlled through a mass flow meter, and the total pressure of mixed gas is controlled through a needle valve, so that process parameters are accurately regulated and controlled, and the flow of carrier gas hydrogen is controlled, so that the ratio of hydrogen to MTS gas in a reaction area is 1: 1, and the SiC interface coating meeting expected requirements is prepared."
+                },
+                {
+                    "p": "本发明涉及一种高效稳定制备SiC界面涂层的方法，属于陶瓷基复合材料技术领域，解决了现有技术中沉积速率较低、工艺稳定性不足、沉积产物不符合化学计量比的问题。本发明的高效稳定制备SiC界面涂层的方法，以MTS为前驱体，通过氢气鼓泡法将MTS引入反应炉沉积SiC界面涂层，在误差范围内，涂层的碳硅比近似为1:1，涂层纯度高；采用特殊设计的石墨模具调控反应气体的滞留时间，沉积速度快，沉积形貌的稳定，模具使用和维护成本低；通过质量流量计控制各路气体流量，通过针阀控制混气总压，从而精准调控工艺参数，控制载气氢气流量使得反应区的氢气和MTS气体比值为1:1，制备出符合预期要求的SiC界面涂层。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,218 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118037328",
+                            "kind": "A",
+                            "date": "20240514"
+                        },
+                        {
+                            "doc-number": "CN118037328",
+                            "date": "20240514"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0201            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "0631",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0206",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410229316",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410229316",
+                            "date": "20240229"
+                        },
+                        {
+                            "doc-number": "202410229316.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410229316",
+                            "date": "20240229"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV TAIYUAN TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "太原理工大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHANG XINYUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN HONGBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO YUPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XUE YIXUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU QIZHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LEE KI WON"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ZENING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SU JIA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "常馨月, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙宏斌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高宇鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "薛屹洵, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘启政, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李基源, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李泽宁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苏珈"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "New energy hydrogen refueling station optimization scheduling method and terminal",
+                    "一种新能源加氢站优化调度方法及终端"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a new energy hydrogen refueling station optimization scheduling method and a terminal, and the method comprises the steps: building an interval number range based on a polygon uncertainty set, building a dynamic hydrogen price making model which comprises a dynamic hydrogen price model and a hydrogenation demand response model, determining a target function with the minimum daily total cost of a new energy hydrogen refueling station as a target, and carrying out the optimization scheduling of the new energy hydrogen refueling station; and determining the constraint condition of day-ahead optimization scheduling, solving the interval optimization model based on the above established interval optimization model to obtain the optimal value interval income of the new energy hydrogen refueling station, thereby introducing the interval optimization algorithm and the dynamic hydrogen price strategy into the optimization scheduling of the new energy hydrogen refueling station, and considering the hydrogenation demand response. And more accurate, reasonable and economic income results can be obtained, so that low-carbon operation of the hydrogen refueling station is facilitated, and profit maximization of the hydrogen refueling station and users is ensured."
+                },
+                {
+                    "p": "本发明公开了一种新能源加氢站优化调度方法及终端，建立基于多边形不确定集的区间数范围，并构建动态氢价制定模型，其中包括动态氢价模型和加氢需求响应模型，以新能源加氢站的日总成本最小为目标确定目标函数，并确定日前优化调度的约束条件，基于上述建立区间优化模型，对其求解得到新能源加氢站的最优值区间收益，以此将区间优化算法和动态氢价策略引入新能源加氢站的优化调度中，且考虑了加氢需求响应，可以得到更准确、合理和经济的收益结果，从而有利于加氢站的低碳运行，且确保加氢站和用户的利润最大化。"
+                }
+            ]
+        }
+    }
+}

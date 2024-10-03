@@ -1,0 +1,192 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2024266871",
+                            "kind": "A1",
+                            "date": "20240808"
+                        },
+                        {
+                            "doc-number": "US2024266871",
+                            "date": "20240808"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "30",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "30",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "202218566418",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US202218566418",
+                            "date": "20220512"
+                        },
+                        {
+                            "doc-number": "18566418"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "DE202110205769",
+                                    "date": "20210608"
+                                },
+                                {
+                                    "doc-number": "10 2021 205 769.1"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "WO2022EP62912",
+                                    "date": "20220512"
+                                },
+                                {
+                                    "doc-number": "PCT/EP2022/062912"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SIEMENS ENERGY GLOBAL GMBH & CO KG [DE]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "Siemens Energy Global GmbH & Co. KG"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HÜTTL CHRISTIAN [DE]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ROP PETER [NL]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SCHÄFER JOCHEN [DE]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "Hüttl, Christian, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "Rop, Peter, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "Schäfer, Jochen"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "PROCESS FOR EFFICIENT STORAGE AND PROVISION OF ENERGY"
+            },
+            "abstract": {
+                "p": "A system for efficient conversion and provision of electrical energy, wherein supplied electrical current is converted into hydrogen in an electrolyzer and optionally temporarily stored in hydrogen storage. The hydrogen is converted into electrical current in a conversion stage in which offgas containing water in vapor form is emitted. The offgas is cooled using a heat pump to obtain condensate which is supplied to the electrolyzer as feed water. As a result, a supplied electrical current is decoupled from generated electrical current, wherein utilization of the process heat provided by the heat pump makes it possible to achieve high efficiency coupled with a low demand for fresh water for the electrolyzer."
+            }
+        }
+    }
+}

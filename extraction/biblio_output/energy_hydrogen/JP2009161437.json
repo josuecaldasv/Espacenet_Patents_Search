@@ -1,0 +1,683 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "JP",
+                            "doc-number": "2009161437",
+                            "kind": "A",
+                            "date": "20090723"
+                        },
+                        {
+                            "doc-number": "JP2009161437",
+                            "date": "20090723"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01D  59/    00            A I                    "
+                        },
+                        {
+                            "text": "C01B   6/    00            A I                    "
+                        },
+                        {
+                            "text": "C01B   6/    02            A I                    "
+                        },
+                        {
+                            "text": "C01B   6/    04            A I                    "
+                        },
+                        {
+                            "text": "C01B   6/    06            A I                    "
+                        },
+                        {
+                            "text": "C01B   6/    24            A I                    "
+                        },
+                        {
+                            "text": "C01B   6/    34            A I                    "
+                        },
+                        {
+                            "text": "C01B  32/    60            A I                    "
+                        },
+                        {
+                            "text": "C01B  33/    04            A I                    "
+                        },
+                        {
+                            "text": "C01B  33/   113            A I                    "
+                        },
+                        {
+                            "text": "C01D  13/    00            A I                    "
+                        },
+                        {
+                            "text": "C01F   1/    00            A I                    "
+                        },
+                        {
+                            "text": "H01J   1/    14            A I                    "
+                        },
+                        {
+                            "text": "H01J   9/    04            A I                    "
+                        },
+                        {
+                            "text": "H01L  21/   265            A I                    "
+                        },
+                        {
+                            "text": "H01M   4/    36            A I                    "
+                        },
+                        {
+                            "text": "H01M   4/    58            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "4",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "36",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "36",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "383",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "383",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "58",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "58",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "10",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "10",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "10",
+                            "subgroup": "345",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "10",
+                            "subgroup": "345",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "14",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "14",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "2300",
+                            "subgroup": "0014",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "2300",
+                            "subgroup": "0014",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "70",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "70",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "C01B6/04"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01M10/00&301A"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01M10/00&301Z"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01M10/36&A"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01M10/36&Z"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01M4/58"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01M4/58&101"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01M8/06"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01M8/06&K"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01M8/06&R"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01M8/06&Z"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01M8/0606"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H027/AA02"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H027/BC00"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H027/DD05"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H029/AJ03"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H029/AK01"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H029/AL11"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H029/AM11"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H029/HJ00"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H050/AA08"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H050/BA01"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H050/BA08"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H050/CA01"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H050/CB11"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H050/HA00"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H127/BB03"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5H127/BB06"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "JP",
+                            "doc-number": "2009048666",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "JP20090048666",
+                            "date": "20090302"
+                        },
+                        {
+                            "doc-number": "2009048666"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US19970053378P",
+                                    "date": "19970722"
+                                },
+                                {
+                                    "doc-number": "1997 053378"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US19970068913P",
+                                    "date": "19971229"
+                                },
+                                {
+                                    "doc-number": "1997 068913"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US19980009294",
+                                    "date": "19980120"
+                                },
+                                {
+                                    "doc-number": "1998 009294"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US19980074006P",
+                                    "date": "19980209"
+                                },
+                                {
+                                    "doc-number": "1998 074006"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US19980080647P",
+                                    "date": "19980403"
+                                },
+                                {
+                                    "doc-number": "1998 080647"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BLACK LIGHT POWER INC"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "BLACK LIGHT POWER INC"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "MILLS RANDELL L"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "MILLS RANDELL L"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "INORGANIC HYDROGEN COMPOUND, SEPARATION METHOD, AND FUEL APPLICATION",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3300345",
+                                        "name": "LYONS JR ERNEST H",
+                                        "date": "19670124"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3300345",
+                                        "kind": "A",
+                                        "name": "LYONS JR ERNEST H",
+                                        "date": "19670124"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3359422",
+                                        "name": "POLLOCK HERBERT C",
+                                        "date": "19671219"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3359422",
+                                        "kind": "A",
+                                        "name": "POLLOCK HERBERT C",
+                                        "date": "19671219"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3377265",
+                                        "name": "CAESAR PHILIP D",
+                                        "date": "19680409"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3377265",
+                                        "kind": "A",
+                                        "name": "CAESAR PHILIP D",
+                                        "date": "19680409"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4265720",
+                                        "name": "WINSTEL GUENTER",
+                                        "date": "19810505"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4265720",
+                                        "kind": "A",
+                                        "name": "WINSTEL GUENTER",
+                                        "date": "19810505"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4353871",
+                                        "name": "BARTLIT JOHN R, et al",
+                                        "date": "19821012"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4353871",
+                                        "kind": "A",
+                                        "name": "BARTLIT JOHN R, et al",
+                                        "date": "19821012"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4512966",
+                                        "name": "NELSON GUNNER E [US]",
+                                        "date": "19850423"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4512966",
+                                        "kind": "A",
+                                        "name": "NELSON GUNNER E [US]",
+                                        "date": "19850423"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4986887",
+                                        "name": "GUPTA SANKAR DAS [CA], et al",
+                                        "date": "19910122"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4986887",
+                                        "kind": "A",
+                                        "name": "GUPTA SANKAR DAS [CA], et al",
+                                        "date": "19910122"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2008275596",
+                                        "name": "BLACK LIGHT POWER INC",
+                                        "date": "20081113"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2008275596",
+                                        "kind": "A",
+                                        "name": "BLACK LIGHT POWER INC",
+                                        "date": "20081113"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "PROBLEM TO BE SOLVED: To provide a novel compound including a hydride ion having a binding energy greater than about 0.8 eV. ;SOLUTION: Compounds comprise at least one neutral, positive, or negative hydrogen species of an increased binding energy having a greater binding energy than their corresponding ordinary hydrogen species, or greater than any hydrogen species for which the binding energy is unstable or not observed. The compounds also comprise at least one other atom, molecule, or ion other than the increased binding energy hydrogen species. One group of such compounds contains an increased binding energy hydrogen species selected from the group consisting of H<SB>n</SB>, H<SB>n</SB><SP>-</SP>and H<SB>n</SB><SP>+</SP>, where n is an integer from one to three. Applications of the compounds include their use in batteries, fuel cells, cutting materials, thermionic cathodes, optical filters, fiber optic cables, magnets, etching agents, dopants in semiconductor fabrication, propellants and methods of purifying isotopes. ;COPYRIGHT: (C)2009,JPO&INPIT"
+            }
+        }
+    }
+}

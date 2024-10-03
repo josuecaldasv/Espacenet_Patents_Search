@@ -1,0 +1,218 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "110265476",
+                            "kind": "A",
+                            "date": "20190920"
+                        },
+                        {
+                            "doc-number": "CN110265476",
+                            "date": "20190920"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01L  21/   331            A I                    "
+                        },
+                        {
+                            "text": "H01L  29/    06            A I                    "
+                        },
+                        {
+                            "text": "H01L  29/   739            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "29",
+                            "subgroup": "0684",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "29",
+                            "subgroup": "66333",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "29",
+                            "subgroup": "7395",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201910571061",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201910571061",
+                            "date": "20190628"
+                        },
+                        {
+                            "doc-number": "201910571061.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201910571061",
+                            "date": "20190628"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "YANGZHOU YANGJIE ELECTRONIC TECHNOLOGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "扬州扬杰电子科技股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WU DI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴迪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王毅"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "IGBT chip and back implementation method thereof",
+                    "一种IGBT芯片及其背面实现方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JPH06112494",
+                                        "name": "FUJI ELECTRIC CO LTD",
+                                        "date": "19940422"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "H06112494",
+                                        "kind": "A",
+                                        "name": "FUJI ELECTRIC CO LTD",
+                                        "date": "19940422"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103151251",
+                                        "name": "WUXI CHINA RESOURCES HUAJING MICROELECTRONICS CO LTD",
+                                        "date": "20130612"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103151251",
+                                        "kind": "A",
+                                        "name": "WUXI CHINA RESOURCES HUAJING MICROELECTRONICS CO LTD",
+                                        "date": "20130612"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104078354",
+                                        "name": "HANGZHOU SILAN INTEGRATED CIRCUIT CO LTD",
+                                        "date": "20141001"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104078354",
+                                        "kind": "A",
+                                        "name": "HANGZHOU SILAN INTEGRATED CIRCUIT CO LTD",
+                                        "date": "20141001"
+                                    }
+                                ]
+                            },
+                            "category": "X",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 说明书第6-66段，图4-16 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to an IGBT chip and a back implementation method thereof. The invention provides an IGBT chip and a back implementation method thereof, which achieves the parameter consistency with high-energy hydrogen injection IGBTs at a low cost and reduces the equipment dependence. The IGBT chip comprises a metal layer, a BPSG passivation layer, a POLY layer, a gate oxide, an N+ region and a Pbody region, and further comprises an N- layer, an N buffer layer, an N- substrate and a P+ collector which are arranged in turn from top to bottom, the thickness range of the N- layer is 4-150[mu]m, and the thickness range of the N buffer layer is 5[mu]m-30[mu]m. According to the invention, secondary epitaxy is carried out through an N- single crystal wafer, the epitaxial layer I is N doped (i.e. the N buffer layer), the epitaxial layer II is N- doped, the thinning is ended in the N- substrate when subsequent thinning is performed after the front process of the IGBT is completed, and then P+ is injected to realize an IGBT back structure. Meanwhile, the concentration distribution of the epitaxial N buffer layer is straight, and NN+ junctions with small concentration gradient will be formed under the action of the front thermal process, thereby being conducive to improving the dynamic avalanche ability of the IGBT."
+                },
+                {
+                    "p": "一种IGBT芯片及其背面实现方法。提供了一种用较低成本实现与高能氢注入IGBT的参数一致性，降低了设备依赖性的IGBT芯片及其背面实现方法。包括金属层、BPSG钝化层、POLY层、栅氧化层、N+区和Pbody区，还包括从上到下依次设置的N‑层、N缓冲层、N‑衬底和P+集电极，所述N‑层的厚度范围为4~150um，N缓冲层的厚度范围为5um~30um。本发明通过N‑单晶片二次外延，外延层一为N掺杂（即N缓冲层），外延层二为N‑掺杂，在IGBT正面工艺完成后，进行后续减薄时减薄截至在衬底N‑内，然后注入P+，实现IGBT背面结构。同时，外延N缓冲层浓度分布平直，再加上正面的热过程作用，会形成较小浓度梯度的NN+结，这有利于提高IGBT的动态雪崩能力。"
+                }
+            ]
+        }
+    }
+}

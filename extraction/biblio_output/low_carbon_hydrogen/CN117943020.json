@@ -1,0 +1,220 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117943020",
+                            "kind": "A",
+                            "date": "20240430"
+                        },
+                        {
+                            "doc-number": "CN117943020",
+                            "date": "20240430"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  23/   825            A I                    "
+                        },
+                        {
+                            "text": "B01J  35/    39            A I                    "
+                        },
+                        {
+                            "text": "B01J  35/    63            A I                    "
+                        },
+                        {
+                            "text": "B01J  35/    64            A I                    "
+                        },
+                        {
+                            "text": "C01B  32/    40            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   154            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "825",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "32",
+                            "subgroup": "40",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "154",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C29/154",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C31/04",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211307028",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211307028",
+                            "date": "20221025"
+                        },
+                        {
+                            "doc-number": "202211307028.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211307028",
+                            "date": "20221025"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA PETROLEUM & CHEM CORP"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SINOPEC RES INSTITUTE OF PETROLEUM PROCESSING"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国石油化工股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中石化石油化工科学研究院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SUN SHANGCONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PENG BO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SONG HAITAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SONG YE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG RUOYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙尚聪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "彭博, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋海涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋烨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王若瑜"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Carbon dioxide catalytic conversion catalytic material, preparation method thereof and carbon dioxide catalytic conversion method",
+                    "一种二氧化碳催化转化催化材料及其制备方法和二氧化碳催化转化方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the field of catalyst materials, and relates to a carbon dioxide catalytic conversion catalytic material, a preparation method thereof and a carbon dioxide catalytic conversion method, the catalytic material is a porous copper modified indium oxide material, and the synthesis of the catalytic material comprises the steps of forming a precipitate by a specific method, and reacting and roasting at a specific temperature. The catalytic material is simple in preparation method, easy in composition and structure regulation and low in price. Carbon dioxide and hydrogen react under the synergistic effect of the catalytic material and light and heat, and high carbon dioxide conversion rate and methanol selectivity can be achieved at low temperature and pressure."
+                },
+                {
+                    "p": "本发明属于催化剂材料领域，涉及一种二氧化碳催化转化催化材料及其制备方法和二氧化碳催化转化方法，所述催化材料为多孔铜修饰氧化铟材料，所述催化材料合成包括以特定的方法形成沉淀和在特定温度下反应、焙烧的步骤。该催化材料制备方法简单，组成和结构易于调控，价格低廉。将二氧化碳和氢气在该催化材料和光热协同作用下进行反应，可以在较低的温度和压力下具有较高的二氧化碳转化率和甲醇选择性。"
+                }
+            ]
+        }
+    }
+}

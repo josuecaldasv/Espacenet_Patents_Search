@@ -1,0 +1,119 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118417126",
+                            "kind": "A",
+                            "date": "20240802"
+                        },
+                        {
+                            "doc-number": "CN118417126",
+                            "date": "20240802"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B05C  11/    10            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  1004            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410513926",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410513926",
+                            "date": "20240426"
+                        },
+                        {
+                            "doc-number": "202410513926.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410513926",
+                            "date": "20240426"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUNAN LONGSHEN HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "湖南隆深氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GUO QI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PENG ZHIYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU MENGLIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭启, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "彭智勇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "于孟林"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Intelligent control method and system applied to continuous roll-to-roll MPL coating equipment",
+                    "应用于连续化卷对卷MPL涂布设备的智能控制方法及其系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention is suitable for the technical field of coating control, and provides an intelligent control method and system applied to continuous roll-to-roll MPL coating equipment, and the method comprises the steps: firstly obtaining the actual coating weight information of the coating equipment, meanwhile obtaining the real-shot image information of a membrane electrode to be detected, and then obtaining the real-shot image information of the membrane electrode to be detected according to the real-shot image information; the actual coating shape information of the membrane electrode to be detected is effectively determined, whether the actual coating weight information is larger than the ideal coating weight information or not is determined according to the actual coating shape information and the theoretical coating shape information, and if the actual coating weight information is larger than the ideal coating weight information, the actual coating weight information is adjusted immediately, and the actual coating weight information is lowered. On the premise of meeting the production requirements, the coating amount of the coating can be intelligently reduced, the utilization rate of production resources is increased, and the situation of waste of the production resources is reduced."
+                },
+                {
+                    "p": "本申请适用于涂布控制的技术领域，提供了一种应用于连续化卷对卷MPL涂布设备的智能控制方法及其系统，其方法包括先获取涂布设备的实际涂布量信息，同时获取待检测膜电极的实拍图像信息，然后根据实拍图像信息，有效地确定待检测膜电极的实际涂布形状信息，再根据实际涂布形状信息和理论涂布形状信息，确定实际涂布量信息是否大于理想涂布量信息，如果实际涂布量信息大于理想涂布量信息，则立刻调整实际涂布量信息，下调实际涂布量信息。本申请能够在满足生产要求的前提下，智能地减少涂料的涂覆量，提高生产资源的利用率，减少生产资源浪费的情况。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118365048",
+                            "kind": "A",
+                            "date": "20240719"
+                        },
+                        {
+                            "doc-number": "CN118365048",
+                            "date": "20240719"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L  50/    70            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    30            A I                    "
+                        },
+                        {
+                            "text": "G06F  18/  2135            A I                    "
+                        },
+                        {
+                            "text": "G06F  18/  2411            A I                    "
+                        },
+                        {
+                            "text": "G06N   3/   126            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410471359",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410471359",
+                            "date": "20240419"
+                        },
+                        {
+                            "doc-number": "202410471359.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410471359",
+                            "date": "20240419"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "JILIN UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "吉林大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LU WENYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " REN YOU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU HONGFEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI PENGLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG XIYAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI SHANGKE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "鹿文洋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任有, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘宏飞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李朋龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王曦瑶, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李尚克"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Energy management method for hydrogen-electricity hybrid excavator with minimum equivalent hydrogen consumption",
+                    "一种等效氢耗最小的氢电混合挖掘机能量管理方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a hydrogen-electricity hybrid excavator energy management method with minimum equivalent hydrogen consumption, which comprises the following steps of: firstly, determining a power source and an economical efficiency target of an excavator, and then, constructing an equivalent hydrogen consumption minimum strategy target function; secondly, actual working power data of the excavator are collected and preprocessed, the working conditions of the excavator are divided, and the data are used for training a working condition recognition model; and finally, on the basis of the target function and the working condition recognition model, an adaptive adjustment-based equivalent hydrogen consumption minimum strategy of power distribution of the energy source is completed, and finally, an online adaptive adjustment-based equivalent hydrogen consumption minimum energy management strategy of the hydrogen-electricity hybrid excavator under different working conditions in the whole period is realized. According to the energy management method of the hydrogen fuel excavator with the minimum equivalent hydrogen consumption for online application, by optimizing energy distribution and improving the energy utilization efficiency, the economical efficiency and the operation efficiency of the excavator are remarkably improved, and the energy management method has wide application prospects and important practical significance."
+                },
+                {
+                    "p": "本发明涉及一种等效氢耗最小的氢电混合挖掘机能量管理方法，该方法首先确定挖掘机的动力源和经济性目标，随后构建等效氢耗最小策略目标函数。接着，通过采集挖掘机实际工作功率数据并进行预处理，划分挖掘机工况，并利用这些数据训练工况识别模型。最终，基于目标函数和工况识别模型，完成能量源的功率分配基于自适应调整的等效氢耗最小策略，最终实现氢电混合挖掘机全周期内不同工况下在线自适应调整的等效氢耗最小能量管理策略，提高经济性这种面向在线应用的等效氢耗最小的氢燃料挖掘机的能量管理方法，通过优化能量分配和提高能量利用效率，显著提高了挖掘机的经济性和运行效率，具有广泛的应用前景和重要的实际意义。"
+                }
+            ]
+        }
+    }
+}

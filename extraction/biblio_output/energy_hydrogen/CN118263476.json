@@ -1,0 +1,227 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118263476",
+                            "kind": "A",
+                            "date": "20240628"
+                        },
+                        {
+                            "doc-number": "CN118263476",
+                            "date": "20240628"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04029            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04089            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04223            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0438            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04492            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04828            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04029",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04089",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04223",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0438",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04492",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04746",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04828",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410566678",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410566678",
+                            "date": "20240509"
+                        },
+                        {
+                            "doc-number": "202410566678.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410566678",
+                            "date": "20240509"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GUOCHUANG HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国创氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI XINYUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG PENGHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAN XUESONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAO RONGHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAN FUJIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李新元, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王朋豪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "韩雪松, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "姚荣华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "韩福江"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fuel cell stack activation method",
+                    "一种燃料电池电堆活化方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a fuel cell stack activation method, relates to the field of fuel cell stack testing, and is characterized in that a fuel cell stack is loaded to the highest current density corresponding to a polarization curve; the stoichiometric ratio of the cathode is reduced, the reduced step length is a first reduced step length, the cathode runs for a first running duration after multiple steps are reduced, the cathode is recovered to the normal stoichiometric ratio, and the running duration of each step is a second running duration; the stoichiometric ratio of the cathode is increased, the increased step length is a first increased step length, the cathode runs for a third running duration after multiple steps are increased, then the cathode is restored to the normal stoichiometric ratio, and the running duration of each step is a fourth running duration; and repeating the operation for 1-3 times to finish activation of the fuel cell stack. According to the invention, the activation time of the fuel cell stack can be shortened, the activation speed of the fuel cell stack is increased, the activation efficiency of the fuel cell stack is improved, the hydrogen consumption is reduced, the activation cost of the fuel cell stack is reduced, and the fuel cell stack is not damaged."
+                },
+                {
+                    "p": "本发明公开了一种燃料电池电堆活化方法，涉及燃料电池电堆测试领域，要点在于将燃料电池电堆拉载到极化曲线对应的最高电流密度后；将阴极的计量比降低，降低步长为第一降低步长，降低多步后运行第一运行时长，再恢复至正常阴极计量比，其中，每步的运行时长为第二运行时长；将阴极的计量比增加，增加步长为第一增加步长，增加多步后运行第三运行时长，再恢复至正常阴极计量比，其中，每步的运行时长为第四运行时长；重复1～3次上述操作后，完成燃料电池电堆的活化。本发明能够缩短燃料电池电堆活化时间，提升燃料电池电堆的活化速度，提升燃料电池电堆的活化效率，节约氢气用量，使燃料电池电堆活化的成本降低，且不会对燃料电池电堆造成损伤。"
+                }
+            ]
+        }
+    }
+}

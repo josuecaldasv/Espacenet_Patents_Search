@@ -1,0 +1,144 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118292976",
+                            "kind": "A",
+                            "date": "20240705"
+                        },
+                        {
+                            "doc-number": "CN118292976",
+                            "date": "20240705"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "F02B  77/    04            A I                    "
+                    }
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310010321",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20231010321",
+                            "date": "20230104"
+                        },
+                        {
+                            "doc-number": "202310010321.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20231010321",
+                            "date": "20230104"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GREAT WALL MOTOR COMPANY LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " WEISHI ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " TEHAI HYDROGEN ENERGY TESTING BAODING CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "长城汽车股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "未势能源科技有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "特嗨氢能检测（保定）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FENG LILI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DUAN ZHIJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "封利利, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "段志洁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘涛"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Engine purging control method and device, electronic equipment and vehicle",
+                    "发动机吹扫控制方法、装置、电子设备及车辆"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an engine purging control method and device, electronic equipment and a vehicle. When an engine purging instruction is received, an engine shutdown scene is obtained, then whether the engine shutdown scene meets a starting scene of a rapid purging mode or not is judged, if yes, an engine is controlled to enter the purging mode, and the engine is stopped in the purging mode. A purging part of an engine is started, then the purging part is used for purging an internal pipeline of the engine until the preset purging time or the preset purging frequency is reached, the purging process is completed, and the engine is shut down, so that purging can be rapidly completed when the preset time or the preset purging frequency is reached; and the purging time and the engine shutdown time are saved, so that the energy filling waiting time is shortened, the problem of energy waste is solved, and the potential safety hazard of explosion caused by energy accumulation due to long-time purging can be avoided."
+                },
+                {
+                    "p": "本申请提供一种发动机吹扫控制方法、装置、电子设备及车辆，当接收到发动机吹扫指令，获取发动机关机场景，然后判定该发动机关机场景是否满足快速吹扫模式的启动场景，当是该启动场景，则控制发动机进入吹扫模式，通过启动发动机的吹扫部件，然后利用吹扫部件对发动机内部管路进行吹扫，直至达到预设吹扫时间或预设吹扫次数，完成吹扫过程，关闭发动机，使其能够在达到预设时间或预设吹扫次数时快速完成吹扫，节省了吹扫时间以及发动机关闭时间，从而缩短了加注能源等待时间，解决了能源浪费问题，还能够避免长时间的吹扫造成的能源聚集引起爆炸的安全隐患。"
+                }
+            ]
+        }
+    }
+}

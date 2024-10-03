@@ -1,0 +1,455 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116459825",
+                            "kind": "A",
+                            "date": "20230721"
+                        },
+                        {
+                            "doc-number": "CN116459825",
+                            "date": "20230721"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  23/    10            A I                    "
+                        },
+                        {
+                            "text": "B01J  23/    72            A I                    "
+                        },
+                        {
+                            "text": "B01J  23/    83            A I                    "
+                        },
+                        {
+                            "text": "B01J  37/    10            A I                    "
+                        },
+                        {
+                            "text": "C07C 407/    00            A I                    "
+                        },
+                        {
+                            "text": "C07C 409/    14            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "002",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "72",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "83",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "407",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "2601",
+                            "subgroup": "14",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "52",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C407/00",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C409/14",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310436089",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310436089",
+                            "date": "20230421"
+                        },
+                        {
+                            "doc-number": "202310436089.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310436089",
+                            "date": "20230421"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV XIAMEN"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "厦门大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHEN BINGHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAN YUJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG NUOWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JIEXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIE JIANRONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YE SONGSHOU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHENG JINBAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈秉辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "严聿捷, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张诺伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王结祥, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谢建榕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "叶松寿, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郑进保"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Composite catalyst as well as preparation method and application thereof",
+                    "一种复合催化剂及其制备方法和应用"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4282382",
+                                        "name": "WU YULIN",
+                                        "date": "19810804"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4282382",
+                                        "kind": "A",
+                                        "name": "WU YULIN",
+                                        "date": "19810804"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104941613",
+                                        "name": "UNIV WUHAN POLYTECHNIC",
+                                        "date": "20150930"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104941613",
+                                        "kind": "A",
+                                        "name": "UNIV WUHAN POLYTECHNIC",
+                                        "date": "20150930"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "4-10",
+                            "rel-passage": {
+                                "passage": "* 实施例1 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN106631954",
+                                        "name": "CHINA PETROLEUM & CHEM CORP, et al",
+                                        "date": "20170510"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "106631954",
+                                        "kind": "A",
+                                        "name": "CHINA PETROLEUM & CHEM CORP, et al",
+                                        "date": "20170510"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "8-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第[0059]-[0061]段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109647417",
+                                        "name": "YANCHENG INST TECH",
+                                        "date": "20190419"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109647417",
+                                        "kind": "A",
+                                        "name": "YANCHENG INST TECH",
+                                        "date": "20190419"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112736260",
+                                        "name": "FUJIAN INST RES STR MATTER CAS",
+                                        "date": "20210430"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112736260",
+                                        "kind": "A",
+                                        "name": "FUJIAN INST RES STR MATTER CAS",
+                                        "date": "20210430"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114464807",
+                                        "name": "SUZHOU NANOTECHNOLOGY AND NANO BIONIC RES INSTITUTE OF CHINESE ACADEMY OF SCIENCES",
+                                        "date": "20220510"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114464807",
+                                        "kind": "A",
+                                        "name": "SUZHOU NANOTECHNOLOGY AND NANO BIONIC RES INSTITUTE OF CHINESE ACADEMY OF SCIENCES",
+                                        "date": "20220510"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114804997",
+                                        "name": "CN SHENHUA COAL LIQUID & CHEM                                                                       ",
+                                        "date": "20220729"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114804997",
+                                        "kind": "A",
+                                        "name": "CN SHENHUA COAL LIQUID & CHEM                                                                       ",
+                                        "date": "20220729"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Zahra Gholami et al., \"Low-Temperature Selective Catalytic Reduction of NO by CO in the Presence of O2 over Cu:Ce Catalysts Supported by Multiwalled Carbon Nanotubes\", 《Industrial & Engineering Chemistry Research》, (20180608), vol. 57, pages 8871 - 8883"
+                            },
+                            "category": [
+                                "Y",
+                                "X"
+                            ],
+                            "rel-claims": [
+                                "4-10",
+                                "1-3"
+                            ]
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of organic synthesis, and particularly relates to a composite catalyst as well as a preparation method and application thereof. The low-valence cerium oxide and the low-valence copper oxide on the surface of the composite catalyst provided by the invention can improve the oxygen transmission and activation performance of the composite catalyst; according to the present invention, the electron transfer in the oxidation reaction is key, and the introduction of the reducing carbon material can effectively stabilize the copper and the cerium on the catalyst surface in the low valence state, the copper is mostly stabilized at the + 1 valence, and the cerium is mostly stabilized at the + 3 valence, such that the electron transfer in the oxidation reaction is easily achieved so as to improve the utilization rate of the activated oxygen species of the composite catalyst, therefore, the composite catalyst has high catalytic activity and high selectivity. The composite catalyst provided by the invention is used for catalytic oxidation of cyclohexylbenzene, the main product is cyclohexylbenzene hydrogen peroxide, the selectivity can reach 90.4%, and the conversion rate of cyclohexylbenzene can reach 34.2%."
+                },
+                {
+                    "p": "本发明属于有机合成技术领域，具体涉及一种复合催化剂及其制备方法和应用。本发明提供的复合催化剂表面的低价铈氧化物和低价铜氧化物可以提高其对氧气的传递和活化性能；由于氧化反应中电子传递较为关键，而具有还原性的碳材料的引入，可以有效地将催化剂表面的铜和铈稳定在低价态存在，其中铜大多稳定在+1价，铈大多稳定在+3价，有利于氧化反应中电子的传递，从而提高复合催化剂的活化氧物种利用率，使得复合催化剂兼具高催化活性与高选择性。本发明提供的复合催化剂用于催化氧化环己基苯，主要产物为环己基苯过氧化氢，选择性可以达到90.4％，环己基苯的转化率可以达到34.2％。"
+                }
+            ]
+        }
+    }
+}

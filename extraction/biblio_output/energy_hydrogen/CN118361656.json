@@ -1,0 +1,112 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118361656",
+                            "kind": "A",
+                            "date": "20240719"
+                        },
+                        {
+                            "doc-number": "CN118361656",
+                            "date": "20240719"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F17C  11/    00            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    02            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410623639",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410623639",
+                            "date": "20240520"
+                        },
+                        {
+                            "doc-number": "202410623639.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410623639",
+                            "date": "20240520"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "XIAMEN QINGYUAN TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "厦门氢鸢科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WU GANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO TENGJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭腾骏"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Solid hydrogen storage and refueling station and hydrogen storage control method",
+                    "一种固态储氢加氢站及储氢控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the field of hydrogen energy application, and discloses a solid hydrogen storage and refueling station which comprises a buffer tank group based on solid hydrogen storage and hydrogen exchange, a first hydrogen storage tank, a second hydrogen storage tank, a low-temperature hydrogen storage tank group, a first primary supercharging device, a second primary supercharging device, a secondary supercharging device, a pressure reducing valve, a cooling-water machine, a refueling machine and a hydrogen exchange machine, hydrogen of the hydrogen source is stored in the hydrogen exchange buffer tank group after passing through the first primary supercharging equipment, the first hydrogen storage tank and the pressure reducing valve; hydrogen in the hydrogen exchange buffer tank group is stored in the low-temperature hydrogen storage tank group through the second primary supercharging equipment, the second hydrogen storage tank and the secondary supercharging equipment; the low-temperature hydrogen storage tank set supplies cold hydrogen to the solid hydrogen storage device through the hydrogen adding machine, and the hydrogen exchange buffer tank set recovers hot hydrogen from the hydrogenated solid hydrogen storage device through the hydrogen exchange machine. The hydrogen refueling station takes solid hydrogen storage as a main hydrogen energy storage mode, has the advantages of high safety, high volume density and the like, and can be compatible with an existing 35Mpa hydrogen refueling station storage tank system."
+                },
+                {
+                    "p": "本发明涉及氢能源应用领域，公开了一种固态储氢加氢站，包括基于固态储氢换氢缓冲罐组、第一储氢罐、第二储氢罐、低温储氢罐组、第一一级增压设备、第二一级增压设备、二级增压设备、减压阀、冷水机、加氢机和换氢机；氢源的氢气经第一一级增压设备、第一储氢罐和减压阀后存储于换氢缓冲罐组中；换氢缓冲罐组中的氢气经第二一级增压设备、第二储氢罐、二级增压设备存储于低温储氢罐组中；低温储氢罐组通过加氢机给固态储氢装置供应冷氢，换氢缓冲罐组通过换氢机从加氢的固态储氢装置回收热氢。本加氢站以固态储氢为主要氢能源存储方式，具有高安全性、高体积密度等优点，可兼容现行35Mpa加氢站储罐体系。"
+                }
+            ]
+        }
+    }
+}

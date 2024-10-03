@@ -1,0 +1,195 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "AU",
+                            "doc-number": "2022455534",
+                            "kind": "A1",
+                            "date": "20240905"
+                        },
+                        {
+                            "doc-number": "AU2022455534",
+                            "date": "20240905"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    70            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "65",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "70",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "133",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "AU",
+                            "doc-number": "2022455534",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "AU20220455534",
+                            "date": "20221230"
+                        },
+                        {
+                            "doc-number": "2022455534"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "CN202210467711",
+                                    "date": "20220429"
+                                },
+                                {
+                                    "doc-number": "202210467711.4"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "WO2022CN144049",
+                                    "date": "20221230"
+                                },
+                                {
+                                    "doc-number": "CN2022/144049"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUNGROW HYDROGEN SCI &TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "SUNGROW HYDROGEN SCI.&TECH.CO., LTD"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI JIANGSONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN LONGLIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BAI YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN ZHIQUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "LI, Jiangsong, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "SUN, Longlin, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "BAI, Yang, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "CHEN, Zhiquan"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "NEW ENERGY HYDROGEN PRODUCTION SYSTEM AND CONTROL METHOD THEREFOR"
+            },
+            "abstract": {
+                "p": "The present application provides a new energy hydrogen production system and a control method therefor. In the new energy hydrogen production system, a new energy input module supplies power to electrolytic cells by means of a power conversion module; and a control system of the new energy hydrogen production system is used for controlling, according to the power of the new energy input module, the power conversion module to work, such that among N electrolytic cells in an operation state, at least N-1 electrolytic cells work in a preset load range. The preset load range is a corresponding load range having the highest system efficiency in an electrolytic cell working range division result prestored in the control system, i.e., the present application can enable as many electrolytic cells as possible to respectively work in the preset load range having the highest system efficiency, and therefore, the system efficiency is improved and is optimized to the extent possible."
+            }
+        }
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118313955",
+                            "kind": "A",
+                            "date": "20240709"
+                        },
+                        {
+                            "doc-number": "CN118313955",
+                            "date": "20240709"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410409736",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410409736",
+                            "date": "20240407"
+                        },
+                        {
+                            "doc-number": "202410409736.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410409736",
+                            "date": "20240407"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "POWERCHINA NORTHWEST ENGINEERING CORPORATION LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国电建集团西北勘测设计研究院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YANG QIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG ZHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHAO YUQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG KETING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG LIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI XIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FENG YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO TIECONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JIAFEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨茜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "姜仲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邵宇麒, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王柯婷, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王亮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李昕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "冯洋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵铁聪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王甲飞"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Urban hydrogen refueling station site selection method and system, electronic equipment and storage medium",
+                    "一种城区加氢站选址方法、系统、电子设备及存储介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an urban hydrogen refueling station site selection method and system, electronic equipment and a storage medium, and belongs to the technical field of hydrogen energy industry facility planning. The method comprises the following steps: determining the total number of hydrogen refueling stations according to daily hydrogen demands and supply capacities of hydrogen production and hydrogenation integrated stations and the hydrogen refueling stations; according to hydrogenation demand spatial distribution and superposition of the hydrogen refueling station candidate suitable areas in a geographic information system, obtaining potential demand-construction suitability comprehensive scores of candidate point locations, and sorting the potential demand-construction suitability comprehensive scores from high to low; and distributing the determined total number of the hydrogen refueling stations according to the comprehensive scores of the candidate sites to obtain final hydrogen refueling site selection distribution. And an analysis method based on data and a model enables a site selection result to be more accurate and scientific. By comprehensively considering various factors and carrying out scientific analysis, the resource allocation of the hydrogen refueling station can be optimized, and the maximum coverage range and the highest use efficiency are ensured to be realized under the limited resource condition."
+                },
+                {
+                    "p": "本发明公开了一种城区加氢站选址方法、系统、电子设备及存储介质，属于氢能产业设施规划技术领域。本方法根据每日用氢需求、制氢加氢一体站和加氢站的供给能力，确定加氢站总数量；根据加氢需求空间分布和加氢站候选适宜区在地理信息系统中叠加，获得候选点位的潜在需求‑适建性综合评分，并由高到低排序；根据候选点位的综合评分将确定的加氢站总数量分布，得到最终加氢选址分布。基于数据和模型的分析方法，使得选址结果更加精确和科学。通过综合考虑多种因素并进行科学分析，本发明能够优化加氢站的资源配置，确保在有限的资源条件下实现最大的覆盖范围和最高的使用效率。"
+                }
+            ]
+        }
+    }
+}

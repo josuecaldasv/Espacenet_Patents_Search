@@ -1,0 +1,226 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118326409",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118326409",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    67            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    70            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "G06F  30/    17            A I                    "
+                        },
+                        {
+                            "text": "G06F  30/    28            A I                    "
+                        },
+                        {
+                            "text": "G06F 119/    06            A N                    "
+                        },
+                        {
+                            "text": "G06F 119/    08            A N                    "
+                        },
+                        {
+                            "text": "G06F 119/    12            A N                    "
+                        },
+                        {
+                            "text": "G06F 119/    14            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410440179",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410440179",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "202410440179.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410440179",
+                            "date": "20240412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "THREE GORGES TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SICHUAN ENERGY INTERNET RESEARCH INSTITUTE OF TSINGHUA UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "三峡科技有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "清华四川能源互联网研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG BAOPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN MINGXUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU ZHANGTAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI DONGFANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG WENYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIA HONGJING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIA JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI LINFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TENG WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张宝平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈明轩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郁章涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李冬芳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王文雍, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贾宏晶, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘毅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贾俊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李林峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "滕威"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Topological design and control method for starting alkaline electrolytic cell unit",
+                    "一种启动碱性电解槽机组的拓扑设计和控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of hydrogen production through water electrolysis, and discloses a topological design and control method for starting an alkaline electrolytic cell unit, which comprises the following steps: designing a plurality of sets of alkaline liquid mixing topological modes according to an alkaline liquid circulation mode of a single electrolytic cell, determining the opening degrees of a diverter valve and a confluence valve of a cell group I, opening a diverter valve and a confluence valve of a cell group II, and controlling the flow, and the hot alkali liquor in the mixer is used for heating the alkali liquor for the second group of electrolytic cells till the temperature reaches the preset temperature, the second cell group is operated according to the working condition requirement, and power adjustment or shutdown operation is conducted on the started electrolytic cells according to the requirement. According to the topology design and control method for starting the alkaline electrolytic cell unit, the alkali liquor flow control is realized by optimizing the topology design of alkali liquor circulation and controlling the valve, the quick starting of the electrolytic cell unit is realized, and the accumulated starting time and the total starting energy consumption are reduced; and the accumulated starting time is reduced while the energy consumption is reduced."
+                },
+                {
+                    "p": "本发明涉及电解水制氢技术领域，且公开了启动碱性电解槽机组的拓扑设计和控制方法，包含根据单台电解槽碱液循环方式，设计多台套的碱液混合拓扑方式，确定槽组一的分流阀和汇流阀开度，打开槽组二的分流阀和汇流阀，并控制流量，利用混合器中的热碱液为第二组电解槽加热碱液，直至预设温度，依据工况需求对槽组二进行操作，根据需求对已启动电解槽实施功率调整或停机操作。该启动碱性电解槽机组的拓扑设计和控制方法，通过优化碱液循环的拓扑设计，并通过阀的控制实现碱液流量控制，实现电解槽机组的快速启动，减少开机累加时长和开机总能耗；减少能耗的同时，减少了累加的启动时间。"
+                }
+            ]
+        }
+    }
+}

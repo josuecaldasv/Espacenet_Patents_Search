@@ -1,0 +1,214 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118014201",
+                            "kind": "A",
+                            "date": "20240510"
+                        },
+                        {
+                            "doc-number": "CN118014201",
+                            "date": "20240510"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L  58/    30            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/   063            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H04L   9/    30            A I                    "
+                        },
+                        {
+                            "text": "H04L   9/    40            A I                    "
+                        },
+                        {
+                            "text": "H04L  65/   102            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "58",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "063",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "04",
+                            "subclass": "L",
+                            "main-group": "9",
+                            "subgroup": "302",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "04",
+                            "subclass": "L",
+                            "main-group": "63",
+                            "subgroup": "0428",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "04",
+                            "subclass": "L",
+                            "main-group": "65",
+                            "subgroup": "102",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410130945",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410130945",
+                            "date": "20240129"
+                        },
+                        {
+                            "doc-number": "202410130945.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410130945",
+                            "date": "20240129"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA AUTOMOTIVE ENG RES INST"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " CHINA AUTOMOBILE INSTITUTE NEW ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国汽车工程研究院股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中汽院新能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHENG JIANFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAN YUANYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HONG YANZHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FENG JIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郑建峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "甘元艺, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "洪晏忠, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "冯杰"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Real-time calculation method for carbon integral of hydrogen fuel cell automobile",
+                    "氢燃料电池汽车碳积分的实时计算方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a real-time calculation method for carbon integral of a hydrogen fuel cell vehicle. The method comprises the following steps: S1, data acquisition: acquiring voltage and current data of a terminal fuel cell and voltage and current data of a power cell; s2, data uploading: based on an MQTT transmission protocol, a sensor device or a TBOX uploads the data of the hydrogen fuel cell vehicle to a message queue from a terminal; s3, real-time calculation: calculating data of the engine consumption message queue in real time to complete data verification; and S4, carbon integral calculation: performing carbon integral real-time calculation on the verified data, and after calculation is completed, performing library falling and filing operation. The carbon integral real-time calculation method which is clear in thought, economical, reasonable and small in error is provided for the carbon integral of the hydrogen fuel cell vehicle, and the method has the advantages of being safe, reliable, high in real-time performance, high in accuracy, low in cost and the like."
+                },
+                {
+                    "p": "本发明提出了一种氢燃料电池汽车碳积分的实时计算方法，包括以下步骤：S1，数据采集：采集终端燃料电池的电压、电流数据和动力电池的电压、电流数据；S2，数据上传：基于MQTT传输协议，传感器设备或者TBOX将氢燃料电池汽车的数据从终端上传到消息队列中；S3，实时计算：实时计算引擎消费消息队列的数据，完成数据校验；S4，碳积分计算：对完成校验的数据进行碳积分实时计算，计算完成后进行落库归档操作。本发明针对氢燃料电池汽车碳积分提供了一种思路清晰、经济合理、误差较小的碳积分实时计算方法，具有安全可靠、实时性强、准确性高、成本低等特点。"
+                }
+            ]
+        }
+    }
+}

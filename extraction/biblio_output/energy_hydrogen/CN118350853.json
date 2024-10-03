@@ -1,0 +1,185 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118350853",
+                            "kind": "A",
+                            "date": "20240716"
+                        },
+                        {
+                            "doc-number": "CN118350853",
+                            "date": "20240716"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06N   3/   006            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0201            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410549032",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410549032",
+                            "date": "20240506"
+                        },
+                        {
+                            "doc-number": "202410549032.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410549032",
+                            "date": "20240506"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GUOHUA CHICHENG WIND POWER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " BEIJING LEIDONG ZHICHUANG TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国华（赤城）风电有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京雷动智创科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YU JIANGUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIA YONGQING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BIAN HUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE RUIGUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN MINGMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHANG JIALEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GU HAITAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "于建国, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贾永清, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "边辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贺瑞国, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙名名, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "尚加磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谷海涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张雷"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Optimization method and system for hydrogen production system containing wind power generation",
+                    "一种含风力发电的制氢系统优化方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a method and system for optimizing a hydrogen production system containing wind power generation, and the method comprises the following steps: analyzing the related cost of the hydrogen production system containing wind power generation, and obtaining a revenue function; establishing a comparative analysis model based on the revenue function; the comparative analysis model is solved, an optimal configuration scheme is obtained, and the optimal configuration scheme is used for carrying out optimal configuration on the capacity of the hydrogen production system containing wind power generation. Compared with a traditional capacity optimization configuration scheme, the method has the advantages that sensitivity analysis can be carried out from multiple prices, and the overall income change is observed by adjusting different hydrogen energy prices and grid-connected prices, so that the overall income is highest, and the configured scheme better conforms to the actual condition. And the hydrogen production system is adopted as an energy storage element, so that the waste of wind power resources is reduced, and the resource utilization rate is improved."
+                },
+                {
+                    "p": "本发明公开了一种含风力发电的制氢系统优化方法及系统，其中方法包括以下步骤：对含风力发电的制氢系统的相关成本进行分析，获得收益函数；基于所述收益函数，建立比较分析模型；对所述比较分析模型进行求解，获取最优配置方案，所述最优配置方案用于对含风力发电的制氢系统的容量进行优化配置。与传统的容量优化配置方案相比，本发明能够从多个价格进行敏感性分析，通过调整不同的氢能价格和并网价格，观察整体的收益变化，实现整体的收益最高，使得配置的方案更符合实际状况。采用制氢系统作为储能元件，减少了风电的资源浪费，提高了资源利用率。"
+                }
+            ]
+        }
+    }
+}

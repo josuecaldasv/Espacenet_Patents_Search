@@ -1,0 +1,225 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "114696469",
+                            "kind": "A",
+                            "date": "20220701"
+                        },
+                        {
+                            "doc-number": "CN114696469",
+                            "date": "20220701"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   7/    35            A I                    "
+                        },
+                        {
+                            "text": "H02J  13/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "7",
+                            "subgroup": "35",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "13",
+                            "subgroup": "00001",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "13",
+                            "subgroup": "00002",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "13",
+                            "subgroup": "00016",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "13",
+                            "subgroup": "00022",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "13",
+                            "subgroup": "00032",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202210317833",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202210317833",
+                            "date": "20220325"
+                        },
+                        {
+                            "doc-number": "202210317833.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202210317833",
+                            "date": "20220325"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHONGQING MAGNESIUM STORAGE NEW MATERIAL SCIENCE AND TECH LIMITED COMPANY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "重庆镁储新材料科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "PAN JIANYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DU YIHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO YIHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAN SHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN YUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PAN FUSHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "潘建宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杜翊豪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵一晖, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "闫升, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈玉安, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "潘复生"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Energy management system of light energy power generation solid magnesium-based hydrogen storage system",
+                    "一种光能发电固态镁基储氢系统的能源管理系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an energy management system of a light energy power generation solid magnesium-based hydrogen storage system, which comprises the light energy power generation solid magnesium-based hydrogen storage system, a parameter monitoring system for monitoring voltage, current, temperature and hydrogen flow of the light energy power generation solid magnesium-based hydrogen storage system, and a data collector for collecting data of the parameter monitoring system, the data collector is connected with the central controller through a transmission communication unit, the upper computer and the cloud online server are connected to the central controller through the transmission communication unit, and the upper computer is provided with a human-computer interaction interface. According to the energy management system of the light energy power generation solid magnesium-based hydrogen storage system, the state quantity of a key link can be monitored and protected in real time, and visual online management of the system is realized by utilizing a human-computer interaction interface, so that the safety management, operation and maintenance capabilities of the light energy power generation solid magnesium-based hydrogen storage system are improved. The method has good popularization value in the field of new energy hydrogen production and storage."
+                },
+                {
+                    "p": "本发明提供一种光能发电固态镁基储氢系统的能源管理系统，包括光能发电固态镁基储氢系统，包括用于监测所述光能发电固态镁基储氢系统的电压、电流、温度、氢流量的参量监测系统以及用于采集所述参量监测系统数据的数据采集器，所述数据采集器通过传输通信单元与中央控制器连接，还包括通过传输通信单元连接到所述中央控制器的上位机和云端在线服务器，所述上位机具有人机交互界面。本发明提供的光能发电固态镁基储氢系统的能源管理系统能够对关键环节状态量进行实时监测和保护，并利用人机交互界面实现对系统的可视化在线管理，从而提高了光能发电固态镁基储氢系统的安全管理，运行和维护能力。本发明在新能源制氢能储氢领域具有良好的推广价值。"
+                }
+            ]
+        }
+    }
+}

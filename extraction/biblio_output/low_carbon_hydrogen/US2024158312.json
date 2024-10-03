@@ -1,0 +1,132 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2024158312",
+                            "kind": "A1",
+                            "date": "20240516"
+                        },
+                        {
+                            "doc-number": "US2024158312",
+                            "date": "20240516"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "C05C   1/    00            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "05",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "05",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "05",
+                            "subclass": "C",
+                            "main-group": "3",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "202318493202",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US202318493202",
+                            "date": "20231024"
+                        },
+                        {
+                            "doc-number": "18493202"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US202263424728P",
+                                    "date": "20221111"
+                                },
+                                {
+                                    "doc-number": "63424728"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": {
+                                "doc-number": "US202318493202",
+                                "date": "20231024"
+                            }
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "PROMACHINE INC [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "ProMachine, Inc"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "PROHASKA JAMES [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "Prohaska, James"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "SYSTEM AND METHOD FOR PRODUCING AMMONIA, UREA, AND UAN"
+            },
+            "abstract": {
+                "p": "A fertilizer production plant is co-located with an ethanol production plant. Low value organic material waste such as corn fiber is gasified to produce hydrogen. Ambient air is separated to produce nitrogen and oxygen. Hydrogen and nitrogen are reacted to produce ammonia. Carbon dioxide generated by the ethanol production plant and the ammonia are reacted to produce urea. The oxygen and ammonia are used to produce ammonium nitrate, and urea and ammonium nitrate are processed to produce area ammonium nitrate (UAN)."
+            }
+        }
+    }
+}

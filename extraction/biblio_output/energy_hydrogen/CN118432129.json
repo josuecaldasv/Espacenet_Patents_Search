@@ -1,0 +1,198 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118432129",
+                            "kind": "A",
+                            "date": "20240802"
+                        },
+                        {
+                            "doc-number": "CN118432129",
+                            "date": "20240802"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        },
+                        {
+                            "text": "H02S  40/    38            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410438508",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410438508",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "202410438508.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410438508",
+                            "date": "20240412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUANENG CLEAN ENERGY RES INSTITUTE"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " HUANENG ZHANGYE ENERGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国华能集团清洁能源技术研究院有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华能张掖能源有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG CHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO HAIJIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JINYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU ZHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO WEIQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG GUANJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG KEGONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG LIPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI RUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张畅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭海礁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王金意, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴展, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭伟琦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨冠军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张克功, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨立平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李睿"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Off-grid light hydrogen storage system",
+                    "一种离网型光氢储系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The embodiment of the invention provides an off-grid light hydrogen storage system. The off-grid light hydrogen storage system comprises an off-grid photovoltaic power generation subsystem, an electrolytic hydrogen production subsystem and an energy storage subsystem, the off-grid photovoltaic power generation subsystem is used for supplying power to the electrolytic hydrogen production subsystem; the electrolytic hydrogen production subsystem is configured to meet transient shutdown operation which is not less than a target shutdown duration; and the energy storage subsystem is used for determining the energy storage capacity according to the photovoltaic typical working curve of the off-grid photovoltaic power generation subsystem, the performance of the electrolytic hydrogen production subsystem and the shutdown duration demand so as to supply power to an auxiliary power utilization unit of the electrolytic hydrogen production subsystem within the time range not less than the target shutdown duration. According to the off-grid light hydrogen storage system, power supply is supported through energy storage, continuous operation of the auxiliary power utilization unit can be achieved, and the situation that the input cost is increased due to the fact that the energy storage capacity is too large can be avoided."
+                },
+                {
+                    "p": "本公开的实施例提供一种离网型光氢储系统，所述离网型光氢储系统包括离网型光伏发电子系统、电解制氢子系统和储能子系统；所述离网型光伏发电子系统，用于向所述电解制氢子系统供电；所述电解制氢子系统，被配置为能够满足不小于目标停机时长的暂态停机操作；所述储能子系统，用于根据所述离网型光伏发电子系统的光伏典型工作曲线、所述电解制氢子系统的性能以及停机时长需求确定储能容量，以满足在不小于所述目标停机时长的时间范围内为所述电解制氢子系统的辅助用电单元供电。本公开的实施例的离网型光氢储系统，通过储能支持供电，可以实现辅助用电单元的连续运行，且能够避免储能容量过大增加投入成本。"
+                }
+            ]
+        }
+    }
+}

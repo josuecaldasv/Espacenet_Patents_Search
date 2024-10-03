@@ -1,0 +1,117 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118198433",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118198433",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H01M   8/ 04664            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04679",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211599433",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211599433",
+                            "date": "20221212"
+                        },
+                        {
+                            "doc-number": "202211599433.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211599433",
+                            "date": "20221212"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WEISHI ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "未势能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "FU YING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "付莹"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method and device for troubleshooting anode fault of hydrogen supply system and electronic equipment",
+                    "供氢系统阳极故障的排查方法、装置和电子设备"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a method and a device for checking anode faults of a hydrogen supply system and electronic equipment, and relates to the technical field of hydrogen fuel cells, the method comprises the following steps: comparing a pre-detected in-pile pressure at an electric pile anode inlet with a preset pressure threshold value, and generating an in-pile pressure abnormal result; according to the in-pile pressure abnormity result and the first troubleshooting table, fault detection is carried out on parts of the hydrogen supply main path, and main loop fault correlation parameters are determined; the first troubleshooting table comprises a main loop fault type and a corresponding troubleshooting sequence; according to the method, the reasons of the in-pile pressure abnormity are determined on the basis of the main loop fault correlation parameters, the technical problems that in existing hydrogen supply system fault detection, the process is not clear, and the efficiency is low are solved, and the effects of hydrogen supply system fault troubleshooting process and high efficiency are achieved."
+                },
+                {
+                    "p": "本发明提供了一种供氢系统阳极故障的排查方法、装置和电子设备，涉及氢燃料电池技术领域，该方法包括：将预先检测的电堆阳极入口处的入堆压力与预先设定的压力阈值进行比较，生成入堆压力异常结果；根据入堆压力异常结果以及第一故障排查表，对供氢主路的零件进行故障检测，确定主回路故障关联参数；第一故障排查表包括主回路故障类型以及相应的排查顺序；基于主回路故障关联参数，确定入堆压力异常的原因，通过该方法缓解了现有供氢系统故障检测中存在的流程不清晰、效率低的技术问题，实现了供氢系统故障排查的流程化、高效率的效果。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118412498",
+                            "kind": "A",
+                            "date": "20240730"
+                        },
+                        {
+                            "doc-number": "CN118412498",
+                            "date": "20240730"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04225            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04302            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04313            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04955            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04992            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410094045",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20241094045",
+                            "date": "20240123"
+                        },
+                        {
+                            "doc-number": "202410094045.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20241094045",
+                            "date": "20240123"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING WENLI TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京稳力科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HUA QINGSONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZUO LINLIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEI JIANXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "华青松, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "左琳琳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张杨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "魏建新"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Start control method and device of fuel cell",
+                    "一种燃料电池的启动控制方法和装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a starting control method and device of a fuel cell, and relates to the field of cell control, and the method comprises the following steps: calculating the interval time between the current starting and the last starting of the fuel cell; determining whether the interval time is smaller than a preset minimum starting interval or not; if yes, starting power supply of the prepared lithium battery to enable the prepared lithium battery to transmit electric energy to the electric equipment; calculating starting difference time between the interval time and a preset minimum starting interval; after the power supply time of the preparation lithium battery reaches the starting difference time, increasing the pressure of a hydrogen inlet and the pressure of an air inlet; turning on power supply of the fuel cell, and turning off power supply of the prepared lithium battery, so that the fuel cell transmits electric energy to the electric equipment; the preliminary lithium battery is charged using the fuel cell. By implementing the method, a proper starting mode can be selected according to the starting interval time, so that the fuel cell is prevented from being frequently turned on and turned off while smooth starting is ensured, and the service life of the fuel cell is prolonged."
+                },
+                {
+                    "p": "一种燃料电池的启动控制方法和装置，涉及电池控制领域，该方法包括：计算燃料电池的本次启动与上次启动的间隔时间；确定间隔时间是否小于预设最小启动间隔；若是，则开启预备锂电池的供电，使其输送电能到用电设备；计算间隔时间与预设最小启动间隔的启动差值时间；在预备锂电池的供电时间达到启动差值时间之后，使氢气入口压力进行增长、空气入口压力进行增长；开启燃料电池的供电，并关闭预备锂电池的供电，使燃料电池输送电能到用电设备；使用燃料电池对预备锂电池进行充电。实施该方法，能够根据启动间隔时间，选择恰当的启动方式，在保证平滑启动的同时，避免燃料电池频繁开关机，提高其使用寿命。"
+                }
+            ]
+        }
+    }
+}

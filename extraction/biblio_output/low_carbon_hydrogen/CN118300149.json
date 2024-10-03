@@ -1,0 +1,155 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118300149",
+                            "kind": "A",
+                            "date": "20240705"
+                        },
+                        {
+                            "doc-number": "CN118300149",
+                            "date": "20240705"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    14            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J  13/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410198272",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410198272",
+                            "date": "20240222"
+                        },
+                        {
+                            "doc-number": "202410198272.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410198272",
+                            "date": "20240222"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "POWERCHINA NEW ENERGY GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中电建新能源集团股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG YANTAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG LANJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU RENJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO ZHIBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG ANYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU ZHAOMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张彦涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张兰君, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘仁杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵志斌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王安宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周昭民"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Energy control method for distributed wind-solar hydrogen production system",
+                    "分布式风光制氢系统能源控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of new energy, and discloses a distributed wind and light hydrogen production system energy control method, which comprises a converter, an inverter, a bidirectional converter, a PEM hydrogen production device and park load equipment which are connected into a power grid, a wind power generation device or a charging pile is connected through the converter, and the inverter is connected with a photovoltaic power generation device. The PEM hydrogen production device is connected with an electrochemical energy storage device through the bidirectional converter, the PEM hydrogen production device is connected with a hydrogen storage device and an oxygen storage device, the hydrogen storage device is connected with a hydrogen refueling station and a hydrogen fuel cell, the PEM hydrogen production device is connected with thermal load equipment, and the power grid is a 400V alternating current power grid. The comprehensive utilization rate of energy is improved. And under the policy of time-of-use electricity price, the problems of low electricity price and low yield rate in low ebb or deep valley at noon time can be effectively solved. And the transition from low carbon to 0 carbon in the park is realized."
+                },
+                {
+                    "p": "本发明涉及新能源技术领域，公开了分布式风光制氢系统能源控制方法，包括并入电网连接的变流器、逆变器、双向变流器、PEM制氢装置以及园区负荷设备，通过所述变流器连接有风力发电装置或充电桩，所述逆变器连接有光伏发电装置，通过所述双向变流器连接有电化学储能装置，所述PEM制氢装置连接有储氢装置和储氧装置，所述储氢装置连接有加氢站和氢燃料电池，所述PEM制氢装置连接有热负荷设备，所述电网为400V交流电网。本发明提高了能源综合利用率。在分时电价政策下，能有效解决中午时段低谷或深谷时电价较低，收益率低的情况。实现园区从低碳到0碳的过渡。"
+                }
+            ]
+        }
+    }
+}

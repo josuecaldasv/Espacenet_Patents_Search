@@ -1,0 +1,182 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118183622",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118183622",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    04            A I                    "
+                        },
+                        {
+                            "text": "G05D  27/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "047",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "05",
+                            "subclass": "D",
+                            "main-group": "27",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410305426",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410305426",
+                            "date": "20240318"
+                        },
+                        {
+                            "doc-number": "202410305426.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410305426",
+                            "date": "20240318"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV JILIN"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "吉林大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DU YAODONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FU JIAQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG CAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG ZHONGSHU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI LU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU ZIKANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU KAIRUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杜耀东, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "付嘉琦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄灿, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王忠恕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李路, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘子康, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘铠睿"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Vehicle-mounted internal and external self-heating type ammonia conversion hydrogen production system and control method thereof",
+                    "一种车载内外自热型氨转化制氢系统及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention is applicable to the technical field of ammonia conversion hydrogen production, and provides a vehicle-mounted internal and external self-heating type ammonia conversion hydrogen production system and a control method thereof, and the system comprises an ammonia decomposition hydrogen production device, an ammonia supply unit, a self-heating device and an electric control unit. According to the system, different working modes can be selected, in the cold start process, hydrogen filtered by the hydrogen purification device and stored in the hydrogen temporary storage tank serves as main fuel to be introduced into a combustion chamber of the self-heating device, and heat generated by combustion is transmitted to the reaction inner cavity to provide heat for ammonia decomposition reaction. In the idling process, mixed gas generated by the ammonia decomposition reaction is introduced into the hydrogen purification device through the gas temporary storage tank, then passes through the hydrogen storage tank, is finally introduced into a combustion chamber of the self-heating device in real time, and is matched with tail gas waste heat to provide heat for the ammonia decomposition hydrogen production reaction in real time. The energy consumption of ammonia fuel automobile operation is effectively reduced, and the problem of insufficient fuel supply during cold start of an ammonia fuel automobile is relieved."
+                },
+                {
+                    "p": "本发明适用于氨转化制氢技术领域，提供了一种车载内外自热型氨转化制氢系统及其控制方法，所述系统包括：氨分解制氢装置、供氨单元、自加热装置以及电控单元。该系统可选择不同的工作方式，在冷启动过程中，利用经过氢气提纯装置过滤后存储于氢气暂存罐内的氢气，作为主要燃料通入自加热装置的燃烧室内，而燃烧产生的热量则传递至反应内腔，为氨分解反应提供热量。在怠速过程中，氨分解反应产生的混合气由气体暂存罐通入氢气提纯装置，进而通过储氢罐，最后实时通入自加热装置的燃烧室内，与尾气余热相配合，实时为氨分解制氢反应提供热量。有效降低了氨燃料汽车运行的能源消耗，并缓解了氨燃料汽车冷启动时燃料供给不足的问题。"
+                }
+            ]
+        }
+    }
+}

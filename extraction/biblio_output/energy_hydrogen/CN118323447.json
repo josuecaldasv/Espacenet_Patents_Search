@@ -1,0 +1,125 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118323447",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118323447",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B64D  27/    02            A I                    "
+                        },
+                        {
+                            "text": "B64D  27/    10            A I                    "
+                        },
+                        {
+                            "text": "B64D  27/    16            A I                    "
+                        },
+                        {
+                            "text": "B64D  31/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410360016",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410360016",
+                            "date": "20240327"
+                        },
+                        {
+                            "doc-number": "202410360016.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410360016",
+                            "date": "20240327"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "AECC SHENYANG ENGINE RES INSTITUTE"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国航发沈阳发动机研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU XUYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO SHUAIFAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DUAN YUFA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘旭阳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭帅帆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "段玉发"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Airplane parallel combined engine system and control method thereof",
+                    "一种飞机并联组合发动机系统及其操控方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of airplane parallel combined engine design, and particularly relates to an airplane parallel combined engine system and a control method thereof. Liquid hydrogen serves as fuel, and in the modal conversion stage, the temperature of air entering a turbine engine is reduced through hydrogen fuel gasification; in this way, the thrust of the turbine engine can be kept large within the Mach number of 2-3, thrust traps are avoided, when the flight speed is larger than 4, the temperature of the aircraft structure can be reduced through hydrogen fuel gasification, and damage to the aircraft structure caused by aerodynamic heat in the high-speed flight state is avoided. The energy released in the absorption and expansion process of the hydrogen fuel is used for driving power generation in the whole flight profile, continuous and reliable work of the auxiliary power system is guaranteed, energy is provided for the aircraft, and safe flight of the aircraft is guaranteed."
+                },
+                {
+                    "p": "本申请属于飞机并联组合发动机设计技术领域，具体涉及一种飞机并联组合发动机系统及其操控方法，设计以液氢作为燃料，在模态转换阶段，利用氢燃料气化降低进入涡轮发动机的空气温度，以此可使涡轮发动机的推力在马赫数2‑3之间保持较大的推力，避免产生推力陷阱，以及可在飞行速度大于4时，利用氢燃料气化降低飞机结构温度，避免了高速飞行状态下的气动热，对飞机结构造成损伤，此外，在整个飞行剖面内利用氢燃料的吸收和膨胀过程释放的能量驱动发电，保证辅助动力系统连续可靠的工作，为飞机提供能源，保证飞机的安全飞行。"
+                }
+            ]
+        }
+    }
+}

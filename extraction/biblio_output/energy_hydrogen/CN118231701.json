@@ -1,0 +1,178 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118231701",
+                            "kind": "A",
+                            "date": "20240621"
+                        },
+                        {
+                            "doc-number": "CN118231701",
+                            "date": "20240621"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04029            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0432            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04992            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  2465            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04029",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04328",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04358",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04992",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "2465",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410299043",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410299043",
+                            "date": "20240315"
+                        },
+                        {
+                            "doc-number": "202410299043.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410299043",
+                            "date": "20240315"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ZHENGZHOU XINRUI HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "郑州欣瑞氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU ZIXUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG GUANGLI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘自勋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张广莉"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen heater for regulating and controlling hydrogen fuel system and ejector and control method of hydrogen heater",
+                    "调控氢燃料系统及引射器的氢气加热器及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a hydrogen heater for regulating and controlling a hydrogen fuel system and an ejector and a control method of the hydrogen heater, and mainly relates to the field of hydrogen fuel cell systems. Comprising a hydrogen heat exchange device which is connected with a heating device; the method further comprises the following steps: reading state information; determining whether the ejector is started or not; the ejector calculation module calculates related data; reading the working state information of the electric pile; the temperature calculation module is used for calculating the temperature condition of hydrogen in the ejector; judging the gas temperature of the mixing area; and the outlet temperature and the ejection capacity of the ejector are judged. The vehicle-mounted hydrogen storage ejector has the beneficial effects that high-pressure gas provided by a vehicle-mounted hydrogen storage system can be heated, intelligent heating is conducted after the temperature is monitored through a matched control method, condensate water can be effectively reduced, the influence on the ejection performance of the ejector can be avoided, the ejection capacity of the ejector can be improved, and application and popularization are facilitated."
+                },
+                {
+                    "p": "本发明公开了调控氢燃料系统及引射器的氢气加热器及其控制方法，主要涉及氢燃料电池系统领域。包括氢气换热装置，所述氢气换热装置连接有加热装置；还包括以下步骤：读取状态信息；确定引射器是否开启；引射器计算模块计算相关数据；读取电堆工作状态信息；温度计算模块对引射器内部的氢气温度情况进行计算；判断混合区气体温度；判断引射器出口温度以及引射能力。本发明的有益效果在于：能对由车载储氢系统提供的高压气体进行加热，并通过配套的控制方法来监控温度后智能加热，能有效减少冷凝水的产生，避免影响引射器本身的引射性能，还可以提升引射器的引射能力，有利于推广使用。"
+                }
+            ]
+        }
+    }
+}

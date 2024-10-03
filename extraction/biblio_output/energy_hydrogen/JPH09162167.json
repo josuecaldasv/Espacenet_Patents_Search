@@ -1,0 +1,199 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "JP",
+                            "doc-number": "H09162167",
+                            "kind": "A",
+                            "date": "19970620"
+                        },
+                        {
+                            "doc-number": "JPH09162167",
+                            "date": "19970620"
+                        }
+                    ]
+                },
+                "classification-ipc": {
+                    "text": [
+                        "H01L21/3065",
+                        "H01L21/28"
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01L  21/    28            A I                    "
+                        },
+                        {
+                            "text": "H01L  21/   302            A I                    "
+                        },
+                        {
+                            "text": "H01L  21/  3065            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01L21/28&301R"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01L21/28&301S"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01L21/28&301T"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01L21/302&F"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01L21/302&N"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01L21/302&101D"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "H01L21/302&104Z"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4M104/BB01"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4M104/BB14"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4M104/BB28"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4M104/DD23"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4M104/DD31"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4M104/DD47"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4M104/GG09"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4M104/HH11"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/AA06"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/BA14"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/BA20"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/BB13"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/BB14"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/CA03"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/DA23"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/DA24"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "5F004/DB00"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "JP",
+                            "doc-number": "31644595",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "JP19950316445",
+                            "date": "19951205"
+                        },
+                        {
+                            "doc-number": "7316445"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "JP19950316445",
+                            "date": "19951205"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SONY CORP"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "SONY CORP"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "KADOMURA SHINGO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "KADOMURA SHINGO"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "FABRICATION OF SEMICONDUCTOR DEVICE"
+            },
+            "abstract": {
+                "p": "PROBLEM TO BE SOLVED: To remove natural oxide efficiently while reducing damage to a substrate. SOLUTION: Natural oxide is removed from the surface of the layer of silicon based material using a pulse time modulation plasma of hydrogen based gas. Since the effective electron temperature is lower in the pulse time modulation plasma as compared with a continuous discharge plasma, generation of high energy hydrogen based active species is suppressed. Furthermore, the sheath voltage decreases and thereby the collision energy of charged particle decreases. Especially, when the effective electron temperature is selected lower than the interatomic bonding energy of Si-Si bond, possibility of destruction of a crystal lattice in a single crystal Si substrate is substantially zero. According to the method, natural oxide on the bottom face of the contact hole or on the surface of source/drain region 16 in the salicide process can be removed well."
+            }
+        }
+    }
+}

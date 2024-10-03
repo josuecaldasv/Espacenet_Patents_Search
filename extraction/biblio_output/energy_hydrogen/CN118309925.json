@@ -1,0 +1,162 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118309925",
+                            "kind": "A",
+                            "date": "20240709"
+                        },
+                        {
+                            "doc-number": "CN118309925",
+                            "date": "20240709"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F17C   5/    06            A I                    "
+                        },
+                        {
+                            "text": "F17D   1/    02            A I                    "
+                        },
+                        {
+                            "text": "F17D   3/    01            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310020740",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20231020740",
+                            "date": "20230106"
+                        },
+                        {
+                            "doc-number": "202310020740.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20231020740",
+                            "date": "20230106"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ENRIC LANGFANG ENERGY EQUIPMENT INTEGRATION CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "安瑞科（廊坊）能源装备集成有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG PENGNA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DU YULONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN NING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG HE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MA DONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LU MENGLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张鹏娜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杜玉龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈宁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王贺, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马东, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卢孟龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李涛"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Filling station and hydrogen filling system",
+                    "充装站及氢气充装系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a filling station and a hydrogen filling system. The hydrogen filling system comprises a connecting pipeline, at least two compressors arranged on the downstream of the connecting pipeline in parallel, a sequence control panel, at least two hydrogen storage bottle groups, a plurality of hydrogenation columns, a plurality of flow detection devices and a controller. The hydrogenation columns are connected with all the compressors at the same time; each flow detection device is used for detecting the real-time flow value of the corresponding hydrogenation column; the controller receives a real-time flow value of the flow detection equipment and outputs a control signal to the sequence control panel; wherein when the real-time flow value provided by the hydrogen storage bottle groups to the outside is lower than a preset flow value, the sequence control panel switches the hydrogen storage bottle group which supplies gas currently into another hydrogen storage bottle group; when the real-time flow values provided by all the hydrogen storage bottle groups are lower than the preset flow value, the sequence control panel controls all the hydrogen storage bottle groups to stop supplying gas, the controller controls the compressor to directly supply gas outwards through the hydrogenation column, and the preset flow value is 1-5 m &lt; 3 &gt;/min."
+                },
+                {
+                    "p": "本发明提供了一种充装站及氢气充装系统。氢气充装系统包括连接管路、并联设置于连接管路的下游的至少两压缩机、顺序控制盘、至少两储氢瓶组、多个加氢柱、多个流量检测设备和控制器。且各加氢柱均同时与所有压缩机连接；各流量检测设备用于检测对应的加氢柱的实时流量值；控制器接收流量检测设备的实时流量值并输出控制信号至顺序控制盘；其中，在储氢瓶组向外提供的实时流量值低于一预设流量值时，顺序控制盘将当前供气的储氢瓶组切换为另一储氢瓶组；在所有储氢瓶组所提供的实时流量值均低于预设流量值时，顺序控制盘控制所有储氢瓶组停止供气，控制器控制压缩机直接通过加氢柱向外供气，预设流量值为1～5m3/min。"
+                }
+            ]
+        }
+    }
+}

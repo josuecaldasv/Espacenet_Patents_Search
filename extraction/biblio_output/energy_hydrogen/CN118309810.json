@@ -1,0 +1,159 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118309810",
+                            "kind": "A",
+                            "date": "20240709"
+                        },
+                        {
+                            "doc-number": "CN118309810",
+                            "date": "20240709"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F16K   1/    54            A I                    "
+                        },
+                        {
+                            "text": "F16K  31/    04            A I                    "
+                        },
+                        {
+                            "text": "F16K  31/    50            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    02            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311100955",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311100955",
+                            "date": "20230829"
+                        },
+                        {
+                            "doc-number": "202311100955.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311100955",
+                            "date": "20230829"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANGHAI ZHESHEN NEW ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "上海柘申新能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HU DONGHAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAO JIUYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIANG CHENJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FENG CHUNXIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡东海, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "姚久永, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "项陈杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "冯春晓"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Intelligent pressure reducing valve device and system for fuel cell automobile",
+                    "一种燃料电池汽车智能减压阀装置及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an intelligent pressure reduction system of a fuel cell automobile. According to the technical scheme, a valve body device part comprises a first-stage pressure reducing device and a second-stage pressure reducing device, ball screws are installed on a rotating shaft of an alternating-current servo motor in the first-stage pressure reducing device and the second-stage pressure reducing device respectively, and the ball screws convert rotating motion of the alternating-current servo motor into axial reciprocating motion for driving a pressure reducing valve rod; and the size of the variable gap between the first-stage pressure reducing valve rod head and the lower end face of the first-stage air inlet and the size of the variable gap between the second-stage pressure reducing valve rod and the left end face of the second-stage air inlet are adjusted. And according to the sizes of the two variable gaps, the hydrogen management system carries out fuzzy active-disturbance-rejection control on respective alternating current servo motors in the form of sending pulse signals through the two alternating current servo motor drivers according to the hydrogen pressure in the hydrogen storage bottle and the real-time hydrogen pressure required by the galvanic pile. According to the device and the system, the pressure in the vehicle-mounted hydrogen storage bottle can be precisely reduced to the real-time target hydrogen pressure required by the galvanic pile, so that hydrogen is saved, and the service life of the galvanic pile is prolonged."
+                },
+                {
+                    "p": "本发明公开了一种燃料电池汽车智能减压系统。本发明的技术方案是：阀体装置部分包括一级减压装置和二级减压装置，其内部各自将滚珠丝杠安装在交流伺服电机转轴上，滚珠丝杠将交流伺服电机的旋转运动转换为带动减压阀杆的轴向往复运动，进而调整一级减压阀杆头与一级进气口下端面之间可变间隙和二级减压阀杆与二级进气口左端面之间可变间隙的大小。两处可变间隙的大小根据储氢瓶内氢气压力和电堆所需实时氢气压力的大小由氢气管理系统通过两个交流伺服电机驱动器以发送脉冲信号的形式对各自交流伺服电机进行模糊自抗扰控制。该装置及系统能够将车载储氢瓶内的压力精准减压至电堆所需的实时目标氢气压力，从而节约氢气和延长电堆使用寿命。"
+                }
+            ]
+        }
+    }
+}

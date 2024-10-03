@@ -1,0 +1,205 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118221134",
+                            "kind": "A",
+                            "date": "20240621"
+                        },
+                        {
+                            "doc-number": "CN118221134",
+                            "date": "20240621"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01C   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "0417",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "0482",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "0488",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "65",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "52",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410362351",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410362351",
+                            "date": "20240328"
+                        },
+                        {
+                            "doc-number": "202410362351.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410362351",
+                            "date": "20240328"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV FUZHOU"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "福州大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIN LI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SONG CHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG LILONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN CHONGQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "林立, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "江莉龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈崇启"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Green ammonia synthesis system and control method thereof",
+                    "一种绿色合成氨系统及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a green ammonia synthesis system and a control method thereof. The green ammonia synthesis system comprises an ammonia synthesis device and a controller, the ammonia synthesis device comprises a synthesis gas compressor, a synthesis ammonia reactor, a heat exchange unit and a separation unit; the synthesis gas compressor is respectively connected with hydrogen and nitrogen feeding and the heat exchange unit, the synthesis ammonia reactor is connected with the heat exchange unit, and the heat exchange unit is connected with the separation unit. The controller comprises a flow controller, a multiplier controller, a temperature controller, a liquid level controller, a pressure controller and a component controller; and parameters (such as load, rotating speed, opening degree and the like) of corresponding equipment devices are controlled based on the change of each process parameter. A high-robustness control structure is designed, when renewable energy fluctuates, the system can be quickly and effectively regulated and controlled under hydrogen load fluctuation, and stable, effective and safe operation of the technological process is guaranteed."
+                },
+                {
+                    "p": "本申请提供了一种绿色合成氨系统及其控制方法，包括合成氨装置和控制器；氨合成装置包括合成气压缩机、合成氨反应器、换热单元和分离单元；合成气压缩机分别连接氢气、氮气进料和换热单元，合成氨反应器连接所述换热单元，换热单元连接分离单元。控制器包括流量控制器、乘数控制器、温度控制器、液位控制器、压力控制器和组分控制器；基于各工艺参数的变化控制相应设备装置的参数（如负荷、转速、开度等）。本申请设计了高鲁棒性的控制结构，在可再生能源波动时，能够满足系统在氢气负荷波动下快速有效地进行调控，使工艺流程保证稳定有效安全地运行。"
+                }
+            ]
+        }
+    }
+}

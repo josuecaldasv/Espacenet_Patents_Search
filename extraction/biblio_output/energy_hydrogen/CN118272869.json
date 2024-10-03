@@ -1,0 +1,183 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118272869",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118272869",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    00            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "36",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410380249",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410380249",
+                            "date": "20240330"
+                        },
+                        {
+                            "doc-number": "202410380249.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410380249",
+                            "date": "20240330"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "718TH RES INSTITUTE OF CHINA STATE SHIPBUILDING CORPORATION LIMITED"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国船舶集团有限公司第七一八研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GUO SHAOBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YUGUANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN JUNKAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI LIMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " REN HANGXING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG JINPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHU JIA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭少波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张玉广, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙俊凯, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李黎明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任航星, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨金彭, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "朱佳"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Pressure and liquid level control system of water electrolysis hydrogen production equipment under variable power operation",
+                    "变功率运行下的水电解制氢设备的压力和液位控制系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The embodiment of the invention provides a pressure and liquid level control system of water electrolysis hydrogen production equipment under variable power operation, which comprises a PLC (Programmable Logic Controller) control device used for controlling the hydrogen production and purification process flow of the water electrolysis equipment and comprising PID (Proportion Integration Differentiation) control logic of pressure and liquid level; and the embedded control device is used for respectively acquiring signals of the hydrogen side liquid level sensor, the oxygen side liquid level sensor and the system pressure sensor, reading a pressure set value in the PLC control device, controlling the pressure and the liquid level through a pressure and liquid level control algorithm, and accumulating operation data for optimizing control parameters in the operation process. An embedded control device which is low in reliability and capable of conducting complex algorithm operation is combined with a PLC control device which is high in reliability and not prone to complex programming, and fast response, low overshoot and high precision of pressure and liquid level control of water electrolysis hydrogen production equipment can be stably and reliably achieved in a new energy hydrogen production variable working condition mode."
+                },
+                {
+                    "p": "本发明实施例提供了一种变功率运行下的水电解制氢设备的压力和液位控制系统，包括：PLC控制装置，其用以控制水电解设备的制氢和纯化的工艺流程，包括压力和液位的PID控制逻辑；嵌入式控制装置，其用以分别采集氢侧液位传感器、氧侧液位传感器和系统压力传感器的信号，并读取所述PLC控制装置中的压力设定值，通过压力和液位控制算法，对压力和液位进行控制，以及在运行过程中积累用于优化控制参数的运行数据。其实现将可靠性低但可进行复杂算法运行的嵌入式控制装置，同可靠性高但实现不易复杂编程的PLC控制装置结合，可以稳定可靠地实现水电解制氢设备在新能源制氢的变工况模式下，压力、液位控制的快响应、低超调、高精度。"
+                }
+            ]
+        }
+    }
+}

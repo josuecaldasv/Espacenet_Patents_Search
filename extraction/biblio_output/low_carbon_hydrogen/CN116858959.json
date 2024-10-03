@@ -1,0 +1,205 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116858959",
+                            "kind": "A",
+                            "date": "20231010"
+                        },
+                        {
+                            "doc-number": "CN116858959",
+                            "date": "20231010"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G01N   1/    22            A I                    "
+                        },
+                        {
+                            "text": "G01N  30/    02            A I                    "
+                        },
+                        {
+                            "text": "G01N  30/    68            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "1",
+                            "subgroup": "2214",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "1",
+                            "subgroup": "2273",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "30",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "30",
+                            "subgroup": "68",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "2030",
+                            "subgroup": "025",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "A",
+                            "main-group": "50",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310831819",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310831819",
+                            "date": "20230707"
+                        },
+                        {
+                            "doc-number": "202310831819.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310831819",
+                            "date": "20230707"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SICHUAN ZHONGKANG TESTING TECH SERVICE CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "四川众康检测技术服务有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG WEICAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HOU YUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FAN RONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ZIQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LONG TINGYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张伟才, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "侯玥, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "范容, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李自强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "龙廷艳"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for measuring content of acetone in air",
+                    "一种空气中丙酮含量测定方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a method for determining the content of acetone in air, belongs to the technical field of gas detection, and aims to solve the problems of low sensitivity and large error of the existing gas chromatographic method for determining the content of acetone in air. The method comprises the following steps: (1) collecting and storing a sample; (2) sample treatment; (3) obtaining a standard curve; (4) sample injection detection; and (5) determining the sample. According to the method, an activated carbon sampling tube is used for adsorption, methanol is used for desorption, then a DB-624 capillary column is used for separation, and a hydrogen flame detector (FPD) is used for determination, as a target acetone peak appears before a solvent peak, and a solvent peak tailing phenomenon does not influence acetone separation, the detection limit of analysis is lower, and the accuracy, precision and sensitivity are higher; during detection, interference of coexisting substances such as methanol, benzene, xylene, carbon disulfide, formaldehyde, ethanol and acetylacetone can be avoided, the sampling time is shortened, and the labor cost is saved. The invention is suitable for the method for measuring the acetone content in the air."
+                },
+                {
+                    "p": "本发明公开了一种空气中丙酮含量测定方法，属于气体检测技术领域，目的在于解决现有气相色谱法测定空气中丙酮灵敏度低、误差较大的问题。其包括以下步骤：(1)样品的采集和保存；(2)样品处理；(3)标准曲线；(4)进样检测；(5)样品的测定。通过用活性炭采样管吸附，用甲醇解析后用DB‑624毛细管柱分离，用氢火焰检测器(FPD)测定，由于目标峰丙酮峰在溶剂峰前出峰，溶剂峰拖尾现象对丙酮分离不会影响，使分析的检出限更低，准确度、精密度、灵敏度更高，检测时可不受甲醇、苯、二甲苯、二硫化碳、甲醛、乙醇、乙酰丙酮等共存物干扰，并且采样时间变短，节约了人工成本。本发明适用于一种空气中丙酮含量测定方法。"
+                }
+            ]
+        }
+    }
+}

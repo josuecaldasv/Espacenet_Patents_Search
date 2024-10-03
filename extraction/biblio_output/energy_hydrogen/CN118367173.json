@@ -1,0 +1,156 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118367173",
+                            "kind": "A",
+                            "date": "20240719"
+                        },
+                        {
+                            "doc-number": "CN118367173",
+                            "date": "20240719"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04089            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0438            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04992            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410544240",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410544240",
+                            "date": "20240430"
+                        },
+                        {
+                            "doc-number": "202410544240.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410544240",
+                            "date": "20240430"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING QINGYUN NEW ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " ZHONGZHOU GUOXIN BEIJING TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京氢沄新能源科技有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中洲国鑫（北京）科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI TIANRUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FANG FANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU HUIJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SONG CHENZHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李天睿, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "方芳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐会杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋晨正"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen circulation control method, device and equipment of double ejectors and storage medium",
+                    "双引射器的氢气循环控制方法、装置、设备及存储介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a hydrogen circulation control method, device and equipment of double ejectors and a storage medium. The hydrogen circulation control method of the double ejectors comprises the following steps: acquiring an in-pile pressure value in real time; according to a preset target pressure value and the in-pile pressure value, subtracting to obtain a pressure difference value; according to the preset target pressure value, the target opening duty ratio of the first hydrogen supply valve group is calculated; according to the pressure difference value, the actual opening duty ratio of the first hydrogen supply valve group is obtained through a preset analysis mode; and according to the numerical relationship between the target opening duty ratio and the actual opening duty ratio, the actual opening duty ratio of the second hydrogen supply valve group is analyzed. According to the technical scheme, hydrogen circulation of the anode side of the galvanic pile is achieved through the double ejectors, a hydrogen circulation pump high in hardware cost and fault rate can be avoided, and the hardware cost and the fault rate are reduced while the full-power-section requirement of the galvanic pile is met."
+                },
+                {
+                    "p": "本发明公开了一种双引射器的氢气循环控制方法、装置、设备及存储介质。所述双引射器的氢气循环控制方法，包括：实时获取入堆压力值；根据预设的目标压力值和所述入堆压力值，相减得到压力差值；根据所述预设的目标压力值，计算出第一供氢阀组的目标开度占空比；根据所述压力差值，通过预设的分析方式得到第一供氢阀组的实际开度占空比；根据所述目标开度占空比和所述实际开度占空比的数值关系，分析出所述第二供氢阀组的实际开度占空比。本申请的技术方案通过双引射器实现电堆的阳极侧的氢气循环，可避免使用硬件成本和故障率均较高的氢气循环泵，在满足电堆的全功率段需求的同时，降低了硬件成本和故障率。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,320 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116273131",
+                            "kind": "A",
+                            "date": "20230623"
+                        },
+                        {
+                            "doc-number": "CN116273131",
+                            "date": "20230623"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  27/    24            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    26            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "27",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "0277",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310351095",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310351095",
+                            "date": "20230404"
+                        },
+                        {
+                            "doc-number": "202310351095.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310351095",
+                            "date": "20230404"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANGHAI TIAN YANG STEEL TUBE CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "上海天阳钢管有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HE JIANZHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何建忠"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Metal-free catalyst for directly converting methane into hydrogen and preparation method thereof",
+                    "一种将甲烷直接转化为氢的无金属催化剂及其制备方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "GB359620",
+                                        "name": "IG FARBENINDUSTRIE AG",
+                                        "date": "19311029"
+                                    },
+                                    {
+                                        "country": "GB",
+                                        "doc-number": "359620",
+                                        "kind": "A",
+                                        "name": "IG FARBENINDUSTRIE AG",
+                                        "date": "19311029"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2002083644",
+                                        "name": "SATA NAOAKI [JP], et al",
+                                        "date": "20020704"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2002083644",
+                                        "kind": "A1",
+                                        "name": "SATA NAOAKI [JP], et al",
+                                        "date": "20020704"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102220566",
+                                        "name": "WUXI SIXTH ELEMENT HI TECH DEV CO LTD",
+                                        "date": "20111019"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102220566",
+                                        "kind": "A",
+                                        "name": "WUXI SIXTH ELEMENT HI TECH DEV CO LTD",
+                                        "date": "20111019"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107108206",
+                                        "name": "SABIC GLOBAL TECHNOLOGIES BV",
+                                        "date": "20170829"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107108206",
+                                        "kind": "A",
+                                        "name": "SABIC GLOBAL TECHNOLOGIES BV",
+                                        "date": "20170829"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107876076",
+                                        "name": "UNIV DALIAN TECH",
+                                        "date": "20180406"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107876076",
+                                        "kind": "A",
+                                        "name": "UNIV DALIAN TECH",
+                                        "date": "20180406"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110452079",
+                                        "name": "UNIV SOUTHEAST",
+                                        "date": "20191115"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110452079",
+                                        "kind": "A",
+                                        "name": "UNIV SOUTHEAST",
+                                        "date": "20191115"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111185155",
+                                        "name": "DALIAN INST CHEM & PHYSICS CAS",
+                                        "date": "20200522"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111185155",
+                                        "kind": "A",
+                                        "name": "DALIAN INST CHEM & PHYSICS CAS",
+                                        "date": "20200522"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114408866",
+                                        "name": "DALIAN SCIENCE AND ENGINEERING UNIV",
+                                        "date": "20220429"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114408866",
+                                        "kind": "A",
+                                        "name": "DALIAN SCIENCE AND ENGINEERING UNIV",
+                                        "date": "20220429"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a metal-free catalyst for directly converting methane into hydrogen and a preparation method of the metal-free catalyst. The flame-retardant agent comprises the following raw materials in parts by weight: 5-10 parts of ammonium borate, 10-20 parts of urea, 20-30 parts of nitrogen, 5-10 parts of aluminum oxide, 1-5 parts of sodium zirconium oxide, 5-10 parts of silicate, 2-6 parts of nitride, 1-9 parts of calcium oxide, 1-3 parts of epoxide and 5-10 parts of polyethylene glycol. The catalyst consists of ammonium borate, urea, nitrogen, aluminum oxide, sodium zirconium oxide, silicate, nitride, calcium oxide, epoxide and polyethylene glycol, and has efficient catalytic activity and stability. The catalyst can convert methane into hydrogen at a low temperature and generate a small amount of carbon dioxide and carbon monoxide at the same time, and the catalytic activity and stability of the catalyst are both superior to those of a traditional noble metal catalyst. The catalyst can directly convert methane into hydrogen, the reaction rate is high, the selectivity is high, the stability is good, and the preparation method of the catalyst is simple and convenient and low in cost."
+                },
+                {
+                    "p": "本发明涉及一种将甲烷直接转化为氢的无金属催化剂及其制备方法，此无金属催化剂，按重量份数计包括以下原料：硼酸铵5‑10份、尿素10‑20份、氮气20‑30份、氧化铝5‑10份、钠锆氧化物1‑5份、硅酸盐5‑10份、氮化物2‑6份、氧化钙1‑9份、环氧化物1‑3份以及聚乙二醇5‑10份。该催化剂由硼酸铵、尿素、氮气、氧化铝、钠锆氧化物、硅酸盐、氮化物、氧化钙、环氧化物以及聚乙二醇组成，具有高效的催化活性和稳定性。该催化剂可以在低温下将甲烷转化为氢，同时产生少量的二氧化碳和一氧化碳，该催化剂的催化活性和稳定性均优于传统的贵金属催化剂。该催化剂能够将甲烷直接转化为氢气，反应速率快、选择性高、稳定性好，催化剂的制备方法简便，成本低廉。"
+                }
+            ]
+        }
+    }
+}

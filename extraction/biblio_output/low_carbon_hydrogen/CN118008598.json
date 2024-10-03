@@ -1,0 +1,494 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118008598",
+                            "kind": "A",
+                            "date": "20240510"
+                        },
+                        {
+                            "doc-number": "CN118008598",
+                            "date": "20240510"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F02D  19/    02            A I                    "
+                        },
+                        {
+                            "text": "F02D  19/    08            A I                    "
+                        },
+                        {
+                            "text": "F02D  41/    00            A I                    "
+                        },
+                        {
+                            "text": "F02D  41/    30            A I                    "
+                        },
+                        {
+                            "text": "F02M  21/    02            A I                    "
+                        },
+                        {
+                            "text": "F02M  25/    12            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "D",
+                            "main-group": "41",
+                            "subgroup": "0025",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "D",
+                            "main-group": "41",
+                            "subgroup": "0027",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "D",
+                            "main-group": "41",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "21",
+                            "subgroup": "0206",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "25",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410418153",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410418153",
+                            "date": "20240409"
+                        },
+                        {
+                            "doc-number": "202410418153.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410418153",
+                            "date": "20240409"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WEICHAI POWER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "潍柴动力股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG DECHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GU YUNCHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZENG FAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU HONGZHE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG HAIRUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG XUEPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SU XINGDONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王德成, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谷允成, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曾凡, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘洪哲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张海瑞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王雪鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宿兴东"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Control method of ammonia engine system and vehicle",
+                    "一种氨发动机系统的控制方法及车辆"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5305714",
+                                        "name": "SEKIGUCHI KIYONORI [JP], et al",
+                                        "date": "19940426"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5305714",
+                                        "kind": "A",
+                                        "name": "SEKIGUCHI KIYONORI [JP], et al",
+                                        "date": "19940426"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2008121690",
+                                        "name": "TOYOTA MOTOR CORP",
+                                        "date": "20080529"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2008121690",
+                                        "kind": "A",
+                                        "name": "TOYOTA MOTOR CORP",
+                                        "date": "20080529"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2009097421",
+                                        "name": "TOYOTA CENTRAL RES & DEV, et al",
+                                        "date": "20090507"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2009097421",
+                                        "kind": "A",
+                                        "name": "TOYOTA CENTRAL RES & DEV, et al",
+                                        "date": "20090507"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2014122632",
+                                        "name": "MAN DIESEL & TURBO SE",
+                                        "date": "20140703"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2014122632",
+                                        "kind": "A",
+                                        "name": "MAN DIESEL & TURBO SE",
+                                        "date": "20140703"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "DE102020006983",
+                                        "name": "FEV GROUP GMBH [DE], et al",
+                                        "date": "20210311"
+                                    },
+                                    {
+                                        "country": "DE",
+                                        "doc-number": "102020006983",
+                                        "kind": "A1",
+                                        "name": "FEV GROUP GMBH [DE], et al",
+                                        "date": "20210311"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113202660",
+                                        "name": "UNIV HARBIN ENG",
+                                        "date": "20210803"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113202660",
+                                        "kind": "A",
+                                        "name": "UNIV HARBIN ENG",
+                                        "date": "20210803"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114562397",
+                                        "name": "UNIV CHONGQING",
+                                        "date": "20220531"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114562397",
+                                        "kind": "A",
+                                        "name": "UNIV CHONGQING",
+                                        "date": "20220531"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115982510",
+                                        "name": "SHANGHAI NEW POWER AUTOMOBILE TECH CO LTD",
+                                        "date": "20230418"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115982510",
+                                        "kind": "A",
+                                        "name": "SHANGHAI NEW POWER AUTOMOBILE TECH CO LTD",
+                                        "date": "20230418"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116146361",
+                                        "name": "UNIV HARBIN ENG                                                                                     ",
+                                        "date": "20230523"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116146361",
+                                        "kind": "A",
+                                        "name": "UNIV HARBIN ENG                                                                                     ",
+                                        "date": "20230523"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116624295",
+                                        "name": "UNIV TIANJIN                                                                                        ",
+                                        "date": "20230822"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116624295",
+                                        "kind": "A",
+                                        "name": "UNIV TIANJIN                                                                                        ",
+                                        "date": "20230822"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116696566",
+                                        "name": "FAW JIEFANG AUTOMOTIVE CO                                                                           ",
+                                        "date": "20230905"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116696566",
+                                        "kind": "A",
+                                        "name": "FAW JIEFANG AUTOMOTIVE CO                                                                           ",
+                                        "date": "20230905"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116988896",
+                                        "name": "FAW JIEFANG AUTOMOTIVE CO                                                                           ",
+                                        "date": "20231103"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116988896",
+                                        "kind": "A",
+                                        "name": "FAW JIEFANG AUTOMOTIVE CO                                                                           ",
+                                        "date": "20231103"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117404209",
+                                        "name": "UNIV TIANJIN                                                                                        ",
+                                        "date": "20240116"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117404209",
+                                        "kind": "A",
+                                        "name": "UNIV TIANJIN                                                                                        ",
+                                        "date": "20240116"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2024018897",
+                                        "name": "ZHOU LEI [CN], et al",
+                                        "date": "20240118"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2024018897",
+                                        "kind": "A1",
+                                        "name": "ZHOU LEI [CN], et al",
+                                        "date": "20240118"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a control method of an ammonia engine system and a vehicle. The ammonia engine system comprises a hydrogen supply device, and the hydrogen supply device prepares liquid ammonia into hydrogen through waste gas heat of an ammonia engine and provides the hydrogen to the ammonia engine; the control method of the ammonia engine system comprises the steps that the calibrated injection amount of hydrogen injected to an ammonia engine by a hydrogen supply device is obtained; acquiring a water temperature value of the ammonia engine, and correcting the calibrated injection amount according to the water temperature value to obtain a reference injection amount; the storage capacity of hydrogen in the hydrogen supply device is obtained, and the target injection amount of hydrogen injected to the ammonia engine by the hydrogen supply device is adjusted according to the storage capacity and the reference injection amount; and controlling the hydrogen supply device to inject hydrogen to the ammonia engine according to the target injection amount. According to the technical scheme, the combustion rate in the ammonia engine cylinder can be increased, the problem that the combustion efficiency in the ammonia engine cylinder is low is solved, meanwhile, the oil consumption of diesel oil can be reduced, and then carbon emission is reduced."
+                },
+                {
+                    "p": "本发明公开了一种氨发动机系统的控制方法及车辆，氨发动机系统包括氢气供应装置，氢气供应装置利用氨发动机的废气热量将液氨制备成氢气并提供至氨发动机；氨发动机系统的控制方法包括：获取氢气供应装置向氨发动机喷射氢气的标定喷射量；获取氨发动机的水温值，并根据水温值对标定喷射量进行修正得到基准喷射量；获取氢气供应装置中氢气的储存容量，并根据储存容量和基准喷射量，调整氢气供应装置向氨发动机喷射氢气的目标喷射量；控制氢气供应装置按照目标喷射量向氨发动机喷射氢气。上述技术方案，可以提升氨发动机缸内的燃烧速率，改善氨发动机缸内燃烧效率低的问题，同时可以减少柴油的油耗，进而减少碳排放。"
+                }
+            ]
+        }
+    }
+}

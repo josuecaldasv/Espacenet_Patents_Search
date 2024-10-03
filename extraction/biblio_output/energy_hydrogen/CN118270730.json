@@ -1,0 +1,339 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118270730",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118270730",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    32            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    34            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04298            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0612            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410703605",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410703605",
+                            "date": "20240603"
+                        },
+                        {
+                            "doc-number": "202410703605.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410703605",
+                            "date": "20240603"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NANJING UNIV OF AERONAUTICS AND ASTRONAUTICS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "南京航空航天大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG ZAIXING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MAO JUNKUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIANG FENGLI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE ZHENZONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王在兴, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "毛军逵, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭燏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "梁凤丽, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贺振宗"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Testing system and debugging method for hydrogen production and power generation through liquid fuel reforming",
+                    "一种用于液态燃料重整制氢发电的试验系统及调试方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CA1291319",
+                                        "name": "ENGELHARD CORP [US]",
+                                        "date": "19911029"
+                                    },
+                                    {
+                                        "country": "CA",
+                                        "doc-number": "1291319",
+                                        "kind": "C",
+                                        "name": "ENGELHARD CORP [US]",
+                                        "date": "19911029"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6541142",
+                                        "name": "YU PAUL TAICHIANG [US], et al",
+                                        "date": "20030401"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6541142",
+                                        "kind": "B1",
+                                        "name": "YU PAUL TAICHIANG [US], et al",
+                                        "date": "20030401"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105777489",
+                                        "name": "SHANGHAI HYDROGEN MOBILE REFORMER INSTR CO LTD",
+                                        "date": "20160720"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105777489",
+                                        "kind": "A",
+                                        "name": "SHANGHAI HYDROGEN MOBILE REFORMER INSTR CO LTD",
+                                        "date": "20160720"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107302100",
+                                        "name": "BEIJING INSTITUTE TECH, et al",
+                                        "date": "20171027"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107302100",
+                                        "kind": "A",
+                                        "name": "BEIJING INSTITUTE TECH, et al",
+                                        "date": "20171027"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107640743",
+                                        "name": "SHENHUA GROUP CORP LTD, et al",
+                                        "date": "20180130"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107640743",
+                                        "kind": "A",
+                                        "name": "SHENHUA GROUP CORP LTD, et al",
+                                        "date": "20180130"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109546189",
+                                        "name": "UNIV NANJING AERONAUTICS & ASTRONAUTICS",
+                                        "date": "20190329"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109546189",
+                                        "kind": "A",
+                                        "name": "UNIV NANJING AERONAUTICS & ASTRONAUTICS",
+                                        "date": "20190329"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110018246",
+                                        "name": "XIANG DEFU",
+                                        "date": "20190716"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110018246",
+                                        "kind": "A",
+                                        "name": "XIANG DEFU",
+                                        "date": "20190716"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "KR102147918B",
+                                        "name": "LK ENERGY CO LTD [KR], et al",
+                                        "date": "20200826"
+                                    },
+                                    {
+                                        "country": "KR",
+                                        "doc-number": "102147918",
+                                        "kind": "B1",
+                                        "name": "LK ENERGY CO LTD [KR], et al",
+                                        "date": "20200826"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112290051",
+                                        "name": "MOH TECH CO LTD",
+                                        "date": "20210129"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112290051",
+                                        "kind": "A",
+                                        "name": "MOH TECH CO LTD",
+                                        "date": "20210129"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114665120",
+                                        "name": "NANJING AEROSPACE UNIV",
+                                        "date": "20220624"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114665120",
+                                        "kind": "A",
+                                        "name": "NANJING AEROSPACE UNIV",
+                                        "date": "20220624"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a test system for hydrogen production and power generation by liquid fuel reforming and a debugging method. The test system comprises a group of control valves, a fuel supply pump, a water evaporator, an oil evaporator, a preheater, a reforming reactor, a water-gas shift reactor, a pressure swing adsorption device and a fuel cell. By finely adjusting the opening and closing states of the valves, the system can realize free switching among different liquid fuels under the condition that the reforming catalyst is not replaced, so that the stable, safe and efficient operation of the test system is ensured. The system supports various liquid fuels, is suitable for reforming hydrogen production and power generation of biomass and hydrocarbon liquid fuels, provides data support and technical verification for future large-scale application, has a wide application prospect, and can be expanded to a plurality of fields such as distributed energy systems and new energy transportation. The method can be applied to the fields of distributed energy systems, portable power supply equipment, new energy transportation and the like."
+                },
+                {
+                    "p": "本发明公开了一种用于液态燃料重整制氢发电的试验系统及调试方法，包括一组控制阀门、燃料供应泵、水蒸发器、油蒸发器、预热器、重整反应器、水汽变换反应器、变压吸附装置以及燃料电池。通过精细调节各阀门开闭状态，本系统能够在不更换重整催化剂的情况下，实现不同液态燃料之间的自由切换，确保了试验系统的稳定、安全和高效运行。本系统支持多种液态燃料，适用于生物质和碳氢液体燃料的重整制氢发电，为未来规模化应用提供数据支持和技术验证，而且其应用前景广阔，可拓展至分布式能源系统以及新能源交通运输等多个领域。可以应用于分布式能源系统、便携式电源设备和新能源交通运输等领域。"
+                }
+            ]
+        }
+    }
+}

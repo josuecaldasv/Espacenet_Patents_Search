@@ -1,0 +1,221 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117114546",
+                            "kind": "A",
+                            "date": "20231124"
+                        },
+                        {
+                            "doc-number": "CN117114546",
+                            "date": "20231124"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06N   3/   086            A I                    "
+                        },
+                        {
+                            "text": "G06N   3/   126            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/   083            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0832            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "N",
+                            "main-group": "3",
+                            "subgroup": "086",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "N",
+                            "main-group": "3",
+                            "subgroup": "126",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06312",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06313",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "083",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "0832",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311278208",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311278208",
+                            "date": "20230928"
+                        },
+                        {
+                            "doc-number": "202311278208.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311278208",
+                            "date": "20230928"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV NORTH CHINA ELECTRIC POWER"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " BEIJING UNIV OF SCIENCE AND TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华北电力大学, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京科技大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG SHUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI YINGZI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU QIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIAO YANGMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG JIAYUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张硕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李英姿, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "肖阳明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张家源"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogenation network transportation scheduling method in renewable energy hydrogen production mode and computing device",
+                    "可再生能源制氢模式下加氢网络运输调度方法及计算设备"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a transportation scheduling method of a hydrogenation network in a renewable energy hydrogen production mode and computing equipment. The transportation scheduling method comprises the following steps: determining the total transportation cost of the hydrogenation network at least based on transportation and storage of hydrogen energy in the hydrogenation network, and generating a first objective function; based on a fuzzy time window, the customer satisfaction degree of the hydrogen refueling station in the hydrogen refueling network is determined, a second objective function is generated, and the fuzzy time window comprises a customer satisfaction first time range and a customer acceptable second time range; generating a hydrogenation network transportation scheduling model based on the first objective function and the second objective function, and at least constraining a hydrogen refueling station, a hydrogen production station and a hydrogen energy transport vehicle in the hydrogenation network to generate constraint conditions of the hydrogenation network transportation scheduling model; and solving the hydrogenation network transportation scheduling model under constraint conditions to obtain a transportation scheduling result of the hydrogenation network. According to the invention, a feasible solution is provided for transportation scheduling of the hydrogenation network in a renewable energy hydrogen production mode."
+                },
+                {
+                    "p": "本申请公开了可再生能源制氢模式下加氢网络的运输调度方法及计算设备。运输调度方法包括：至少基于氢能在加氢网络中的运输和储存，确定加氢网络的运输总成本，并生成第一目标函数；基于模糊时间窗，确定加氢网络中加氢站的客户满意度，并生成第二目标函数，其中模糊时间窗包括客户满意的第一时间范围和客户能接受的第二时间范围；基于第一目标函数和第二目标函数，生成加氢网络运输调度模型，并至少对加氢网络中的加氢站、制氢站和氢能运输车进行约束，以生成加氢网络运输调度模型的约束条件；在约束条件下求解加氢网络运输调度模型，以得到加氢网络的运输调度结果。根据本申请，为可再生能源制氢模式下加氢网络的运输调度提供了可行的解决方案。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,200 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "TW",
+                            "doc-number": "202330639",
+                            "kind": "A",
+                            "date": "20230801"
+                        },
+                        {
+                            "doc-number": "TW202330639",
+                            "date": "20230801"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C08F   2/    44            A I                    "
+                        },
+                        {
+                            "text": "C08F   2/    50            A I                    "
+                        },
+                        {
+                            "text": "G02B   5/    20            A I                    "
+                        },
+                        {
+                            "text": "G02F   1/  1339            A I                    "
+                        },
+                        {
+                            "text": "G03F   7/   004            A I                    "
+                        },
+                        {
+                            "text": "G03F   7/   027            A I                    "
+                        },
+                        {
+                            "text": "G03F   7/   028            A I                    "
+                        },
+                        {
+                            "text": "G03F   7/   038            A I                    "
+                        },
+                        {
+                            "text": "G09F   9/    30            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "290",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "290",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "03",
+                            "subclass": "F",
+                            "main-group": "7",
+                            "subgroup": "004",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "03",
+                            "subclass": "F",
+                            "main-group": "7",
+                            "subgroup": "004",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "03",
+                            "subclass": "F",
+                            "main-group": "7",
+                            "subgroup": "038",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "03",
+                            "subclass": "F",
+                            "main-group": "7",
+                            "subgroup": "038",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "09",
+                            "subclass": "F",
+                            "main-group": "9",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "TW",
+                            "doc-number": "111143392",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "TW20220143392",
+                            "date": "20221114"
+                        },
+                        {
+                            "doc-number": "111143392"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "JP20210186260",
+                                "date": "20211116"
+                            },
+                            {
+                                "doc-number": "20210186260"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "OSAKA ORGANIC CHEMICAL IND LTD [JP]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "OSAKA ORGANIC CHEMICAL INDUSTRY LTD"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TAKEUCHI YUTARO [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " AWA SHIGEKI [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "TAKEUCHI, YUTARO, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "AWA, SHIGEKI"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Photosensitive resin composition, cured product and image display device"
+            },
+            "abstract": {
+                "p": "One purpose of the present invention is to provide a photosensitive resin composition which is capable of forming a cured product that has excellent scratch resistance. Another purpose of the present invention is to provide: a photosensitive resin composition which has excellent curability at low temperatures and excellent photolithographic properties in addition to the above-described characteristic; a cured product which is obtained from this photosensitive resin composition; and an image display device which comprises this cured product. A photosensitive resin composition according to the present invention contains: an alkali-soluble resin that has one or more repeating structural units X represented by general formula (1); and a crosslinking agent. (In the formula, R1 represents a hydrogen atom or a methyl group; R2 represents a linking group having one or more carbon atoms; R3 represents an organic group represented by general formula (2) or a hydroxy group, which is bonded to a carbon atom in the linking group; and R4 represents a hydroxyl group or an organic group, which is bonded to a carbon atom in the linking group.) (In the formula, R5 represents a hydrocarbon group which has 2 to 7 carbon atoms in the main structure, an organic group which contains a heteroatom and has 3 to 8 carbon atoms in the main structure, or an organic group which contains a carboxyl group and has 2 to 7 carbon atoms in the main structure.)."
+            }
+        }
+    }
+}

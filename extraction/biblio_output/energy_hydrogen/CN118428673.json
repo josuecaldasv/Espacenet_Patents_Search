@@ -1,0 +1,168 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118428673",
+                            "kind": "A",
+                            "date": "20240802"
+                        },
+                        {
+                            "doc-number": "CN118428673",
+                            "date": "20240802"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410577086",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410577086",
+                            "date": "20240510"
+                        },
+                        {
+                            "doc-number": "202410577086.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410577086",
+                            "date": "20240510"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "XIAN JIAOTONG UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西安交通大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XU ZHANBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIAN XIYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DONG XIANGXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG SHUOBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU JIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU KUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUAN XIAOHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐占伯, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "简禧彦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董翔翔, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王硕斌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴江, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘坤, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "管晓宏"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Long-term and short-term scheduling method for hydrogen-terrestrial heat coordinated multi-energy system",
+                    "一种氢-地热协同的多能源系统的长短期调度方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a long-term and short-term scheduling method for a hydrogen-terrestrial heat coordinated multi-energy system. A photovoltaic power generation system, an electrolytic cell, a compressor, a hydrogen storage tank, a fuel cell, a waste heat recovery device, a ground source heat pump, a terrestrial heat well, a hot water tank and a cold water tank are included. According to the method, the thermal dynamic and multi-energy coupling dynamic characteristics of the soil are accurately described, and the operation characteristics of each device of the system can be accurately described; and meanwhile, a two-stage long-short-term scheduling method is adopted, so that the solving difficulty caused by the hard constraint of the energy storage initial and final state balance is solved. According to the method, mismatching of renewable energy supply and user demands in the day scale and the season scale can be balanced, and an economic and low-carbon day-ahead scheduling strategy of the system is obtained while the sustainability of geothermal energy and seasonal hydrogen storage in the system is guaranteed."
+                },
+                {
+                    "p": "本发明公开了一种氢‑地热协同的多能源系统的长短期调度方法，包括光伏发电系统、电解槽、压缩机与储氢罐、燃料电池、余热回收装置、地源热泵、地热井、热水罐以及冷水罐。该方法实现了对土壤热动态、多能耦合动态特性的精确刻画，可以准确的描述系统各设备的运行特性；同时采用两阶段长短期调度方法，解决了储能初末状态平衡的硬约束带来的求解困难。本发明可以平衡可再生能源供应和用户需求在日内尺度和季节尺度的不匹配，并且在保证系统中地热能、季节储氢可持续性的同时，得到系统经济、低碳的日前调度策略。"
+                }
+            ]
+        }
+    }
+}

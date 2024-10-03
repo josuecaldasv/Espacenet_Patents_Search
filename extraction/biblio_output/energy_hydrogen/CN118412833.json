@@ -1,0 +1,137 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118412833",
+                            "kind": "A",
+                            "date": "20240730"
+                        },
+                        {
+                            "doc-number": "CN118412833",
+                            "date": "20240730"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    00            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "H02J   1/    10            A I                    "
+                        },
+                        {
+                            "text": "H02J   1/    12            A I                    "
+                        },
+                        {
+                            "text": "H02J   1/    14            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    35            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410359512",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410359512",
+                            "date": "20240326"
+                        },
+                        {
+                            "doc-number": "202410359512.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410359512",
+                            "date": "20240326"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUNSHINE HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "阳光氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JIN JIEHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JIANGSONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN LONGLIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "金结红, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李江松, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙龙林"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Photovoltaic off-grid hydrogen production system and control method, device, equipment and medium thereof",
+                    "光伏离网制氢系统及其控制方法、装置、设备及介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a photovoltaic off-grid hydrogen production system, a control method and device thereof, equipment and a medium. The photovoltaic off-grid hydrogen production system comprises a photovoltaic module; the direct current bus can be connected or disconnected with the photovoltaic module; an energy storage device; when the photovoltaic off-grid hydrogen production system operates in a photovoltaic power supply state, the photovoltaic module is conducted with the direct-current bus, and the first direct-current converter is started and conducted with the direct-current bus; hydrogen production equipment; a second DC converter; the controller is configured to control the second direct-current converter to be turned on and conduct the second direct-current converter and the direct-current bus when the photovoltaic output power and the energy storage output power of the energy storage equipment meet a preset hydrogen production turning-on condition in the photovoltaic power supply state and when the hydrogen production equipment is in a turned-off state, and the photovoltaic output power and the energy storage output power of the energy storage equipment meet the preset hydrogen production turning-on condition; and the hydrogen production equipment is at least powered by the photovoltaic module. According to the photovoltaic off-grid hydrogen production system, the hydrogen production equipment can be prevented from being started and stopped repeatedly, and the service life of the hydrogen production equipment is prolonged."
+                },
+                {
+                    "p": "本申请公开一种光伏离网制氢系统及其控制方法、装置、设备及介质。光伏离网制氢系统，其包括：光伏组件；直流母线，能够与光伏组件导通或断开；储能设备；第一直流变换器，在光伏离网制氢系统运行在光伏供电状态下，光伏组件与直流母线导通，第一直流变换器开启且与直流母线导通；制氢设备；第二直流变换器；控制器，控制器被配置为在光伏供电状态下且制氢设备处于关闭状态时，在光伏输出功率与储能设备的储能输出功率满足预设的制氢开启条件时，控制第二直流变换器开启并将第二直流变换器与直流母线导通，使得制氢设备至少由光伏组件供电。根据该光伏离网制氢系统，能够避免制氢设备反复启停，提高制氢设备的使用寿命。"
+                }
+            ]
+        }
+    }
+}

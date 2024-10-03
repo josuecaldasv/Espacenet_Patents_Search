@@ -1,0 +1,312 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116983945",
+                            "kind": "A",
+                            "date": "20231103"
+                        },
+                        {
+                            "doc-number": "CN116983945",
+                            "date": "20231103"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01D   3/    14            A I                    "
+                        },
+                        {
+                            "text": "B01D   3/    32            A I                    "
+                        },
+                        {
+                            "text": "B01J  19/    24            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   152            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/    80            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "3",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "3",
+                            "subgroup": "146",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "3",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "3",
+                            "subgroup": "322",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "19",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "152",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "80",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/152",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/80",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310951672",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310951672",
+                            "date": "20230731"
+                        },
+                        {
+                            "doc-number": "202310951672.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310951672",
+                            "date": "20230731"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV NORTHWEST MINZU"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " CHINA PETROLEUM & CHEM CORP"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SINOPEC CATALYST CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " GANSU YUNZHIDA CHEMICAL ENG CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西北民族大学, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国石油化工股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国石化催化剂有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "甘肃省韵智达化学工程有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SHEN TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YANBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YIN XIPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG CHENGJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG AIJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SU XIAOPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "申涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王彦斌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "殷喜平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王成君, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王爱军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苏小平"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method and system for producing methanol from carbon dioxide and hydrogen",
+                    "一种二氧化碳和氢气生产甲醇的方法和系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a method and a system for producing methanol from carbon dioxide and hydrogen. The system comprises a carbon dioxide turbine compressor, a hydrogen turbine compressor, a preheater, a methanol reactor, a high-pressure rectifying tower, a methanol recovery tower and a booster fan, an inlet of the carbon dioxide turbine compressor is connected with a carbon dioxide source, an outlet of the carbon dioxide turbine compressor is connected with a cold-side inlet of the preheater, an inlet of the hydrogen turbine compressor is connected with a hydrogen source, an outlet of the hydrogen turbine compressor is connected with a cold-side inlet of the preheater, and a cold-side outlet of the preheater is connected with a top inlet of the methanol reactor; a bottom outlet of the methanol reactor is connected with a hot side inlet of the preheater, a hot side outlet of the preheater is connected with an inlet of the high-pressure rectifying tower, a bottom outlet of the high-pressure rectifying tower is connected with an inlet of the methanol recovery tower, a top outlet of the high-pressure rectifying tower is connected with an inlet of the booster fan, and an outlet of the booster fan is connected with a cold side inlet of the preheater. The method has the advantages of being short in technological process, low in equipment investment, energy-saving, consumption-reducing and low in operation cost."
+                },
+                {
+                    "p": "本发明提供一种二氧化碳和氢气生产甲醇的方法和系统，包括：二氧化碳透平压缩机、氢气透平压缩机、预热器、甲醇反应器、高压精馏塔、甲醇回收塔和加压风机；二氧化碳透平压缩机入口与二氧化碳源连接，二氧化碳透平压缩机出口与预热器冷侧入口连接，氢气透平压缩机入口与氢气源连接，氢气透平压缩机出口与预热器冷侧入口连接，预热器冷侧出口与甲醇反应器顶部入口连接；甲醇反应器底部出口与预热器热侧入口连接，预热器热侧出口与高压精馏塔入口连接，高压精馏塔的底部出口与甲醇回收塔的入口连接，高压精馏塔的顶部出口与加压风机入口连接，加压风机出口与预热器冷侧入口连接。本发明具有工艺流程短，设备投资降低，节能降耗，运行成本低的优点。"
+                }
+            ]
+        }
+    }
+}

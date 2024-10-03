@@ -1,0 +1,446 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "112550084",
+                            "kind": "A",
+                            "date": "20210326"
+                        },
+                        {
+                            "doc-number": "CN112550084",
+                            "date": "20210326"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "B60L  58/    30            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "58",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "T",
+                            "main-group": "90",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202011606695",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202011606695",
+                            "date": "20201230"
+                        },
+                        {
+                            "doc-number": "202011606695.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202011606695",
+                            "date": "20201230"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "DAYUN MOTOR CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "大运汽车股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SU TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG XUEFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO ZHIWEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苏涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张学锋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗智文"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Power-on and power-off control method suitable for hydrogen reactor of new energy commercial vehicle",
+                    "一种适用于新能源商用车氢堆上下电控制方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2005251576",
+                                        "name": "TOYOTA MOTOR CORP",
+                                        "date": "20050915"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2005251576",
+                                        "kind": "A",
+                                        "name": "TOYOTA MOTOR CORP",
+                                        "date": "20050915"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102097636",
+                                        "name": "UNIV WUHAN TECH",
+                                        "date": "20110615"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102097636",
+                                        "kind": "A",
+                                        "name": "UNIV WUHAN TECH",
+                                        "date": "20110615"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN203882316U",
+                                        "name": "JIA CHUNXIA",
+                                        "date": "20141015"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "203882316",
+                                        "kind": "U",
+                                        "name": "JIA CHUNXIA",
+                                        "date": "20141015"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2015111070",
+                                        "name": "MIN BOUNG HO [KR], et al",
+                                        "date": "20150423"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2015111070",
+                                        "kind": "A1",
+                                        "name": "MIN BOUNG HO [KR], et al",
+                                        "date": "20150423"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN106627214",
+                                        "name": "XIAMEN GOLDEN DRAGON BUS CO LTD",
+                                        "date": "20170510"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "106627214",
+                                        "kind": "A",
+                                        "name": "XIAMEN GOLDEN DRAGON BUS CO LTD",
+                                        "date": "20170510"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107264324",
+                                        "name": "BAIC BJEV CO LTD",
+                                        "date": "20171020"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107264324",
+                                        "kind": "A",
+                                        "name": "BAIC BJEV CO LTD",
+                                        "date": "20171020"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN209467014U",
+                                        "name": "BEIJING SINOHYTEC CO LTD",
+                                        "date": "20191008"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "209467014",
+                                        "kind": "U",
+                                        "name": "BEIJING SINOHYTEC CO LTD",
+                                        "date": "20191008"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110370991",
+                                        "name": "WUHAN GROVE HYDROGEN AUTOMOBILE CO LTD",
+                                        "date": "20191025"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110370991",
+                                        "kind": "A",
+                                        "name": "WUHAN GROVE HYDROGEN AUTOMOBILE CO LTD",
+                                        "date": "20191025"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110816314",
+                                        "name": "WUHAN GROVE HYDROGEN AUTOMOBILE CO LTD",
+                                        "date": "20200221"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110816314",
+                                        "kind": "A",
+                                        "name": "WUHAN GROVE HYDROGEN AUTOMOBILE CO LTD",
+                                        "date": "20200221"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "2",
+                            "rel-passage": {
+                                "passage": "* 说明书第0003-0056段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111169328",
+                                        "name": "SHANGHAI SHENLONG BUS CO LTD",
+                                        "date": "20200519"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111169328",
+                                        "kind": "A",
+                                        "name": "SHANGHAI SHENLONG BUS CO LTD",
+                                        "date": "20200519"
+                                    }
+                                ]
+                            },
+                            "category": [
+                                "Y",
+                                "X"
+                            ],
+                            "rel-claims": [
+                                "2-3",
+                                "1"
+                            ],
+                            "rel-passage": {
+                                "passage": "* 说明书第0005-0046段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111251910",
+                                        "name": "UNIV WUHAN TECH",
+                                        "date": "20200609"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111251910",
+                                        "kind": "A",
+                                        "name": "UNIV WUHAN TECH",
+                                        "date": "20200609"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN212022340U",
+                                        "name": "BEIJING SINOHYTEC CO LTD",
+                                        "date": "20201127"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "212022340",
+                                        "kind": "U",
+                                        "name": "BEIJING SINOHYTEC CO LTD",
+                                        "date": "20201127"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "3",
+                            "rel-passage": {
+                                "passage": "* 说明书第0006-0040段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN212171922U",
+                                        "name": "DAYUN MOTOR CO LTD",
+                                        "date": "20201218"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "212171922",
+                                        "kind": "U",
+                                        "name": "DAYUN MOTOR CO LTD",
+                                        "date": "20201218"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a hydrogen reactor power-on and power-off control method suitable for a hydrogen reactor of a new energy commercial vehicle, relates to the field of new energy vehicles, and solves the problems of incomplete hydrogen reactor power-on and power-off control strategies, unclear hydrogen reactor power-on and power-off conditions and the like of an existing new energy commercialvehicle hydrogen reactor power-on and power-off control method. Power-on and power-off characteristics of the hydrogen reactor are combined to optimize and perfect the power-on and power-off controlscheme of the hydrogen reactor. d Real vehicle detection verification on the optimized power-on and power-off control scheme is optimized, and the control scheme and the technical parameters are continuously optimized. According to the method, the hydrogen reactor power-on condition is defined, and the new energy commercial vehicle hydrogen reactor power-on control strategy is perfected and optimized. Repeated power-on and power-off of the hydrogen reactor are avoided, and reliability and service life of the hydrogen reactor are not affected. A hydrogen reactor power-off control strategy is optimized and perfected, and the problems that in the hydrogen reactor power-off process, purging of a hydrogen reactor is not completed, and high-voltage power-off is conducted are solved. The safety of the whole vehicle and the hydrogen reactor is ensured. The new energy hydrogen fuel commercial vehicle adopting the hydrogen reactor power-on and power-off control method is reliable in operation, and no hydrogen reactor power-on and power-off faults occur."
+                },
+                {
+                    "p": "一种适用于新能源商用车氢堆上下电控制方法，涉及新能源汽车领域，解决现有新能源商用车氢堆上下电控制方法存在氢堆上下电控制策略不完善，氢堆上下电条件不明确等问题，本发明结合氢堆上下电的特点，对氢堆上下电控制方案进行优化完善。对优化后的上下电控制方案进行实车检测验证，不断优化控制方案和技术参数。本发明明确氢堆上电条件，完善优化新能源商用车氢堆上电控制策略。避免氢堆反复上下电，影响氢堆的可靠性和寿命。优化完善氢堆下电控制策略，解决氢堆下电过程中存在的氢堆没有吹扫完成，高压下电的问题。保证整车和氢堆的安全。采用本发明的氢堆上下电控制方法的新能源氢燃料商用车运行可靠，没有发生氢堆上下故障。"
+                }
+            ]
+        }
+    }
+}

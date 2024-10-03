@@ -1,0 +1,832 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117563556",
+                            "kind": "A",
+                            "date": "20240220"
+                        },
+                        {
+                            "doc-number": "CN117563556",
+                            "date": "20240220"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  20/    20            A I                    "
+                        },
+                        {
+                            "text": "B01J  20/    28            A I                    "
+                        },
+                        {
+                            "text": "B01J  20/    32            A I                    "
+                        },
+                        {
+                            "text": "B01J  20/    34            A I                    "
+                        },
+                        {
+                            "text": "C10K   1/    00            A I                    "
+                        },
+                        {
+                            "text": "C10K   1/    26            A I                    "
+                        },
+                        {
+                            "text": "C10K   1/    32            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "20",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "20",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "20",
+                            "subgroup": "28054",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "20",
+                            "subgroup": "3204",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "20",
+                            "subgroup": "3234",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "20",
+                            "subgroup": "3458",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "004",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410060773",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20241060773",
+                            "date": "20240116"
+                        },
+                        {
+                            "doc-number": "202410060773.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20241060773",
+                            "date": "20240116"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING PEKING UNIV PIONEER TECHNOLOGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京北大先锋科技股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG XIAOHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG YONGFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING TENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG HUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN SHA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张晓红, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄咏峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁腾, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蒋化, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈莎"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Renewable supported desulfurizing agent and preparation method thereof",
+                    "一种可再生负载型脱硫剂及其制备方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JPH02107313",
+                                        "name": "TOKYO GAS CO LTD",
+                                        "date": "19900419"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "H02107313",
+                                        "kind": "A",
+                                        "name": "TOKYO GAS CO LTD",
+                                        "date": "19900419"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5057473",
+                                        "name": "VOECKS GERALD E [US], et al",
+                                        "date": "19911015"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5057473",
+                                        "kind": "A",
+                                        "name": "VOECKS GERALD E [US], et al",
+                                        "date": "19911015"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JPH05161845",
+                                        "name": "NIPPON CATALYTIC CHEM IND",
+                                        "date": "19930629"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "H05161845",
+                                        "kind": "A",
+                                        "name": "NIPPON CATALYTIC CHEM IND",
+                                        "date": "19930629"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2008138153",
+                                        "name": "IDEMITSU KOSAN CO",
+                                        "date": "20080619"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2008138153",
+                                        "kind": "A",
+                                        "name": "IDEMITSU KOSAN CO",
+                                        "date": "20080619"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2008271602",
+                                        "name": "TATARCHUK BRUCE [US], et al",
+                                        "date": "20081106"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2008271602",
+                                        "kind": "A1",
+                                        "name": "TATARCHUK BRUCE [US], et al",
+                                        "date": "20081106"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2009113445",
+                                        "name": "NAT INST OF ADVANCED IND SCIEN [JP], et al",
+                                        "date": "20090917"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2009113445",
+                                        "kind": "A1",
+                                        "name": "NAT INST OF ADVANCED IND SCIEN [JP], et al",
+                                        "date": "20090917"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101735861",
+                                        "name": "UNIV TAIYUAN TECHNOLOGY",
+                                        "date": "20100616"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101735861",
+                                        "kind": "A",
+                                        "name": "UNIV TAIYUAN TECHNOLOGY",
+                                        "date": "20100616"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2010139104",
+                                        "name": "BEIJING SANJU ENVIRONMENTAL PROT & NEW MATERIAL CO LTD [CN], et al",
+                                        "date": "20101209"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2010139104",
+                                        "kind": "A1",
+                                        "name": "BEIJING SANJU ENVIRONMENTAL PROT & NEW MATERIAL CO LTD [CN], et al",
+                                        "date": "20101209"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102357364",
+                                        "name": "UNIV QINGDAO SCIENCE & TECHNOLOGY                                                                ",
+                                        "date": "20120222"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102357364",
+                                        "kind": "A",
+                                        "name": "UNIV QINGDAO SCIENCE & TECHNOLOGY                                                                ",
+                                        "date": "20120222"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102500323",
+                                        "name": "BEIJING TIANHAO KERUN ENVIRONMENT TECHNOLOGY CO LTD",
+                                        "date": "20120620"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102500323",
+                                        "kind": "A",
+                                        "name": "BEIJING TIANHAO KERUN ENVIRONMENT TECHNOLOGY CO LTD",
+                                        "date": "20120620"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102794156",
+                                        "name": "UNIV CHINA PETROLEUM",
+                                        "date": "20121128"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102794156",
+                                        "kind": "A",
+                                        "name": "UNIV CHINA PETROLEUM",
+                                        "date": "20121128"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2013199534",
+                                        "name": "IDEMITSU KOSAN CO",
+                                        "date": "20131003"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2013199534",
+                                        "kind": "A",
+                                        "name": "IDEMITSU KOSAN CO",
+                                        "date": "20131003"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104923158",
+                                        "name": "HAINAN VOCATIONAL COLLEGE SCIENCE & TECHNOLOGY",
+                                        "date": "20150923"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104923158",
+                                        "kind": "A",
+                                        "name": "HAINAN VOCATIONAL COLLEGE SCIENCE & TECHNOLOGY",
+                                        "date": "20150923"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105056882",
+                                        "name": "UNIV KUNMING SCIENCE & TECHNOLOGY                                                                   ",
+                                        "date": "20151118"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105056882",
+                                        "kind": "A",
+                                        "name": "UNIV KUNMING SCIENCE & TECHNOLOGY                                                                   ",
+                                        "date": "20151118"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105289476",
+                                        "name": "SHANGHAI RES INST CHEMICAL IND",
+                                        "date": "20160203"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105289476",
+                                        "kind": "A",
+                                        "name": "SHANGHAI RES INST CHEMICAL IND",
+                                        "date": "20160203"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2016175806",
+                                        "name": "SUIB STEVEN L [US], et al",
+                                        "date": "20160623"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2016175806",
+                                        "kind": "A1",
+                                        "name": "SUIB STEVEN L [US], et al",
+                                        "date": "20160623"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105903324",
+                                        "name": "TIANJIN PURUITE PURIFICATION TECH CO LTD",
+                                        "date": "20160831"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105903324",
+                                        "kind": "A",
+                                        "name": "TIANJIN PURUITE PURIFICATION TECH CO LTD",
+                                        "date": "20160831"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN106669670",
+                                        "name": "CHINA PETROLEUM & CHEM CORP, et al",
+                                        "date": "20170517"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "106669670",
+                                        "kind": "A",
+                                        "name": "CHINA PETROLEUM & CHEM CORP, et al",
+                                        "date": "20170517"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第0007-0026段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107398253",
+                                        "name": "SHANGHAI RUNQI CHEMICAL TECH CO LTD",
+                                        "date": "20171128"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107398253",
+                                        "kind": "A",
+                                        "name": "SHANGHAI RUNQI CHEMICAL TECH CO LTD",
+                                        "date": "20171128"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108854434",
+                                        "name": "CHINA PETROLEUM & CHEM CORP, et al",
+                                        "date": "20181123"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108854434",
+                                        "kind": "A",
+                                        "name": "CHINA PETROLEUM & CHEM CORP, et al",
+                                        "date": "20181123"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109012016",
+                                        "name": "UNIV NANJING TECH",
+                                        "date": "20181218"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109012016",
+                                        "kind": "A",
+                                        "name": "UNIV NANJING TECH",
+                                        "date": "20181218"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111905521",
+                                        "name": "NINGBO FAREASTTECH CATALYST ENG CO LTD",
+                                        "date": "20201110"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111905521",
+                                        "kind": "A",
+                                        "name": "NINGBO FAREASTTECH CATALYST ENG CO LTD",
+                                        "date": "20201110"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "10",
+                            "rel-passage": {
+                                "passage": "* 说明书第0010-0004段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112058273",
+                                        "name": "SHANXI INST COAL CHEMISTRY CAS",
+                                        "date": "20201211"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112058273",
+                                        "kind": "A",
+                                        "name": "SHANXI INST COAL CHEMISTRY CAS",
+                                        "date": "20201211"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113289583",
+                                        "name": "UNIV ZHEJIANG TECHNOLOGY",
+                                        "date": "20210824"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113289583",
+                                        "kind": "A",
+                                        "name": "UNIV ZHEJIANG TECHNOLOGY",
+                                        "date": "20210824"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-9",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113952931",
+                                        "name": "TONGHUA XINHONG NEW MAT CO LTD",
+                                        "date": "20220121"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113952931",
+                                        "kind": "A",
+                                        "name": "TONGHUA XINHONG NEW MAT CO LTD",
+                                        "date": "20220121"
+                                    }
+                                ]
+                            },
+                            "category": [
+                                "Y",
+                                "X"
+                            ],
+                            "rel-claims": [
+                                "1-10",
+                                "1-3、5-7、9"
+                            ],
+                            "rel-passage": {
+                                "passage": "* 说明书第0006-0029段 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a renewable supported desulfurizing agent and a preparation method thereof. The renewable supported desulfurizing agent is prepared from, by mass, 100 parts of activated carbon and 150-250 parts of steeping liquor, and the steeping liquor is prepared from metal nitrate, a surface active agent, pore increasing agent starch and strength reinforcing agent nano SiO2; the renewable supported desulfurizer is obtained by dipping activated carbon in a dipping solution, taking out, drying and calcining in an inert atmosphere. The desulfurizer has very high adsorption efficiency on sulfides in waste gas and good regeneration performance, a small amount of purified industrial gas is adopted to regenerate the desulfurizer at high temperature in situ, cyclic utilization of the desulfurizer and sulfur-containing industrial gas is achieved, and the hydrogen sulfide adsorption capacity is high. The method is simple, low in investment and low in operation cost."
+                },
+                {
+                    "p": "本发明涉及一种可再生负载型脱硫剂及其制备方法，所述可再生负载型脱硫剂包括以下质量份的原料：100份活性炭，150‑250份浸渍液，所述浸渍液中包括金属硝酸盐，表面活性剂，增孔剂淀粉，强度增强剂纳米SiO2；所述可再生负载型脱硫剂是活性炭浸渍于浸渍液中，取出，干燥，惰性气氛下煅烧得到。本发明脱硫剂对废气中的硫化物具有很高的吸附效率，并且再生性能好，原位在高温下采用少量净化后的工业气体对脱硫剂进行再生，实现脱硫剂和含硫工业气体的循环利用，吸附硫化氢能力强。本发明方法简单，投资少，运行费用低。"
+                }
+            ]
+        }
+    }
+}

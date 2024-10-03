@@ -1,0 +1,132 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118410610",
+                            "kind": "A",
+                            "date": "20240730"
+                        },
+                        {
+                            "doc-number": "CN118410610",
+                            "date": "20240730"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  30/    20            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06F 111/    10            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311830557",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311830557",
+                            "date": "20231227"
+                        },
+                        {
+                            "doc-number": "202311830557.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311830557",
+                            "date": "20231227"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANGHAI SUNLIGHT POWER SUPPLY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "阳光电源（上海）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HU XIA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO TIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JUNYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN XIANGLIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡侠, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵天, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王俊逸, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈相霖"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Energy consumption measuring and calculating method based on hydrogen production simulation system model and related equipment",
+                    "基于制氢仿真系统模型的能耗测算方法及相关设备"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of energy consumption measurement and calculation, and discloses an energy consumption measurement and calculation method, device and equipment based on a hydrogen production simulation system model and a storage medium, which are used for performing energy consumption measurement and calculation in the hydrogen production simulation system model and improving the accuracy of energy consumption measurement and calculation. The method comprises the following steps: acquiring operation data of a plurality of systems under a specific timestamp in a hydrogen production simulation system model; calculating corresponding energy consumption data according to the operation data of the plurality of systems under the specific timestamp to obtain the energy consumption of the hydrogen production system and the energy consumption of the auxiliary system under the specific timestamp; determining a hydrogen production energy consumption curve based on the energy consumption of the hydrogen production system and the energy consumption of the auxiliary system under the specific timestamp, wherein the hydrogen production energy consumption curve reflects the total energy consumption of the hydrogen production system and the auxiliary system at each collection moment; and performing calculation based on the hydrogen production energy consumption curve and a preset standard hydrogen yield curve to obtain an instantaneous single hydrogen energy consumption curve of the hydrogen production simulation system model under a specific timestamp."
+                },
+                {
+                    "p": "本发明涉及能耗测算技术领域，公开了基于制氢仿真系统模型的能耗测算方法、装置、设备及存储介质，用于在制氢仿真系统模型中进行能耗测算，提高了能耗测算的准确性。方法包括：采集制氢仿真系统模型中特定时间戳下多个系统的运行数据；根据特定时间戳下多个系统的运行数据计算对应的能耗数据，得到特定时间戳下制氢系统的能耗和辅助系统的能耗；基于特定时间戳下制氢系统的能耗和辅助系统的能耗确定制氢能耗曲线，制氢能耗曲线反映各个采集时刻制氢系统和辅助系统的总能耗；基于制氢能耗曲线和预设的达标氢气产量曲线进行计算，得到特定时间戳下制氢仿真系统模型的瞬时单氢能耗曲线。"
+                }
+            ]
+        }
+    }
+}

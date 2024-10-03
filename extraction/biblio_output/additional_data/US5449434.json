@@ -1,0 +1,413 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "5449434",
+                            "kind": "A",
+                            "date": "19950912"
+                        },
+                        {
+                            "doc-number": "US5449434",
+                            "date": "19950912"
+                        }
+                    ]
+                },
+                "classification-ipc": {
+                    "text": [
+                        "B44C1/22",
+                        "C03C15/00",
+                        "C03C25/06"
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H01J  37/    32            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "32357",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "32357",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "216/70"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "427/508"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "427/553"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "427/595"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "438/726"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "438/732"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "21869894",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US19940218698",
+                            "date": "19940328"
+                        },
+                        {
+                            "doc-number": "218698"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US19920939010",
+                                    "date": "19920902"
+                                },
+                                {
+                                    "doc-number": "939,010"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": {
+                                "doc-number": "US19940218698",
+                                "date": "19940328"
+                            }
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV NORTH CAROLINA [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HOOKE WILLIAM M [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BOZEMAN STEVEN P [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "HOOKE, WILLIAM M, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "BOZEMAN, STEVEN P"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Method for plasma processing at high pressure",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "DE3144016",
+                                        "name": "MITSUBISHI ELECTRIC CORP [JP]",
+                                        "date": "19820708"
+                                    },
+                                    {
+                                        "country": "DE",
+                                        "doc-number": "3144016",
+                                        "kind": "A1",
+                                        "name": "MITSUBISHI ELECTRIC CORP [JP]",
+                                        "date": "19820708"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4438368",
+                                        "name": "ABE HARUHIKO [JP], et al",
+                                        "date": "19840320"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4438368",
+                                        "kind": "A",
+                                        "name": "ABE HARUHIKO [JP], et al",
+                                        "date": "19840320"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4816113",
+                                        "name": "YAMAZAKI SHUNPEI [JP]",
+                                        "date": "19890328"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4816113",
+                                        "kind": "A",
+                                        "name": "YAMAZAKI SHUNPEI [JP]",
+                                        "date": "19890328"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4831963",
+                                        "name": "SAITO HIROSHI [JP], et al",
+                                        "date": "19890523"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4831963",
+                                        "kind": "A",
+                                        "name": "SAITO HIROSHI [JP], et al",
+                                        "date": "19890523"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4857809",
+                                        "name": "TORII YASUHIRO [JP], et al",
+                                        "date": "19890815"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4857809",
+                                        "kind": "A",
+                                        "name": "TORII YASUHIRO [JP], et al",
+                                        "date": "19890815"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4866346",
+                                        "name": "GAUDREAU MARCEL P J [US], et al",
+                                        "date": "19890912"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4866346",
+                                        "kind": "A",
+                                        "name": "GAUDREAU MARCEL P J [US], et al",
+                                        "date": "19890912"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4876983",
+                                        "name": "FUKUDA TAKUYA [JP], et al",
+                                        "date": "19891031"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4876983",
+                                        "kind": "A",
+                                        "name": "FUKUDA TAKUYA [JP], et al",
+                                        "date": "19891031"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4877509",
+                                        "name": "OGAWA TOSHIAKI [JP], et al",
+                                        "date": "19891031"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4877509",
+                                        "kind": "A",
+                                        "name": "OGAWA TOSHIAKI [JP], et al",
+                                        "date": "19891031"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5003152",
+                                        "name": "MATSUO SEITARO [JP], et al",
+                                        "date": "19910326"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5003152",
+                                        "kind": "A",
+                                        "name": "MATSUO SEITARO [JP], et al",
+                                        "date": "19910326"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5032202",
+                                        "name": "TSAI CHIN-CHI [US], et al",
+                                        "date": "19910716"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5032202",
+                                        "kind": "A",
+                                        "name": "TSAI CHIN-CHI [US], et al",
+                                        "date": "19910716"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5081398",
+                                        "name": "ASMUSSEN JES [US], et al",
+                                        "date": "19920114"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5081398",
+                                        "kind": "A",
+                                        "name": "ASMUSSEN JES [US], et al",
+                                        "date": "19920114"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5125358",
+                                        "name": "UEDA TETSUYA [JP], et al",
+                                        "date": "19920630"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5125358",
+                                        "kind": "A",
+                                        "name": "UEDA TETSUYA [JP], et al",
+                                        "date": "19920630"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Mantei et al., Diamond deposition in a permanent magnet microwave electron cyclotron, J. Vac. Sci. Technol. A 10(4), Jul./Aug. 1992pp. 1423 1425."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Mantei et al., Characterization of a permanent magnet electron cyclotron resonance plasma source, J. Vac. Sci. Technol. B9(1), Jan./Feb. 1991pp. 26 28."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Suzuki et al., Microwave Plasma Etching , Japanese Journal of Applied Physics, vol. 16, No. 11, Nov., 1977pp. 1979 1984."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Suzuki et al., Microwave Plasma Etching , Vacuum, vol. 34, No. 10/11, pp. 953 9571984."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Hopwood et al., Plasma Etching With A Microwave Cavity Plasma Disk Source , J. Vac. Sci. Tecnol. B6(1)Jan./Feb. 1988."
+                            },
+                            "category": " "
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "A method for plasma processing includes using a relatively high magnetic field and a relatively high pressure to create a first plasma region adjacent a window of a processing chamber having a lower radiation absorption and a second plasma region adjacent a substrate holder having a higher radiation absorption. Accordingly, a cooler plasma region is created adjacent the window to prevent contaminants from being etched from the window and adjacent chamber surface, and hotter plasma region is created adjacent the substrate to increase the processing rate. Additionally, the relatively high pressure of the processing gas, preferably greater than about 10 Torr and more preferably greater than about 100 Torr, increases the density of the plasma thereby increasing the processing rate. Alternatively, a high magnetic field and a high pressure create a radiation absorption region which is on the order of centimeters thick, for example 5-10 centimeters thick. Preferably, a uniform magnetic field creates uniform absorption in the absorption region."
+            }
+        }
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "JP",
+                            "doc-number": "2023141807",
+                            "kind": "A",
+                            "date": "20231005"
+                        },
+                        {
+                            "doc-number": "JP2023141807",
+                            "date": "20231005"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "C01B  32/    23            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "C01B32/198"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "C01B32/23"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/AA01"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/AA15"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/AB07"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/AC16B"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/AC17B"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/AC20A"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/AC20B"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/AC27B"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/AD21"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/BA01"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/BC16"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/BC23"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/BC25"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/BC26"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/BC32A"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/DA03"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/DA16"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "4G146/DA25"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "JP",
+                            "doc-number": "2022048311",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "JP20220048311",
+                            "date": "20220324"
+                        },
+                        {
+                            "doc-number": "2022048311"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "JP20220048311",
+                            "date": "20220324"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CS TECHNO INC"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "シーズテクノ株式会社"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "UMENO MASAYOSHI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GOLAP KALITA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JAISI BALARAM"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "梅野  正義, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "カリタ  ゴラップ, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "ジャイシ  バララム"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "REDUCTION METHOD OF GRAPHENE OXIDE",
+                    "酸化グラフェンの還元方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "To obtain graphene oxide with low sheet resistance.SOLUTION: In a reduction method of graphene oxide, graphene oxide is reduced by placing the graphene oxide in an atmosphere of microwave exited surface wave plasma. The atmosphere in which the graphene oxide is placed is desirably a bulk region with lower electron temperature and higher electron density in the entire plasma region. By performing reduction treatment in this region, electrical resistivity is effectively reduced without damaging graphene. The graphene oxide may be placed in the bulk region of plasma by adjusting a distance between a substrate and a waveguide to radiate microwave. A gas to generate the surface wave plasma is desirably a surface wave plasma of at least one mixed gas of a mixed gas of hydrogen and argon, that of carbon oxide and argon, and that of nitrogen, hydrogen and argon.SELECTED DRAWING: Figure 1.A"
+                },
+                {
+                    "p": "【課題】低シート抵抗を有する還元酸化グラフェンを得る。【解決手段】酸化グラフェンを還元する方法であって、酸化グラフェンを、マイクロ波励起された表面波プラズマの雰囲気に置くことにより、酸化グラフェンを還元する。酸化グラフェンが置かれる雰囲気は、全プラズマ領域のうち、電子温度がより低く電子密度がより高いバルク領域であることが望ましい。この領域で還元処理することで、グラフェンに損傷を与えることなく、効果的に抵抗率を低減できる。マイクロ波を放射する導波管に対して、基板の距離を調整することで、酸化グラフェンをプラズマのバルク領域に位置させるようにしても良い。表面波プラズマを生成するガスは、水素とアルゴンとの混合ガス、酸化炭素とアルゴンとの混合ガス、窒素と水素とアルゴンとの混合ガスのうち少なくとも一つの混合ガスの表面波プラズマであることが望ましい。【選択図】図１．Ａ"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117797741",
+                            "kind": "A",
+                            "date": "20240402"
+                        },
+                        {
+                            "doc-number": "CN117797741",
+                            "date": "20240402"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  19/    00            A I                    "
+                        },
+                        {
+                            "text": "C10G   2/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "19",
+                            "subgroup": "0006",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "G",
+                            "main-group": "2",
+                            "subgroup": "344",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211165775",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211165775",
+                            "date": "20220923"
+                        },
+                        {
+                            "doc-number": "202211165775.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211165775",
+                            "date": "20220923"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHN ENERGY INVEST GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " NAT INST CLEAN & LOW CARBON ENERGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家能源投资集团有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京低碳清洁能源研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG XUEBING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG QI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN QIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MENG XIANGKUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LYU YIJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MEN ZHUOWU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张雪冰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张琪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孟祥堃, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吕毅军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "门卓武"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Temporary shutdown and startup method for Fischer-Tropsch synthesis reaction",
+                    "一种费托合成反应临时停工及开工的方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a method for temporarily stopping and starting Fischer-Tropsch synthesis reaction, and the method for temporarily stopping the Fischer-Tropsch synthesis reaction comprises the following steps: (1) maintaining the temperature of the Fischer-Tropsch synthesis reaction in a Fischer-Tropsch synthesis device, cutting off circulating gas, and sealing the pressure of the circulating gas; (2) keeping the stirring state before shutdown, firstly stopping introducing CO into the Fischer-Tropsch synthesis device, keeping the gas inflow of H2 until all tail gas is hydrogen, cooling the inside of the Fischer-Tropsch synthesis device to 150-180 DEG C, and then stopping stirring; (3) continuously cooling the inside of the Fischer-Tropsch synthesis device to room temperature, cutting off H2, and finishing temporary shutdown when the pressure in the sealing device is completed; when the device is started again, H2 is introduced into the device again, the temperature is increased to 150-180 DEG C, stirring is started, and then CO is introduced; and when the hydrogen-carbon ratio difference between the raw material gas and the tail gas is below 2%, the temperature in the device is raised to 220-280 DEG C, and circulating gas is introduced, so that start-up is completed. The shutdown and startup method provided by the invention can greatly reduce the influence on the performance of the synthetic reaction catalyst in case of sudden conditions."
+                },
+                {
+                    "p": "本发明提供了一种费托合成反应的临时停工及开工的方法，临时停工时，包括：(1)维持费托合成装置内费托合成反应的温度，切断循环气并封存循环气的压力；(2)保持停工前的搅拌状态，先停止向费托合成装置内通入CO，并保持H2的进气量至尾气全部为氢气后，将费托合成装置内降温至150～180℃后停止搅拌；(3)费托合成装置内继续降温至室温后切断H2，封存装置内的压力完成临时停工；重新开工时，包括：恢复向装置内通入H2并升温至150～180℃，开启搅拌后通入CO；当原料气与尾气中氢碳比相差2％以下时，将装置内的温度升至220～280℃下并通入循环气，完成开工。本发明提供的停工及开工方法能够在突遇状况时大幅度降低对合成反应催化剂性能的影响。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118352562",
+                            "kind": "A",
+                            "date": "20240716"
+                        },
+                        {
+                            "doc-number": "CN118352562",
+                            "date": "20240716"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G01D  21/    02            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04082            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04089            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410297861",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410297861",
+                            "date": "20240315"
+                        },
+                        {
+                            "doc-number": "202410297861.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410297861",
+                            "date": "20240315"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GUANGZHOU POWER SUPPLY BUREAU GUANGDONG POWER GRID CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "广东电网有限责任公司广州供电局"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "FENG KEYING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LEI JINYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PAN JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG XING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHUO YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN AIJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "冯可莹, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "雷金勇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "潘军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张行, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卓煜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈蔼峻"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen storage bottle stability maintaining method and device, computer equipment and storage medium",
+                    "储氢瓶维稳方法、装置、计算机设备和存储介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a hydrogen storage bottle stability maintaining method and device, computer equipment, a storage medium and a computer program product. The method comprises the steps that the real-time temperature and the real-time humidity of the hydrogen storage bottle storage chamber are obtained; comparing the real-time temperature with a preset health temperature interval, and comparing the real-time humidity with a preset health humidity interval to obtain a first diagnosis result; acquiring an external environment condition; the external environment conditions comprise environment temperature and environment humidity; executing a first operation and/or a second operation according to the first diagnosis result and the external environment condition; the first operation is interaction between the hydrogen storage bottle storage chamber and the external environment, and the second operation is storage chamber internal environment control; and after running the first operation and/or the second operation for a preset time period, stopping running the first operation and/or the second operation. By utilizing the external environment condition, the temperature and humidity of the hydrogen storage bottle storage chamber can be controlled at lower energy consumption cost, and the energy consumption of the system can be reduced while the healthy state of the hydrogen storage bottle is ensured."
+                },
+                {
+                    "p": "本申请涉及一种储氢瓶维稳方法、装置、计算机设备、存储介质和计算机程序产品。所述方法包括：获取储氢瓶储藏室的实时温度和储氢瓶储藏室的实时湿度；对比实时温度与预设的健康温度区间，对比实时湿度与预设的健康湿度区间，得到第一诊断结果；获取外界环境条件；外界环境条件包括环境温度和环境湿度；根据第一诊断结果和外界环境条件执行第一操作和/或第二操作；第一操作为储氢瓶储藏室与外界环境交互，第二操作为储藏室内部环境控制；运行第一操作和/或第二操作预设时间周期后，停止运行第一操作和/或第二操作。利用外界环境条件，可以以较低的能耗代价对储氢瓶储藏室进行温湿度控制，可以在保证储氢瓶健康状态的同时减少系统的能耗。"
+                }
+            ]
+        }
+    }
+}

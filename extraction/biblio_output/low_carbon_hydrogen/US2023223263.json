@@ -1,0 +1,520 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2023223263",
+                            "kind": "A1",
+                            "date": "20230713"
+                        },
+                        {
+                            "doc-number": "US2023223263",
+                            "date": "20230713"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C23C  16/    26            A I                    "
+                        },
+                        {
+                            "text": "C23C  16/    50            A I                    "
+                        },
+                        {
+                            "text": "C23C  16/    56            A I                    "
+                        },
+                        {
+                            "text": "H01J  37/    32            A I                    "
+                        },
+                        {
+                            "text": "H01L  21/   033            A I                    "
+                        },
+                        {
+                            "text": "H01L  21/   311            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "16",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "16",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "16",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "16",
+                            "subgroup": "50",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "16",
+                            "subgroup": "50",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "16",
+                            "subgroup": "50",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "16",
+                            "subgroup": "56",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "16",
+                            "subgroup": "56",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "16",
+                            "subgroup": "56",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "32926",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "02115",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "02115",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "02274",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "02274",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "0234",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "0234",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "0332",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "0332",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "0337",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "0337",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "0337",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "31116",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "31116",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "31116",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "31144",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "31144",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "31144",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "32137",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "32139",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "67069",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "10",
+                            "subclass": "B",
+                            "main-group": "41",
+                            "subgroup": "27",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "10",
+                            "subclass": "B",
+                            "main-group": "43",
+                            "subgroup": "27",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "2237",
+                            "subgroup": "332",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "2237",
+                            "subgroup": "334",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "10",
+                            "subclass": "B",
+                            "main-group": "41",
+                            "subgroup": "27",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "10",
+                            "subclass": "B",
+                            "main-group": "43",
+                            "subgroup": "27",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "202117997697",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US202117997697",
+                            "date": "20210422"
+                        },
+                        {
+                            "doc-number": "17997697"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US202063020370P",
+                                    "date": "20200505"
+                                },
+                                {
+                                    "doc-number": "63020370"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": {
+                                "doc-number": "US202117997697",
+                                "date": "20210422"
+                            }
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "WO2021US28588",
+                                    "date": "20210422"
+                                },
+                                {
+                                    "doc-number": "PCT/US2021/028588"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "LAM RES CORP [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "Lam Research Corporation"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "RIGSBY DANIELA ANJOS [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PUTHENKOVILAKAM RAGESH [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HOLLISTER ALICE G [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO LIE [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "RIGSBY, Daniela Anjos, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "PUTHENKOVILAKAM, Ragesh, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "HOLLISTER, Alice G, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "Zhao, Lie"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "INERT GAS IMPLANTATION FOR HARD MASK SELECTIVITY IMPROVEMENT"
+            },
+            "abstract": {
+                "p": "An amorphous carbon hard mask is formed having low hydrogen content and low sp3 carbon bonding but high modulus and hardness. The amorphous carbon hard mask is formed by depositing an amorphous carbon layer at a low temperature in a plasma deposition chamber and treating the amorphous carbon layer to a dual plasma-thermal treatment. The dual plasma-thermal treatment includes exposing the amorphous carbon layer to inert gas plasma for implanting an inert gas species in the amorphous carbon layer and exposing the amorphous carbon layer to a high temperature. The amorphous carbon hard mask has high etch selectivity relative to underlying materials."
+            }
+        }
+    }
+}

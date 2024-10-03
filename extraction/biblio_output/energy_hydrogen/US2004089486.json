@@ -1,0 +1,796 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2004089486",
+                            "kind": "A1",
+                            "date": "20040513"
+                        },
+                        {
+                            "doc-number": "US2004089486",
+                            "date": "20040513"
+                        }
+                    ]
+                },
+                "classification-ipc": {
+                    "text": "B60K6/04"
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60K   1/    00            A I                    "
+                        },
+                        {
+                            "text": "B60K   1/    04            A I                    "
+                        },
+                        {
+                            "text": "B60K   6/    22            A I                    "
+                        },
+                        {
+                            "text": "B60K   6/    32            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    04            A I                    "
+                        },
+                        {
+                            "text": "C01B  13/    02            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/    04            A I                    "
+                        },
+                        {
+                            "text": "H01M  16/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "K",
+                            "main-group": "6",
+                            "subgroup": "22",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "K",
+                            "main-group": "6",
+                            "subgroup": "22",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "K",
+                            "main-group": "6",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "K",
+                            "main-group": "6",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "042",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "042",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "13",
+                            "subgroup": "0207",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "13",
+                            "subgroup": "0207",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0494",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0494",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04947",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04947",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "16",
+                            "subgroup": "006",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "16",
+                            "subgroup": "006",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "066",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "066",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "2250",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "2250",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "T",
+                            "main-group": "90",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "T",
+                            "main-group": "90",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "180/65.245"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "180/65.25"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "180/65.31"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "423/648.1"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "903/904"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "903/908"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "29376802",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US20020293768",
+                            "date": "20021113"
+                        },
+                        {
+                            "doc-number": "10293768"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "US20020293768",
+                            "date": "20021113"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HARRUP CLIVE, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "KRAMER DENNIS A, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "CIRAY MEHMET S, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "HOUSE DEAN MARK, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "PLATNER DAVID K, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "ESCHENBURG DALE J, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "BELL DALE K"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HARRUP CLIVE [GB]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KRAMER DENNIS A [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CIRAY MEHMET S [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HOUSE DEAN MARK [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PLATNER DAVID K [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ESCHENBURG DALE J [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BELL DALE K [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "HARRUP CLIVE, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "KRAMER DENNIS A, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "CIRAY MEHMET S, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "HOUSE DEAN MARK, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "PLATNER DAVID K, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "ESCHENBURG DALE J, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "BELL DALE K"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Vehicle power storage by hydrolysis of water",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3608660",
+                                        "name": "SMITH RICHARD D, et al",
+                                        "date": "19710928"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3608660",
+                                        "kind": "A",
+                                        "name": "SMITH RICHARD D, et al",
+                                        "date": "19710928"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5678647",
+                                        "name": "WOLFE WILLIAM R [US], et al",
+                                        "date": "19971021"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5678647",
+                                        "kind": "A",
+                                        "name": "WOLFE WILLIAM R [US], et al",
+                                        "date": "19971021"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5941328",
+                                        "name": "LYONS ARTHUR PAULL [US], et al",
+                                        "date": "19990824"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5941328",
+                                        "kind": "A",
+                                        "name": "LYONS ARTHUR PAULL [US], et al",
+                                        "date": "19990824"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6211643",
+                                        "name": "KAGITANI TAKEO [JP]",
+                                        "date": "20010403"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6211643",
+                                        "kind": "B1",
+                                        "name": "KAGITANI TAKEO [JP]",
+                                        "date": "20010403"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6306532",
+                                        "name": "KURITA KENJI [JP], et al",
+                                        "date": "20011023"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6306532",
+                                        "kind": "B1",
+                                        "name": "KURITA KENJI [JP], et al",
+                                        "date": "20011023"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6329091",
+                                        "name": "JAMES BRIAN DAVID [US]",
+                                        "date": "20011211"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6329091",
+                                        "kind": "B1",
+                                        "name": "JAMES BRIAN DAVID [US]",
+                                        "date": "20011211"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6368735",
+                                        "name": "LOMAX FRANKLIN DELANO [US], et al",
+                                        "date": "20020409"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6368735",
+                                        "kind": "B1",
+                                        "name": "LOMAX FRANKLIN DELANO [US], et al",
+                                        "date": "20020409"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6374166",
+                                        "name": "TAKEDA YASUSHI [JP]",
+                                        "date": "20020416"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6374166",
+                                        "kind": "B1",
+                                        "name": "TAKEDA YASUSHI [JP]",
+                                        "date": "20020416"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6375924",
+                                        "name": "TOWLER GAVIN P [US], et al",
+                                        "date": "20020423"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6375924",
+                                        "kind": "B1",
+                                        "name": "TOWLER GAVIN P [US], et al",
+                                        "date": "20020423"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6378637",
+                                        "name": "ONO TOHRU [JP], et al",
+                                        "date": "20020430"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6378637",
+                                        "kind": "B1",
+                                        "name": "ONO TOHRU [JP], et al",
+                                        "date": "20020430"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6382264",
+                                        "name": "TSAI TSEPIN [US], et al",
+                                        "date": "20020507"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6382264",
+                                        "kind": "B1",
+                                        "name": "TSAI TSEPIN [US], et al",
+                                        "date": "20020507"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2002155330",
+                                        "name": "TANAKA HIDEAKI [JP]",
+                                        "date": "20021024"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2002155330",
+                                        "kind": "A1",
+                                        "name": "TANAKA HIDEAKI [JP]",
+                                        "date": "20021024"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6516905",
+                                        "name": "BAUMERT ROB [US], et al",
+                                        "date": "20030211"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6516905",
+                                        "kind": "B1",
+                                        "name": "BAUMERT ROB [US], et al",
+                                        "date": "20030211"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6536547",
+                                        "name": "MEANEY JR DANIEL J [US]",
+                                        "date": "20030325"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6536547",
+                                        "kind": "B1",
+                                        "name": "MEANEY JR DANIEL J [US]",
+                                        "date": "20030325"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6592741",
+                                        "name": "NAKANISHI HARUYUKI [JP], et al",
+                                        "date": "20030715"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6592741",
+                                        "kind": "B2",
+                                        "name": "NAKANISHI HARUYUKI [JP], et al",
+                                        "date": "20030715"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6691013",
+                                        "name": "BROWN TODD ALLEN [US]",
+                                        "date": "20040210"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6691013",
+                                        "kind": "B1",
+                                        "name": "BROWN TODD ALLEN [US]",
+                                        "date": "20040210"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "A power producing assembly for a vehicle includes a generator to control energy produced during movement of the vehicle and a hydrolysis system powered by electrical energy produced by the generator to separate water into hydrogen and oxygen. Hydrogen and oxygen are then routed to a fuel cell to produce electrical energy. Hydrogen may also be used in a combustion engine which bums the hydrogen gas. Gases used by the energy producing fuel cell or combustion engine are recovered and recombined to form water for reuse by the hydrolysis system."
+            }
+        }
+    }
+}

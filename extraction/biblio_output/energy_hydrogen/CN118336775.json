@@ -1,0 +1,170 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118336775",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118336775",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L  53/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "H01M  10/    44            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J  13/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410440231",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410440231",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "202410440231.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410440231",
+                            "date": "20240412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHONGQING SAILISI NEW ENERGY AUTOMOBILE DESIGN INST CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "重庆赛力斯新能源汽车设计院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SONG BO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU ZONGCHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG CHAOJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU MING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " RAN CHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘宗成, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王朝均, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "冉晨"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Electrochemical energy storage and complementation control system, method, device, equipment and medium",
+                    "电化学储能和补能控制系统、方法、装置、设备和介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an electrochemical energy storage and complementation control system, which comprises a charging station energy storage platform, a cloud platform and a charging station, the charging station energy storage platform is used for monitoring each electric device in the charging station, receiving a feed request fed back by the cloud platform, and sending a power purchase request to the cloud platform when determining that the charging station cannot meet the feed request, controlling the charging station to feed power to a power grid according to a power grid dispatching demand when determining that the charging station has surplus electric energy; the cloud platform is used for receiving a feed request of a power grid, sending the feed request to the charging station energy storage platform, and pushing electricity purchase information to the electric vehicle when receiving an electricity purchase request sent by the charging station energy storage platform; the charging station comprises a plurality of electrical equipment, and the electrical equipment comprises photovoltaic power generation equipment, a lithium battery energy storage cabinet, electrolytic hydrogen production equipment, hydrogen fuel power generation equipment and an electric vehicle. Reasonable management of energy is achieved, and the utilization rate of clean energy is increased."
+                },
+                {
+                    "p": "本发明公开一种电化学储能和补能控制系统，包括：充电站储能平台、云平台以及充电站；充电站储能平台用于对所述充电站内的各电设备进行监控，接收所述云平台反馈的馈电请求，在确定所述充电站无法满足所述馈电请求时向所述云平台发送购电请求，在确定所述充电站存在富余电能时按照电网调度需求控制所述充电站向电网馈电；云平台用于接收电网的馈电请求，并将馈电请求发送至所述充电站储能平台，以及在接收到所述充电站储能平台发送的购电请求时，向电动汽车推送购电信息；充电站包括多种电设备，电设备包括光伏发电设备，锂电池储能柜、电解制氢设备、氢燃料发电设备以及电动汽车。实现了对能源的合理管理，提高了清洁能源的利用率。"
+                }
+            ]
+        }
+    }
+}

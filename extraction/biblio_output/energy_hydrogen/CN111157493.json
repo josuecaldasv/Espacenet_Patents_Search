@@ -1,0 +1,332 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "111157493",
+                            "kind": "A",
+                            "date": "20200515"
+                        },
+                        {
+                            "doc-number": "CN111157493",
+                            "date": "20200515"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "G01N  21/    49            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "21",
+                            "subgroup": "49",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "2021",
+                            "subgroup": "4709",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201910955342",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201910955342",
+                            "date": "20191009"
+                        },
+                        {
+                            "doc-number": "201910955342.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201910955342",
+                            "date": "20191009"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "XI'AN UNIV OF SCIENCE AND TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西安科技大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DENG JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG WEIFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MA TIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAI XIAOWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李俊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邓军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王伟峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马天, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "翟小伟"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Locatable hydrogen measuring method based on single-photon counting",
+                    "一种基于单光子计数的可定位氢气测量方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2005351651",
+                                        "name": "JAPAN AEROSPACE EXPLORATION, et al",
+                                        "date": "20051222"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2005351651",
+                                        "kind": "A",
+                                        "name": "JAPAN AEROSPACE EXPLORATION, et al",
+                                        "date": "20051222"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 权利要求1-8，说明书第0002-0020段，附图1-8 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN203037574U",
+                                        "name": "UNIV CHANGAN",
+                                        "date": "20130703"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "203037574",
+                                        "kind": "U",
+                                        "name": "UNIV CHANGAN",
+                                        "date": "20130703"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105973277",
+                                        "name": "UNIV SOUTH CHINA NORMAL",
+                                        "date": "20160928"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105973277",
+                                        "kind": "A",
+                                        "name": "UNIV SOUTH CHINA NORMAL",
+                                        "date": "20160928"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 权利要求1-4，说明书第0002-0107段，图1-3 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107907151",
+                                        "name": "NAT UNIV DEFENSE TECHNOLOGY PLA",
+                                        "date": "20180413"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107907151",
+                                        "kind": "A",
+                                        "name": "NAT UNIV DEFENSE TECHNOLOGY PLA",
+                                        "date": "20180413"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108489901",
+                                        "name": "UNIV WUHAN TECH",
+                                        "date": "20180904"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108489901",
+                                        "kind": "A",
+                                        "name": "UNIV WUHAN TECH",
+                                        "date": "20180904"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108919301",
+                                        "name": "GUOYAO QUANTUM RADAR TECH CO LTD",
+                                        "date": "20181130"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108919301",
+                                        "kind": "A",
+                                        "name": "GUOYAO QUANTUM RADAR TECH CO LTD",
+                                        "date": "20181130"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN208239294U",
+                                        "name": "YANCHENG INST TECH",
+                                        "date": "20181214"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "208239294",
+                                        "kind": "U",
+                                        "name": "YANCHENG INST TECH",
+                                        "date": "20181214"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 许琰玮等, \"光纤氢气传感技术的研究进展\""
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 1-5 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of new energy hydrogen safety monitoring, in particular to a positionable hydrogen measuring method based on single-photon counting. A fiber laser radar, an acoustic optical modulator (AOM) for controlling the intensity change of a laser beam, and a sensing fiber installed at the output end of the AOM are provided. The acoustic optical modulator (AOM) is injected into the sensing optical fiber through a circulator, and the output end of the circulator is provided with a single-photon photoelectric detector (SPD) used for receiving scattered light. The hydrogen concentration monitoring structure adopted by the invention can realize multi-point and multi-area hydrogen leakage and diffusion detection at the same time, the positionable function is realized, a detection mode of combining single-photon counting with lock-in amplification is adopted, noise detection can reach a thermal noise level; the sensor is a plastic optical fiber, and is simple in structure, low in cost and convenient to operate, and is uncharged, intrinsically safe and particularly suitable for flammable and combustible environments of hydrogen detection,"
+                },
+                {
+                    "p": "本发明属于新能源氢气安全监测技术领域，尤其为一种基于单光子计数的可定位氢气测量方法，包括光纤激光雷达、控制激光束强度变化的声光调制器(AOM)和安装在声光调制器(AOM)输出端的传感光纤，所述声光调制器(AOM)通过环形器注入到所述传感光纤中，所述环形器的输出端安装有用于接收散射光的单光子光电探测器(SPD)；本发明所采用的氢气浓度监测结构可以同时实现多点、多区域的氢气泄漏扩散的检测，具备可定位的功能，采用单光子计数结合锁相放大的探测的方式，检测噪声可达热噪声水平，传感器本身为一根塑料光纤，结构简单，成本低，操作方便，本传感器不带电，本质安全，特别适用于氢气检测的易燃易爆环境中。"
+                }
+            ]
+        }
+    }
+}

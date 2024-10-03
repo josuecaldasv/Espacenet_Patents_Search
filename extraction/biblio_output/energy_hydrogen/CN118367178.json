@@ -1,0 +1,205 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118367178",
+                            "kind": "A",
+                            "date": "20240719"
+                        },
+                        {
+                            "doc-number": "CN118367178",
+                            "date": "20240719"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04007            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04119            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04223            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04225            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04302            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04303            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0662            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410632954",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410632954",
+                            "date": "20240521"
+                        },
+                        {
+                            "doc-number": "202410632954.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410632954",
+                            "date": "20240521"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GUIZHOU MEILING POWER SUPPLY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "贵州梅岭电源有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WU DI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JIANYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MENG XIANGHE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YIN SHAOBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU MENGJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI HU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU XIAOPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU HANYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FANG XU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴迪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王建勇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孟祥鹤, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "尹少波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘孟杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李虎, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘小平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘汉宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "方旭"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Cold starting device for gas-water separator of fuel cell and use method of cold starting device",
+                    "一种燃料电池气水分离器冷启动装置及其使用方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a cold starting device for a gas-water separator of a fuel cell in the technical field of hydrogen fuel cell systems, and the cold starting device comprises a fuel cell system which comprises a fuel cell stack and the gas-water separator; the heating device is arranged in the gas-water separator and used for heating and melting ice in the gas-water separator; and the energy storage device is connected with the fuel cell stack and is used for storing electric energy generated by power generation of the fuel cell stack when the fuel cell system is shut down and supplying the electric energy to the heating device. According to the system, energy of the system is effectively recycled, and the energy is applied to solve the problem of water freezing in key components (a gas-water separator) of a hydrogen loop."
+                },
+                {
+                    "p": "本申请公开了氢燃料电池系统技术领域的一种燃料电池气水分离器冷启动装置，包括燃料电池系统，所述燃料电池系统包括燃料电池堆和气水分离器；加热装置，设置于气水分离器内，用于加热融化气水分离器内的冰；储能装置，储能装置和燃料电池堆连接，用于储存燃料电池系统停机时燃料电池堆发电产生的电能，并将电能供给加热装置。本申请对系统的能量进行有效的回收利用，并将能量应用于解决氢气回路关键部件内(气水分离器)的水冻结问题。"
+                }
+            ]
+        }
+    }
+}

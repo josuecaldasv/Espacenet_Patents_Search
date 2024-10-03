@@ -1,0 +1,116 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118272842",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118272842",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    19            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0656            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "36",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410191242",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410191242",
+                            "date": "20240221"
+                        },
+                        {
+                            "doc-number": "202410191242.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410191242",
+                            "date": "20240221"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "JIANGSU YAOYANG NEW ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "江苏耀扬新能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘俊"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "PEM water electrolysis system and pressure rising and falling control method",
+                    "一种PEM电解水系统及压力升降控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a PEM water electrolysis system and a pressure rising and falling control method, the system comprises an electrolytic cell and a pressure vessel, the electrolytic cell is arranged in the pressure vessel, and the pressure in the electrolytic cell and the pressure in the pressure vessel are controlled to be basically the same. In addition, open-loop feed-forward control and classic PID closed-loop feedback control are introduced, compared with independent traditional PID and independent fuzzy PID control, the introduced feed-forward control is equivalent to compensation for system delay and is not affected by the frequency of an action actuator, and the response speed of the system is increased. And the feedback control is more accurate, so that the system control is accurate, and the system delay can be reduced. Based on the invention, the structures of the high-voltage electrolytic cell and the high-voltage container are designed, so that the hydrogen fuel cell is not affected by the withstand voltage limit value of the electrolytic cell in the water electrolysis reaction of hydrogen production by water electrolysis."
+                },
+                {
+                    "p": "本发明公开了一种PEM电解水系统及压力升降控制方法，该系统包括电解槽和压力容器，且将电解槽置于压力容器中，且控制电解槽内的压力与压力容器内的压力保持基本相同。本发明还引入开环前馈控制+经典PID闭环反馈控制，相对于单独的传统PID和单独的模糊PID控制，引入的前馈控相当于对系统延迟的补偿，不受动作执行器的频率影响，增加系统的响应速度。而反馈控制更精准，两者结合可以让系统控制不但精准还能减少系统延迟。基于本发明，且设计高压电解槽和高压容器的结构，使得氢燃料电池在电解水制氢的电解水反应中不受电解槽本身耐压限值。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118273839",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118273839",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    04            A I                    "
+                        },
+                        {
+                            "text": "F02B  37/    00            A I                    "
+                        },
+                        {
+                            "text": "F02B  43/    10            A I                    "
+                        },
+                        {
+                            "text": "F02G   5/    00            A I                    "
+                        },
+                        {
+                            "text": "F02M  21/    02            A I                    "
+                        },
+                        {
+                            "text": "F02M  21/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410532187",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410532187",
+                            "date": "20240429"
+                        },
+                        {
+                            "doc-number": "202410532187.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410532187",
+                            "date": "20240429"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "FUDA ZIJIN HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " FUZHOU UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "福大紫金氢能科技股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "福州大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JIANG LILONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DU CHENGJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIN LI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN CHONGQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG QING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "江莉龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "都成君, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "林立, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈崇启, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张卿"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Ammonia-hydrogen fusion engine system and control method",
+                    "一种氨氢融合发动机系统及控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an ammonia-hydrogen fusion engine system and a control method, and the ammonia-hydrogen fusion engine system comprises a liquid ammonia tank, a liquid ammonia pump, a liquid ammonia vaporizer, a post-treatment device, an ammonia catalytic reaction hydrogen production device, a hydrogen-nitrogen injection valve, a hydrogen-nitrogen mixer and an engine, the hydrogen-nitrogen mixed gas and air are sucked by the gas compressor after being mixed by the hydrogen-nitrogen mixer, and enter an intake manifold of the engine after being cooled; the other part of ammonia gas is injected into an ammonia gas mixer through a high-pressure ammonia gas injection valve and then enters an intake manifold of the engine, the air, hydrogen-nitrogen mixed gas and the ammonia gas enter an engine cylinder in the intake stroke of the engine, the mixed gas in the cylinder is ignited by a spark plug near a compression top dead center of the engine, and the air and the hydrogen-nitrogen mixed gas enter the engine cylinder. And combustion chemical energy of the fuel is converted into mechanical energy of the engine. The characteristic that the efficiency of catalytic decomposition of hydrogen by ammonia is high when ammonia gas is at low pressure is considered, and hydrogen and nitrogen enter the gas compressor end, so that the ammonia-hydrogen engine is compact."
+                },
+                {
+                    "p": "本发明公开了一种氨氢融合发动机系统及控制方法，包括液氨罐、液氨泵、液氨汽化器、后处理装置、氨催化反应制氢装置、氢氮气喷射阀、氢氮气混合器和发动机，一部分氨气通入氨催化反应制氢装置中分解产生氢氮混合气，氢氮混合气和空气经氢氮气混合器混合后被压气机吸入，经冷却后进入发动机的进气歧管；另一部分氨气经高压氨气喷射阀喷入氨气混合器，再进入发动机的进气歧管，在发动机的进气冲程中空气、氢氮混合气和氨气进入发动机缸内，在发动机的压缩上止点附近，火花塞点燃缸内的混合气体，将燃料的燃烧化学能转换为发动机的机械能。本发明考虑了氨气低压时氨催化分解氢气效率较高的特点，并且氢氮气进入压气机端，使氨氢发动机紧凑化。"
+                }
+            ]
+        }
+    }
+}

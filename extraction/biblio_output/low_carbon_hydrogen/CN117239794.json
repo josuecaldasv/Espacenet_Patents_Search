@@ -1,0 +1,160 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117239794",
+                            "kind": "A",
+                            "date": "20231215"
+                        },
+                        {
+                            "doc-number": "CN117239794",
+                            "date": "20231215"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/   067            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    14            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311181142",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311181142",
+                            "date": "20230914"
+                        },
+                        {
+                            "doc-number": "202311181142.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311181142",
+                            "date": "20230914"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV NORTHEAST DIANLI"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "东北电力大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHAO YUTING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUAN YANQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHAI XUZHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CUI YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TANG YAOHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵钰婷, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "管彦琦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "柴旭峥, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "崔杨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "唐耀华"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Source-load storage low-carbon scheduling method for coordinated operation of carbon capture and hydrogen energy storage",
+                    "一种碳捕集与氢储能协调运行的源荷储低碳调度方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a source load storage low-carbon dispatching method for coordinated operation of carbon capture and hydrogen energy storage, and belongs to the technical field of electric power systems, the method comprises the following steps: firstly, analyzing a source load storage three-side operation mechanism, and secondly, constructing a source network load coordinated operation structure framework shown in the attached drawing. And aiming at the defects in the operation of the carbon capture unit and the hydrogen energy storage system under the spinning reserve requirement, the coordinated operation characteristics of the carbon capture unit and the hydrogen energy storage system are researched. And finally, establishing a source-load storage low-carbon economic dispatching model for coordinated operation of the carbon capture unit and the hydrogen energy storage system by taking the optimal comprehensive cost of the system as a target, describing the uncertainty of the system by adopting a fuzzy membership function, and determining the spinning reserve demand of the system. And verification is carried out through example simulation, and the verification indicates that the new energy consumption level can be remarkably improved on the premise of considering the economical efficiency and the low-carbon property of system operation."
+                },
+                {
+                    "p": "本发明提出一种碳捕集与氢储能协调运行的源荷储低碳调度方法，属于电力系统技术领域，首先，对源荷储三侧运行机理展开分析，其次，构建源网荷协调运行结构框架，运行结构框架如附图所示。并针对旋转备用需求下碳捕集机组与氢储能系统运行中的不足之处，对二者协调运行特性进行研究。最后，以系统综合成本最优为目标，建立碳捕集机组与氢储能系统协调运行的源荷储低碳经济调度模型，采用模糊隶属度函数对系统不确定性进行描述，确定系统旋转备用需求。并通过算例仿真进行验证，验证标明该专利所提模型在兼顾系统运行的经济性与低碳性的前提下，可显著提高新能源消纳水平。"
+                }
+            ]
+        }
+    }
+}

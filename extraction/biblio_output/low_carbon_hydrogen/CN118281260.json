@@ -1,0 +1,153 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118281260",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118281260",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04228            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04303            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04664            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410332371",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410332371",
+                            "date": "20240322"
+                        },
+                        {
+                            "doc-number": "202410332371.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410332371",
+                            "date": "20240322"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "DONGFENG MOTOR GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "东风汽车集团股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YOU MEIXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU LILIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GONG RONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE TELI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO WENLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "游美祥, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘利连, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宫熔, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何特立, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭文龙"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Shutdown control method and device for fuel cell system",
+                    "一种燃料电池系统的关机控制方法和装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a shutdown control method of a fuel cell system, and relates to the technical field of fuel cell system control. According to the control method, when a fault signal of the fuel cell system is received, whether air and hydrogen can be normally supplied or not is determined according to the fault signal to obtain a fault diagnosis result, and a shutdown operation time sequence of each accessory in the fuel cell system is determined according to the fault diagnosis result and preset result correlation information. The result association information is information of different fault diagnosis results and corresponding shutdown operation time sequences, obtaining an applicable shutdown operation time sequence, and executing a system shutdown task on the fuel cell system according to the shutdown operation time sequence so as to reduce the water content in the system after the fuel cell system is shut down. The damage to the interior of the system caused by icing in a low-temperature environment is avoided, more hydrogen is supplemented into the system, a hydrogen-rich state is formed, a hydrogen-air interface is prevented from being formed, carbon corrosion in the fuel cell system is reduced, and the purpose of reducing damage when the fuel cell system fails is achieved."
+                },
+                {
+                    "p": "本发明公开了一种燃料电池系统的关机控制方法，涉及燃料电池系统控制的技术领域。控制方法通过在接收燃料电池系统的故障信号时，根据故障信号确定空气和氢气是否能够正常供给获得故障诊断结果，根据故障诊断结果和预设的结果关联信息，确定燃料电池系统中各附件的关机运行时序，结果关联信息为不同故障诊断结果与对应关机运行时序的信息，得出适用的关机运行时序，根据关机运行时序对燃料电池系统执行系统关机任务，以降低燃料电池系统关机后系统内的水含量，避免低温环境下引起结冰对系统内部造成损坏，补充更多氢气至系统内部，形成富氢状态防止形成氢空界面，减小燃料电池系统内部的碳腐蚀，进而在燃料电池系统故障时达到减少损坏的目的。"
+                }
+            ]
+        }
+    }
+}

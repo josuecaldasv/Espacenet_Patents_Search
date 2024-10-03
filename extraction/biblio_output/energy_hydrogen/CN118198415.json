@@ -1,0 +1,205 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118198415",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118198415",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04007            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04029            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04044            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04029",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04037",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04044",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04067",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "2250",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410302560",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410302560",
+                            "date": "20240318"
+                        },
+                        {
+                            "doc-number": "202410302560.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410302560",
+                            "date": "20240318"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV SHANGHAI JIAOTONG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "上海交通大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YU LIJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG XUE'E"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU SHANKE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG CHENGWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHAN MURONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YIBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "于立军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王雪娥, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘单珂, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄成炜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "单沐荣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王一博"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Marine hydrogen fuel cell thermal management system",
+                    "一种船用氢燃料电池热管理系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a marine hydrogen fuel cell thermal management system, which is respectively connected with a fuel cell stack and a ship heating system, and comprises a first circulating water pump, a first thermostat, a second thermostat, a first heat exchanger and a thermal management controller, the ship navigation target power, the heat supply power requirement of a ship heat supply system, the operation condition data of all parts in the heat management system and the refrigerant medium temperature are obtained in real time; and the data processing control unit is used for generating control feedforward of the first circulating water pump, the first thermostat and the second thermostat, generating new control signals according to the corresponding original PID control values based on the control feedforward, and regulating and controlling the operation states of the first circulating water pump, the first thermostat and the second thermostat in real time. Compared with the prior art, the reliability of fuel cell thermal management control during ship navigation is realized, and the ship navigation energy consumption is reduced."
+                },
+                {
+                    "p": "本发明涉及一种船用氢燃料电池热管理系统，分别连接燃料电池电堆和船舶供暖系统，包括第一循环水泵、第一节温器、第二节温器、第一换热器和热管理控制器，所述热管理控制器包括：数据获取存储单元，用于在船舶航行过程中，实时获取船舶航行目标功率、船舶供暖系统的供热功率需求、所述热管理系统中各零部件的运行工况数据和冷媒介质温度；数据处理控制单元，用于生成第一循环水泵、第一节温器、第二节温器的控制前馈，基于各控制前馈以对应的原始PID控制值生成新控制信号，实时调控第一循环水泵、第一节温器、第二节温器的运行状态。与现有技术相比，本发明实现了船舶航行时燃料电池热管理控制的可靠性，降低了船舶航行能耗。"
+                }
+            ]
+        }
+    }
+}

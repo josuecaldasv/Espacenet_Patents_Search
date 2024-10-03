@@ -1,0 +1,175 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118182066",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118182066",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60H   1/    00            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    33            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    34            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "H",
+                            "main-group": "1",
+                            "subgroup": "00392",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "H",
+                            "main-group": "1",
+                            "subgroup": "00585",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "H",
+                            "main-group": "1",
+                            "subgroup": "00807",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "58",
+                            "subgroup": "33",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "58",
+                            "subgroup": "34",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410384096",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410384096",
+                            "date": "20240401"
+                        },
+                        {
+                            "doc-number": "202410384096.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410384096",
+                            "date": "20240401"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHENZHEN TUOSHI HYDROGEN TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "深圳拓世氢电技术有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI XIONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG DUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QI LINXI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李雄, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张舵, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "漆林溪"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Thermal management system of hydrogen fuel vehicle cabin",
+                    "一种氢燃料车辆座舱的热管理系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the field of hydrogen fuel vehicles, in particular to a thermal management system of a hydrogen fuel vehicle cabin, which comprises a hydrogen fuel cell assembly, and a constant temperature assembly is arranged on the outer side of the hydrogen fuel cell assembly. The hydrogen fuel cell assembly has the beneficial effects that the constant-temperature assembly, the heating assembly, the air conditioner assembly and the temperature sensor assembly are arranged on the outer side of the hydrogen fuel cell assembly, and the constant-temperature assembly is used for keeping the temperature of the hydrogen fuel cell assembly within a constant temperature range according to the environment temperature and the temperature of the hydrogen fuel cell assembly; the heating assembly is used for heating the constant-temperature assembly and a vehicle cabin according to the environment temperature, the air conditioner assembly is used for increasing or decreasing the temperature in the vehicle cabin, and the temperature sensor assembly is used for monitoring the temperature of the hydrogen fuel cell assembly, the temperature of the constant-temperature assembly, the temperature of the heating assembly and the temperature of the vehicle cabin in real time. Therefore, the energy utilization rate of the thermal management system of the hydrogen fuel vehicle cabin is effectively improved, and the cruising ability of the vehicle is improved."
+                },
+                {
+                    "p": "本发明涉及氢燃料汽车领域，尤其是涉及一种氢燃料车辆座舱的热管理系统，包括氢燃料电池组件，氢燃料电池组件的外侧设置有恒温组件。本发明的有益效果是：通过在氢燃料电池组件的外侧设置有恒温组件、加热组件、空调组件、温度传感器组件，恒温组件用于根据环境温度和氢燃料电池组件的温度将氢燃料电池组件的温度保持在恒定的温度范围内，加热组件用于根据环境温度对恒温组件和车辆座舱进行加热，空调组件用于对车辆座舱内部的温度进行升温或降温，温度传感器组件用于分别对氢燃料电池组件、恒温组件、加热组件、车辆座舱的温度进行实时监控，从而有效的提高了氢燃料车辆座舱的热管理系统的能量利用率，提高了车辆的续航能力。"
+                }
+            ]
+        }
+    }
+}

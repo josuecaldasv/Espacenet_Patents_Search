@@ -1,0 +1,104 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117748731",
+                            "kind": "A",
+                            "date": "20240322"
+                        },
+                        {
+                            "doc-number": "CN117748731",
+                            "date": "20240322"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H02J  13/    00            A I                    "
+                    }
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311649782",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311649782",
+                            "date": "20231205"
+                        },
+                        {
+                            "doc-number": "202311649782.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311649782",
+                            "date": "20231205"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUNFLY NEW ENERGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "昇辉新能源有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ZHAOQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘洋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李昭强"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Remote intelligent diagnosis method and system based on low-voltage power distribution cabinet, terminal and medium",
+                    "基于低压配电柜的远程智能诊断方法、系统、终端及介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention is suitable for the technical field of intelligent monitoring of hydrogen production equipment, and provides a remote intelligent diagnosis method and system based on a low-voltage power distribution cabinet, a terminal and a medium, and the method comprises the steps: obtaining current diagnosis time information and recent diagnosis time information in response to a remote diagnosis instruction, and then generating lack diagnosis operation time period information; and determining target sampling time period information according to the lack diagnosis operation time period information and the lack diagnosis limit time period information, obtaining historical output voltage data set information and historical output current data set information of the low-voltage power distribution cabinet based on the target sampling time period information, and determining diagnosis result information of the low-voltage power distribution cabinet. The low-voltage power distribution cabinet can be comprehensively diagnosed, operation and maintenance personnel can preliminarily evaluate the low-voltage power distribution cabinet through specific diagnosis results, powerful auxiliary data are provided for the operation and maintenance personnel, the detection efficiency of the low-voltage power distribution cabinet is effectively improved, and the dual-carbon strategy of hydrogen production from alkaline water can be achieved."
+                },
+                {
+                    "p": "本申请适用于制氢设备智能监测的技术领域，提供了一种基于低压配电柜的远程智能诊断方法、系统、终端及介质，其方法包括先响应于远程诊断指令，获取当前诊断时刻信息和最近诊断时刻信息，然后生成缺诊运行时间段信息，再根据缺诊运行时间段信息和缺诊极限界限时间段信息，确定目标采样时间段信息，然后基于目标采样时间段信息，获取低压配电柜的历史输出电压数据集信息和历史输出电流数据集信息，再确定低压配电柜的诊断结果信息。本申请能够实现对低压配电柜进行全面诊断，通过具体的诊断结果使运维人员能够对低压配电柜有个初步评估，为运维人员提供有力的辅助数据，有效地提高检测低压配电柜效率，有利于实现碱水制氢生产的双碳战略。"
+                }
+            ]
+        }
+    }
+}

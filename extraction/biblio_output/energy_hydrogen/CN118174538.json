@@ -1,0 +1,194 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118174538",
+                            "kind": "A",
+                            "date": "20240611"
+                        },
+                        {
+                            "doc-number": "CN118174538",
+                            "date": "20240611"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "H02M   1/   084            A I                    "
+                        },
+                        {
+                            "text": "H02M   3/    04            A I                    "
+                        },
+                        {
+                            "text": "H02M   3/   335            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "65",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "1",
+                            "subgroup": "084",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "3",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "3",
+                            "subgroup": "335",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410277791",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410277791",
+                            "date": "20240312"
+                        },
+                        {
+                            "doc-number": "202410277791.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410277791",
+                            "date": "20240312"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "LUDAO HYDROGEN ENERGY XIAMEN SCIENCE AND TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "鹭岛氢能（厦门）科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YAN ZHANXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAO HUABING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAO YONGBING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "严占想, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陶华冰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陶勇冰"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen production power supply and hydrogen production system",
+                    "制氢电源及制氢系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a hydrogen production power supply and a hydrogen production system. The hydrogen production power supply comprises an input power supply, a first power loop, a second power loop, a first driving circuit, a second driving circuit and a controller, the output end of the input power supply is electrically connected with the input end of the first power loop, the input end of the second power loop, the power supply end of the first driving circuit, the power supply end of the second driving circuit and the power supply end of the controller respectively; the output end of the first power loop and the output end of the second power loop are electrically connected with the power supply end of the electrolytic hydrogen production tank respectively; the output end of the first driving circuit is electrically connected with the control end of the first power loop, and the output end of the second driving circuit is electrically connected with the control end of the second power loop; the controller is used for sending a first driving signal to the first driving circuit and sending a second driving signal to the second driving circuit, and the first driving signal and the second driving signal are different in phase. Signal ripples can be reduced, and the test precision in a test scene is guaranteed."
+                },
+                {
+                    "p": "本发明提供一种制氢电源及制氢系统，制氢电源包括输入电源、第一功率回路、第二功率回路、第一驱动电路、第二驱动电路和控制器；输入电源的输出端分别与第一功率回路的输入端、第二功率回路的输入端、第一驱动电路的电源端、第二驱动电路的电源端、控制器的电源端电连接，第一功率回路的输出端和第二功率回路的输出端分别与电解制氢槽的电源端电连接；第一驱动电路的输出端与第一功率回路的控制端电连接，第二驱动电路的输出端与第二功率回路的控制端电连接；控制器用于向第一驱动电路发送第一驱动信号以及向第二驱动电路发送第二驱动信号，第一驱动信号和第二驱动信号的相位不同。能够降低信号波纹，保障在测试场景中的测试精度。"
+                }
+            ]
+        }
+    }
+}

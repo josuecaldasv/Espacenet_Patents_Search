@@ -1,0 +1,440 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "109573943",
+                            "kind": "A",
+                            "date": "20190405"
+                        },
+                        {
+                            "doc-number": "CN109573943",
+                            "date": "20190405"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    08            A I                    "
+                        },
+                        {
+                            "text": "H01M  10/    54            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "10",
+                            "subgroup": "54",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "14",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "584",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "W",
+                            "main-group": "30",
+                            "subgroup": "84",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201811511774",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201811511774",
+                            "date": "20181211"
+                        },
+                        {
+                            "doc-number": "201811511774.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201811511774",
+                            "date": "20181211"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA AUTOMOTIVE TECH & RES CT"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " AERI TIANJIN AUTOMOTIVE ENGINEERING RES INSTITUTE CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国汽车技术研究中心有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中汽研（天津）汽车工程研究院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WU HANMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ZHENGUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " REN XIAONING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHAO YUANKAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU SHUANGXI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO JIDONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI KAIXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHENG XUELONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴撼明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李振国, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任晓宁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邵元凯, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘双喜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高继东, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李凯祥, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郑雪龙"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method and device for simultaneously catalytic-generating hydrogen in waste battery recycling process",
+                    "种废旧电池回收过程中同时催化产氢的方法和装置"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5612150",
+                                        "name": "NISHIMURA KATSUNORI [JP], et al",
+                                        "date": "19970318"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5612150",
+                                        "kind": "A",
+                                        "name": "NISHIMURA KATSUNORI [JP], et al",
+                                        "date": "19970318"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2002241102",
+                                        "name": "MATERIALS & ENERGY RES INST TO",
+                                        "date": "20020828"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2002241102",
+                                        "kind": "A",
+                                        "name": "MATERIALS & ENERGY RES INST TO",
+                                        "date": "20020828"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2005144210",
+                                        "name": "JAPAN SCIENCE & TECH AGENCY",
+                                        "date": "20050609"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2005144210",
+                                        "kind": "A",
+                                        "name": "JAPAN SCIENCE & TECH AGENCY",
+                                        "date": "20050609"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2010254512",
+                                        "name": "NIHON INNOVATION KK",
+                                        "date": "20101111"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2010254512",
+                                        "kind": "A",
+                                        "name": "NIHON INNOVATION KK",
+                                        "date": "20101111"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第27段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102447149",
+                                        "name": "UNIV NANKAI, et al",
+                                        "date": "20120509"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102447149",
+                                        "kind": "A",
+                                        "name": "UNIV NANKAI, et al",
+                                        "date": "20120509"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第5段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104241723",
+                                        "name": "GUANGDONG BRUNP RECYCLING TECHNOLOGY CO LTD, et al",
+                                        "date": "20141224"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104241723",
+                                        "kind": "A",
+                                        "name": "GUANGDONG BRUNP RECYCLING TECHNOLOGY CO LTD, et al",
+                                        "date": "20141224"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第7段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105742746",
+                                        "name": "UNIV KUNMING SCIENCE & TECH",
+                                        "date": "20160706"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105742746",
+                                        "kind": "A",
+                                        "name": "UNIV KUNMING SCIENCE & TECH",
+                                        "date": "20160706"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN209507581U",
+                                        "name": "CHINA AUTOMOTIVE TECH & RES CT, et al",
+                                        "date": "20191018"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "209507581",
+                                        "kind": "U",
+                                        "name": "CHINA AUTOMOTIVE TECH & RES CT, et al",
+                                        "date": "20191018"
+                                    }
+                                ]
+                            },
+                            "category": "R",
+                            "rel-claims": "8-10",
+                            "rel-passage": {
+                                "passage": "* 权利要求1-3 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 尾崎萃 等, 化学工业出版社"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 第599-600页 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a method and device for simultaneously catalytic-generating hydrogen in a waste battery recycling process. The method mainly comprises the following steps: (1) extracting graphite: breaking a negative electrode sheet and placing in a reactor, adding hot water, wherein a water level is higher than a primary filter screen, to obtain graphite slurry; (2) preparing a catalyst:through an excessive volume impregnation method, enabling the graphite fallen from a negative electrode to be prepared as the Ni/C catalyst, wherein nickel salt needs to be added in process; (3) catalytic-generating hydrogen: placing the Ni/C catalyst and a positive electrode sheet on the primary filter screen, and adding high-concentration dissolution liquid for dissolving and generating hydrogen, wherein a liquid level is higher than filter screen; and (4) recycling a residual substance: recycling the catalyst on the primary filter screen, wherein the slurry is a positive electrode materialand aluminiferous solution which can be used for a next step of a battery recycling technology, and a collected gas is the hydrogen. The method aims to deeply exploit potentialities of a waste battery, recycle the negative electrode graphite, and simultaneously catalytically prepare the clean energy hydrogen, and a normal flow and recycling efficiency of battery recovery are not affected."
+                },
+                {
+                    "p": "本发明涉及种废旧电池回收过程中同时催化产氢的方法和装置，该方法主要包括以下步骤：(1)提取石墨：将负极片破碎置入反应器中，添加热水，水位高于粗滤网，得到石墨浆液；(2)催化剂制备：通过过量体积浸渍法，将负极脱落的石墨制备成Ni/C催化剂，过程中需要添加镍盐。(3)催化制氢：将Ni/C催化剂和正极片在粗滤网上，并加入高浓度溶解液进行溶解制氢，液位高于滤网；(4)剩余物质回收：粗滤网上的催化剂可重复利用，浆液为正极材料和含铝溶液可进行下步电池回收工艺，收集的气体为氢气。本发明的目的是深入挖掘废旧电池潜力，将负极石墨再利用，同时催化制备清洁能源氢气，同时不影响电池回收的正常流程和回收效率。"
+                }
+            ]
+        }
+    }
+}

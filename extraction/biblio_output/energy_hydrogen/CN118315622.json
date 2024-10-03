@@ -1,0 +1,165 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118315622",
+                            "kind": "A",
+                            "date": "20240709"
+                        },
+                        {
+                            "doc-number": "CN118315622",
+                            "date": "20240709"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04082            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04089            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04111            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04119            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04298            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0662            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410526555",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410526555",
+                            "date": "20240429"
+                        },
+                        {
+                            "doc-number": "202410526555.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410526555",
+                            "date": "20240429"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WEICHAI BALADE HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "潍柴巴拉德氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GAO ZHIMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU XIAOHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JING SHIQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG XIUYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HOU WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高志敏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘晓辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "景世强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王秀玉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "侯伟"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fuel cell water drainage and hydrogen supply system and control method",
+                    "一种燃料电池排水供氢系统及控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of fuel cells, and discloses a fuel cell water drainage and hydrogen supply system and a control method, the system comprises a gas-water separator, a water drainage pipe, an exhaust pipe and a hydrogen supply pipe, the water drainage pipe, the exhaust pipe and the hydrogen supply pipe are respectively provided with a water drainage valve, an exhaust valve and a hydrogen supply valve; the method comprises the following steps: S100, the fuel cell works, and when water in the water tank of the gas-water separator is accumulated to a threshold value amount, the drain valve is opened; s200, acquiring exhaust pressure fluctuation and judging whether the absolute value of the exhaust pressure fluctuation is smaller than first threshold pressure or not, and if yes, executing S300 and then returning to S200; and S300, the environment temperature is obtained, whether the environment temperature is larger than the threshold temperature or not is judged, and if yes, the opening frequency of the exhaust valve is increased. The control method is applied to the system, misjudgment on the drainage progress can be avoided, effective deicing is carried out when the drainage valve is frozen, effective drainage of the fuel cell is ensured, and the reliable performance of the fuel cell is ensured."
+                },
+                {
+                    "p": "本发明属于燃料电池技术领域，公开了一种燃料电池排水供氢系统及控制方法，其中系统包括气水分离器、排水管、排气管和供氢管，排水管、排气管、供氢管上分别设有排水阀、排气阀和供氢阀；方法包括：S100、燃料电池工作，当气水分离器的水箱内的水积攒到阈值量时排水阀开启；S200、获取尾排压力波动并判断其绝对值是否小于第一阈值压力，若是则进行S300后返回S200；S300、获取环境温度并判断是否大于阈值温度，若是则增大排气阀开启频率。该系统应用上述的控制方法，能避免对排水进度的误判，并在排水阀冻结时进行有效除冰，确保燃料电池有效排水，保证燃料电池的可靠性能。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,304 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "5801971",
+                            "kind": "A",
+                            "date": "19980901"
+                        },
+                        {
+                            "doc-number": "US5801971",
+                            "date": "19980901"
+                        }
+                    ]
+                },
+                "classification-ipc": {
+                    "text": "G06F9/455"
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C23F   4/    00            A I                    "
+                        },
+                        {
+                            "text": "H01J  37/    32            A I                    "
+                        },
+                        {
+                            "text": "H01L  21/    00            A I                    "
+                        },
+                        {
+                            "text": "H01L  21/   302            A I                    "
+                        },
+                        {
+                            "text": "H01L  21/  3065            A I                    "
+                        },
+                        {
+                            "text": "H01L  21/    66            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "32935",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "32935",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "31",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "22",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "22",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "216/59"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "257/E21.525"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "703/6"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "703/12"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "76857896",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US19960768578",
+                            "date": "19961218"
+                        },
+                        {
+                            "doc-number": "768578"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "JP19950328640",
+                                "date": "19951218"
+                            },
+                            {
+                                "doc-number": "7-328640"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NEC CORP [JP]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "NEC CORPORATION"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "OHTA TOSHIYUKI [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "OHTA, TOSHIYUKI"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Form simulation device and its simulating method by the use of the Monte Carlo method",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5070469",
+                                        "name": "KUNIKIYO TATSUYA [JP], et al",
+                                        "date": "19911203"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5070469",
+                                        "kind": "A",
+                                        "name": "KUNIKIYO TATSUYA [JP], et al",
+                                        "date": "19911203"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5282140",
+                                        "name": "TAZAWA SATOSHI [JP], et al",
+                                        "date": "19940125"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5282140",
+                                        "kind": "A",
+                                        "name": "TAZAWA SATOSHI [JP], et al",
+                                        "date": "19940125"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5421934",
+                                        "name": "MISAKA AKIO [JP], et al",
+                                        "date": "19950606"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5421934",
+                                        "kind": "A",
+                                        "name": "MISAKA AKIO [JP], et al",
+                                        "date": "19950606"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5646870",
+                                        "name": "KRIVOKAPIC ZORAN [US], et al",
+                                        "date": "19970708"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5646870",
+                                        "kind": "A",
+                                        "name": "KRIVOKAPIC ZORAN [US], et al",
+                                        "date": "19970708"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Brockschmidt, Inside Ole 2: The Fast Track to Building Powerful Object Oriented Applications with Windows Objects , Microsoft Press Programming Seriespp. 67 72."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Ardehali, Effect of Image Force on Ion Current Density in Plasma Discharges , IEEE Trans on Plasma Sci, vol. 24, Iss. 1, Feb. 1996pp. 241 245."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Rhallako et al., Computer Simulation of Carbon Deposition Plasma in CH 4 IEEE Trans on Plasma Sci, vol. 19, Iss. 2, Apr. 1991pp. 270 277."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Hoekstra et al., A Model for Surface & Bulk Chemistry During Silicon Etching in High Plasma Density Inductively Coupled Reactors , 1995 IEEE Int l Conf on Plasma Scip. 248."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Hyman et al., Integrated Model for Plasma CVD & Etch Processes , 1995 Int l Cont on Plasma Scip. 119."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Shibkov et al., Numerical Simulation of Local Charging During Plasma Etching of a Dielectric Material , Electronics Letters, vol. 32, Iss. 10May 1996."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Harafuji et al., Applied Physics Transaction, vol. 62, No. 11, pp. 1111 1118(1993)."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Misaka et al., A Simulation of Micro Loading Phenomena in Dry Etching Process Using a New Adsorption Model , IEDM, pp. 857 860(1993)."
+                            },
+                            "category": " "
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "A form simulation device comprising a bulk plasma analytical unit making an analysis of a bulk plasma region and calculating potential, density of particles and change of sheath length with time within plasma when RF bias is given there, a sheath plasma analytical unit deciding the type of incident particle on the basis of the obtained particle density, a surface reaction calculation unit deciding absorbed material on the surface of the material to be etched, which the incident particle collides with and deciding the type of reaction between the absorbed material and the incident particle decided by the sheath plasma analytical unit, and a form calculation unit calculating the form of the material to be etched depending on the type of reaction decided by said surface reaction calculation unit."
+            }
+        }
+    }
+}

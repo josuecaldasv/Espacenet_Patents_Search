@@ -1,0 +1,328 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117264099",
+                            "kind": "A",
+                            "date": "20231222"
+                        },
+                        {
+                            "doc-number": "CN117264099",
+                            "date": "20231222"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C08F   4/   645            A I                    "
+                        },
+                        {
+                            "text": "C08F   4/   654            A I                    "
+                        },
+                        {
+                            "text": "C08F   4/   655            A I                    "
+                        },
+                        {
+                            "text": "C08F 110/    02            A I                    "
+                        },
+                        {
+                            "text": "C08F 210/    16            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "110",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "210",
+                            "subgroup": "16",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F110/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F4/645",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F110/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F4/6555",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "3",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F110/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F2500/03",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "3",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F2500/18",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "4",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F210/16",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F4/645",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "5",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F210/16",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F4/6555",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "6",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F210/16",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F210/14",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "3",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F2500/03",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "4",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F2500/18",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311130685",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311130685",
+                            "date": "20230904"
+                        },
+                        {
+                            "doc-number": "202311130685.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311130685",
+                            "date": "20230904"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "JILIN TIANLONG CATALYST CO LTD OF JILIN CHEMICAL GROUP CORP"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "吉化集团吉林市天龙催化剂有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DENG YUNPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN XIAOHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU JINYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU DANDAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邓云平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈晓辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "于金洋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "于丹丹"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Ethylene slurry polymerization Ziegler-Natta catalyst component with narrow molecular weight distribution and preparation method thereof",
+                    "分子量分布窄的乙烯淤浆聚合Ziegler-Natta催化剂组分及制备方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to an ethylene slurry polymerization Ziegler-Natta catalyst component with narrow molecular weight distribution and a preparation method of the ethylene slurry polymerization Ziegler-Natta catalyst component. The Ziegler-Natta catalyst component comprises a magnesium compound, a titanium compound and an aluminate compound, the structural general formula of the aluminate compound is (R1O) Al (OCOR2) 2, R1 is selected from alkyl or aryl with the carbon atom number of 1-10, R2 is selected from alkyl of linear, branched or cyclic groups containing 2-20 carbon atoms, the aluminate compound plays a multifunctional role in the catalyst, and the obtained catalyst particles are regular in morphology, similar in sphere shape and good in particle size distribution and can be used for preparing the catalyst. When the catalyst component is used for ethylene slurry polymerization or ethylene and alpha-olefin slurry copolymerization, very high catalytic activity, very good hydrogen regulation sensitivity and copolymerization performance are shown, and the obtained high-density polyethylene resin has the advantages of high stacking density, narrow particle size distribution, low fine particle content and narrow molecular weight distribution."
+                },
+                {
+                    "p": "本发明涉及一种分子量分布窄的乙烯淤浆聚合Ziegler‑Natta催化剂组分及制备方法，Ziegler‑Natta催化剂组分包括镁化合物、钛化合物、铝酸酯化合物；所述铝酸酯化合物结构通式为(R1O)Al(OCOR2)2，其中R1选自碳原子数为l～10的烃基或芳基，R2选自含有2～20个碳原子的直链、支链或环状基团的烷基，铝酸酯化合物在催化剂中起到了多功能的作用，可以使得到的催化剂颗粒形态规则、呈类球形，粒径分布好，该催化剂组分用于乙烯淤浆聚合或乙烯与α‑烯烃淤浆共聚合时表现出很高的催化活性、很好的氢调敏感性和共聚性能，得到的高密聚乙烯树脂具有堆积密度高、粒度分布窄、细粒含量少和分子量分布窄的优势。"
+                }
+            ]
+        }
+    }
+}

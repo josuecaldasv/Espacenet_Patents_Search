@@ -1,0 +1,312 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118184832",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118184832",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C08F   2/    06            A I                    "
+                        },
+                        {
+                            "text": "C08F   2/    38            A I                    "
+                        },
+                        {
+                            "text": "C08F  10/    02            A I                    "
+                        },
+                        {
+                            "text": "C08F 210/    16            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "10",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "210",
+                            "subgroup": "16",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F10/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F2/06",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F10/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F2/38",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "3",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F210/16",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F2/06",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "4",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F210/16",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F2/38",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211593753",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211593753",
+                            "date": "20221213"
+                        },
+                        {
+                            "doc-number": "202211593753.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211593753",
+                            "date": "20221213"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "PETROCHINA CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国石油天然气股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GUO FENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAI CHANGXIU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG DENGFEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG GUOXING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO XINGLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO YUXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG RUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE SHUYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN BINBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG WENYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "翟昌休, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王登飞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨国兴, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵兴龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高宇新, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张瑞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何书艳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙彬彬, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王文燕"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for rapidly establishing reaction in slurry method ethylene polymerization process",
+                    "一种淤浆法乙烯聚合工艺快速建立反应的方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a method for quickly establishing a reaction in a slurry-method ethylene polymerization process, which comprises the following steps: carrying out pressure increasing and decreasing replacement on a slurry stirred tank reactor and a circulating system outside the reactor by using refined nitrogen until the water content in the reactor is less than or equal to 10ppm; hydrogen is continuously introduced into the reactor subjected to refined nitrogen replacement, then a solvent is introduced, stirring is started, and a circulating system outside the kettle is started; dropwise adding aluminum alkyl into the slurry stirred tank reactor according to the addition amount of hexane, and sealing; adding a catalyst and aluminum alkyl into the slurry stirred tank reactor, and sealing; the method comprises the following steps: adding ethylene or ethylene and alpha-olefin into a slurry stirred tank reactor, enabling polymerization reaction parameters to reach target working conditions, then continuously adding a catalyst and aluminum alkyl, and establishing a polymerization reaction under the target working conditions. The method has the advantages of simple and feasible operation steps, short time for initiating polymerization, short time for establishing the reaction, few raw materials required by the replacement reaction system, and energy saving and consumption reduction of the device."
+                },
+                {
+                    "p": "本发明提供了一种淤浆法乙烯聚合工艺快速建立反应的方法，其包括利用精制氮气对淤浆搅拌釜式反应器及釜外循环系统进行升降压置换，直至反应器内水含量≤10ppm；向精制氮气置换后的反应器中持续通入氢气后再通入溶剂，启动搅拌并开启釜外循环系统；根据己烷的加入量，向淤浆搅拌釜式反应器中滴加烷基铝后进行密闭；再向淤浆搅拌釜式反应器中加入催化剂和烷基铝后进行密闭；向淤浆搅拌釜式反应器中加入乙烯或者乙烯和α‑烯烃，并使聚合反应参数达到目标工况条件，随后连续加入催化剂和烷基铝，并在目标工况条件下建立聚合反应。该方法操作步骤简单易行，引发聚合所需时间短，即建立反应所需时间短，置换反应系统所需原料少，装置节能降耗。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,305 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "4149931",
+                            "kind": "A",
+                            "date": "19790417"
+                        },
+                        {
+                            "doc-number": "US4149931",
+                            "date": "19790417"
+                        }
+                    ]
+                },
+                "classification-ipc": {
+                    "text": "G21B1/00"
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H05H   1/    12            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "21",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "057",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "21",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "057",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "30",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "30",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "376/134"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "376/150"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "37987073",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US19730379870",
+                            "date": "19730716"
+                        },
+                        {
+                            "doc-number": "379870"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "US19730379870",
+                                "date": "19730716"
+                            },
+                            {
+                                "doc-number": "379870"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "US ENERGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "THE UNITED STATES OF AMERICA AS REPRESENTED BY THE UNITED STATES DEPARTMENT OF ENERGY"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHRISTENSEN UFFE R"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "CHRISTENSEN, UFFE R"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Divertor for use in fusion reactors",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3015618",
+                                        "name": "STIX THOMAS H",
+                                        "date": "19620102"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3015618",
+                                        "kind": "A",
+                                        "name": "STIX THOMAS H",
+                                        "date": "19620102"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3278384",
+                                        "name": "ANDREW LENARD, et al",
+                                        "date": "19661011"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3278384",
+                                        "kind": "A",
+                                        "name": "ANDREW LENARD, et al",
+                                        "date": "19661011"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3580802",
+                                        "name": "JOHNSON JOHN L, et al",
+                                        "date": "19710525"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3580802",
+                                        "kind": "A",
+                                        "name": "JOHNSON JOHN L, et al",
+                                        "date": "19710525"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3607627",
+                                        "name": "FURTH HAROLD P, et al",
+                                        "date": "19710921"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3607627",
+                                        "kind": "A",
+                                        "name": "FURTH HAROLD P, et al",
+                                        "date": "19710921"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Nuclear Fusion, vol. 11, 3/71, by Gourdon et al.pp. 161-166."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- H. K. ForsenLecture notes for lectures given in 1969 in a reactor design course at the University of Wis."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- LA-4250, 4/69pp. (A4-1)-(A4-4)."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Nuclear Fusion, vol. 10, 6/70, by Loktionov et al.pp. 179-183."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- CONF-740402-P1, vol. 1, 4/74pp. 417-421."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- CONF-730315, 3/73, \"Internal Ring Exp. at Princeton Plasma Physics Lab\", by Yoshikawaidentified as pages 1 and 2."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Physics of Fluids, vol. 9, 1966, pp. 22952296 by Yoshikawa et al."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- UCRL-50807, 6/70, pp. 1-8by Laurer."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- UWFDM-68, 11/73, vol. 1pp. (III-A-1)-(III-D-6)."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- CONF-721111, 11/72pp. 677-683."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- MATT-1050, Aug. 1975p. 529."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- WASH-1267, Jul. 1973, pp. 3-5, 7-10, 12-16, 22-24, 26-2931-34."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- CONF-740402-P1, vol. 1, Apr. 1974pp. 608-614."
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- The Challenge of Fusion, D. Van Nostrand Co. Ltd., 1960p. 60."
+                            },
+                            "category": " "
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "A poloidal divertor for a toroidal plasma column ring having a set of poloidal coils co-axial with the plasma ring for providing a space for a thick shielding blanket close to the plasma along the entire length of the plasma ring cross section and all the way around the axis of rotation of the plasma ring. The poloidal coils of this invention also provide a stagnation point on the inside of the toroidal plasma column ring, gently curving field lines for vertical stability, an initial plasma current, and the shaping of the field lines of a separatrix up and around the shielding blanket."
+            }
+        }
+    }
+}

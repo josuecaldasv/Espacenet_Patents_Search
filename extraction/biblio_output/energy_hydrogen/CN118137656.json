@@ -1,0 +1,212 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118137656",
+                            "kind": "A",
+                            "date": "20240604"
+                        },
+                        {
+                            "doc-number": "CN118137656",
+                            "date": "20240604"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J  13/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "381",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "13",
+                            "subgroup": "00001",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "13",
+                            "subgroup": "00002",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "13",
+                            "subgroup": "00022",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410125790",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410125790",
+                            "date": "20240130"
+                        },
+                        {
+                            "doc-number": "202410125790.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410125790",
+                            "date": "20240130"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HANGZHOU SHIFUNING ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "杭州施福宁能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DING WENSHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GENG XINGXING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHENG XUEHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU FENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ZHIQING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FENG YIWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁文圣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "耿星星, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郑学华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李志青, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "冯祎蔚"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Monitoring system and method for hydrogen storage micro power grid",
+                    "一种氢储微型电网的监控系统及方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of power grid monitoring, and discloses a monitoring system of a hydrogen storage micro power grid, which comprises an information data acquisition module, a wireless transmission unit, an information data receiving unit, an information data storage unit, an information real-time display module, a data core processing module, a dynamic adjustment module and an action execution unit, the information data acquisition module is used for acquiring information data generated in the operation activity of the hydrogen storage micro power grid; and the wireless transmission unit is used for transmitting the information data acquired by the information data acquisition module. According to the invention, data generated in the activity process of the hydrogen storage micro power grid can be monitored in real time, and meanwhile, the generated data can be processed and analyzed, so that whether the micro power grid is abnormal in the activity process can be judged, and after the abnormal condition occurs, an alarm can be given to management personnel in time, thereby improving the safety of the micro power grid. Therefore, the management personnel can master the real-time operation state of the hydrogen storage micro power grid more visually."
+                },
+                {
+                    "p": "本发明涉及电网监控技术领域，且公开了一种氢储微型电网的监控系统，包括：信息数据采集模组、无线传输单元、信息数据接收单元、信息数据存放单元、信息实时显示模组、数据核心处理模组、动态调整模组以及动作执行单元；信息数据采集模组：用于对氢储微型电网运行活动中产生的信息数据进行采集；无线传输单元：用于将信息数据采集模组采集到的信息数据进行传输。能够对氢储微型电网活动过程中产生的数据进行实时监测的同时，还能够对产生的数据进行处理分析，从而能够判断微型电网在活动过程中是否出现异常的情况，并且在出现异常的情况后，能够及时的向管理人员进行告警，进而能够使管理人员能够更加直观的掌握氢储微型电网的实时运行状态。"
+                }
+            ]
+        }
+    }
+}

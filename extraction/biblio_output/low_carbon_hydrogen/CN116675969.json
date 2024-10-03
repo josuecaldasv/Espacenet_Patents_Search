@@ -1,0 +1,267 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116675969",
+                            "kind": "A",
+                            "date": "20230901"
+                        },
+                        {
+                            "doc-number": "CN116675969",
+                            "date": "20230901"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B33Y  10/    00            A I                    "
+                        },
+                        {
+                            "text": "B33Y  70/    10            A I                    "
+                        },
+                        {
+                            "text": "C08K   3/    36            A I                    "
+                        },
+                        {
+                            "text": "C08K   7/    06            A I                    "
+                        },
+                        {
+                            "text": "C08L  69/    00            A I                    "
+                        },
+                        {
+                            "text": "C08L  75/    08            A I                    "
+                        },
+                        {
+                            "text": "C08L  77/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "33",
+                            "subclass": "Y",
+                            "main-group": "10",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "33",
+                            "subclass": "Y",
+                            "main-group": "70",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "69",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "2201",
+                            "subgroup": "011",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "2207",
+                            "subgroup": "04",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "10",
+                            "subgroup": "25",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08L69/00",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08L75/08",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "3",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08L77/06",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "4",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08K7/06",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "5",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08K3/36",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310385083",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310385083",
+                            "date": "20230411"
+                        },
+                        {
+                            "doc-number": "202310385083.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310385083",
+                            "date": "20230411"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "JIEYANG ANMAISI TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " JIEYANG POLYTECHNIC"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "揭阳安麦思科技有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "揭阳职业技术学院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG MEILING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN XI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN GUOGUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIN RUOBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "汪美玲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈希, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈国贵, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "林若波"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Carbon fiber 3D printing material and preparation method thereof",
+                    "一种碳纤维3D打印材料及制备方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a carbon fiber 3D printing material and a preparation method, and belongs to the technical field of carbon fiber 3D printing materials. The invention relates to a carbon fiber 3D printing material. The composite material comprises the following materials: a carbon fiber I, a carbon fiber II, a carbon fiber III, a base material I, a base material II, a base material III and a reaction additive, an interface layer structure based on covalent bond and hydrogen bond connection is formed through strong interface interaction of chains of the base material I and the base material II, the thermal stability, the tensile strength and the tearing strength of the composite material are improved, the elongation at break is low, and the service life of the composite material is prolonged. The high-strength 3D printing material is high in strength, high in toughness, low in shrinkage rate and low in refraction performance. A single power motor is adopted, the two steps of stirring and extracting are achieved, the power cost is saved to the maximum extent, and opening and closing of the discharging pipe are achieved through opening and closing of different pipelines, the airflow direction and threads, and the discharging pipe can be opened and closed without intellectualization."
+                },
+                {
+                    "p": "本发明公开了一种碳纤维3D打印材料及制备方法，属于碳纤维3D打印材料技术领域。本发明的一种碳纤维3D打印材料，包括。以下材料，碳纤维一、碳纤维二、碳纤维三、基材一、基材二、基材三和反应添加剂，本发明通过基材一、二链发生强烈的界面相互作用，形成一种基于共价键和氢键连接的界面层结构，提高复合材料的热稳定性，拉伸强度、撕裂强度、断裂拉伸率低，高韧性，收缩率低，屈折性能低的高强度3D打印材料。采用单一动力电机，实现搅拌和抽取两个步骤，最大化的节约了动力成本，并且通过设置不同管道的开启和闭合，通过气流方向以及螺纹实现排料管的导通和关闭，无需智能化即可实现。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118346920",
+                            "kind": "A",
+                            "date": "20240716"
+                        },
+                        {
+                            "doc-number": "CN118346920",
+                            "date": "20240716"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F17D   1/    04            A I                    "
+                        },
+                        {
+                            "text": "F17D   3/    01            A I                    "
+                        },
+                        {
+                            "text": "F17D   3/    12            A I                    "
+                        },
+                        {
+                            "text": "F17D   5/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410426687",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410426687",
+                            "date": "20240410"
+                        },
+                        {
+                            "doc-number": "202410426687.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410426687",
+                            "date": "20240410"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANXI RESEARCH INSTITUTE FOR CLEAN ENERGY TSINGHUA UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " TSINGHUA UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "清华大学山西清洁能源研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU YANPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU XUANKUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG JINGCHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘艳鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张扬, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘旋坤, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张靖超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张艺"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Control method and device of natural gas hydrogen-doped gas mixing system and storage medium",
+                    "天然气掺氢混气系统的控制方法、装置及存储介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a control method and device for a natural gas hydrogen-doped gas mixing system and a storage medium, the system comprises a natural gas loop, a hydrogen loop and a gas mixing device, the gas mixing device is configured to mix natural gas injected into the natural gas loop and hydrogen injected into the hydrogen loop, and the mixed gas is injected into the hydrogen loop; the method comprises the steps that under the condition that the ratio of the natural gas volume concentration to the hydrogen volume concentration in a gas mixing device does not reach a target set value, the gas source pressure of a hydrogen loop is detected, and under the condition that the gas source pressure of the hydrogen loop is within a corresponding preset pressure interval, the hydrogen flow of the hydrogen loop is obtained; and then the hydrogen flow is adjusted according to the flow interval where the hydrogen flow is located, so that the ratio of the natural gas volume concentration to the hydrogen volume concentration in the gas mixing device reaches a target set value. According to the control method, intelligent dynamic stable control over the ratio of the natural gas to the hydrogen is achieved, internal interference of the system is reduced, and the control precision, safety and economical efficiency of the system are improved."
+                },
+                {
+                    "p": "本发明公开了一种天然气掺氢混气系统的控制方法、装置及存储介质，其中，系统包括：天然气回路、氢气回路和混气装置，混气装置被配置为将天然气回路中注入的天然气和氢气回路中注入的氢气混合，方法包括：在混气装置中天然气体积浓度和氢气体积浓度的比值未达到目标设定值的情况下，检测氢气回路的气源压力，并在氢气回路的气源压力处于对应的预设压力区间的情况下，获取氢气回路的氢气流量，然后根据氢气流量所处的流量区间对氢气流量进行调整，以使混气装置中天然气体积浓度和氢气体积浓度的比值达到目标设定值。本发明的控制方法，实现了天然气和氢气配比的智能动态稳定控制，减小系统的内部干扰，提升了系统的控制精度、安全性和经济性。"
+                }
+            ]
+        }
+    }
+}

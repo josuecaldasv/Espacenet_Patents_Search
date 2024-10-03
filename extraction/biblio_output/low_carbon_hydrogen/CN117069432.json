@@ -1,0 +1,502 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117069432",
+                            "kind": "A",
+                            "date": "20231117"
+                        },
+                        {
+                            "doc-number": "CN117069432",
+                            "date": "20231117"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C04B  28/    00            A I                    "
+                        },
+                        {
+                            "text": "C04B  38/    02            A I                    "
+                        },
+                        {
+                            "text": "C04B  38/    08            A I                    "
+                        },
+                        {
+                            "text": "C04B 111/    40            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "28",
+                            "subgroup": "006",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "38",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "38",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "2111",
+                            "subgroup": "00017",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "2111",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "2201",
+                            "subgroup": "32",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "40",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B28/006",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B18/08",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "3",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B14/064",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "4",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B22/068",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "5",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B22/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "6",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B22/062",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "7",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B38/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "8",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B38/08",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "9",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B24/302",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B28/006",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B18/08",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "3",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B14/064",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "4",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B22/068",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "5",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B22/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "6",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B22/062",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "7",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B38/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "8",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C04B38/08",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311044479",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20231144479",
+                            "date": "20230818"
+                        },
+                        {
+                            "doc-number": "202311044479.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20231144479",
+                            "date": "20230818"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV CHINA MINING & TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国矿业大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JI YUKUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " REN QUANMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI XIAOZHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI RUILIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHU ZHAOXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "季雨坤, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任泉鸣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李晓昭, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李瑞林, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈君, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "褚召祥"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fly ash-based porous geopolymer thermal insulation material and preparation method thereof",
+                    "一种粉煤灰基多孔地质聚合物隔热材料及其制备方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "KR20150056918",
+                                        "name": "ENVITECH ENC CO LTD [KR]",
+                                        "date": "20150528"
+                                    },
+                                    {
+                                        "country": "KR",
+                                        "doc-number": "20150056918",
+                                        "kind": "A",
+                                        "name": "ENVITECH ENC CO LTD [KR]",
+                                        "date": "20150528"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113213825",
+                                        "name": "UNIV HARBIN ENG",
+                                        "date": "20210806"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113213825",
+                                        "kind": "A",
+                                        "name": "UNIV HARBIN ENG",
+                                        "date": "20210806"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114671634",
+                                        "name": "HEBEI INDUSTRIAL UNIV",
+                                        "date": "20220628"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114671634",
+                                        "kind": "A",
+                                        "name": "HEBEI INDUSTRIAL UNIV",
+                                        "date": "20220628"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114853395",
+                                        "name": "UNIV WUHAN                                                                                          ",
+                                        "date": "20220805"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114853395",
+                                        "kind": "A",
+                                        "name": "UNIV WUHAN                                                                                          ",
+                                        "date": "20220805"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115010401",
+                                        "name": "SICHUAN YONGJING INVEST GROUP CO LTD, et al",
+                                        "date": "20220906"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115010401",
+                                        "kind": "A",
+                                        "name": "SICHUAN YONGJING INVEST GROUP CO LTD, et al",
+                                        "date": "20220906"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a fly ash-based porous geopolymer thermal insulation material and a preparation method thereof, and belongs to the technical field of engineering materials. The foaming agents used in the method comprise hydrophilic silicon dioxide aerogel, thermoplastic phenolic resin and hydrogen peroxide powder crystals, the porosity of the full aperture of the fly ash geopolymer is increased by adding the three foaming agents capable of improving the specific aperture range, and the high porosity can increase the heat transfer path and reduce the cross sectional area of heat transfer; the heat conductivity coefficient of the modified fly ash geopolymer is reduced, so that the heat insulation performance is improved, and the heat insulation problem in the field of engineering materials can be solved. The geopolymer disclosed by the invention is green, environment-friendly, low in cost, simple in preparation process and easy to popularize. Solid waste recycling can be promoted, carbon emission can be reduced, the heat insulation performance can be improved, and the method is suitable for application and popularization."
+                },
+                {
+                    "p": "本发明公开了一种粉煤灰基多孔地质聚合物隔热材料及其制备方法，属于工程材料技术领域。本发明所用的发泡剂包括亲水性二氧化硅气凝胶、热塑性酚醛树脂、过氧化氢粉晶，通过加入以上三种可提高特定孔径范围的发泡剂来实现粉煤灰地聚物全孔径的孔隙率增大，高孔隙率可增大传热路径并且减小传热的横截面积，使得改性后的粉煤灰地聚物导热系数降低，进而提高隔热性能，可解决工程材料领域的隔热问题。本发明公开的地质聚合物绿色环保、成本低、制作流程简单，易于推广。既可促进固体废物再利用降低碳排放，又可提高隔热性能，适于推广与应用。"
+                }
+            ]
+        }
+    }
+}

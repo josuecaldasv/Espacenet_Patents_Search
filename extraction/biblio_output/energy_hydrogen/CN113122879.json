@@ -1,0 +1,407 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "113122879",
+                            "kind": "A",
+                            "date": "20210716"
+                        },
+                        {
+                            "doc-number": "CN113122879",
+                            "date": "20210716"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "H02J   1/    10            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "1",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "133",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202110411207",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202110411207",
+                            "date": "20210416"
+                        },
+                        {
+                            "doc-number": "202110411207.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202110411207",
+                            "date": "20210416"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUNSHINE NEW ENERGY DEV CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "阳光新能源开发有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "阳光新能源开发股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "BAI JIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG ZONGJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "白洁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨宗军"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen production control method and hydrogen production system",
+                    "一种制氢控制方法及制氢系统"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2005048207",
+                                        "name": "HITACHI ENG CO LTD",
+                                        "date": "20050224"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2005048207",
+                                        "kind": "A",
+                                        "name": "HITACHI ENG CO LTD",
+                                        "date": "20050224"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2014163044",
+                                        "name": "HITACHI LTD [JP]",
+                                        "date": "20141009"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2014163044",
+                                        "kind": "A1",
+                                        "name": "HITACHI LTD [JP]",
+                                        "date": "20141009"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN205099761U",
+                                        "name": "ZHANG WANJUN",
+                                        "date": "20160323"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "205099761",
+                                        "kind": "U",
+                                        "name": "ZHANG WANJUN",
+                                        "date": "20160323"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN106119883",
+                                        "name": "UNIV TONGJI",
+                                        "date": "20161116"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "106119883",
+                                        "kind": "A",
+                                        "name": "UNIV TONGJI",
+                                        "date": "20161116"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2017044677",
+                                        "name": "KUROKAWA RYOUSUKE [JP], et al",
+                                        "date": "20170216"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2017044677",
+                                        "kind": "A1",
+                                        "name": "KUROKAWA RYOUSUKE [JP], et al",
+                                        "date": "20170216"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108054777",
+                                        "name": "BEIJING ETECHWIN ELECTRICAL CO LTD",
+                                        "date": "20180518"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108054777",
+                                        "kind": "A",
+                                        "name": "BEIJING ETECHWIN ELECTRICAL CO LTD",
+                                        "date": "20180518"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2019173082",
+                                        "name": "TOHO GAS KK",
+                                        "date": "20191010"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2019173082",
+                                        "kind": "A",
+                                        "name": "TOHO GAS KK",
+                                        "date": "20191010"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110565108",
+                                        "name": "XIAN THERMAL POWER RES INST CO, et al",
+                                        "date": "20191213"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110565108",
+                                        "kind": "A",
+                                        "name": "XIAN THERMAL POWER RES INST CO, et al",
+                                        "date": "20191213"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2020050019",
+                                        "name": "MITSUBISHI HITACHI POWER SYS [JP]",
+                                        "date": "20200312"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2020050019",
+                                        "kind": "A1",
+                                        "name": "MITSUBISHI HITACHI POWER SYS [JP]",
+                                        "date": "20200312"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111555275",
+                                        "name": "GLOBAL ENERGY INTERCONNECTION RES INST CO LTD, et al",
+                                        "date": "20200818"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111555275",
+                                        "kind": "A",
+                                        "name": "GLOBAL ENERGY INTERCONNECTION RES INST CO LTD, et al",
+                                        "date": "20200818"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a hydrogen production control method and ae hydrogen production system, and is applied to the technical field of hydrogen production. The method comprises the following steps: after acquiring required hydrogen production electric quantity and an output power predicted value of a new energy power supply in a preset working time period, according to the required hydrogen production electric quantity and the output power predicted value of the new energy power supply in the preset working time period, determining a hydrogen production time period in which the proportion of the new energy hydrogen production electric quantity is the highest in the preset working time period, and controlling the hydrogen production equipment to produce hydrogen in the obtained hydrogen production time period. According to the method, before formal hydrogen production, the hydrogen production time period with the highest proportion of the new energy hydrogen production electric quantity is determined by predicting the output power of the new energy power supply, and the hydrogen production equipment is controlled to operate in the hydrogen production time period, so that the situation that the power grid electric quantity consumed in the whole hydrogen production process is too much due to the fact that the hydrogen production equipment is started too early or too late is avoided, and the new energy hydrogen production electric quantity ratio can be increased, and thus the hydrogen production cost is reduced."
+                },
+                {
+                    "p": "本发明提供的制氢控制方法及制氢系统，应用于制氢技术领域，该方法在获取需求制氢电量和新能源电源在预设工作时间段内的输出功率预测值之后，根据需求制氢电量以及新能源电源在预设工作时间段内的输出功率预测值，在预设工作时间段内确定使得新能源制氢电量占比最高的制氢时间段，并在所得制氢时间段内控制制氢设备制氢。本方法在正式制氢之前，通过新能源电源输出功率的预测，确定新能源制氢电量占比最高的制氢时间段，并在该制氢时间段内控制制氢设备运行，避免因为过早或过晚启动制氢设备而导致整个制氢过程消耗的电网电量偏多，有助于提高新能源制氢电量占比，进而降低制氢成本。"
+                }
+            ]
+        }
+    }
+}

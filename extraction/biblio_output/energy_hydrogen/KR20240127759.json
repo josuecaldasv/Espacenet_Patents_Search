@@ -1,0 +1,191 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "KR",
+                            "doc-number": "20240127759",
+                            "kind": "A",
+                            "date": "20240823"
+                        },
+                        {
+                            "doc-number": "KR20240127759",
+                            "date": "20240823"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "381",
+                            "classification-value": "I",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "22",
+                            "classification-value": "A",
+                            "generating-office": "KR"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "30",
+                            "classification-value": "A",
+                            "generating-office": "KR"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "KR",
+                            "doc-number": "20230020887",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "KR20230020887",
+                            "date": "20230216"
+                        },
+                        {
+                            "doc-number": "1020230020887"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "KR20230020887",
+                            "date": "20230216"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "KOREA HYDRO & NUCLEAR POWER CO [KR]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "한국수력원자력 주식회사"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "KIM HAN UL"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KIM TAE WOO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "김한울, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "김태우"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Green hydrogen production system and method based on renewable energy",
+                    "신재생에너지 기반의 그린수소 생산 시스템 및 방법"
+                ],
+                "references-cited": {
+                    "citation": {
+                        "patcit": {
+                            "document-id": [
+                                {
+                                    "doc-number": "KR20230014987",
+                                    "date": "20230131"
+                                },
+                                {
+                                    "country": "KR",
+                                    "doc-number": "20230014987",
+                                    "kind": "A",
+                                    "date": "20230131"
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "abstract": {
+                "p": "신재생에너지 기반의 그린수소 생산 시스템 및 방법을 제공한다. 신재생에너지 기반의 그린수소 생산 시스템으로서, 전력계통; 재생에너지 기반의 전력을 생성하는 재생에너지 제공파츠; 및 상기 전력계통, 상기 재생에너지 제공파츠 중 적어도 어느 한 곳으로부터 전력을 공급받고, 기 설정된 고순도의 수소생산을 수행하는 수소 생산파츠를 포함한다."
+            }
+        }
+    }
+}

@@ -1,0 +1,486 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "107755402",
+                            "kind": "A",
+                            "date": "20180306"
+                        },
+                        {
+                            "doc-number": "CN107755402",
+                            "date": "20180306"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B09B   3/    00            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    02            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    16            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    38            A I                    "
+                        },
+                        {
+                            "text": "C01B  32/    50            A I                    "
+                        },
+                        {
+                            "text": "C01B  32/    55            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "09",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "16",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "38",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201610681539",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201610681539",
+                            "date": "20160818"
+                        },
+                        {
+                            "doc-number": "201610681539.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201610681539",
+                            "date": "20160818"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "AND WITH HIGH ENVIRONMENTAL PROTECTION SCIENCE AND TECH DEVELOPMENT BEIJING CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "高和同盛环保科技发展（北京）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG XUELIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "汪学林, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张勇"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "New energy technology for municipal domestic waste catalytic hydrogen production",
+                    "城市生活垃圾催化制氢新能源技术"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN1233643",
+                                        "name": "TOSHIBA KK [JP]",
+                                        "date": "19991103"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "1233643",
+                                        "kind": "A",
+                                        "name": "TOSHIBA KK [JP]",
+                                        "date": "19991103"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN1360556",
+                                        "name": "EBARA CORP [JP]",
+                                        "date": "20020724"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "1360556",
+                                        "kind": "A",
+                                        "name": "EBARA CORP [JP]",
+                                        "date": "20020724"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2005162881",
+                                        "name": "MITSUBISHI MATERIALS CORP",
+                                        "date": "20050623"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2005162881",
+                                        "kind": "A",
+                                        "name": "MITSUBISHI MATERIALS CORP",
+                                        "date": "20050623"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN1829656",
+                                        "name": "UHDE GMBH [DE]",
+                                        "date": "20060906"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "1829656",
+                                        "kind": "A",
+                                        "name": "UHDE GMBH [DE]",
+                                        "date": "20060906"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101020826",
+                                        "name": "EAST CHINA UNIV OF SCIENCE & T [CN]",
+                                        "date": "20070822"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101020826",
+                                        "kind": "A",
+                                        "name": "EAST CHINA UNIV OF SCIENCE & T [CN]",
+                                        "date": "20070822"
+                                    }
+                                ]
+                            },
+                            "rel-passage": {
+                                "passage": "* 说明书具体实施方式，附图1-2 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101139083",
+                                        "name": "UNIV SHANGHAI ELECTRIC POWER [CN]",
+                                        "date": "20080312"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101139083",
+                                        "kind": "A",
+                                        "name": "UNIV SHANGHAI ELECTRIC POWER [CN]",
+                                        "date": "20080312"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101177239",
+                                        "name": "USTC UNIV SCIENCE TECH CN [CN]",
+                                        "date": "20080514"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101177239",
+                                        "kind": "A",
+                                        "name": "USTC UNIV SCIENCE TECH CN [CN]",
+                                        "date": "20080514"
+                                    }
+                                ]
+                            },
+                            "rel-passage": {
+                                "passage": "* 说明书具体实施方式，附图1 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101712458",
+                                        "name": "ZHENXIAO WANG",
+                                        "date": "20100526"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101712458",
+                                        "kind": "A",
+                                        "name": "ZHENXIAO WANG",
+                                        "date": "20100526"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2011213553",
+                                        "name": "MITSUBISHI CHEM CORP, et al",
+                                        "date": "20111027"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2011213553",
+                                        "kind": "A",
+                                        "name": "MITSUBISHI CHEM CORP, et al",
+                                        "date": "20111027"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102876410",
+                                        "name": "CHINESE RES ACAD ENV SCIENCES",
+                                        "date": "20130116"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102876410",
+                                        "kind": "A",
+                                        "name": "CHINESE RES ACAD ENV SCIENCES",
+                                        "date": "20130116"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102908909",
+                                        "name": "SHANGHAI INST TECHNOLOGY",
+                                        "date": "20130206"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102908909",
+                                        "kind": "A",
+                                        "name": "SHANGHAI INST TECHNOLOGY",
+                                        "date": "20130206"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103599916",
+                                        "name": "MISSISSIPPI INTERNAT WATER INC, et al",
+                                        "date": "20140226"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103599916",
+                                        "kind": "A",
+                                        "name": "MISSISSIPPI INTERNAT WATER INC, et al",
+                                        "date": "20140226"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103627441",
+                                        "name": "HUANG GUANGXI",
+                                        "date": "20140312"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103627441",
+                                        "kind": "A",
+                                        "name": "HUANG GUANGXI",
+                                        "date": "20140312"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN205289219U",
+                                        "name": "WU WUQUAN, et al",
+                                        "date": "20160608"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "205289219",
+                                        "kind": "U",
+                                        "name": "WU WUQUAN, et al",
+                                        "date": "20160608"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of municipal waste disposal for environmental protection, in particular to a new energy technology for municipal domestic waste catalytic hydrogen production. The technology is a processer which improves the energy utilization rate of municipal domestic waste and achieves cleaning, harmlessness and full recycling of energy. Particularly, after domesticwaste is treated by the processes of vacuum pyrolysis, catalytic hydrogen production, gas purification and separation and the like, organic matter is wholly converted into clean energy-hydrogen and liquid or solid carbon dioxide to be reused, and emission of greenhouse gas like carbon dioxide is reduced by 90% or above. Organic matter in inorganic waste residues are wholly converted, no organic matter or carbon remains, and the waste residues are applied to building materials or earth for backfilling after treatment. The new energy technology for municipal domestic waste catalytic hydrogen production is suitable for municipal domestic waste disposal of different cities and regions."
+                },
+                {
+                    "p": "城市生活垃圾催化制氢新能源技术,本发明涉及技术领域为环境保护中的城市废弃物处理。本发明是在无二次污染的前提下；提高城市生活垃圾的能量利用率，能源清洁，无害化，全资源化的处理设备。特别是种将生活垃圾经过真空热解，催化制氢，气体净化分离等工艺处理后，有机物全部转化为清洁能源‑氢和液态或固态二氧化碳再利用，二氧化碳等温室气体排放降低了90%以上。无机废渣内的有机物全部转化，无有机物或碳的残存，处理后用于建筑材料或填埋用土。本发明生活垃圾催化制氢新能源技术实用于不同城市，地区的城市生活垃圾处理。\n"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118352674",
+                            "kind": "A",
+                            "date": "20240716"
+                        },
+                        {
+                            "doc-number": "CN118352674",
+                            "date": "20240716"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H01M  10/    52            A I                    "
+                    }
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410456937",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410456937",
+                            "date": "20240416"
+                        },
+                        {
+                            "doc-number": "202410456937.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410456937",
+                            "date": "20240416"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NANKAI UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "南开大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "NIU ZHIQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YIFEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BI SONGSHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "牛志强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张逸飞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "毕嵩山"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "In-battery conversion and recycling method of hydrogen by-product of aqueous battery",
+                    "一种水系电池氢气副产物的电池内转化再利用方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "FR2858464",
+                                        "name": "CONSEIL ET DE PROSPECTIVE SCIE [FR]",
+                                        "date": "20050204"
+                                    },
+                                    {
+                                        "country": "FR",
+                                        "doc-number": "2858464",
+                                        "kind": "A1",
+                                        "name": "CONSEIL ET DE PROSPECTIVE SCIE [FR]",
+                                        "date": "20050204"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101111966",
+                                        "name": "SCIENCE EXPECTATION & REFER CO [FR]",
+                                        "date": "20080123"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101111966",
+                                        "kind": "A",
+                                        "name": "SCIENCE EXPECTATION & REFER CO [FR]",
+                                        "date": "20080123"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104718644",
+                                        "name": "UNIV CITY NEW YORK RES FOUND",
+                                        "date": "20150617"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104718644",
+                                        "kind": "A",
+                                        "name": "UNIV CITY NEW YORK RES FOUND",
+                                        "date": "20150617"
+                                    }
+                                ]
+                            },
+                            "category": "X"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of electrochemical energy storage, and discloses an in-battery conversion and recycling method for hydrogen byproducts of an aqueous battery, in a sealed aqueous battery, a gas electrode is additionally arranged except a positive electrode and a negative electrode, and the gas electrode contains a hydrogen oxidation catalyst; in the charge-discharge cycle process of the sealed aqueous battery, the negative electrode of the sealed aqueous battery generates hydrogen evolution side reaction; after the hydrogen evolution side reaction occurs to a certain degree, connecting the gas electrode and the positive electrode to form a loop for discharging, and converting the by-product hydrogen into hydrogen ions/water which returns to the electrolyte to participate in the electrochemical reaction of the sealed aqueous battery again; after the loop finishes discharging, the internal air pressure of the sealed water-based battery is basically zero, and the charge-discharge cycle process of the sealed water-based battery can be continued by reconnecting the positive electrode and the negative electrode. According to the invention, the problem of hydrogen accumulation in the sealed aqueous battery is solved, the potential explosion risk is reduced, the loss of electrolyte is effectively reduced, and the requirement of frequently adding water in the maintenance process is reduced."
+                },
+                {
+                    "p": "本发明属于电化学储能技术领域，公开了一种水系电池氢气副产物的电池内转化再利用方法，在密封水系电池中，除正极和负极外增设气体电极，气体电极：含有氢气氧化催化剂；在密封水系电池充放电循环过程中，其负极会发生析氢副反应；析氢副反应发生一定程度后，连接气体电极与正极构成回路进行放电，将副产物氢气转化为氢离子/水回到电解液中重新参与密封水系电池的电化学反应；该回路放电结束后，密封水系电池内部气压基本归零，通过重新连接正极和负极，能够继续进行密封水系电池的充放电循环过程。本发明不仅解决了密封水系电池内部氢气积累的问题，降低了潜在的爆炸风险，而且有效减少了电解液的流失，减少了维护过程中频繁加水的需求。"
+                }
+            ]
+        }
+    }
+}

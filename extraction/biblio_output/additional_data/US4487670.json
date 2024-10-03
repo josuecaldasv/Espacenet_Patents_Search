@@ -1,0 +1,262 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "4487670",
+                            "kind": "A",
+                            "date": "19841211"
+                        },
+                        {
+                            "doc-number": "US4487670",
+                            "date": "19841211"
+                        }
+                    ]
+                },
+                "classification-ipc": {
+                    "text": [
+                        "C25B1/02",
+                        "C02F1/46"
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25C   7/    02            A I                    "
+                        },
+                        {
+                            "text": "G21F   9/    02            A I                    "
+                        },
+                        {
+                            "text": "G21F   9/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "21",
+                            "subclass": "F",
+                            "main-group": "9",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "21",
+                            "subclass": "F",
+                            "main-group": "9",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "205/627"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "423/249"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "976/DIG380"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "44780182",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US19820447801",
+                            "date": "19821208"
+                        },
+                        {
+                            "doc-number": "447801"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "FR19810023033",
+                                "date": "19811209"
+                            },
+                            {
+                                "doc-number": "81 23033"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "COMMISSARIAT ENERGIE ATOMIQUE [FR]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "COMMISSARIAT A L'ENERGIE ATOMIQUE"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "BELLANGER GILBERT [FR]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GIROUX PIERRE [FR]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "BELLANGER, GILBERT, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "GIROUX, PIERRE"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Process for treating solutions containing tritiated water",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2863526",
+                                        "name": "SALMON OLIVER N",
+                                        "date": "19581209"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2863526",
+                                        "kind": "A",
+                                        "name": "SALMON OLIVER N",
+                                        "date": "19581209"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3620844",
+                                        "name": "WICKE EWALD, et al",
+                                        "date": "19711116"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3620844",
+                                        "kind": "A",
+                                        "name": "WICKE EWALD, et al",
+                                        "date": "19711116"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4000048",
+                                        "name": "BIANCHI GIUSEPPE, et al",
+                                        "date": "19761228"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4000048",
+                                        "kind": "A",
+                                        "name": "BIANCHI GIUSEPPE, et al",
+                                        "date": "19761228"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4190507",
+                                        "name": "HESKY HANS [DE], et al",
+                                        "date": "19800226"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4190507",
+                                        "kind": "A",
+                                        "name": "HESKY HANS [DE], et al",
+                                        "date": "19800226"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4225402",
+                                        "name": "LEROY RODNEY L, et al",
+                                        "date": "19800930"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4225402",
+                                        "kind": "A",
+                                        "name": "LEROY RODNEY L, et al",
+                                        "date": "19800930"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4331522",
+                                        "name": "PIERINI GIANCARLO",
+                                        "date": "19820525"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4331522",
+                                        "kind": "A",
+                                        "name": "PIERINI GIANCARLO",
+                                        "date": "19820525"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "The invention relates to a process and to an apparatus for treating solutions containing tritiated water. According to this process, an electrolyte such as soda is added to the solution, the solution obtained then undergoes electrolysis in order to release tritium in the gaseous state. Working takes place in an electrolytic cell having a cathode made from a metal which aids the diffusion of tritium, e.g. a Pd-Ag alloy coated with porous palladium black. The cathode forms a separating wall between the solution to be electrolyzed and a tritium reception compartment. The tritium which has diffused through the wall of the cathode is recovered in the compartment. Use for the recovery of tritium from effluents resulting from the reprocessing of irradiated nuclear fuels."
+            }
+        }
+    }
+}

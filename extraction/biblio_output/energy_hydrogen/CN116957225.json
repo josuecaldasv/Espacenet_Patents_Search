@@ -1,0 +1,208 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116957225",
+                            "kind": "A",
+                            "date": "20231027"
+                        },
+                        {
+                            "doc-number": "CN116957225",
+                            "date": "20231027"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  17/    11            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0283            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "17",
+                            "subgroup": "11",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "0631",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0283",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310713731",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310713731",
+                            "date": "20230615"
+                        },
+                        {
+                            "doc-number": "202310713731.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310713731",
+                            "date": "20230615"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV XI AN JIAOTONG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西安交通大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DING TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIA WENHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MU CHENGGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG YUHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE YUANKANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN XIAOQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO DEWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贾文皓, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "穆程刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄雨涵, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贺元康, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙骁强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵得玮"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Optimized scheduling method for mobile hydrogen energy system based on chance constraint target planning",
+                    "基于机会约束目标规划的移动氢能系统优化调度方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to an optimal scheduling method for a mobile hydrogen energy system based on chance constraint target planning, belongs to the technical field of hydrogen energy, and is used for solving the problem of hydrogen production-storage-transportation collaborative optimization of an existing mobile hydrogen energy system. According to the technical scheme, an optimal scheduling model about the total operation cost of the mobile hydrogen energy system is constructed, constraint conditions are cooperatively established based on new energy hydrogen production and storage and hydrogen long tube trailer hydrogen transportation, and a low-cost hydrogen production-storage-transportation scheduling plan can be obtained by enabling the optimal scheduling model to obtain a minimum value under the constraint conditions. Furthermore, probability distribution of hydrogen refueling station hydrogen demand errors is utilized to equivalently convert opportunity constraints into deterministic constraints, so that a scheduling model is converted into a deterministic mixed integer linear programming problem, and the model solving efficiency is improved. According to the scheme, when hydrogen production-storage-transportation collaborative optimization is realized, the probability of establishing the risk cost allowable constraint is lower than a given confidence level if necessary, and the space-time scheduling flexibility of the mobile hydrogen energy system in an uncertain environment can be effectively improved."
+                },
+                {
+                    "p": "本案涉及基于机会约束目标规划的移动氢能系统优化调度方法，属于氢能源技术领域，用于解决现有移动氢能系统存在的“制‑储‑运氢协同优化”的问题。本案技术方案如下：构建关于移动氢能系统总运行成本的优化调度模型，并基于新能源制氢储氢和氢气长管拖车运氢协同建立约束条件，通过使优化调度模型在约束条件下取得最小值，可获得低成本的制‑储‑运氢调度计划。进一步地，利用加氢站氢气需求误差的概率分布，将机会约束等价转化为确定性约束，从而将调度模型转化为确定性混合整数线性规划问题，提高模型求解效率。本案方法在实现制‑储‑运氢协同优化时，引入风险成本允许约束成立的概率必要时低于给定置信水平，能够有效提升不确定环境下移动氢能系统时空调度的灵活性。"
+                }
+            ]
+        }
+    }
+}

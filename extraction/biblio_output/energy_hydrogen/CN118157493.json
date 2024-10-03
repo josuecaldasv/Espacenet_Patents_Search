@@ -1,0 +1,187 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118157493",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118157493",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "H02M   1/    12            A I                    "
+                        },
+                        {
+                            "text": "H02M   1/    14            A I                    "
+                        },
+                        {
+                            "text": "H02M   3/   158            A I                    "
+                        },
+                        {
+                            "text": "H02M   5/    10            A I                    "
+                        },
+                        {
+                            "text": "H02M   7/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "65",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "1",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "1",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "3",
+                            "subgroup": "158",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "5",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "7",
+                            "subgroup": "068",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211510393",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211510393",
+                            "date": "20221129"
+                        },
+                        {
+                            "doc-number": "202211510393.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211510393",
+                            "date": "20221129"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING GOLDWIND SCIENCE & CREATION WINDPOWER EQUIPMENT CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京金风科创风电设备有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YANG YOUTAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨有涛"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Power conversion system and hydrogen production system",
+                    "功率转换系统及制氢系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a power conversion system and a hydrogen production system. The power conversion system comprises a power transformer, a rectification unit, a first DC bus and a power converter which are electrically connected in sequence. The power transformer comprises a primary edge angular winding, a secondary edge angular winding and a secondary edge star-shaped winding; each rectification unit comprises a three-phase rectifier bridge circuit, the three-phase alternating current input end of one rectification unit is electrically connected with the secondary edge angular winding, the three-phase alternating current input end of the other rectification unit is electrically connected with the secondary edge star-shaped winding, and the direct current output ends of the two rectification units are electrically connected with the first direct current bus; the power converter comprises a plurality of voltage reduction units connected in parallel, the direct current input ends of the voltage reduction units are electrically connected with the first direct current bus, and the voltage reduction units comprise IGBT devices. According to the embodiment of the invention, the output electric energy quality of the power conversion system can be improved."
+                },
+                {
+                    "p": "本申请公开了一种功率转换系统及制氢系统。该功率转换系统包括依次电连接的功率变压器、整流单元、第一直流母线和功率转换器；功率变压器包括原边角形绕组、副边角形绕组和副边星形绕组；整流单元包括三相整流桥电路，一个整流单元的三相交流输入端与副边角形绕组电连接，另一个整流单元的三相交流输入端与副边星形绕组电连接，两个整流单元的直流输出端与第一直流母线电连接；功率转换器包括多个并联连接的降压单元，降压单元的直流输入端与第一直流母线电连接，降压单元包括IGBT器件。根据本申请实施例能够提高功率转换系统的输出电能质量。"
+                }
+            ]
+        }
+    }
+}

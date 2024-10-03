@@ -1,0 +1,117 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "115811067",
+                            "kind": "A",
+                            "date": "20230317"
+                        },
+                        {
+                            "doc-number": "CN115811067",
+                            "date": "20230317"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "G06F  30/    20            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        },
+                        {
+                            "text": "G06F 111/    08            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211566274",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211566274",
+                            "date": "20221207"
+                        },
+                        {
+                            "doc-number": "202211566274.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211566274",
+                            "date": "20221207"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUNGROW POWER SUPPLY SHANGHAI CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "阳光电源（上海）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG JUNYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王俊逸"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "New energy hydrogen production system energy scheduling method, system, equipment and medium",
+                    "一种新能源制氢系统能量调度方法、系统、设备及介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a new energy hydrogen production system energy scheduling method, system and device and a medium, and the method comprises the steps: obtaining real-time new energy feature data, and predicting the new energy power generation prediction power of a target time node according to the real-time new energy feature data; acquiring historical new energy generating capacity distribution in a preset time period; according to the historical new energy generating capacity distribution, determining probability distribution of the electrolytic cell running in different load intervals; based on the probability distribution, configuring the number of the electrolytic cells according to a load interval with the maximum probability so as to enable the operation load of a single electrolytic cell to reach a preset target; the rated capacity of the hydrogen production system is determined according to the number of the configured electrolytic cells, and the running state of the hydrogen production system is adjusted according to the hydrogen production real-time power, the new energy power generation predicted power and the rated capacity of the hydrogen production system, so that energy scheduling of the new energy hydrogen production system is achieved, and therefore the utilization rate of new energy is effectively increased; and hydrogen production is carried out to the maximum extent."
+                },
+                {
+                    "p": "本发明公开了一种新能源制氢系统能量调度方法、系统、设备及介质，所述方法包括：获取实时新能源特征数据，根据所述实时新能源特征数据预测目标时间节点的新能源发电预测功率；获取预设时间段内的历史新能源发电量分布；根据所述历史新能源发电量分布确定电解槽运行在不同负载区间的概率分布；基于所述概率分布，根据概率最大的负载区间进行电解槽数量配置以使单个电解槽运行负载达到预设目标；根据所述配置的电解槽数量确定制氢系统的额定容量，根据制氢实时功率、所述新能源发电预测功率和所述制氢系统的额定容量调节所述制氢系统的运行状态，以实现对新能源制氢系统的能量调度，从而有效提高新能源的利用率，最大化进行产氢。"
+                }
+            ]
+        }
+    }
+}

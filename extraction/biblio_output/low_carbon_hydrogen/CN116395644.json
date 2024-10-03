@@ -1,0 +1,250 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116395644",
+                            "kind": "A",
+                            "date": "20230707"
+                        },
+                        {
+                            "doc-number": "CN116395644",
+                            "date": "20230707"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "C01B  15/   023            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "023",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "584",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310039255",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20231039255",
+                            "date": "20230113"
+                        },
+                        {
+                            "doc-number": "202310039255.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20231039255",
+                            "date": "20230113"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV DALIAN TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " NINGBO RESEARCH INSTITUTE DALIAN UNIV OF TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "大连理工大学, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "大连理工大学宁波研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "MENG QINGWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU ZONGYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO JINGNAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孟庆伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "于宗义, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵静喃"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for preparing H2O2 through continuous visible light catalytic oxidation of molecular oxygen",
+                    "一种连续可见光催化分子氧氧化制备H2O2的方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101746736",
+                                        "name": "DALIAN CHEMICAL PHYSICS INST",
+                                        "date": "20100623"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101746736",
+                                        "kind": "A",
+                                        "name": "DALIAN CHEMICAL PHYSICS INST",
+                                        "date": "20100623"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第7、17段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111635299",
+                                        "name": "UNIV DALIAN TECH",
+                                        "date": "20200908"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111635299",
+                                        "kind": "A",
+                                        "name": "UNIV DALIAN TECH",
+                                        "date": "20200908"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112110420",
+                                        "name": "UNIV SHANGHAI JIAOTONG",
+                                        "date": "20201222"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112110420",
+                                        "kind": "A",
+                                        "name": "UNIV SHANGHAI JIAOTONG",
+                                        "date": "20201222"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115259099",
+                                        "name": "UNIV SICHUAN                                                                                        ",
+                                        "date": "20221101"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115259099",
+                                        "kind": "A",
+                                        "name": "UNIV SICHUAN                                                                                        ",
+                                        "date": "20221101"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Gangqiang Xu et al., \"Continuously photocatalytic production of H2O2with highconcentrations using 2-ethylanthraquinone as photocatalyst\", Journal of Molecular Catalysis A: Chemical, (20160413), page 2"
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a method for preparing H2O2 through continuous visible light catalytic oxidation of molecular oxygen, and belongs to the technical field of continuous flow photocatalytic synthesis. According to the method, molecular oxygen is used as an oxygen source, an anthraquinone compound is used as a photosensitizer, and isopropanol, 1-phenethyl alcohol, methylbenzene and the like are used as hydrogen atom donors under the condition of visible light to prepare H2O2. The excited state photosensitizer activates molecular oxygen through oxidation quenching to obtain < 1 > O2, low-carbon alcohol is activated through reduction quenching, namely hydrogen atom transfer to obtain a hydrogenated anthraquinone compound, active H atoms in the hydrogenated anthraquinone compound are efficiently removed through the generated < 1 > O2, H2O2 is generated with high selectivity, the highest yield reaches 29460 mM/h, meanwhile, continuous separation of H2O2 can be achieved through continuous extraction, and the method is suitable for industrial production. And the mass fraction of the separated H2O2 aqueous solution can reach up to 11.1 wt%. According to the method, the reaction conditions are mild, and H2O2 with relatively high concentration can be prepared without adding H2O2 stabilizers such as metal and phosphate."
+                },
+                {
+                    "p": "一种连续可见光催化分子氧氧化制备H2O2的方法，属于连续流光催化合成技术领域。该方法以分子氧作为氧源，蒽醌化合物作为光敏剂，在可见光条件下利用异丙醇、1‑苯乙醇、甲苯等作为氢原子供体制备H2O2。激发态光敏剂通过氧化猝灭活化分子氧得到1O2，通过还原猝灭即氢原子转移活化低碳醇得到氢化蒽醌化合物，产生的1O2高效拔除氢化蒽醌化合物中的活性H原子，高选择性地生成H2O2，产量最高达到29460mM/h，同时可通过连续萃取实现H2O2的连续分离，分离得到的H2O2水溶液质量分数最高达到11.1wt％。本方法反应条件温和，不需要外加金属和磷酸盐等H2O2稳定剂即可制备较高浓度的H2O2。"
+                }
+            ]
+        }
+    }
+}

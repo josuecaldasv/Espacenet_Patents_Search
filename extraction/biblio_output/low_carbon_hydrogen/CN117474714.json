@@ -1,0 +1,188 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117474714",
+                            "kind": "A",
+                            "date": "20240130"
+                        },
+                        {
+                            "doc-number": "CN117474714",
+                            "date": "20240130"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0637            A I                    "
+                        },
+                        {
+                            "text": "G06Q  40/    06            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    26            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "0637",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "40",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311483602",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311483602",
+                            "date": "20231107"
+                        },
+                        {
+                            "doc-number": "202311483602.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311483602",
+                            "date": "20231107"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ELECTRIC POWER RES INST SICHUAN ELECTRIC POWER CORP"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国网四川省电力公司电力科学研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TIAN YUTING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEI WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG XI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN XINWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU HUIYING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "田玉婷, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "魏巍, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王曦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙昕炜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周慧莹"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Shared hydrogen energy storage capacity planning method and system based on differential evolutionary game",
+                    "基于差分演化博弈的共享氢储能容量规划方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a shared hydrogen energy storage capacity planning method and system based on a differential evolutionary game, and relates to the technical field of energy storage systems, and the method comprises the steps: obtaining the investment willingness of a plurality of parks, building evolutionary game models corresponding to all investment portfolios, carrying out the iterative evolution of the evolution of the evolutionary game models, and obtaining the investment willingness of a plurality of parks; performing stability judgment on each iteration evolution result based on a stability condition, and if each iteration evolution result meets the stability condition, calculating a stability coefficient corresponding to each iteration evolution result; the evolutionary game model with the maximum stability coefficient of the iterative evolutionary result is determined as an optimal solution model, and the shared hydrogen energy storage capacity corresponding to the optimal solution model is determined as an optimal capacity solution, so that energy economy, flexibility and low-carbon property are taken as overall targets; the problems that in a multi-park joint investment sharing hydrogen energy storage scene, it is difficult to balance multi-investment subject benefit conflicts, and a traditional game method assumes that participants are completely rational are solved."
+                },
+                {
+                    "p": "本发明公开了基于差分演化博弈的共享氢储能容量规划方法及系统，涉及储能系统技术领域，该方法包括：获取多个园区的投资意愿并建立与各个投资组合分别对应的演化博弈模型，对演化博弈模型的演化进行迭代演化，基于稳定条件对各个迭代演化结果进行稳定性判断，若每个迭代演化结果均满足稳定条件，计算各个迭代演化结果对应的稳定系数；将迭代演化结果的稳定系数最大的演化博弈模型确定为最优解模型，并将最优解模型对应的共享氢储能容量确定为最优容量解，用能经济性、灵活性、低碳性为总体目标，解决多园区联合投资共享氢储能场景中难以平衡多投资主体利益冲突，以及传统博弈方法假设参与者完全理性的局限性。"
+                }
+            ]
+        }
+    }
+}

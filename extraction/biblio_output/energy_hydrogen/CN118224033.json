@@ -1,0 +1,155 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118224033",
+                            "kind": "A",
+                            "date": "20240621"
+                        },
+                        {
+                            "doc-number": "CN118224033",
+                            "date": "20240621"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F03D   7/    04            A I                    "
+                        },
+                        {
+                            "text": "F03D   9/    11            A I                    "
+                        },
+                        {
+                            "text": "F03D   9/    19            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "03",
+                            "subclass": "D",
+                            "main-group": "7",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "03",
+                            "subclass": "D",
+                            "main-group": "9",
+                            "subgroup": "11",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "03",
+                            "subclass": "D",
+                            "main-group": "9",
+                            "subgroup": "19",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "05",
+                            "subclass": "B",
+                            "main-group": "2270",
+                            "subgroup": "321",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410318129",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410318129",
+                            "date": "20240320"
+                        },
+                        {
+                            "doc-number": "202410318129.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410318129",
+                            "date": "20240320"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV JIANGSU SCIENCE & TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "江苏科技大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG LIUTING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN PENGZHOU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张刘挺, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈鹏州"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen production, storage and supply control method and system based on comprehensive utilization of wind power",
+                    "一种基于风电综合利用的制储供氢控制方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a hydrogen production, storage and supply control method and system based on comprehensive utilization of wind power, and the method comprises the steps: obtaining the change conditions of wind speed and wind direction, predicting the electric quantity conditions of wind power generation at different moments, and forming an electric quantity curve graph; electric quantity difference values at different moments are calculated and analyzed to obtain the wind power generation stability degree; establishing a positive correlation curve of the wind power generation stability degree and the hydrogen production purity, and analyzing to obtain the hydrogen production purity in different time periods; obtaining a hydrogen storage environment, judging whether a storage condition is met or not according to the hydrogen storage environment, and storing hydrogen if the storage condition is met; and if the storage condition is not met, analyzing the condition of the hydrogen user, and matching the optimal user to carry out hydrogen transportation. The invention also discloses a system for realizing the method. The rationality of wind energy utilization is improved, extra consumption caused by unified treatment is avoided, and the system efficiency is improved."
+                },
+                {
+                    "p": "本发明公开了一种基于风电综合利用的制储供氢控制方法及系统，包括：获取风速风向的变化情况，预测风能发电不同时刻的电量情况并形成电量曲线图；计算不同时刻的电量差值分析得到风能发电稳定程度；建立风能发电稳定程度与制氢纯度的正相关曲线，分析得到不同时间段的制氢纯度；获取氢气存储环境，根据氢气存储环境判断是否达到存储条件，如果达到存储条件则存储氢气；如果没有达到存储条件，则分析氢气使用用户的情况，匹配最优用户进行氢气运输。本发明该公开了实现该方法的系统。本发明提高了提高风能利用的合理性，避免统一处理造成的额外消耗，提高系统效率。"
+                }
+            ]
+        }
+    }
+}

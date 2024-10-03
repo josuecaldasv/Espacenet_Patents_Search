@@ -1,0 +1,161 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117869136",
+                            "kind": "A",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "CN117869136",
+                            "date": "20240412"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F02D  41/    00            A I                    "
+                        },
+                        {
+                            "text": "F02D  41/    30            A I                    "
+                        },
+                        {
+                            "text": "F02M  26/    01            A I                    "
+                        },
+                        {
+                            "text": "F02M  26/    34            A I                    "
+                        },
+                        {
+                            "text": "F02M  26/    35            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "D",
+                            "main-group": "41",
+                            "subgroup": "006",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "D",
+                            "main-group": "41",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "26",
+                            "subgroup": "01",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "26",
+                            "subgroup": "34",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "26",
+                            "subgroup": "35",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410080769",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20241080769",
+                            "date": "20240119"
+                        },
+                        {
+                            "doc-number": "202410080769.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20241080769",
+                            "date": "20240119"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "YANGZHOU AOMEI INTELLIGENT TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "扬州澳美智能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DENG ZHE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邓哲"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Two-stroke internal combustion engine tail gas catalytic reduction comprehensive treatment system and operation method",
+                    "二冲程内燃机尾气催化还原综合处理系统及运行方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a two-stroke internal combustion engine tail gas catalytic reduction comprehensive treatment system and an operation method. The system comprises a two-stroke internal combustion engine and a redundant tail gas treatment system. Most recycled high-temperature tail gas intercepted in an air cylinder is mixed with a proper amount of hydrocarbon fuel sprayed into the air cylinder and is compressed, part of the tail gas is catalytically reduced into regenerated fuel of hydrogen and carbon monoxide under the action of high temperature, high pressure and a catalyst, and then cold energy of liquid oxygen is gasified and expanded to do work to increase the power of the internal combustion engine. Meanwhile, the temperature of a Carnot cycle low-temperature heat source is reduced to improve heat efficiency; excess tail gas exhausted out of the air cylinder is subjected to catalytic reduction, carbon dioxide is liquefied and recycled through cold energy of liquid oxygen, non-liquefied low-temperature gas is recycled to the two-stroke internal combustion engine, tail gas waste heat is fully utilized, and fuel can be saved."
+                },
+                {
+                    "p": "本发明涉及一种二冲程内燃机尾气催化还原综合处理系统及运行方法，包括二冲程内燃机和多余尾气处理系统；本发明利用截留在气缸内大部分再循环高温尾气与喷入气缸的适量碳氢燃料混合并被压缩，在高温高压和催化剂作用下部分催化还原为氢气和一氧化碳的再生燃料，再利用液氧的冷能气化膨胀做功增加内燃机功率，同时降低卡诺循环低温热源的温度以提高热效率；排出气缸外的多余尾气经过催化还原和利用液氧的冷能将二氧化碳液化回收处理，未液化的低温气体再循环至二冲程内燃机，充分利用了尾气余热，可节省燃料。"
+                }
+            ]
+        }
+    }
+}

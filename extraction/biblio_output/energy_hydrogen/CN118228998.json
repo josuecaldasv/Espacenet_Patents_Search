@@ -1,0 +1,158 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118228998",
+                            "kind": "A",
+                            "date": "20240621"
+                        },
+                        {
+                            "doc-number": "CN118228998",
+                            "date": "20240621"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  17/    11            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    26            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "17",
+                            "subgroup": "11",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06313",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410395293",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410395293",
+                            "date": "20240402"
+                        },
+                        {
+                            "doc-number": "202410395293.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410395293",
+                            "date": "20240402"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV CHONGQING"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "重庆大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "REN ZHOUYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEN ZIHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任洲洋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "温紫豪"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Post-disaster recovery method for electricity-hydrogen comprehensive energy system with cross-regional resource sharing",
+                    "一种跨区资源共享的电-氢综合能源系统灾后恢复方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a cross-regional resource sharing power-hydrogen comprehensive energy system post-disaster recovery method. The method comprises the following steps: 1) constructing a power-hydrogen comprehensive energy system post-disaster recovery model considering distributed power supply and maintenance personnel collaborative scheduling; 2) constructing a mobile elastic resource post-disaster allocation model considering cross-regional resource sharing; 3) optimizing the post-disaster recovery model of the electricity-hydrogen comprehensive energy system and the post-disaster distribution model of the mobile elastic resources; 4) acquiring disaster operation information of each region of the electricity-hydrogen comprehensive energy system, inputting the disaster operation information into the optimized after-disaster recovery model of the electricity-hydrogen comprehensive energy system to obtain mobile elastic resource state information and a maintenance plan of each region, and transmitting the mobile elastic resource state information and the maintenance plan to a combined disaster resistance center of the optimized electricity-hydrogen comprehensive energy system; 5) the combined disaster resistance center inputs the mobile elastic resource state information and the maintenance plan into the optimized mobile elastic resource post-disaster allocation model to obtain a mobile elastic resource allocation plan, and issues the mobile elastic resource allocation plan to each region; and 6) solving the optimized post-disaster recovery model of the electricity-hydrogen comprehensive energy system based on the mobile elastic resource allocation plan in each region to obtain a recovery plan. The invention provides a post-disaster recovery strategy for an electricity-hydrogen comprehensive energy system with cross-regional resource sharing. According to the model, the cross-space-time flexibility of the hydrogen energy system and the cross-region supporting capacity of the mobile emergency resources can be fully considered, and the elasticity of the multi-region electricity-hydrogen comprehensive energy system in post-disaster recovery is improved."
+                },
+                {
+                    "p": "本发明公开一种跨区资源共享的电‑氢综合能源系统灾后恢复方法,包括以下步骤：1)构建考虑分布式电源与维修人员协同调度的电‑氢综合能源系统灾后恢复模型；2)构建考虑跨区资源共享的移动弹性资源灾后分配模型；3)对电‑氢综合能源系统灾后恢复模型、移动弹性资源灾后分配模型进行优化；4)获取电‑氢综合能源系统各区域的灾害运行信息，并输入至优化后的电‑氢综合能源系统灾后恢复模型中，得到每个区域的移动弹性资源状态信息和维修计划，并传输至优化后的电‑氢综合能源系统的联合抗灾中心；5)所述联合抗灾中心将移动弹性资源状态信息和维修计划输入至优化后的移动弹性资源灾后分配模型，得到移动弹性资源分配计划，并下发至各区域；6)每个区域基于移动弹性资源分配计划，求解优化后的电‑氢综合能源系统灾后恢复模型，得到恢复计划。本发明提出了一种跨区资源共享的电‑氢综合能源系统灾后恢复策略；该模型能充分考虑到氢能系统的跨时空灵活性与移动应急资源的跨区域支撑能力，提高多区域电‑氢综合能源系统在灾后恢复中的弹性。"
+                }
+            ]
+        }
+    }
+}

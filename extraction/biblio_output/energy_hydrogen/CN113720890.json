@@ -1,0 +1,185 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "113720890",
+                            "kind": "A",
+                            "date": "20211130"
+                        },
+                        {
+                            "doc-number": "CN113720890",
+                            "date": "20211130"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "G01N  27/   416            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "G",
+                        "class": "01",
+                        "subclass": "N",
+                        "main-group": "27",
+                        "subgroup": "416",
+                        "classification-value": "I",
+                        "generating-office": "CN"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202111009889",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20211109889",
+                            "date": "20210831"
+                        },
+                        {
+                            "doc-number": "202111009889.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20211109889",
+                            "date": "20210831"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANGHAI NAR END ENERGY HYDROGEN POWER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "上海纳尔终能氢电有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HU LIQING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡里清"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for rapidly detecting whether mass transfer and drainage of membrane electrode are normal or not",
+                    "一种快速检测膜电极传质与排水是否正常的方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN1945887",
+                                        "name": "FEICHI LVNENG POWER TECHNOLOGY [CN]",
+                                        "date": "20070411"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "1945887",
+                                        "kind": "A",
+                                        "name": "FEICHI LVNENG POWER TECHNOLOGY [CN]",
+                                        "date": "20070411"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101324641",
+                                        "name": "UNIV XI AN JIAOTONG [CN]",
+                                        "date": "20081217"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101324641",
+                                        "kind": "A",
+                                        "name": "UNIV XI AN JIAOTONG [CN]",
+                                        "date": "20081217"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2012071495",
+                                        "name": "UNIV DELAWARE [US], et al",
+                                        "date": "20120531"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2012071495",
+                                        "kind": "A2",
+                                        "name": "UNIV DELAWARE [US], et al",
+                                        "date": "20120531"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 黄振宇 等, \"质子交换膜燃料电池电流密度分布特性和研究展望\", 《化学进展》, pages 943 - 949"
+                            },
+                            "category": "X",
+                            "rel-claims": "1-10"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a method for detecting the performance of a membrane electrode, in particular to a method for quickly detecting whether the mass transfer and drainage of a membrane electrode in the whole effective area range are normal or not. The method comprises the following steps: (1) connecting the positive and negative electrodes of a single battery to constant voltage output, and detecting the current intensity I0; (2) taking out the membrane electrode of the single battery, covering the corresponding positions on the surfaces of the two sides of the membrane electrode with insulating films, then reassembling the single battery, reconnecting the constant voltage output, and detecting the current intensity I1; (3) recording the total effective area of the single-side surface of the membrane electrode as S0, and recording the area of the insulating film covering the side surface as S1; and (4) when I0/S0 is equal to A0, I1/(S0-S1) is equal to A1, and the difference of the ratio of A0 to A1 is less than or equal to 10%, indicating that the mass transfer and water drainage of the membrane electrode of the fuel cell are normal on the whole, otherwise, the mass transfer and water drainage are abnormal, so that the current density distribution of the membrane electrode is nonuniform. Compared with the prior art, the detection method disclosed by the invention can be used for quickly and simply judging whether the mass transfer and drainage of the membrane electrode (MEA) of the fuel cell in a single cell are normal or not."
+                },
+                {
+                    "p": "本发明涉及一种膜电极性能的检测方法，具体涉及一种快速检测膜电极在整个有效面积范围内的传质与排水是否正常的方法，包括以下步骤：(1)将单电池的正负极接入恒定电压输出，测出电流强度I0；(2)将上述单电池的膜电极取出，在其两侧表面对应位置遮盖绝缘薄膜，然后重新组装成单电池，重新接入上述恒定电压输出，测出电流强度I1；(3)膜电极单侧表面总有效面积记为S0，遮盖该侧表面的绝缘薄膜的面积记为S1；(4)当I0/S0＝A0，I1/(S0‑S1)＝A1，当A0与A1的比值差异≤10％时，表明燃料电池膜电极从整体上来说传质、排水正常，否则，不正常，从而导致膜电极电流密度分布不均匀。与现有技术相比，通过本发明的检测方法可以快速、简便地判断燃料电池膜电极(MEA)在单电池中传质与排水是否正常。"
+                }
+            ]
+        }
+    }
+}

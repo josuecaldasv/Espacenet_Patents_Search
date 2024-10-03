@@ -1,0 +1,142 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118205452",
+                            "kind": "A",
+                            "date": "20240618"
+                        },
+                        {
+                            "doc-number": "CN118205452",
+                            "date": "20240618"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L   3/    00            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    30            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "3",
+                            "subgroup": "0053",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "58",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311368267",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311368267",
+                            "date": "20231020"
+                        },
+                        {
+                            "doc-number": "202311368267.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311368267",
+                            "date": "20231020"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "TEHAI HYDROGEN ENERGY TESTING BAODING CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "特嗨氢能检测（保定）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FENG LILI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DUAN ZHIJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "封利利, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "段志洁"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Vehicle control method and device, storage medium and electronic equipment",
+                    "车辆控制方法、装置、存储介质及电子设备"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a vehicle control method and device, a storage medium and electronic equipment. The method comprises the steps that a preset signal sent by a target component in a target vehicle is received, and the target component is a component covering and protecting a fuel cell engine in the target vehicle; determining a state of the fuel cell engine; and under the condition that the state of the fuel cell engine is a first state, first equipment in the target vehicle is controlled to be turned off, and the first state is a non-working state. The technical problems of low safety and large vehicle loss caused by the fact that the generator is not stopped or suddenly started under the condition that the vehicle is repaired and maintained and the like in the related technology are solved."
+                },
+                {
+                    "p": "本发明公开了一种车辆控制方法、装置、存储介质及电子设备。其中，该方法包括：接收来自目标车辆中目标部件发出的预定信号，其中，目标部件为覆盖保护目标车辆中燃料电池发动机的部件；确定燃料电池发动机的状态；在燃料电池发动机的状态为第一状态的情况下，控制目标车辆中的第一设备关闭，其中，第一状态为非工作状态。本发明解决了相关技术中对车辆进行维修保养等情况下发电机未停机或突然启动，导致的安全性低且车辆损耗大的技术问题。"
+                }
+            ]
+        }
+    }
+}

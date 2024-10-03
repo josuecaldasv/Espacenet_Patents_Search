@@ -1,0 +1,153 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118366351",
+                            "kind": "A",
+                            "date": "20240719"
+                        },
+                        {
+                            "doc-number": "CN118366351",
+                            "date": "20240719"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G09B   9/    00            A I                    "
+                        },
+                        {
+                            "text": "G09B  23/    18            A I                    "
+                        },
+                        {
+                            "text": "G09B  25/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410650016",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410650016",
+                            "date": "20240524"
+                        },
+                        {
+                            "doc-number": "202410650016.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410650016",
+                            "date": "20240524"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANGHAI HANAO NEW ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "上海汉翱新能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "PANG CHANGWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YUAN HAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG QI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "庞长巍, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "袁浩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张野, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张琦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张涛"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen fuel cell transfer joint control teaching training system",
+                    "一种氢燃料电池分动联控教学实训系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of energy education, in particular to a hydrogen fuel cell transfer joint control teaching practical training system, which is characterized in that a hydrogen subsystem is in communication connection with an electrical subsystem through a CAN bus, the hydrogen subsystem is connected with the electrical subsystem through a power line, the hydrogen subsystem is connected with an air subsystem through an air pipeline, and the air subsystem is connected with an air pipeline. The hydrogen subsystem is connected with the thermal management subsystem through a water pipeline, the thermal management subsystem is connected with the air subsystem through a water pipeline, the working principle of the whole fuel cell system can be visually displayed, and meanwhile, the working principle of each subsystem can be independently displayed in a targeted manner; students have a visual and deep understanding of power generation by using clean energy on the whole and on the path, the awareness of environmental protection is improved, and the development of clean energy is promoted."
+                },
+                {
+                    "p": "本发明涉及能源教育技术领域，具体地说是一种氢燃料电池分动联控教学实训系统，氢气子系统与电气子系统通过CAN总线相互通讯连接，氢气子系统通过动力线与电气子系统连接，氢气子系统通过空气管路与空气子系统相互连接，氢气子系统通过水管路与热管理子系统相互连接，热管理子系统与空气子系统通过水管路连接，本发明可以直观的展示整个燃料电池系统的工作原理，同时也可以有针对性地单独展示各个子系统的工作原理，让学员对利用清洁能源发电从整体上、路径上有一个直观而深刻的认识，有助于提升环保意识，推动清洁能源的发展。"
+                }
+            ]
+        }
+    }
+}

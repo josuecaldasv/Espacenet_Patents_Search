@@ -1,0 +1,144 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118322947",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118322947",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L  58/    10            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    12            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    30            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    40            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04298            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0432            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04955            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410479296",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410479296",
+                            "date": "20240422"
+                        },
+                        {
+                            "doc-number": "202410479296.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410479296",
+                            "date": "20240422"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GUANGDONG JIAYI NEW ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "广东佳邑新能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU DONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG HAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG SEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHENG YONGPAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘东, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张海, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "江森, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "程永攀"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Intelligent energy optimization control device and method for hydrogen fuel cell power system",
+                    "一种氢燃料电池动力系统的智能能量优化控制装置及方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an intelligent energy optimization control device and method for a hydrogen fuel cell power system, and belongs to the technical field of hydrogen energy power devices. The fuel cell, the power cell and the external load are respectively connected with ports of the energy control panel, and the energy control panel obtains output signals of the cell capacity signal display and the power demand signal display in real time to adjust the output power of the power cell. It is ensured that the fuel cell operates in the optimal working state, and the service life of the fuel cell is prolonged; external load changes can be flexibly handled, and an energy recovery and distribution strategy is optimized; and in different stages of the power battery capacity, the power battery is reasonably utilized to assist the fuel battery, so that the overall energy efficiency and performance of the system are improved."
+                },
+                {
+                    "p": "一种氢燃料电池动力系统的智能能量优化控制装置及方法，属于氢能动力装置技术领域。燃料电池、动力电池、外部负载分别与能量控制板的端口连接，能量控制板实时获得电池容量信号显示器、功率需求信号显示器的输出信号调节动力电池的输出功率。本发明确保燃料电池在最佳工作状态下运行，提高燃料电池的使用寿命；灵活应对外部负载变化，优化能量回收和分配策略；以及在动力电池容量不同阶段，合理利用动力电池辅助燃料电池，以提升系统的整体能量效率和性能。"
+                }
+            ]
+        }
+    }
+}

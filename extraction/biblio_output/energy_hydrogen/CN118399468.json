@@ -1,0 +1,194 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118399468",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118399468",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    02            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410314894",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410314894",
+                            "date": "20240319"
+                        },
+                        {
+                            "doc-number": "202410314894.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410314894",
+                            "date": "20240319"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "INNER MONGOLIA HUADIAN HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " HUADIAN ELECTRIC POWER RES INSTITUTE CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "内蒙古华电氢能科技有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华电电力科学研究院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "QI FANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO MENGMENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QI QIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SONG DAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHEN XIANGQIONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU CHUANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "齐放, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗蒙蒙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "齐强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋丹, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "沈向琼, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘闯"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Photovoltaic power system regulation and control method and device based on hydrogen energy storage",
+                    "基于氢储能的光伏电力系统调控方法和装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a photovoltaic power system regulation and control method and device based on hydrogen energy storage, the method is applied to the photovoltaic power system regulation and control device based on hydrogen energy storage, the device comprises a controller, a photovoltaic module electrically connected with the controller, a power grid, a storage battery and a hydrogen production module, and the method is applied to the controller. Comprising the following steps: judging whether electric energy generated by a photovoltaic module meets a grid-connected condition according to a power grid dispatching load and a grid-connected threshold value, and judging whether the electric energy generated by the photovoltaic module meets a hydrogen production condition according to a storage margin and a storage threshold value of a hydrogen production module; in response to the fact that the grid connection condition and the hydrogen production condition are met, determining that the electric energy generated by the photovoltaic module is preferentially used for the power grid or the hydrogen production module according to the grid connection benefit and the hydrogen production benefit; and in response to the situation that the grid connection condition is not met but the hydrogen production condition is met, determining that the electric energy generated by the photovoltaic module is preferentially used for the storage battery or the hydrogen production module according to the storage battery charging and discharging comprehensive efficiency and the hydrogen production and storage comprehensive efficiency."
+                },
+                {
+                    "p": "本申请涉及一种基于氢储能的光伏电力系统调控方法和装置，其中，方法包括：方法应用于基于氢储能的光伏电力系统调控装置，装置包括控制器，与控制器电性连接的光伏模块、电网、蓄电池和制氢模块，方法应用于控制器，包括：根据电网调度负荷和并网阈值判断所述光伏模块产生的电能是否满足并网条件，根据制氢模块的存储余量和存储阈值判断所述光伏模块产生的电能是否满足制氢条件；响应于满足并网条件且满足所述制氢条件，根据并网效益和制氢效益，确定优先将光伏模块产生的电能用于电网或制氢模块；响应于不满足所述并网条件但满足所述制氢条件，根据蓄电池充放电综合效率和制储氢综合效率确定优先将所述光伏模块产生的电能用于蓄电池或制氢模块。"
+                }
+            ]
+        }
+    }
+}

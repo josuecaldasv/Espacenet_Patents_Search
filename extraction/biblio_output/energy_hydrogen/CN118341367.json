@@ -1,0 +1,139 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118341367",
+                            "kind": "A",
+                            "date": "20240716"
+                        },
+                        {
+                            "doc-number": "CN118341367",
+                            "date": "20240716"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  19/    00            A I                    "
+                        },
+                        {
+                            "text": "G05D   7/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410452194",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410452194",
+                            "date": "20240416"
+                        },
+                        {
+                            "doc-number": "202410452194.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410452194",
+                            "date": "20240416"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CAPSO GREEN ENERGY TECH NANJING CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "凯普索绿色能源科技（南京）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YUAN MUKANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU ZUGUANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QIN YING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO HAILONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GU YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "袁慕康, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘祖光, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "覃英, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭海龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "顾宇"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Monitoring method of green ammonia device",
+                    "一种绿氨装置的监控方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a method for monitoring a green ammonia device, which comprises the following steps: detecting the input quantity Qh2 of raw material hydrogen, the input quantity Qn2 of nitrogen and the weight Ma of generated liquid ammonia, and then calculating the actual commissioning rate eta: # imgabs0 # according to a formula, if the actual commissioning rate of # imgabs1 # is greater than the target value of the commissioning rate, the device is in a normal operation state, and if the actual commissioning rate of # imgabs2 # is greater than the target value of the commissioning rate, the device is in a normal operation state; if the actual commissioning rate is smaller than the commissioning rate target value, the device operates abnormally and needs to be overhauled. According to the method, the judgment basis is more accurate and comprehensive, standardization is easier, interference of human factors is avoided, and control is more convenient and accurate."
+                },
+                {
+                    "p": "本发明涉及一种绿氨装置的监控方法，包括以下步骤：检测原料氢气输入量Qh2和氮气的输入量Qn2，以及生成出的液氨的重量Ma，然后，根据公式计算出实际投运率η：#imgabs0#其中，#imgabs1#若实际投运率大于投运率目标值，则装置处于正常运行状态；若实际投运率小于投运率目标值，则装置运行不正常，需要检修。本发明不仅可使判断依据更加精准和全面，而且，更加易于标准化，避免了人为因素的干扰，使控制更加方便和准确。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,399 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116462210",
+                            "kind": "A",
+                            "date": "20230721"
+                        },
+                        {
+                            "doc-number": "CN116462210",
+                            "date": "20230721"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01C   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "F28D  21/    00            A I                    "
+                        },
+                        {
+                            "text": "G05D  23/    20            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "0417",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "0482",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "0488",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "65",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "28",
+                            "subclass": "D",
+                            "main-group": "21",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "05",
+                            "subclass": "D",
+                            "main-group": "23",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310384239",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310384239",
+                            "date": "20230406"
+                        },
+                        {
+                            "doc-number": "202310384239.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310384239",
+                            "date": "20230406"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUNLIGHT HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "阳光氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DENG QIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邓强"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Device for controlling temperature of air inlet of ammonia synthesis system and ammonia synthesis system",
+                    "控制合成氨系统进气口温度的设备，以及合成氨系统"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4744966",
+                                        "name": "GROTZ BERNARD J [US]",
+                                        "date": "19880517"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4744966",
+                                        "kind": "A",
+                                        "name": "GROTZ BERNARD J [US]",
+                                        "date": "19880517"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "EP3106435",
+                                        "name": "CASALE SA [CH]",
+                                        "date": "20161221"
+                                    },
+                                    {
+                                        "country": "EP",
+                                        "doc-number": "3106435",
+                                        "kind": "A1",
+                                        "name": "CASALE SA [CH]",
+                                        "date": "20161221"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN205980836U",
+                                        "name": "SINOCHEM FULING CHONGQING CHEMICAL INDUSTRY CO LTD",
+                                        "date": "20170222"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "205980836",
+                                        "kind": "U",
+                                        "name": "SINOCHEM FULING CHONGQING CHEMICAL INDUSTRY CO LTD",
+                                        "date": "20170222"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "DE102018006330",
+                                        "name": "LINDE AG [DE]",
+                                        "date": "20200213"
+                                    },
+                                    {
+                                        "country": "DE",
+                                        "doc-number": "102018006330",
+                                        "kind": "A1",
+                                        "name": "LINDE AG [DE]",
+                                        "date": "20200213"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111498868",
+                                        "name": "UNIV XIAMEN",
+                                        "date": "20200807"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111498868",
+                                        "kind": "A",
+                                        "name": "UNIV XIAMEN",
+                                        "date": "20200807"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114992885",
+                                        "name": "UNIV XI AN JIAOTONG                                                                                 ",
+                                        "date": "20220902"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114992885",
+                                        "kind": "A",
+                                        "name": "UNIV XI AN JIAOTONG                                                                                 ",
+                                        "date": "20220902"
+                                    }
+                                ]
+                            },
+                            "category": "X",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 说明书第0032-0047段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2022356066",
+                                        "name": "GORDON ROGER [CA]",
+                                        "date": "20221110"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2022356066",
+                                        "kind": "A1",
+                                        "name": "GORDON ROGER [CA]",
+                                        "date": "20221110"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN217929406U",
+                                        "name": "ALLY HIGH TECH CO LTD",
+                                        "date": "20221129"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "217929406",
+                                        "kind": "U",
+                                        "name": "ALLY HIGH TECH CO LTD",
+                                        "date": "20221129"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2022253456",
+                                        "name": "LINDE GMBH [DE]",
+                                        "date": "20221208"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2022253456",
+                                        "kind": "A1",
+                                        "name": "LINDE GMBH [DE]",
+                                        "date": "20221208"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 钟正宽等, \"合成氨废气氢回收技术探讨’\", 重庆师范学院学报（自然科学版）, (20010331), vol. 18, no. 1, pages 16 - 18"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-14"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses equipment for controlling the temperature of an air inlet of a synthetic ammonia system and the synthetic ammonia system. The equipment comprises an air compressor used for compressing air to obtain compressed air; the first heat exchanger is connected with the air compressor through a first transmission pipeline, and is used for receiving compressed air through the first transmission pipeline, performing heat exchange and temperature rise on mixed gas of nitrogen and hydrogen by using the compressed air, and electrolyzing water through the renewable energy hydrogen production system to obtain hydrogen; the second heat exchanger is connected with the first heat exchanger through a second transmission pipeline and used for conducting heat exchange and temperature rise on the mixed gas from the first heat exchanger through steam, so that the temperature of the mixed gas is kept within the preset range. The technical problems of low ammonia synthesis efficiency, low ammonia yield and high ammonia production cost caused by high discontinuity and easy fluctuation of hydrogen production yield in hydrogen production by using renewable energy sources are solved."
+                },
+                {
+                    "p": "本申请公开了一种控制合成氨系统进气口温度的设备，以及合成氨系统。其中，该设备包括：空气压缩机，用于对空气进行压缩得到压缩空气；第一换热器，通过第一传输管线与空气压缩机连接，用于通过第一传输管线接收压缩空气，并利用压缩空气对氮气与氢气的混合气体进行换热升温，通过可再生能源制氢系统电解水得到氢气；第二换热器，通过第二传输管线与第一换热器连接，用于利用蒸汽对来自第一换热器的混合气体进行换热升温，使得混合气体的温度保持在预设范围之内。本申请解决了由于利用可再生能源制氢具有较高的不连续性，制氢产量容易发生波动造成的合成氨效率较低，氨产量较少以及氨生产成本较高的技术问题。"
+                }
+            ]
+        }
+    }
+}

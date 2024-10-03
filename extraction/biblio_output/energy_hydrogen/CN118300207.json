@@ -1,0 +1,192 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118300207",
+                            "kind": "A",
+                            "date": "20240705"
+                        },
+                        {
+                            "doc-number": "CN118300207",
+                            "date": "20240705"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G05B  13/    04            A I                    "
+                        },
+                        {
+                            "text": "H01M  16/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410293334",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410293334",
+                            "date": "20240314"
+                        },
+                        {
+                            "doc-number": "202410293334.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410293334",
+                            "date": "20240314"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WUHAN UNIV OF TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "武汉理工大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XIE CHANGJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG QINGDONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU SHENPEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG ZHEWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHU WENCHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DU BANGHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG HAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG WENLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YUAN JIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谢长君, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "江庆东, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周申培, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王喆伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "朱文超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨扬, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杜帮华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王瀚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨文龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "袁杰"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen-electricity hybrid energy supply system control method and device and electronic equipment",
+                    "一种氢电混合供能系统控制方法、装置及电子设备"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a hydrogen-electricity hybrid energy supply system control method and device and electronic equipment, and belongs to the technical field of new energy power generation, and the method comprises the steps: obtaining a battery charge state in a type-2 fuzzy controller, a hydrogen storage state of a hydrogen storage tank, and a membership function parameter of a power distribution factor; optimizing the membership function parameter based on a particle swarm algorithm to obtain an optimized membership function parameter; obtaining a fuzzy rule, and determining an activation degree interval of each rule in the fuzzy rule based on the optimized membership function parameter and the fuzzy rule; obtaining a fuzzy reasoning result based on the activation degree interval of each rule and the membership degree function of the power distribution factor; and obtaining a power distribution factor based on the fuzzy reasoning result, and controlling the power distribution of the system according to the power distribution factor. The particle swarm optimization type-II fuzzy controller is adopted, and the problem that a membership function is difficult to determine in type-II fuzzy control is solved."
+                },
+                {
+                    "p": "本发明涉及一种氢电混合供能系统控制方法、装置及电子设备，属于新能源发电技术领域，其中，该方法包括：获取二型模糊控制器中的电池荷电状态、储氢罐的储氢状态以及功率分配因子的隶属度函数参数；基于粒子群算法对所述隶属度函数参数进行优化，得到优化后的隶属度函数参数；获取模糊规则，基于所述优化后的隶属度函数参数和所述模糊规则确定所述模糊规则中每条规则的激活度区间；基于所述每条规则的激活度区间和所述功率分配因子的隶属度函数，得到模糊推理结果；基于所述模糊推理结果得到功率分配因子，并根据功率分配因子控制系统的功率分配。本发明采用粒子群优化二型模糊控制器，解决二型模糊控制中隶属度函数难以确定的问题。"
+                }
+            ]
+        }
+    }
+}

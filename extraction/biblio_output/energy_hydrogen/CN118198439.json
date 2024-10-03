@@ -1,0 +1,198 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118198439",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118198439",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04298            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04313            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0438            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04992            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04298",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04313",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0438",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04992",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410342222",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410342222",
+                            "date": "20240325"
+                        },
+                        {
+                            "doc-number": "202410342222.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410342222",
+                            "date": "20240325"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GUANGDONG YUNTAO HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "广东云韬氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI XIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHI BIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG SHIJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAO JIAPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG QIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李祥, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "池滨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "江世杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曹加鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨强"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fuel cell control system and method based on Bluetooth low energy (BLE)",
+                    "一种基于低功耗蓝牙BLE的燃料电池控制系统与方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the field of fuel cell control, and discloses a fuel cell control system based on Bluetooth Low Energy (BLE), which comprises a hydrogen management system module HMS, an air management system module AMS, a hydrothermal management system module CMS, an inspection module CVM, a fuel cell system control module FCU and central equipment, the hydrogen management system module HMS is composed of a hydrogen inlet valve, a proportional valve, a sensor and a hydrogen pump; the air management system module AMS is composed of a sensor, an air compressor, a flow meter and a throttle valve. The hydrothermal management system module CMS is composed of a sensor, a water pump, a PTC, a conductivity sensor and a radiator. The use method of the system comprises connection operation and control operation. By adopting a Bluetooth signal transmission mode, fuel cell system signal acquisition, detection and control are carried out, the communication fault probability of the fuel cell system is reduced, and debugging of the fuel cell system is conveniently carried out."
+                },
+                {
+                    "p": "本发明属于燃料电池控制领域，公开一种基于低功耗蓝牙BLE的燃料电池控制系统，包括氢气管理系统模块HMS，空气管理系统模块AMS，水热管理系统模块CMS、巡检模块CVM、燃料电池系统控制模块FCU以及中心设备；所述氢气管理系统模块HMS由进氢阀、比例阀、传感器以及氢泵构成；空气管理系统模块AMS由传感器、空压机、流量计以及节气门构成；水热管理系统模块CMS由传感器、水泵、PTC、电导率传感器以及散热器构成。上述系统的使用方法包括连接操作与控制操作。通过采用蓝牙传输信号的方式，进行燃料电池系统信号采集、检测以及控制，降低燃料电池系统通讯故障概率的问题，便利地进行燃料电池系统的调试。"
+                }
+            ]
+        }
+    }
+}

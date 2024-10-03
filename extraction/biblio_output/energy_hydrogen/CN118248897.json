@@ -1,0 +1,185 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118248897",
+                            "kind": "A",
+                            "date": "20240625"
+                        },
+                        {
+                            "doc-number": "CN118248897",
+                            "date": "20240625"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04014            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0606            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  2425            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04014",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04022",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0606",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "2425",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410335030",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410335030",
+                            "date": "20240322"
+                        },
+                        {
+                            "doc-number": "202410335030.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410335030",
+                            "date": "20240322"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV JIANGSU"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "江苏大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LUO TIANBEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG QIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DAI LIMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JI HENGSONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗天贝, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王谦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "戴礼明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吉恒松"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Indirect ammonia solid oxide fuel cell system",
+                    "一种间接氨固体氧化物燃料电池系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The indirect ammonia solid oxide fuel cell system comprises an ammonia gas cylinder, a self-heating ammonia decomposition reactor, a hydrogen separator, a hydrogen storage tank, a first heat exchanger, a second heat exchanger, an electric pile, an afterburner, a fan, a tail gas treatment device and a plurality of valves, the self-heating ammonia decomposition reactor is provided with a catalytic channel and a combustion channel of the self-heating ammonia decomposition reactor. The system adopts a self-heating ammonia hydrogen production and hydrogen storage process in the system, so that the problem that the system cost and complexity are increased due to external hydrogen supply is avoided; the waste heat in the high-temperature tail gas is recycled in a multi-stage manner, so that a good effect can be achieved on rapid temperature rise starting, efficient energy utilization and low-cost stable operation of a fuel cell system, and great practical significance is achieved. Meanwhile, the design structure is reasonable, the cost is low, and the wide market application prospect is achieved."
+                },
+                {
+                    "p": "本发明公开了一种间接氨固体氧化物燃料电池系统，包括氨气气瓶、自热式氨分解反应器、氢气分离器、储氢罐、第一换热器、第二换热器、电堆、补燃器、风机、尾气处理装置以及多个阀门；自热式氨分解反应器具有自热式氨分解反应器的催化通道和燃烧通道。本系统采用系统内部的自热式氨制氢及氢存储过程，避免了外部供氢导致的系统成本和复杂度增加的问题；通过对高温尾气中的余热进行多级回收利用，可以对燃料电池系统的快速升温启动、能量高效利用、低成本稳定运行起到良好作用，具有重大的实践意义。同时，本发明的设计结构合理、成本低，具有广泛的市场应用前景。"
+                }
+            ]
+        }
+    }
+}

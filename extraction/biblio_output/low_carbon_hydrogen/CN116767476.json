@@ -1,0 +1,152 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116767476",
+                            "kind": "A",
+                            "date": "20230919"
+                        },
+                        {
+                            "doc-number": "CN116767476",
+                            "date": "20230919"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B63H  21/    20            A I                    "
+                        },
+                        {
+                            "text": "B63H  21/    21            A I                    "
+                        },
+                        {
+                            "text": "B63J   2/    12            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310594662",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310594662",
+                            "date": "20230524"
+                        },
+                        {
+                            "doc-number": "202310594662.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310594662",
+                            "date": "20230524"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV WUHAN TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "武汉理工大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG ZUNHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHENG YINGYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI GESHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG YONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SONG WANGHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张尊华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郑映仪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李格升, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄勇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张熠, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋汪浩"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Ship hybrid power system and control method and device thereof",
+                    "船舶复合动力系统及其控制方法、装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a ship hybrid power system and a control method and device thereof, and relates to the technical field of ship power engineering. When the working power of the fuel engine is high, part of waste gas of the fuel engine provides heat for the reforming reaction subsystem, part of waste gas serves as a raw material to be subjected to reforming reaction, and meanwhile reformed gas obtained by the reforming reaction subsystem is completely recycled by the fuel engine. When the working power of the fuel engine is low, the fuel cell is controlled to be opened to guarantee power, all waste gas of the fuel engine is used for providing heat needed by the system, and meanwhile hydrogen-rich reformed gas under the low working condition of the fuel engine is recycled to the fuel engine and the fuel cell to be reused. In the working process of the ship hybrid power system, the fuel cold energy treatment subsystem conducts heat exchange on reformed gas of the reforming reaction subsystem through fuel in a fuel storage tank, and the heat efficiency of the system is improved while carbon dioxide in the reformed gas is liquefied and recycled."
+                },
+                {
+                    "p": "本发明公开一种船舶复合动力系统及其控制方法、装置，涉及船舶动力工程技术领域。当燃料发动机的工作功率较高时，燃料发动机的部分废气为重整反应子系统提供热量，部分废气作为原料进行重整反应，同时重整反应子系统得到的重整气全部被燃料发动机循环利用。当燃料发动机的工作功率较低时，控制燃料电池打开保证动力，燃料发动机全部废气用于提供系统所需热量，同时燃料发动机低工况下的富氢重整气被回收至燃料发动机和燃料电池再利用。在船舶复合动力系统工作过程中，燃料冷能处理子系统利用燃料储罐中的燃料对重整反应子系统的重整气进行热交换，在对重整气中的二氧化碳进行液化回收的同时提高系统热效率。"
+                }
+            ]
+        }
+    }
+}

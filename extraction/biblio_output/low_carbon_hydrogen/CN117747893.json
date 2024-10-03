@@ -1,0 +1,196 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117747893",
+                            "kind": "A",
+                            "date": "20240322"
+                        },
+                        {
+                            "doc-number": "CN117747893",
+                            "date": "20240322"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04014            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04701            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0612            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/    12            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311845010",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311845010",
+                            "date": "20231229"
+                        },
+                        {
+                            "doc-number": "202311845010.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311845010",
+                            "date": "20231229"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHONGQING JIAOTONG UNIV GREEN AVIATION TECHNOLOGY RESEARCH INSTITUTE"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "重庆交通大学绿色航空技术研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CAO LIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI HAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JU TING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DU YUHUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI RUIBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG ZHIHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU JINYUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FAN YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO KAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曹林, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李浩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "居婷, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杜玉环, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李瑞博, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张治华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡金源, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "范瑜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵凯"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Novel battery power device",
+                    "一种新型电池动力装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a novel battery power device, which belongs to the technical field of aircraft power devices, and comprises a fuel cell, a control system, a power output system and a methanol reforming hydrogen production system, the methanol reforming hydrogen production system is used for producing hydrogen on site by adopting a methanol aqueous solution; the methanol reforming hydrogen production system is connected with the anode of the fuel cell; the cathode of the fuel cell is connected with a fan; the fan is used for filling air into the cathode of the fuel cell; the power output end of the fuel cell is electrically connected with the control system; the control system is used for controlling power output management; the control system is electrically connected with the fan and the power output system respectively; and the power output system is used for providing power required for maintaining the flight of the aircraft. According to the novel battery power device disclosed by the invention, a methanol reforming hydrogen production technology and a high-temperature proton exchange membrane hydrogen fuel cell technology are combined, so that the problems that hydrogen is not easy to produce, store and transport when being directly used as fuel, a low-temperature proton exchange membrane fuel cell is insufficient in tolerance to carbon monoxide, the flight duration of an aircraft is short and the like are solved; and the overall efficiency and the fuel utilization rate of the device are higher."
+                },
+                {
+                    "p": "本发明公开了一种新型电池动力装置，属于飞行器动力装置技术领域，包括燃料电池、控制系统、动力输出系统和甲醇重整制氢系统；所述甲醇重整制氢系统用于采用甲醇水溶液现场制氢气；所述甲醇重整制氢系统与燃料电池的阳极连接；所述燃料电池的阴极上连接设有风机；所述风机用于向燃料电池的阴极灌入空气；所述燃料电池的电力输出端和控制系统电连接；所述控制系统用于控制电力输出管理；所述控制系统分别与风机和动力输出系统电连接；所述动力输出系统用于提供维持飞行器飞行所需动力。本发明的一种新型电池动力装置采用甲醇重整制氢技术与高温质子交换膜氢燃料电池技术结合，解决了直接以氢气为燃料存在不易制储运，以及低温质子交换膜燃料电池对一氧化碳耐受能力不足，飞行器续航时间短等问题，使装置整体效率及燃料利用率更高。"
+                }
+            ]
+        }
+    }
+}

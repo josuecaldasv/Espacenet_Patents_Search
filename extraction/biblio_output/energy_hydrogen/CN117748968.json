@@ -1,0 +1,182 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117748968",
+                            "kind": "A",
+                            "date": "20240322"
+                        },
+                        {
+                            "doc-number": "CN117748968",
+                            "date": "20240322"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02M   1/    32            A I                    "
+                        },
+                        {
+                            "text": "H02M   5/   458            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311776303",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311776303",
+                            "date": "20231221"
+                        },
+                        {
+                            "doc-number": "202311776303.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311776303",
+                            "date": "20231221"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHENKE TECH GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " HEBEI SHENKE MAGNETIC MAT CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " HEBEI SHENKE ELECTRONICS CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " HEBEI SHENKE ELECTRIC POWER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " HEBEI SHENKE INTELLIGENT MFG CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " HEBEI SHENKE MOULD CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "申科科技集团有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "河北申科磁性材料有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "河北申科电子股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "河北申科电力股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "河北申科智能制造有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "河北申科模具有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LEE DONG-KEON"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN XIAOYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZENG WANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG LICHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李东建, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙晓义, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曾望, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王力崇"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Cooperative control strategy of integrated new energy hydrogen production converter",
+                    "集成型新能源制氢变换器的协同控制策略"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "According to the cooperative control strategy of the integrated new energy hydrogen production converter, the direct-current link voltage is shaped under the condition that a direct-current link capacitor voltage sensor and a corresponding control loop thereof are not used; the circuit structure of the converter comprises a three-phase filter circuit, a rectification booster circuit which is connected with the three-phase filter circuit and is composed of six switching devices, a direct-current chain capacitor which is connected with the rectification booster circuit, and a direct-current conversion step-down circuit which is connected with the direct-current chain capacitor and is composed of six switching devices. By means of the cooperative control strategy, the coupling relation between the degree of freedom of the rectifier and the degree of freedom of the interleaved Buck direct-current converter is utilized to avoid the use of a direct-current chain capacitor voltage sensor and a control loop thereof, and the complexity of the control loop is simplified."
+                },
+                {
+                    "p": "集成型新能源制氢变换器的协同控制策略，在不使用直流链电容电压传感器及其对应控制回路的情况下将直流链电压塑形，变换器的电路结构中包括三相滤波电路、与三相滤波电路连接的由六个开关器件组成的整流升压电路、与整流升压电路连接的直流链电容、与直流链电容连接的由六个开关器件组成的直流变换降压电路、以及与直流变换降压电路连接的交错并联Buck直流变换电感电路，通过本发明的协同控制策略，利用将整流器自由度与交错并联Buck直流变换器自由度的耦合关系避免使用直流链电容电压传感器及其控制回路，简化控制环路复杂程度。"
+                }
+            ]
+        }
+    }
+}

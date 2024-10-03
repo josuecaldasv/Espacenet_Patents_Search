@@ -1,0 +1,163 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118281953",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118281953",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "G06N   3/   006            A I                    "
+                        },
+                        {
+                            "text": "G06N   7/    01            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410376413",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410376413",
+                            "date": "20240329"
+                        },
+                        {
+                            "doc-number": "202410376413.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410376413",
+                            "date": "20240329"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING STATE GRID POWER TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京国网电力技术股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HUANG CHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG QIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MA LIYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TIAN XIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王秦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马力勇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "田欣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张阳"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Wind-solar-storage collaborative smart energy unit control method and system",
+                    "一种风光储协同的智慧能源单元控制方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of new energy control, and discloses a wind-solar-storage collaborative smart energy unit control method. Comprising the following steps: S1, firstly, a central controller constructs a wind power output probability model and a photovoltaic output probability model; s2, according to the wind power output probability model and the photovoltaic output probability model in the S1, constructing a wind-solar-hydrogen storage integrated energy system operation model; s3, constructing a source-storage-load multi-objective optimization model according to the operation model of the wind-light-hydrogen storage integrated energy system in the S2; s4, FPA-LHS algorithm optimization is carried out according to the source-storage-load multi-objective optimization model; and S5, transmitting electric energy converted from wind power to a converter module according to an FPA-LHS algorithm. According to the method, wind power generation and photovoltaic power generation are comprehensively utilized, stability, environmental performance and economic indexes are comprehensively considered, a source-storage-load multi-target planning and operation regulation and control model is established, reasonability and diversity of feasible solutions are guaranteed through optimization, and meanwhile, diversified Pareto solutions are obtained by adopting improved FPA-LHS."
+                },
+                {
+                    "p": "本发明属于新能源控制技术领域，公开了一种风光储协同的智慧能源单元控制方法。包括以下方法步骤：S1、首先中心控制器构建风电出力概率模型以及光伏出力概率模型；S2、根据S1中的风电出力概率模型以及光伏出力概率模型构建风光氢储综合能源系统运行模型；S3、再根据S2中的风光氢储综合能源系统运行模型构建源‑储‑荷多目标优化模型；S4、根据源‑储‑荷多目标优化模型进行FPA‑LHS算法优化；S5、根据FPA‑LHS算法将风电转换的电能输送至转换器模块。本发明综合利用风力发电以及光伏发电，综合考虑稳定性、环境性及经济性指标建立源‑储‑荷多目标规划与运行调控模型，通过优化保证可行解的合理性与多样性，同时采用改进FPA‑LHS，获得多样性的Pareto解。"
+                }
+            ]
+        }
+    }
+}

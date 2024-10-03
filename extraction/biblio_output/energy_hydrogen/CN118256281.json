@@ -1,0 +1,155 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118256281",
+                            "kind": "A",
+                            "date": "20240628"
+                        },
+                        {
+                            "doc-number": "CN118256281",
+                            "date": "20240628"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    56            A I                    "
+                        },
+                        {
+                            "text": "C01B  32/    50            A I                    "
+                        },
+                        {
+                            "text": "C10J   3/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "56",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "32",
+                            "subgroup": "50",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "0916",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "1671",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410422117",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410422117",
+                            "date": "20240409"
+                        },
+                        {
+                            "doc-number": "202410422117.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410422117",
+                            "date": "20240409"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ANHUI LINGCHAO INTELLIGENT EQUIPMENT CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "安徽领潮智能设备有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG QING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王清"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method and system for producing green hydrogen from biomass feedstock",
+                    "通过生物质原料制造绿氢的方法和系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a method and a system for preparing green hydrogen from a biomass raw material, and the method comprises the following steps: gasifying the biomass raw material to obtain biomass charcoal and synthesis gas containing combustible gas; the synthesis gas is fed into a boiler for combustion for steam power generation, generated electric energy is supplied to the process of manufacturing green hydrogen from biomass raw materials, biomass charcoal is sequentially subjected to a water gas reaction and a reforming reaction to obtain mixed gas containing hydrogen and carbon dioxide, the mixed gas is subjected to carbon dioxide separation, then hydrogen is purified, and green hydrogen is obtained. Biomass charcoal is used for manufacturing green hydrogen, and the cost for storing and transporting the biomass charcoal is far lower than the cost for storing and transporting hydrogen; meanwhile, the synthesis gas is fed into the boiler to be combusted for steam power generation, generated electric energy is supplied to the green hydrogen manufacturing process, an external power source is not needed except initial starting, the green hydrogen preparation requirement is met, the green hydrogen yield is stable, and stable operation of the subsequent chemical process needing green hydrogen is guaranteed."
+                },
+                {
+                    "p": "本发明公开通过生物质原料制造绿氢的方法和系统，包括：将生物质原料进行气化，获得生物质炭和包含可燃气体的合成气；将合成气送入锅炉燃烧进行蒸汽发电，产生的电能为生物质原料制造绿氢的过程供电，将生物质炭依次经过水煤气反应和重整反应后获得含有氢气、二氧化碳的混合气体，混合气体先经过二氧化碳分离，再提纯氢气获得绿氢。本发明将生物质炭用于制造绿氢，储运生物质炭的成本远低于储氢和运氢成本；同时，将合成气送入锅炉燃烧进行蒸汽发电，产生电能为制造绿氢的过程供电，除初始启动外，无需外接电源，符合绿氢制备需求，且绿氢产量稳定，保证后续需利用绿氢的化工工艺稳定运行。"
+                }
+            ]
+        }
+    }
+}

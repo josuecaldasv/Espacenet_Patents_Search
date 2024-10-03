@@ -1,0 +1,177 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118423205",
+                            "kind": "A",
+                            "date": "20240802"
+                        },
+                        {
+                            "doc-number": "CN118423205",
+                            "date": "20240802"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    04            A I                    "
+                        },
+                        {
+                            "text": "F02B  37/    00            A I                    "
+                        },
+                        {
+                            "text": "F02B  43/    10            A I                    "
+                        },
+                        {
+                            "text": "F02G   5/    00            A I                    "
+                        },
+                        {
+                            "text": "F02G   5/    02            A I                    "
+                        },
+                        {
+                            "text": "F02M  21/    02            A I                    "
+                        },
+                        {
+                            "text": "F02M  21/    04            A I                    "
+                        },
+                        {
+                            "text": "F02M  21/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410532188",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410532188",
+                            "date": "20240429"
+                        },
+                        {
+                            "doc-number": "202410532188.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410532188",
+                            "date": "20240429"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "FUDA ZIJIN HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " FUZHOU UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "福大紫金氢能科技股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "福州大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JIANG LILONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DU CHENGJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIN LI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN CHONGQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG QING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "江莉龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "都成君, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "林立, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈崇启, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张卿"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Ammonia-hydrogen fusion engine for hydrogen production based on high-pressure ammonia reaction and control method of ammonia-hydrogen fusion engine",
+                    "一种基于高压氨反应制氢的氨氢融合发动机及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an ammonia-hydrogen fusion engine based on high-pressure ammonia reaction hydrogen production and a control method thereof, and the ammonia-hydrogen fusion engine comprises a liquid ammonia tank, a liquid ammonia pump, a liquid ammonia vaporizer, an ammonia catalytic reaction hydrogen production device, a mixer and an engine, an outlet of the liquid ammonia vaporizer is connected with an inlet end of the ammonia catalytic reaction hydrogen production device through a first pipeline, and an outlet end of the ammonia catalytic reaction hydrogen production device is connected with the mixer through a second pipeline; the air inlet end of an air compressor of the engine is connected with an air filter, and the air outlet end of the air compressor is connected with the mixer through a third pipeline; the mixer is connected with an engine intake manifold, and an engine exhaust manifold is connected with the aftertreatment device through a fourth pipeline. The mixed gas in the cylinder is ignited by the sparking plug near the compression top dead center of the engine, the combustion chemical energy of the fuel is converted into the mechanical energy of the engine, and the ammonia fuel and the hydrogen fuel enter the engine through the mixer at the same time, so that the structure of the ammonia-hydrogen fusion engine is compact."
+                },
+                {
+                    "p": "本发明公开了基于高压氨反应制氢的氨氢融合发动机及其控制方法，包括液氨罐、液氨泵、液氨汽化器、氨催化反应制氢装置、混合器和发动机，液氨罐通过液氨泵与液氨汽化器进口连接，液氨汽化器出口通过第一管路与氨催化反应制氢装置的进口端连接，氨催化反应制氢装置的出口端通过第二管路与混合器连接；发动机的压气机进气端连接有空气滤清器，其压气机出气端通过第三管路与混合器连接；混合器与发动机进气歧管连接，发动机排气歧管通过第四管路与后处理装置连接。本发明在发动机的压缩上止点附近，火花塞点燃缸内混合气体，将燃料的燃烧化学能转换为发动机的机械能，通过氨氢两个燃料同时经混合器进入发动机内，使得氨氢融合发动机的结构紧凑化。"
+                }
+            ]
+        }
+    }
+}

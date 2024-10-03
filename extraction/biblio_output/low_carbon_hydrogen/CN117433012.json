@@ -1,0 +1,221 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117433012",
+                            "kind": "A",
+                            "date": "20240123"
+                        },
+                        {
+                            "doc-number": "CN117433012",
+                            "date": "20240123"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F23C   1/    12            A I                    "
+                        },
+                        {
+                            "text": "F23C   5/    08            A I                    "
+                        },
+                        {
+                            "text": "F23C   7/    00            A I                    "
+                        },
+                        {
+                            "text": "F23J  15/    02            A I                    "
+                        },
+                        {
+                            "text": "F23K   5/    22            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "5",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "7",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "K",
+                            "main-group": "5",
+                            "subgroup": "22",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311494122",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311494122",
+                            "date": "20231110"
+                        },
+                        {
+                            "doc-number": "202311494122.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311494122",
+                            "date": "20231110"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV XI AN JIAOTONG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西安交通大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHOU WENBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG DAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAO JIACHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG YUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TU MAOPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YUAN YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YIXIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周文博, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张丹, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郝家成, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨越, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "涂茂萍, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "袁洋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王一笑"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "System based on combustion of pulverized coal mixed with hydrogen in coal-fired furnace and regulation and control method",
+                    "一种基于燃煤炉中煤粉掺混氢气燃烧的系统及调控方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a system based on combustion of pulverized coal mixed with hydrogen in a coal-fired furnace and a regulation and control method. The system is composed of a fuel preparation section, a hearth combustion section and a tail gas treatment section. The fuel preparation section comprises a liquid hydrogen passage, a gas-liquid heat exchanger, an air passage and a coal mill; the hearth combustion section comprises a gas-solid burner nozzle, a pulverized coal burner nozzle, an over-fire air nozzle, a hydrogen-coal mixed combustion area, a pulverized coal main combustion area, an after-fire area, a heat exchanger and a steam turbine; the tail gas treatment section comprises purification equipment, a carbon dioxide collection device, a chimney, a regulating valve and a carbon dioxide storage and collection device; according to the regulation and control method, improvements are made according to the characteristics that the heat loss source of the coal-fired power plant and hydrogen energy combustion are clean and free of pollution, and meanwhile fossil fuel is saved and fully combusted in a hydrogen mixing mode. The method is environmentally friendly and efficient, energy is fully utilized, the peak regulation requirement is met, meanwhile, utilization of greenhouse gas can be enhanced to a certain degree, and the low-carbon purpose is achieved."
+                },
+                {
+                    "p": "本发明公开了一种基于燃煤炉中煤粉掺混氢气燃烧的系统及调控方法，该系统由燃料制备段、炉膛燃烧段、尾气处理段组成；燃料制备段包括液氢通路、气‑液换热器、空气通路、磨煤机；炉膛燃烧段包括气固燃烧器喷口、煤粉燃烧器喷口、燃尽风喷口、氢煤混燃区、煤粉主燃区、燃尽区、换热器、汽轮机；尾气处理段包括净化设备、二氧化碳收集装置、烟囱、调节阀、二氧化碳储集装置；本发明调控方法针对燃煤电厂热损失来源、氢能燃烧清洁无污染的特点做出改进，同时通过掺混氢气的方式实现了对化石燃料的节约和充分燃烧。该方法环保、高效、能量利用充分，适应调峰需求的同时，还能在一定程度上增强对温室气体的利用，起到低碳目的。"
+                }
+            ]
+        }
+    }
+}

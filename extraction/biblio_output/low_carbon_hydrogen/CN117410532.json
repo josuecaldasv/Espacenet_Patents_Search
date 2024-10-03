@@ -1,0 +1,306 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117410532",
+                            "kind": "A",
+                            "date": "20240116"
+                        },
+                        {
+                            "doc-number": "CN117410532",
+                            "date": "20240116"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C08F   8/    42            A I                    "
+                        },
+                        {
+                            "text": "C08F  16/    06            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  1048            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  1051            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  1069            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  1088            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "8",
+                            "subgroup": "42",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "1048",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "1051",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "1069",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "1088",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "2008",
+                            "subgroup": "1095",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08F8/42",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08F16/06",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311346313",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311346313",
+                            "date": "20231018"
+                        },
+                        {
+                            "doc-number": "202311346313.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311346313",
+                            "date": "20231018"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHENZHEN SHENSIDA HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "深圳深思达氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XIONG JIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "熊健, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭郁"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Metal bipolar plate-based proton exchange membrane for fuel cell and preparation method thereof",
+                    "基于金属双极板的燃料电池用质子交换膜及其制备方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2001106722",
+                                        "name": "FUJI XEROX CO LTD",
+                                        "date": "20010417"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2001106722",
+                                        "kind": "A",
+                                        "name": "FUJI XEROX CO LTD",
+                                        "date": "20010417"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2009075141",
+                                        "name": "GRONWALD OLIVER [DE], et al",
+                                        "date": "20090319"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2009075141",
+                                        "kind": "A1",
+                                        "name": "GRONWALD OLIVER [DE], et al",
+                                        "date": "20090319"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2016168346",
+                                        "name": "KAMADA TAISUKE [JP], et al",
+                                        "date": "20160616"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2016168346",
+                                        "kind": "A1",
+                                        "name": "KAMADA TAISUKE [JP], et al",
+                                        "date": "20160616"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111269550",
+                                        "name": "UNIV NORTHWESTERN POLYTECHNICAL",
+                                        "date": "20200612"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111269550",
+                                        "kind": "A",
+                                        "name": "UNIV NORTHWESTERN POLYTECHNICAL",
+                                        "date": "20200612"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113178604",
+                                        "name": "WUHAN HYDROGEN ENERGY AND FUEL CELL INDUSTRY TECH RESEARCH INSTITUTE CO LTD",
+                                        "date": "20210727"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113178604",
+                                        "kind": "A",
+                                        "name": "WUHAN HYDROGEN ENERGY AND FUEL CELL INDUSTRY TECH RESEARCH INSTITUTE CO LTD",
+                                        "date": "20210727"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a proton exchange membrane for a fuel cell based on a metal bipolar plate. The proton exchange membrane is prepared from the following raw materials in parts by weight: 1 to 2 parts of carbon nanotubes, 5 to 15 parts of nano silicon dioxide, 4 to 9 parts of glycidyl ether oxypropyl polyhedral oligomeric silsesquioxane, 150 to 200 parts of chitosan and 60 to 120 parts of modified polyvinyl alcohol. The molecular structure of the modified polyvinyl alcohol contains ester groups, siloxane, pyridine and benzimidazole, and the modified polyvinyl alcohol has excellent mechanical properties, water resistance, conductivity and stability; the invention also provides a preparation method of the proton exchange membrane. The proton exchange membrane provided by the invention has the characteristics of high water absorption and low swelling ratio, and also has excellent mechanical properties, proton conductivity and stability."
+                },
+                {
+                    "p": "本发明公开了一种基于金属双极板的燃料电池用质子交换膜，包括以下重量份数的原料：碳纳米管1‑2份、纳米二氧化硅5‑15份、缩水甘油醚氧丙基笼状聚倍半硅氧烷4‑9份、壳聚糖150‑200份、改性聚乙烯醇60‑120份；所述改性聚乙烯醇分子结构中含有酯基、硅氧烷、吡啶、苯并咪唑，具有优异的机械性能、耐水性、导电能力和稳定性；本发明还提供了该质子交换膜的制备方法。本发明提供的质子交换膜兼具高吸水性和低溶胀率的特点，同时还具有优异的机械性能、质子传导率、稳定性。"
+                }
+            ]
+        }
+    }
+}

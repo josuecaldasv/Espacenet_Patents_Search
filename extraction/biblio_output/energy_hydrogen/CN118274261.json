@@ -1,0 +1,122 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118274261",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118274261",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F17D   1/    04            A I                    "
+                        },
+                        {
+                            "text": "F17D   3/    01            A I                    "
+                        },
+                        {
+                            "text": "F17D   5/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410368426",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410368426",
+                            "date": "20240328"
+                        },
+                        {
+                            "doc-number": "202410368426.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410368426",
+                            "date": "20240328"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUZHOU JIUANTONG HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "苏州久安通氢能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG SHUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG LIFANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG FENGPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张硕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张立芳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王凤平"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Vehicle-mounted hydrogen supply system safety early warning data acquisition, storage, transmission, analysis and monitoring system",
+                    "车载供氢系统安全预警数据采集、存储、传输、分析、监控系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of safety analysis and early warning of a vehicle-mounted high-pressure hydrogen supply system and a high-pressure gas cylinder, and discloses a vehicle-mounted hydrogen supply safety early warning data online acquisition, storage, transmission, analysis and monitoring system. Comprising a gas cylinder, a gas cylinder combination valve, a data acquisition module, data transmission, a big data platform, a hydrogen refueling station terminal, a government supervision terminal, a maintenance manufacturer terminal and an automobile production manufacturer terminal. According to the invention, through the vehicle-mounted data acquisition and transmission system, the AI-based intelligent analysis and early warning big data platform and the four-application scene data supervision terminal system, a complete safety early warning and monitoring system of the vehicle-mounted hydrogen supply system is constructed through a 5G technology and wired network transmission, so that the safety of hydrogen energy vehicle operation and hydrogen filling in a hydrogen refueling station is improved; and disassembly and assembly inspection or targeted disassembly and assembly maintenance is reduced or avoided."
+                },
+                {
+                    "p": "本发明属于车载高压供氢系统及高压气瓶安全分析预警技术领域，且公开了车载供氢安全预警数据在线采集、存储、传输、分析、监控系统，包括气瓶、气瓶组合阀、数据采集模块、数据传输、大数据平台、加氢站终端、政府监管终端、维修厂家终端和汽车生产厂家终端。本发明通过车载数据采集传输系统、基于AI智能分析预警大数据平台、四应用场景的数据监管终端系统通过5G技术和有线网络传输构建起完整的车载供氢系统的安全预警监控系统，提高氢能汽车运行和在加氢站充装氢气时的安全性，并减少或免于拆装检查，或有针对性的拆装维修。"
+                }
+            ]
+        }
+    }
+}

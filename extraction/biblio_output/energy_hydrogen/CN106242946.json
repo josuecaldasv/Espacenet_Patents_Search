@@ -1,0 +1,532 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "106242946",
+                            "kind": "A",
+                            "date": "20161221"
+                        },
+                        {
+                            "doc-number": "CN106242946",
+                            "date": "20161221"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C07C  29/   152            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/    76            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "152",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "76",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "65",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "133",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/152",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/76",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201610809223",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201610809223",
+                            "date": "20160908"
+                        },
+                        {
+                            "doc-number": "201610809223.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201610809223",
+                            "date": "20160908"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GUANGDONG HYDROGEN ENERGY SCIENCE & TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "广东合即得能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XIANG HUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "向华"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Equipment and process for synthesizing methanol through solar energy hydrogen production",
+                    "种太阳能制氢合成甲醇的设备及工艺"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN1450166",
+                                        "name": "UNIV NANJING TECHNOLOGY [CN]",
+                                        "date": "20031022"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "1450166",
+                                        "kind": "A",
+                                        "name": "UNIV NANJING TECHNOLOGY [CN]",
+                                        "date": "20031022"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第2页第1-2段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101386564",
+                                        "name": "SW RES & DESIGN INST CHEM IND [CN]",
+                                        "date": "20090318"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101386564",
+                                        "kind": "A",
+                                        "name": "SW RES & DESIGN INST CHEM IND [CN]",
+                                        "date": "20090318"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101768651",
+                                        "name": "XIANLI FAN",
+                                        "date": "20100707"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101768651",
+                                        "kind": "A",
+                                        "name": "XIANLI FAN",
+                                        "date": "20100707"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "8",
+                            "rel-passage": {
+                                "passage": "* 权利要求10 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2011201698",
+                                        "name": "MCALISTER ROY EDWARD [US]",
+                                        "date": "20110818"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2011201698",
+                                        "kind": "A1",
+                                        "name": "MCALISTER ROY EDWARD [US]",
+                                        "date": "20110818"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102553407",
+                                        "name": "UNIV ZHEJIANG",
+                                        "date": "20120711"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102553407",
+                                        "kind": "A",
+                                        "name": "UNIV ZHEJIANG",
+                                        "date": "20120711"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102787993",
+                                        "name": "SHANGHAI HEJIDE DYNAMIC HYDROGEN MACHINE CO LTD",
+                                        "date": "20121121"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102787993",
+                                        "kind": "A",
+                                        "name": "SHANGHAI HEJIDE DYNAMIC HYDROGEN MACHINE CO LTD",
+                                        "date": "20121121"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102851682",
+                                        "name": "BEIJING JINFENG KECHUANG WIND POWER EQUIPMENT CO LTD",
+                                        "date": "20130102"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102851682",
+                                        "kind": "A",
+                                        "name": "BEIJING JINFENG KECHUANG WIND POWER EQUIPMENT CO LTD",
+                                        "date": "20130102"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104193584",
+                                        "name": "GUANGDONG HEJIDE ENERGY TECHNOLOGY CO LTD",
+                                        "date": "20141210"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104193584",
+                                        "kind": "A",
+                                        "name": "GUANGDONG HEJIDE ENERGY TECHNOLOGY CO LTD",
+                                        "date": "20141210"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第17-22段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104694950",
+                                        "name": "STATE GRID CORP CHINA, et al",
+                                        "date": "20150610"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104694950",
+                                        "kind": "A",
+                                        "name": "STATE GRID CORP CHINA, et al",
+                                        "date": "20150610"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第8、14段，第12-14段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101289164",
+                                        "name": "INST ENG THERMOPHYSICS CAS [CN]",
+                                        "date": "20081022"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101289164",
+                                        "kind": "A",
+                                        "name": "INST ENG THERMOPHYSICS CAS [CN]",
+                                        "date": "20081022"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102126704",
+                                        "name": "UNIV XIAN JIAOTONG",
+                                        "date": "20110720"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102126704",
+                                        "kind": "A",
+                                        "name": "UNIV XIAN JIAOTONG",
+                                        "date": "20110720"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104437276",
+                                        "name": "NINGXIA JIAXIANG AUTOMATIC CONTROL TECHNOLOGY CO LTD",
+                                        "date": "20150325"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104437276",
+                                        "kind": "A",
+                                        "name": "NINGXIA JIAXIANG AUTOMATIC CONTROL TECHNOLOGY CO LTD",
+                                        "date": "20150325"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104457340",
+                                        "name": "NINGXIA JIAXIANG AUTOMATIC CONTROL TECHNOLOGY CO LTD",
+                                        "date": "20150325"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104457340",
+                                        "kind": "A",
+                                        "name": "NINGXIA JIAXIANG AUTOMATIC CONTROL TECHNOLOGY CO LTD",
+                                        "date": "20150325"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses equipment and a process for synthesizing methanol through solar energy hydrogen production. The equipment comprises a solar energy heat accumulation system, a high-temperature water vapor preparation system, a solar power generation system, a high-temperature electrolysis hydrogen production system, a carbon dioxide preparation system, a gas mixing device, a methanol synthesis system, a first heat exchanger, a molecular sieve membrane separator, a methanol storage tank, a water storage tank and a conveying pump, wherein the high-temperature water vapor preparation system is used for preparing high-temperature water vapor at 800-900 DEG C by using heat energy provided by the solar energy heat accumulation system and supplying the high-temperature water vapor to the high-temperature electrolysis hydrogen production system; the first heat exchanger is mounted on a conveying pipe between the methanol synthesis system and the molecular sieve membrane separator; the molecular sieve membrane separator is used for separating water in methanol water-diluted solution, conveying the separated water to the water storage tank, and pumping the water to the high-temperature water vapor preparation system through the conveying pump. The equipment and the process provided by the invention are high in preparation efficiency of hydrogen raw materials and high in utilization rate of solar energy, and can fully utilize by-product water produced during the production of methanol."
+                },
+                {
+                    "p": "本发明公开了种太阳能制氢合成甲醇的设备及工艺，该设备包括太阳能聚热系统、高温水蒸气制备系统、太阳能发电系统、高温电解制氢系统、二氧化碳制备系统、气体混合装置、甲醇合成系统、第换热器、分子筛膜分离器、甲醇储存罐、水储存罐、输送泵；其中，高温水蒸气制备系统用于利用太阳能聚热系统提供的热能制备800℃～900℃的高温水蒸气，供应给高温电解制氢系统；第换热器，安装于甲醇合成系统与分子筛膜分离器之间的输送管道上；分子筛膜分离器，用于分离甲醇水稀溶液中的水，分离之后的水输送至水储存罐，通过输送泵泵送至高温水蒸气制备系统。本发明的氢原料制备效率高、太阳能能量利用率高，并能充分利用制甲醇所产生的副产物水。\n"
+                }
+            ]
+        }
+    }
+}

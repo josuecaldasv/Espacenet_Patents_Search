@@ -1,0 +1,142 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118431513",
+                            "kind": "A",
+                            "date": "20240802"
+                        },
+                        {
+                            "doc-number": "CN118431513",
+                            "date": "20240802"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04537            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04858            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410558770",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410558770",
+                            "date": "20240507"
+                        },
+                        {
+                            "doc-number": "202410558770.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410558770",
+                            "date": "20240507"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GUANGZHOU LISHENG NEW ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "广州力生新能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YANG ZHONGGAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI HAIFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU JINFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG QIJIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TANG ZHENYE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨忠高, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李海风, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐金峯, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "江其金, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "唐镇业"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen fuel cell management system and method",
+                    "氢燃料电池管理系统以及方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a hydrogen fuel cell management system and method, and the method comprises the steps: obtaining and analyzing the electrode potential change data of proton exchange membranes of all hydrogen fuel cell monomers subordinate to a hydrogen fuel cell stack, and obtaining the reaction feature information of the proton exchange membrane of each hydrogen fuel cell monomer; judging whether the proton exchange membrane of each hydrogen fuel cell monomer is in a reaction limit state or not; when a proton exchange membrane of the single battery is in a reaction limit state, acquiring and analyzing electric energy generation data of the single battery to obtain outward electric energy transmission characteristic information of the single battery, so as to adjust a power supply state of the single battery to a load terminal connected with the battery stack and ensure that the load terminal can obtain sufficient and stable power supply; when the proton exchange membrane of the single battery is not in the reaction limit state, real-time reaction gas supply data of the single battery is acquired and analyzed, and reaction gas supply gap information of the single battery is determined, so that the reaction gas supply state of the single battery is adjusted."
+                },
+                {
+                    "p": "本发明提供氢燃料电池管理系统以及方法，获取与分析氢燃料电池堆下属所有氢燃料电池单体各自的质子交换膜的电极电位变化数据，得到每个氢燃料电池单体的质子交换膜的反应特征信息，以此判断每个氢燃料电池单体的质子交换膜是否处于反应极限状态；当电池单体的质子交换膜处于反应极限状态，获取和分析电池单体的电能生成数据，得到电池单体的向外电能输送特征信息，以此调整电池单体对电池堆连接的负载终端的供电状态，保证负载终端能够获得充足稳定的供电；当电池单体的质子交换膜不处于反应极限状态，获取和分析电池单体的实时反应气体供给数据，确定电池单体的反应气体供给缺口信息，以此调整电池单体的反应气体供给状态。"
+                }
+            ]
+        }
+    }
+}

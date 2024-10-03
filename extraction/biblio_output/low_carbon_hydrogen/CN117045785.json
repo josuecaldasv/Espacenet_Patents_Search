@@ -1,0 +1,285 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117045785",
+                            "kind": "A",
+                            "date": "20231114"
+                        },
+                        {
+                            "doc-number": "CN117045785",
+                            "date": "20231114"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "A61K   9/    19            A I                    "
+                        },
+                        {
+                            "text": "A61K  31/    56            A I                    "
+                        },
+                        {
+                            "text": "A61K  33/    34            A I                    "
+                        },
+                        {
+                            "text": "A61K  41/    00            A I                    "
+                        },
+                        {
+                            "text": "A61P  35/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "61",
+                            "subclass": "K",
+                            "main-group": "9",
+                            "subgroup": "19",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "61",
+                            "subclass": "K",
+                            "main-group": "31",
+                            "subgroup": "56",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "61",
+                            "subclass": "K",
+                            "main-group": "33",
+                            "subgroup": "34",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "61",
+                            "subclass": "K",
+                            "main-group": "41",
+                            "subgroup": "0052",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "61",
+                            "subclass": "K",
+                            "main-group": "41",
+                            "subgroup": "0057",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "61",
+                            "subclass": "P",
+                            "main-group": "35",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "A61K31/56",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "A61K2300/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "A61K33/34",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "A61K2300/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "3",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "A61K41/0052",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "A61K2300/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "4",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "A61K41/0057",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "A61K2300/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311113744",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311113744",
+                            "date": "20230831"
+                        },
+                        {
+                            "doc-number": "202311113744.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311113744",
+                            "date": "20230831"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV FUZHOU"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "福州大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SHAO JINGWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LAI CHUNMEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU JIA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邵敬伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赖春梅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐佳"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Tumor microenvironment stimuli-responsive nano delivery system as well as preparation and application thereof",
+                    "一种肿瘤微环境刺激响应型纳米递送系统及其制备与应用"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a tumor microenvironment stimuli-responsive nano delivery system, and belongs to the technical field of biological medicines. According to the invention, carbon quantum dots are used as a photosensitizer, a drug resistance reversal agent ursolic acid is coated by the carbon quantum dots through hydrogen-bond interaction, and then the nano delivery system is obtained through self-assembly with a Cu < 2 + >-containing chemical kinetic therapeutic adjuvant. The nano delivery system can be passively targeted to a tumor site through an EPR effect and has tumor microenvironment stimulation responsiveness, once the nano delivery system enters a tumor microenvironment, due to stimulation of relatively low pH and overexpressed glutathione (GSH) and hydrogen peroxide (H2O2), functions of photodynamic therapy, photothermal therapy, fluorescence imaging and the like of the nano delivery system can be selectively recovered, and the nano delivery system can be applied to tumor treatment. Therefore, a synergistic anti-hepatoma effect of chemotherapy, phototherapy and chemical kinetics therapy can be realized, the efficacy of enhancing effect and reducing toxicity is achieved, and the compound has a wide application prospect in anti-hepatoma."
+                },
+                {
+                    "p": "本发明公开了一种肿瘤微环境刺激响应型纳米递送系统，属于生物医药技术领域。本发明以碳量子点作为光敏剂，利用碳量子点通过氢键作用包覆耐药性逆转剂熊果酸，而后与含Cu2+的化学动力学治疗佐剂通过自组装得到所述纳米递送系统。该纳米递送系统能通过EPR效应被动靶向到肿瘤部位，且其具有肿瘤微环境刺激响应性，一旦进入肿瘤微环境，由于较低的pH和过表达的谷胱甘肽（GSH）和过氧化氢（H2O2）的刺激，该纳米递送系统的光动力治疗、光热治疗和荧光成像等功能会选择性恢复，因而可实现化疗、光疗和化学动力学治疗“三管齐下”协同抗肝癌的效果，并达到增效减毒的功效，在抗肝癌中显示出广阔的应用前景。"
+                }
+            ]
+        }
+    }
+}

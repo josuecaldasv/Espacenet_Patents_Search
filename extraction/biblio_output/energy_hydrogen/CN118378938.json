@@ -1,0 +1,115 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118378938",
+                            "kind": "A",
+                            "date": "20240723"
+                        },
+                        {
+                            "doc-number": "CN118378938",
+                            "date": "20240723"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  18/    21            A I                    "
+                        },
+                        {
+                            "text": "G06F  18/  2415            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0639            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410421274",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410421274",
+                            "date": "20240409"
+                        },
+                        {
+                            "doc-number": "202410421274.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410421274",
+                            "date": "20240409"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHONGQING UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "重庆大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "REN ZHOUYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIA WEIYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任洲洋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "夏威夷"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for evaluating maximum bearing capacity probability of distributed hydrogen supply network-power distribution network to hydrogen fuel cell vehicle",
+                    "一种分布式供氢网-配电网对氢燃料电池汽车的最大承载力概率评估方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a probability assessment method for the maximum bearing capacity of a hydrogen fuel cell vehicle by a distributed hydrogen supply network-power distribution network. The method comprises the following steps: 1) establishing a maximum bearing capacity assessment objective function; 2) establishing a hydrogen refueling station operation constraint and a hydrogen long tube trailer transportation constraint; 3) constructing a power distribution network safe operation constraint considering DHSN access; 4) constructing a maximum bearing capacity probability evaluation model according to the maximum bearing capacity evaluation objective function, hydrogen refueling station operation constraint, hydrogen long tube trailer transportation constraint and power distribution network safe operation constraint; and 5) solving the maximum bearing capacity probability evaluation model to obtain the maximum bearing capacity of the hydrogen supply network-power distribution network to the hydrogen fuel cell vehicle. According to the method, uncertainty of hydrogen load and new energy output can be considered, probability characteristics such as the mean value, the standard deviation and the probability density function of the maximum bearing capacity are evaluated, and the maximum admitting ability of a power distribution network and a hydrogen supply network to the hydrogen fuel cell vehicle within a safety range is measured."
+                },
+                {
+                    "p": "本发明公开一种分布式供氢网‑配电网对氢燃料电池汽车的最大承载力概率评估方法，包括以下步骤：1)建立最大承载力评估目标函数；2)建立加氢站运行约束和氢长管拖车运输约束；3)构建考虑DHSN接入的配电网安全运行约束；4)根据最大承载力评估目标函数、加氢站运行约束、氢长管拖车运输约束、配电网安全运行约束，构建最大承载力概率评估模型；5)求解最大承载力概率评估模型，得到供氢网‑配电网对氢燃料电池汽车的最大承载力。本发明能够考虑氢负荷及新能源出力的不确定性，评估最大承载力的均值、标准差和概率密度函数等概率特征，用以衡量配电网及供氢网在安全范围内对氢燃料电池汽车的最大接纳能力。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,528 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "115058553",
+                            "kind": "A",
+                            "date": "20220916"
+                        },
+                        {
+                            "doc-number": "CN115058553",
+                            "date": "20220916"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C21B  13/    02            A I                    "
+                        },
+                        {
+                            "text": "F27B   1/    10            A I                    "
+                        },
+                        {
+                            "text": "F27B   1/    26            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "21",
+                            "subclass": "B",
+                            "main-group": "13",
+                            "subgroup": "0073",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "21",
+                            "subclass": "B",
+                            "main-group": "13",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "27",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "27",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "10",
+                            "subgroup": "134",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202210697010",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202210697010",
+                            "date": "20220620"
+                        },
+                        {
+                            "doc-number": "202210697010.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202210697010",
+                            "date": "20220620"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHUIMU MINGTUO HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "水木明拓氢能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TAO JING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FU XIAOLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陶静, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "付小龙"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Shaft furnace reactor suitable for hydrogen direct reduction iron reaction and application of shaft furnace reactor",
+                    "适用于氢气直接还原铁反应的竖炉反应器及其应用"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN1312861",
+                                        "name": "VOEST ALPINE INDUSTRIEALAGENBA [AT]",
+                                        "date": "20010912"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "1312861",
+                                        "kind": "A",
+                                        "name": "VOEST ALPINE INDUSTRIEALAGENBA [AT]",
+                                        "date": "20010912"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101360840",
+                                        "name": "WURTH PAUL SA [LU]",
+                                        "date": "20090204"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101360840",
+                                        "kind": "A",
+                                        "name": "WURTH PAUL SA [LU]",
+                                        "date": "20090204"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "EP2284130",
+                                        "name": "LINDE AG [DE], et al",
+                                        "date": "20110216"
+                                    },
+                                    {
+                                        "country": "EP",
+                                        "doc-number": "2284130",
+                                        "kind": "A1",
+                                        "name": "LINDE AG [DE], et al",
+                                        "date": "20110216"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2011099070",
+                                        "name": "NIPPON STEEL CORP [JP], et al",
+                                        "date": "20110818"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2011099070",
+                                        "kind": "A1",
+                                        "name": "NIPPON STEEL CORP [JP], et al",
+                                        "date": "20110818"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2014150607",
+                                        "name": "GORDON IAKOV M [CA]",
+                                        "date": "20140605"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2014150607",
+                                        "kind": "A1",
+                                        "name": "GORDON IAKOV M [CA]",
+                                        "date": "20140605"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103966381",
+                                        "name": "UNIV NORTHEASTERN",
+                                        "date": "20140806"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103966381",
+                                        "kind": "A",
+                                        "name": "UNIV NORTHEASTERN",
+                                        "date": "20140806"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN204058508U",
+                                        "name": "BEIJING SHENWU ENVIRONMENT & ENERGY TECHNOLOGY CO LTD",
+                                        "date": "20141231"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "204058508",
+                                        "kind": "U",
+                                        "name": "BEIJING SHENWU ENVIRONMENT & ENERGY TECHNOLOGY CO LTD",
+                                        "date": "20141231"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN106802088",
+                                        "name": "ACRE COKING & REFRACTORY (DALIAN",
+                                        "date": "20170606"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "106802088",
+                                        "kind": "A",
+                                        "name": "ACRE COKING & REFRACTORY (DALIAN",
+                                        "date": "20170606"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108220520",
+                                        "name": "JIANGSU PROVINCE METALLURGICAL DESIGN INST CO LTD",
+                                        "date": "20180629"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108220520",
+                                        "kind": "A",
+                                        "name": "JIANGSU PROVINCE METALLURGICAL DESIGN INST CO LTD",
+                                        "date": "20180629"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108759458",
+                                        "name": "ANHUI WANFANGYUAN KILN ENGINEERING TECH CO LTD",
+                                        "date": "20181106"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108759458",
+                                        "kind": "A",
+                                        "name": "ANHUI WANFANGYUAN KILN ENGINEERING TECH CO LTD",
+                                        "date": "20181106"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109022660",
+                                        "name": "UNIV NORTHEASTERN",
+                                        "date": "20181218"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109022660",
+                                        "kind": "A",
+                                        "name": "UNIV NORTHEASTERN",
+                                        "date": "20181218"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN208736151U",
+                                        "name": "ANHUI WANFANGYUAN KILN ENGINEERING TECH CO LTD",
+                                        "date": "20190412"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "208736151",
+                                        "kind": "U",
+                                        "name": "ANHUI WANFANGYUAN KILN ENGINEERING TECH CO LTD",
+                                        "date": "20190412"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN211626048U",
+                                        "name": "NANJING KESEN KENEN ENV & ENERGY CO LTD",
+                                        "date": "20201002"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "211626048",
+                                        "kind": "U",
+                                        "name": "NANJING KESEN KENEN ENV & ENERGY CO LTD",
+                                        "date": "20201002"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112143846",
+                                        "name": "UNIV XIAN ARCHITECTUR & TECH",
+                                        "date": "20201229"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112143846",
+                                        "kind": "A",
+                                        "name": "UNIV XIAN ARCHITECTUR & TECH",
+                                        "date": "20201229"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN213866290U",
+                                        "name": "CISRI SUNWARD TECHNOLOGY CO LTD",
+                                        "date": "20210803"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "213866290",
+                                        "kind": "U",
+                                        "name": "CISRI SUNWARD TECHNOLOGY CO LTD",
+                                        "date": "20210803"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 徐辉等, \"竖炉生产直接还原铁过程的模型研究\", 世界钢铁, no. 02, pages 1 - 4"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13"
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 白明华等, \"铁矿石竖炉氢气直接还原温度场模拟\", 钢铁钒钛, vol. 37, no. 05, pages 106 - 111"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-13"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a shaft furnace reactor suitable for hydrogen direct reduction iron reaction and application thereof.The shaft furnace reactor comprises a shaft furnace body, a feeding device, a discharging device, a furnace top gas treatment device and a reducing gas heating and distributing device, an inner cavity of the furnace body is evenly divided into n independent reaction areas through vertical partition walls, the n reaction areas are distributed in a fan shape around the center axis of the inner cavity of the furnace body, n is an integer larger than or equal to 4, and the feeding device, the discharging device, the furnace top gas treatment device and the reducing gas heating and distributing device are communicated with all the reaction areas respectively. According to the shaft furnace reactor, the number and the positions of the reaction areas participating in the hydrogen direct reduction iron reaction are allowed to be adjusted according to the gas supply amount of fresh hydrogen, so that the production load of the shaft furnace reactor can adapt to the load change of renewable energy hydrogen production in a green hydrogen direct reduction iron process."
+                },
+                {
+                    "p": "本申请涉及一种适用于氢气直接还原铁反应的竖炉反应器及其应用，所述竖炉反应器包括竖炉炉体、加料装置、卸料装置、炉顶气处理装置和还原气加热分配装置，其中所述竖炉炉体为横截面呈圆形的中空柱体形式，其内腔通过竖直的分隔壁均匀划分为n个彼此独立的反应区，使得所述n个反应区围绕所述炉体内腔的中心轴呈扇形分布，其中n为大于等于4的整数，所述加料装置、卸料装置、炉顶气处理装置和还原气加热分配装置与每一所述反应区分别连通。所述竖炉反应器允许根据新鲜氢气的供气量调整参与氢气直接还原铁反应的反应区的数量和位置，从而使该竖炉反应器的生产负荷可以适应绿氢直接还原铁工艺中可再生能源制氢的负荷变化。"
+                }
+            ]
+        }
+    }
+}

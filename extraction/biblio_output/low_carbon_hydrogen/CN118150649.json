@@ -1,0 +1,182 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118150649",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118150649",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G01N  27/    04            A I                    "
+                        },
+                        {
+                            "text": "G01N  27/    12            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "27",
+                            "subgroup": "046",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "27",
+                            "subgroup": "125",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "27",
+                            "subgroup": "127",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "27",
+                            "subgroup": "128",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410260750",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410260750",
+                            "date": "20240307"
+                        },
+                        {
+                            "doc-number": "202410260750.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410260750",
+                            "date": "20240307"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ZHEJIANG ZHONGWEI SAFETY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "浙江中威安全科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YE SHENGHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO SHIWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHU SHULONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIANG JIANZHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEI HENGXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "叶圣华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗士崴, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "朱术龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "梁建忠, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "魏恒翔"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Dispersion type combustible gas detector based on MEMS sensor",
+                    "一种基于MEMS传感器的抛撒式可燃气体探测器"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a scattering type combustible gas detector based on an MEMS sensor. The scattering type combustible gas detector comprises an MEMS gas sensor, an MEMS temperature sensor and a data acquisition, processing and transmission module. The MEMS gas sensor is composed of an MEMS micro hot plate and a sensitive material, and is used for detecting combustible gases including methane, hydrogen and carbon monoxide; the MEMS temperature sensor is composed of a platinum film and is used for temperature detection and temperature compensation of the gas sensor; the data acquisition processing and transmission module comprises a single-chip microcomputer, a peripheral circuit and a WiFi module, and is used for converting analog signals of the gas sensor into digital signals and transmitting the digital signals through WiFi. According to the invention, combustible gas in the environment is monitored through the MEMS gas sensor, then signal communication is carried out through the data acquisition processing and transmission system, and an alarm is given for the danger of the combustible gas in the environment. The sensor has the advantages of low power consumption, small size, low cost and high sensitivity, can be thrown through an unmanned aerial vehicle, and can be used for detecting combustible gas in a large-area region within a short time."
+                },
+                {
+                    "p": "本发明提供了一种基于MEMS传感器的抛撒式可燃气体探测器，包括：MEMS气体传感器，MEMS温度传感器，数据采集处理与传输模块。所述MEMS气体传感器由MEMS微热板和敏感材料构成，用于对可燃气体探测，包括甲烷，氢气，一氧化碳；所述MEMS温度传感器是由铂膜构成，用于对温度检测以及气体传感器温度补偿；所述数据采集处理与传输模块包括单片机、外围电路和WiFi模块，其功能是将气体传感器模拟信号转为数字信号并通过WiFi进行传输。本发明通过MEMS气体传感器对环境中可燃气体进行监测，然后再通数据采集处理和传输系统进行信号通信，对环境中的可燃气体危险进行报警。其优点是传感器功耗低，体积小，成本低，灵敏度高，可通过无人机进行抛撒，可以短时间内对大面积区域进行可燃气体检测。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118195069",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118195069",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06312",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06315",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410306523",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410306523",
+                            "date": "20240318"
+                        },
+                        {
+                            "doc-number": "202410306523.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410306523",
+                            "date": "20240318"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV NORTHEASTERN"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "东北大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XU WANYUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI HUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG CHANGRUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG MUYAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "许万源, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王长瑞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张沐瑶"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Biomass power plant optimization operation method based on deep carbon reduction and hydrogen-doped combustion",
+                    "一种基于深度减碳和掺氢燃烧的生物质电厂优化运行方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of low-carbon and economic operation of biomass power plants, and particularly relates to a biomass power plant optimized operation method based on deep carbon reduction and hydrogen-doped combustion. The method comprises the following steps: establishing mathematical models of a direct-fired cogeneration unit and a gasified cogeneration unit of a biomass power plant, a mathematical model of a gas boiler, a carbon capture and electricity-to-gas two-stage refined operation model, and mathematical models of an electricity-heat conversion device, a carbon capture device and an energy and gas storage device within the range of the power plant; then, a hydrogen-doped combustion technology is provided on the basis of mathematical models of a direct-fired cogeneration unit, a gasification cogeneration unit and a gas-fired boiler of the biomass power plant; establishing a mathematical model containing a mass flow relation after hydrogen-doped combustion of each unit of the biomass power plant; establishing a biomass power plant deep carbon reduction and green certificate transaction strategy; a biomass power plant optimization operation model considering deep carbon reduction and hydrogen-doped combustion is further proposed based on the mathematical models of the devices and the transaction strategies, and the optimal low-carbon optimization scheduling scheme is searched by taking the comprehensive operation cost minimization in the biomass power plant as a target function."
+                },
+                {
+                    "p": "本发明属于生物质电厂低碳与经济运行技术领域，具体涉及了一种基于深度减碳和掺氢燃烧的生物质电厂优化运行方法，包括，建立生物质电厂的直燃式热电联产机组与气化式热电联产机组的数学模型、燃气锅炉的数学模型、碳捕集与电转气的两段式精细化运行模型、电厂范围内电热转换设备、碳捕集设备、储能储气装置的数学模型；然后在生物质电厂直燃式热电联产机组、气化式热电联产机组、燃气锅炉的数学模型基础上提出掺氢燃烧技术；并建立生物质电厂各机组的掺氢燃烧后的包含质量流动关系的数学模型；建立生物质电厂深度减碳的与绿证交易策略；然后基于上述各设备与交易策略的数学模型进一步提出的考虑深度减碳与掺氢燃烧的生物质电厂优化运行模型，以生物质电厂内的综合运行成本最小化为目标函数，来寻找一种最佳的低碳优化调度方案。"
+                }
+            ]
+        }
+    }
+}

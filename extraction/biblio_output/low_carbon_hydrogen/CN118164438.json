@@ -1,0 +1,207 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118164438",
+                            "kind": "A",
+                            "date": "20240611"
+                        },
+                        {
+                            "doc-number": "CN118164438",
+                            "date": "20240611"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "C01B  15/   027            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "027",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "P",
+                            "main-group": "2006",
+                            "subgroup": "80",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410198686",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410198686",
+                            "date": "20240222"
+                        },
+                        {
+                            "doc-number": "202410198686.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410198686",
+                            "date": "20240222"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV CHINA THREE GORGES CTGU"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "三峡大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YE LIQUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG QIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "叶立群, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王巧"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for synthesizing electronic-grade hydrogen peroxide by ultrasonically decomposing water",
+                    "一种超声分解水合成电子级过氧化氢的方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2014189441",
+                                        "name": "DAINIPPON SCREEN MFG",
+                                        "date": "20141006"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2014189441",
+                                        "kind": "A",
+                                        "name": "DAINIPPON SCREEN MFG",
+                                        "date": "20141006"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2019202615",
+                                        "name": "FERTIS INDIA PVT LTD [IN]",
+                                        "date": "20191024"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2019202615",
+                                        "kind": "A1",
+                                        "name": "FERTIS INDIA PVT LTD [IN]",
+                                        "date": "20191024"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113086950",
+                                        "name": "UNIV TONGJI",
+                                        "date": "20210709"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113086950",
+                                        "kind": "A",
+                                        "name": "UNIV TONGJI",
+                                        "date": "20210709"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115636396",
+                                        "name": "UNIV XIAMEN                                                                                         ",
+                                        "date": "20230124"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115636396",
+                                        "kind": "A",
+                                        "name": "UNIV XIAMEN                                                                                         ",
+                                        "date": "20230124"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention mainly provides a method for synthesizing electronic-grade hydrogen peroxide through ultrasonic decomposition of water, which is a method for directly preparing electronic-grade hydrogen peroxide from ultrapure water without adding any chemical substance, and the specific experimental process is as follows: adding ultrapure water into a reaction bottle, introducing atmosphere, and obtaining H2O2 through ultrasonic treatment. The prepared H2O2 solution does not contain any metal ions, the organic carbon content is far smaller than the international standard, the purity of the solution can reach the electronic level, the solution can be directly used for pollutant degradation without any subsequent purification treatment means, no pollution is caused to the environment, and organic pollutants can be completely degraded even in the H2O2 solution with the ultra-low concentration (250 [mu] mol.L &lt;-1 &gt;)."
+                },
+                {
+                    "p": "本发明主要提供一种超声分解水合成电子级过氧化氢的方法，不添加任何化学物质，直接从超纯水中制备电子级过氧化氢的方法，具体实验过程是在反应瓶中加入超纯水，通入气氛，经超声得到H2O2。制备的H2O2溶液不含任何金属离子，有机碳含量也远小于国际标准，溶液的纯度可达电子级别，不需要任何后续纯化处理手段可直接用于污染物降解而且不会对环境产生任何污染，即使在超低浓度(250μmol·L‑1)的H2O2溶液中也能完全降解有机污染物。"
+                }
+            ]
+        }
+    }
+}

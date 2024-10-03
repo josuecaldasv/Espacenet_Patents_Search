@@ -1,0 +1,178 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118191626",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118191626",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G01R  15/    08            A I                    "
+                        },
+                        {
+                            "text": "G01R  19/    14            A I                    "
+                        },
+                        {
+                            "text": "G01R  31/   378            A I                    "
+                        },
+                        {
+                            "text": "G01R  31/   382            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "R",
+                            "main-group": "15",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "R",
+                            "main-group": "19",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "R",
+                            "main-group": "31",
+                            "subgroup": "378",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "R",
+                            "main-group": "31",
+                            "subgroup": "382",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410333759",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410333759",
+                            "date": "20240322"
+                        },
+                        {
+                            "doc-number": "202410333759.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410333759",
+                            "date": "20240322"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "LUDAO HYDROGEN ENERGY XIAMEN SCIENCE AND TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "鹭岛氢能（厦门）科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YAN ZHANXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAO HUABING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAO YONGBING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "严占想, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陶华冰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陶勇冰"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Membrane voltage inspection device and system",
+                    "膜片电压巡检装置及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a diaphragm voltage inspection device and system. The diaphragm voltage inspection device comprises a multi-channel voltage detection module, an operational amplifier bias module and a control module, the multi-channel voltage detection module is used for sampling the voltage of each fuel cell membrane, gating a target channel according to the channel chip selection signal, and outputting a target voltage signal of a target fuel cell membrane corresponding to the target channel; the operational amplifier bias module is used for performing gain adjustment on the target voltage signal according to a preset gain coefficient and performing positive and negative voltage bias on the adjusted signal to obtain a detection voltage signal; and the control module is used for determining whether the target fuel cell diaphragm is reversely connected with the multi-channel voltage detection module according to the detection voltage signal. According to the diaphragm voltage inspection device, whether the multi-channel voltage detection module is reversely connected with the positive electrode and the negative electrode of the target fuel cell is determined according to the detection voltage signal, diaphragm polarity reverse connection detection is achieved, and the detection function of the diaphragm voltage inspection device is expanded."
+                },
+                {
+                    "p": "本申请公开了一种膜片电压巡检装置及系统，该膜片电压巡检装置包括多通道电压检测模块、运放偏置模块和控制模块；多通道电压检测模块用于采样每个燃料电池膜片的电压，并根据通道片选信号选通目标通道，输出目标通道对应的目标燃料电池膜片的目标电压信号；运放偏置模块用于根据预设增益系数对目标电压信号进行增益调节，以及对调节后的信号进行正负电压偏置，得到检测电压信号；控制模块用于根据检测电压信号确定目标燃料电池膜片与多通道电压检测模块是否反接。本申请的膜片电压巡检装置根据检测电压信号确定多通道电压检测模块与目标燃料电池的正负极是否反接，实现了膜片极性反接检测，扩展了膜片电压巡检装置的检测功能。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,203 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118202543",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118202543",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J   4/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "38",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "4",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "28",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "133",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202280073569",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20228073569",
+                            "date": "20221028"
+                        },
+                        {
+                            "doc-number": "202280073569.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "EP20210205936",
+                                    "date": "20211102"
+                                },
+                                {
+                                    "doc-number": "21205936.4"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "WO2022EP80256",
+                                    "date": "20221028"
+                                },
+                                {
+                                    "doc-number": "PCT/EP2022/080256"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SIEMENS GAMESA RENEWABLE ENERGY AS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西门子歌美飒可再生能源公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GOLDENBAUM NIKOLAUS"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GROENDAHL ERIK"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TISTAD JONAS"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "N·戈尔登鲍姆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "E·格罗恩达尔, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "J·蒂斯泰德"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "System and method for providing power from wind turbine to hydrogen production system",
+                    "用于从风力涡轮机向制氢系统提供电力的系统和方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "A system configured to provide power from a wind turbine (201) to a hydrogen production system (60) is provided. The system (100) comprises at least one power delivery system (10), where the power delivery system (10) is associated with the wind turbine (201) and provides a power delivery path configured to deliver power from a generator (70) of the associated wind turbine (201) to the hydrogen production system (60). The power delivery system (10) includes: an AC portion (20) coupled to a generator (70); a DC section (40) coupled to the hydrogen production system (60); and an AC-to-DC converter (30) coupled between the AC portion (20) and the DC portion (40). The AC-to-DC converter (30) is arranged outside the wind turbine (201). An AC portion (20) of a power delivery system (10) is configured to operate at a variable AC frequency."
+                },
+                {
+                    "p": "提供了一种配置为从风力涡轮机(201)向制氢系统(60)提供电力的系统。该系统(100)包括至少一个电力输送系统(10)，其中电力输送系统(10)与风力涡轮机(201)相关联并提供电力输送路径，该电力输送路径被配置为将电力从相关联的风力涡轮机(201)的发电机(70)输送到制氢系统(60)。电力输送系统(10)包括：耦合至发电机(70)的AC部分(20)；耦合至制氢系统(60)的DC部分(40)；以及耦合在AC部分(20)和DC部分(40)之间的AC至DC转换器(30)。AC至DC转换器(30)被布置在风力涡轮机(201)外部。电力输送系统(10)的AC部分(20)被配置为以可变AC频率运行。"
+                }
+            ]
+        }
+    }
+}

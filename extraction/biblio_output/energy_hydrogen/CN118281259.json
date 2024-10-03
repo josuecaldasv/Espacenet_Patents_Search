@@ -1,0 +1,214 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118281259",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118281259",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04082            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04276            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410609201",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410609201",
+                            "date": "20240516"
+                        },
+                        {
+                            "doc-number": "202410609201.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410609201",
+                            "date": "20240516"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA SHIPPING ENERGY STORAGE TECH BEIJING CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中海储能科技（北京）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XU QUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " NIU YINGCHUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG SHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU CHUNMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIAO DONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐泉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "牛迎春, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王屾, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐春明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "肖冬"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Rebalancing device and rebalancing method for electrolyte of iron-chromium flow battery",
+                    "一种铁铬液流电池电解液的再平衡装置及再平衡方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2011086247",
+                                        "name": "KESHAVARZ MAJID [US], et al",
+                                        "date": "20110414"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2011086247",
+                                        "kind": "A1",
+                                        "name": "KESHAVARZ MAJID [US], et al",
+                                        "date": "20110414"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113314733",
+                                        "name": "BEIJING HERUI ENERGY STORING TECH CO LTD",
+                                        "date": "20210827"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113314733",
+                                        "kind": "A",
+                                        "name": "BEIJING HERUI ENERGY STORING TECH CO LTD",
+                                        "date": "20210827"
+                                    }
+                                ]
+                            },
+                            "category": "X"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114824369",
+                                        "name": "UNIV BEIJING CHEM TECH",
+                                        "date": "20220729"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114824369",
+                                        "kind": "A",
+                                        "name": "UNIV BEIJING CHEM TECH",
+                                        "date": "20220729"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a rebalancing device and a rebalancing method for an iron-chromium flow battery electrolyte. The device comprises an anode tank, a cathode tank, a concentrated hydrochloric acid storage tank, an alkali liquor tank, a rebalancing battery pack and a PLC (Programmable Logic Controller) control system, enabling the rebalancing battery pack to respectively form a flow loop with the anode tank and the cathode tank; connecting the anode tank with a concentrated hydrochloric acid liquid storage tank; the alkali liquor tank absorbs chlorine generated by the rebalance reaction of the anode tank; the PLC control system supplements concentrated hydrochloric acid according to the hydrogen ion concentration feedback of the anode tank and maintains the acidity interval of the anode tank, so that the whole rebalance system operates efficiently, reduction of Fe &lt; 3 + &gt; in the electrolyte and supplementation of acidity are completed, and the rebalance anode electrolyte adopts the same material as the iron-chromium flow battery electrolyte for electrochemical reaction; the utilization efficiency of the raw material of the electrolyte of the iron-chromium flow battery is improved, and meanwhile, the impurity removal process of a reducing agent and a catalyst in the prior art is avoided, so that the rebalance battery runs in a high-efficiency interval all the time, and the method has a relatively good popularization prospect."
+                },
+                {
+                    "p": "本发明公开了一种铁铬液流电池电解液的再平衡装置及再平衡方法，装置包括阳极罐，阴极罐，浓盐酸储液罐，碱液罐，再平衡电池组，PLC控制系统；将再平衡电池组分别与阳极罐和阴极罐形成流动回路；连接阳极罐与浓盐酸储液罐；碱液罐吸收阳极罐再平衡反应产生的氯气；PLC控制系统根据阳极罐的氢离子浓度反馈补充浓盐酸，维持阳极罐酸度区间，使整个再平衡系统高效运转，完成对电解液中Fe3+的还原和酸度的补充，再平衡阳极电解液采用与铁铬液流电池电解液相同的物料进行电化学反应，提高了铁铬液流电池电解液原料的利用效率，同时避免了现有技术对还原剂和催化剂的除杂过程，使得再平衡电池一直处于高效区间运转，具有较好的推广前景。"
+                }
+            ]
+        }
+    }
+}

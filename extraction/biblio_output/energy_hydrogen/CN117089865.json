@@ -1,0 +1,221 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117089865",
+                            "kind": "A",
+                            "date": "20231121"
+                        },
+                        {
+                            "doc-number": "CN117089865",
+                            "date": "20231121"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    00            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    08            A I                    "
+                        },
+                        {
+                            "text": "F25D   3/    10            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "0089",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "65",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "081",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "25",
+                            "subclass": "D",
+                            "main-group": "3",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310948850",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310948850",
+                            "date": "20230728"
+                        },
+                        {
+                            "doc-number": "202310948850.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310948850",
+                            "date": "20230728"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANDONG ELECTRIC POWER ENGINEERING CONSULTING INST CORP LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "山东电力工程咨询院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "QU HUIGE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QI JINSHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI GUANPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU JINJIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MIAO JINGQUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG BIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " AN CHUNGUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "屈会格, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "祁金胜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李官鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐锦锦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苗井泉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张斌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "安春国"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "LNG cold energy hydrogen production system and working method thereof",
+                    "一种LNG冷能制氢系统及其工作方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of hydrogen production, and provides an LNG (Liquefied Natural Gas) cold energy hydrogen production system and a working method thereof. The hydrogen liquefaction module comprises an LNG third-stage heat exchanger, a first LNG first-stage heat exchanger, a first ortho-parahydrogen converter, a first cryogenic circulation heat exchanger, a second ortho-parahydrogen converter, a second cryogenic circulation heat exchanger and a hydrogen storage tank which are connected in sequence; the LNG third-stage heat exchanger and the first LNG first-stage heat exchanger are both used for heat exchange between hydrogen and LNG; the cryogenic circulation module comprises a two-stage compression water cooling device, a circulation composed of a third cryogenic heat exchanger, a third expansion machine and a first cryogenic circulation heat exchanger, and a circulation composed of a fourth cryogenic heat exchanger, a fourth expansion machine and a second cryogenic circulation heat exchanger; the third copious cooling heat exchanger and the fourth copious cooling heat exchanger release heat through the two-stage compression water cooling device. The energy consumption of hydrogen liquefaction is reduced, and green hydrogen production is realized."
+                },
+                {
+                    "p": "本发明涉及制氢技术领域，提供了一种LNG冷能制氢系统及其工作方法，包括：反应器，用于进行电解水反应；氢液化模块包括依次连接的LNG第三级换热器、第一LNG第一级换热器、第一正‑仲氢转化器、第一深冷循环换热器、第二正‑仲氢转化器、第二深冷循环换热器和储氢罐；LNG第三级换热器和第一LNG第一级换热器均用于氢气与LNG进行换热；深冷循环模块包括：两级压缩水冷装置，由第三深冷换热器、第三膨胀机和第一深冷循环换热器构成的循环，以及由第四深冷换热器、第四膨胀机和第二深冷循环换热器构成的循环；第三深冷换热器和第四深冷换热器均通过两级压缩水冷装置放热。降低了氢液化的能耗，实现了绿色制氢。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118413548",
+                            "kind": "A",
+                            "date": "20240730"
+                        },
+                        {
+                            "doc-number": "CN118413548",
+                            "date": "20240730"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F17C   1/    00            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    00            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    04            A I                    "
+                        },
+                        {
+                            "text": "F17C  13/    08            A I                    "
+                        },
+                        {
+                            "text": "F17D   1/    02            A I                    "
+                        },
+                        {
+                            "text": "F17D   3/    01            A I                    "
+                        },
+                        {
+                            "text": "H04L  67/    12            A I                    "
+                        },
+                        {
+                            "text": "H04L  67/   125            A I                    "
+                        },
+                        {
+                            "text": "H04L  67/    55            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "32",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410425792",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410425792",
+                            "date": "20240329"
+                        },
+                        {
+                            "doc-number": "202410425792.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410425792",
+                            "date": "20240329"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHEN JUN"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "沈军"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU ZHIXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN JIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHEN QI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHEN JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JINGYUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO KUIYING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘志翔, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "沈琪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "沈军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李静远, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵魁英"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Digital hydrogen energy supply system",
+                    "一种数字化氢气能源供应体系"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "A digital hydrogen energy supply system is composed of an equipment layer, a network layer and an application layer, collects data of links of hydrogen production, hydrogen transportation and hydrogen hydrogenation, transmits the data to a cloud through a gateway, performs big data storage and calculation, plays an AI artificial intelligence role, constructs a renewable energy source and hydrogen energy distribution digital twinning graph, and copies all places until the whole country is covered. The energy problem is thoroughly solved; hydrogen production equipment, pressurization equipment, a hydrogen filling machine, a hydrogen storage cylinder group trailer or ship and an intelligent hydrogen filling station are connected through the Internet of Things, hydrogen is filled into a hydrogen storage cylinder in a hydrogen using link, renewable energy photovoltaic and wind energy are preferably selected for power generation, and unstable electricity and sometimes and nothing electricity are changed into stable and continuous hydrogen energy through water electrolysis hydrogen production, so that the hydrogen is supplied to the hydrogen storage cylinder; the problem that electric energy is difficult to store is solved, and the problems of space-time and region dislocation are also solved; renewable energy sources are available all over the world and are sustainable energy sources, the implementation of the scheme has universality of large-scale replication all over the world, and zero pollution and zero carbon emission are achieved in the whole process."
+                },
+                {
+                    "p": "一种数字化氢气能源供应体系，由设备层、网络层、应用层构成，收集制氢、运氢、加氢环节数据，通过网关传输到云端，进行大数据存储与计算，发挥AI人工智能作用，构建可再生能源、氢能分布数字孪生一张图，各地复制，直到覆盖全国，彻底解决能源问题；具体是：制氢设备、加压设备、加氢机，储氢瓶组拖车或船，智能加氢站之间物联网连接，为用氢环节的储氢瓶加注氢气，优选可再生能源光伏、风能发电，通过电解水制氢，把不稳定的电，时有时无的电，变成稳定、持续的氢气能源，解决了电能难以存储的问题，也解决了时空、地域错位的问题；全球各地都有可再生能源，是可持续的能源，实施本案具有各地大规模复制的普遍性，全程零污染、零碳排放。"
+                }
+            ]
+        }
+    }
+}

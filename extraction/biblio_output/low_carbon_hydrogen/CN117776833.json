@@ -1,0 +1,105 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117776833",
+                            "kind": "A",
+                            "date": "20240329"
+                        },
+                        {
+                            "doc-number": "CN117776833",
+                            "date": "20240329"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01D  53/    00            A I                    "
+                        },
+                        {
+                            "text": "B01J  19/    00            A I                    "
+                        },
+                        {
+                            "text": "C07C   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C07C   9/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410010161",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20241010161",
+                            "date": "20240104"
+                        },
+                        {
+                            "doc-number": "202410010161.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20241010161",
+                            "date": "20240104"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING QIYUAN NEW MATERIAL TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京启原新材科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHANG JUNSHI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "常俊石"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Low-energy-consumption methane synthesis method and synthesis device",
+                    "一种低能耗的甲烷合成方法以及合成装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a low-energy-consumption methane synthesis method and a synthesis device.The methane synthesis method comprises the following steps that 10-38% of the total volume of raw material gas is taken out to be subjected to an adiabatic reaction, and after the adiabatic reaction, the raw material gas is mixed with the remaining raw material gas to be subjected to a heat transfer reaction, controlling the volume percentage of the water content of the fed material of the heat transfer reaction to be 6-20%, taking out part of the reaction gas after the heat transfer reaction as recycle gas, and merging the recycle gas into the raw material gas to control the reaction degree of the adiabatic reaction; wherein the hydrogen-carbon ratio of the raw material synthesis gas is that (VH2-VCO2-V loss)/(VCO + VCO2) is greater than or equal to 3.01. According to the methane synthesis method, the temperature control effect is achieved, carbon deposition is prevented, the whole process design is low in energy consumption, the temperature and the water content are controlled in a low-energy-consumption mode, and the problem of carbon deposition is fundamentally solved."
+                },
+                {
+                    "p": "本发明公开了一种低能耗的甲烷合成方法以及合成装置，本发明的甲烷合成方法包括如下步骤：原料气先取出总体积的10～38％进行绝热反应，绝热反应之后再与剩余的原料气混合之后进行移热反应，以控制移热反应的进料水含量的体积百分比为6～20％，移热反应之后的反应气取出部分作为循环气并入到所述原料气中以控制绝热反应的反应程度；其中所述原料合成气的氢碳比为(VH2‑VCO2‑V损)/(VCO+VCO2)≥3.01。本发明的甲烷合成方法达到了控温的效果，也防止了积碳的发生，而且整个工艺设计能耗低，采用低能耗的方式控温、控制水含量，从根本上解决了积碳的问题。"
+                }
+            ]
+        }
+    }
+}

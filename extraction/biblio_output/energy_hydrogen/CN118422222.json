@@ -1,0 +1,135 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118422222",
+                            "kind": "A",
+                            "date": "20240802"
+                        },
+                        {
+                            "doc-number": "CN118422222",
+                            "date": "20240802"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    50            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410681163",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410681163",
+                            "date": "20240529"
+                        },
+                        {
+                            "doc-number": "202410681163.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410681163",
+                            "date": "20240529"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "JIANGSU SHUANGLIANG HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "江苏双良氢能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HUANG JIANGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU GUILIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAN SHITAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄建刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘桂林, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张羽, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "韩世涛"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Electrolytic hydrogen production method with hierarchical power supply control",
+                    "一种分级电源控制的电解制氢方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to an electrolytic hydrogen production method for graded power supply control, which is an electrolytic hydrogen production method for controlling renewable energy source volatility based on IGBT rectifiers, output gears of a transformer are matched and connected with groups of the IGBT rectifiers, and graded power supply control is realized through mutual correspondence of gear control of the transformer and gear control of the IGBT rectifiers. Therefore, the purpose of effectively suppressing voltage fluctuation is achieved, and stable operation of the hydrogen production system in a low-load state is effectively guaranteed. And the PLC control cabinet adopts an integral regulation control method to regulate the gears of the transformer and the IGBT rectifier according to the detected current of the hydrogen production system so as to carry out closed-loop control on the voltage and the current and realize fault monitoring."
+                },
+                {
+                    "p": "本发明涉及一种分级电源控制的电解制氢方法，是基于IGBT整流器控制可再生能源波动性的电解制氢办法，变压器的输出档位与IGBT整流器的分组匹配相连，通过变压器与IGBT整流器的档位控制相互对应，实现分级电源控制，以达到有效抑制电压波动的目的，有效保证制氢系统在低负荷状态下保持稳定运行。PLC控制柜采用积分调节的控制方法根据检测到的制氢系统电流，调节变压器与IGBT整流器的档位，对电压、电流进行闭环控制，以及实现故障的监控。"
+                }
+            ]
+        }
+    }
+}

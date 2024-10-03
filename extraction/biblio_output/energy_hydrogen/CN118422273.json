@@ -1,0 +1,125 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118422273",
+                            "kind": "A",
+                            "date": "20240802"
+                        },
+                        {
+                            "doc-number": "CN118422273",
+                            "date": "20240802"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    23            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    08            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410534789",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410534789",
+                            "date": "20240430"
+                        },
+                        {
+                            "doc-number": "202410534789.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410534789",
+                            "date": "20240430"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING YIHUATONG HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京亿华通氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SHAN NIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING TIEXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FANG CHUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "闪念, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁铁新, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "方川"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Control method, control module and device for pure water recovery of water electrolysis hydrogen production system",
+                    "水电解制氢系统纯水回收的控制方法、控制模块及装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a control method, control module and device for pure water recovery of a water electrolysis hydrogen production system, the control method is applied to the control module of the control device, and the control method comprises the steps that when it is detected that the water electrolysis hydrogen production system starts to recover pure water, the pressure value in an oxygen gas-liquid separator of the system is obtained; if the pressure value is greater than the maximum pressure value overcome by gravity drainage of the buffer tank, generating a first group of control signals; according to the first group of control signals, a first drain valve is controlled to be opened, so that water in a hydrogen gas-liquid separator of the system flows into a buffer tank and is stored in the buffer tank; and when the preset amount of water is stored in the buffer tank, the second drain valve is controlled to be opened, so that the water stored in the buffer tank flows out of the water outlet of the buffer tank by virtue of gravity and the pressure of the water flowing into the hydrogen gas-liquid separator. Therefore, the water inlet pressure of the buffer tank and the gravitational potential energy of water stored in the buffer tank are utilized to jointly overcome the pressure in the oxygen gas-liquid separator to recover pure water, and the pure water recovery efficiency is improved."
+                },
+                {
+                    "p": "本申请提供水电解制氢系统纯水回收的控制方法、控制模块及装置，控制方法应用于控制装置的控制模块，控制方法包括：当检测到水电解制氢系统开始回收纯水时，获取系统氧气气液分离器中的压力值；若压力值大于缓冲罐依靠重力排水克服的最大压力值，生成第一组控制信号；根据第一组控制信号，先控制第一排水阀打开，以使系统氢气气液分离器中的水流入缓冲罐中，在缓冲罐中存储；在缓冲罐中存储有预设水量时，再控制第二排水阀打开，以使缓冲罐中存储的水依靠重力和氢气气液分离器流入的水的压力从缓冲罐的出水口流出。这样，利用缓冲罐入水水压和缓冲罐中存储的水的重力势能，共同克服氧气气液分离器中的压力回收纯水，提高了纯水回收的效率。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117422278",
+                            "kind": "A",
+                            "date": "20240119"
+                        },
+                        {
+                            "doc-number": "CN117422278",
+                            "date": "20240119"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  30/    20            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0201            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "G06F 119/    06            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "30",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06312",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06313",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0201",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "2119",
+                            "subgroup": "06",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311561964",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311561964",
+                            "date": "20231121"
+                        },
+                        {
+                            "doc-number": "202311561964.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311561964",
+                            "date": "20231121"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NANJING UNIVERSITY OF TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "南京工业大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DING YIXING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAI JILIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAO LILI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG MING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁逸行, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈俊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蔡霁霖, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郝丽丽, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王铭"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Park integrated energy system hydrogen energy storage optimal configuration method and system",
+                    "一种园区综合能源系统氢储能优化配置方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a park integrated energy system hydrogen storage energy optimal configuration method and system considering long-time scale electric carbon characteristics, and the method comprises the steps: S1, obtaining long-time scale new energy output and electric/thermal load power in a park system, and proposing a scene clustering effect index; s2, an optimization method of the number of days of a clustering scene based on an effect index; s3, establishing a park comprehensive energy hydrogen storage configuration objective function considering low-carbon economy; s4, corresponding constraint conditions of hydrogen energy storage configuration are established; and S5, linearizing the stepped carbon valence function, and solving an optimal configuration result by using software. According to the method, the optimal configuration result is obtained, and meanwhile, the maximum net load value and the total discharge amount of the electric power are optimized."
+                },
+                {
+                    "p": "本发明公开了一种考虑长时间尺度电碳特性的园区综合能源系统氢储能优化配置方法及系统，方法包括：步骤S1，获取园区系统内长时间尺度新能源出力及电/热负荷功率，提出场景聚类效果指标；步骤S2，基于效果指标的聚类场景天数的优化方法；步骤S3，建立计及低碳经济的园区综合能源氢储能配置目标函数；步骤S4，建立氢储能配置相应约束条件；步骤S5，将阶梯碳价函数线性化，使用软件求解最优配置结果。本发明的方法在获得最优配置结果的同时，优化电功率的最大净负荷值与总排放量。"
+                }
+            ]
+        }
+    }
+}

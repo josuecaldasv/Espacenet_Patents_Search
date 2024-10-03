@@ -1,0 +1,155 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118396275",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118396275",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0637            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/   067            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410414755",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410414755",
+                            "date": "20240408"
+                        },
+                        {
+                            "doc-number": "202410414755.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410414755",
+                            "date": "20240408"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANGHAI JIAO TONG UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "上海交通大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SHI ZICHUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FAN FEILONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAI NENGLING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI CANBING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PU CHUANQING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG WENTAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "石子川, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "樊飞龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邰能灵, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黎灿兵, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "濮川苘, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄文焘"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Optimized scheduling method and system based on port hybrid energy storage",
+                    "基于港口混合储能的优化调度方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an optimal scheduling method based on port hybrid energy storage. The method comprises the following steps: respectively establishing a port hybrid energy storage model comprising a hydrogen energy storage model, a natural gas energy storage model, an electrochemical energy storage model and a cold storage equipment energy storage and operation cost model, a port loading and unloading equipment model and a port refrigerated container system model; establishing an initial value of an optimal scheduling scheme based on port hybrid energy storage by constructing a target function and constraint conditions; and establishing a two-stage robust optimization operation model based on the port hybrid energy storage model and the initial value of the optimization scheduling scheme, and then performing solution through a column constraint generation algorithm to obtain a final optimization scheduling scheme. According to the method, the electric-thermal comprehensive effect and response characteristics of various energy storage devices are fully utilized, a two-stage robust optimization method is utilized, the volatility and uncertainty of renewable energy output are fully considered, the volatility of the renewable energy device output is relieved to the maximum extent under the condition that real-time source load balance in the actual operation process is guaranteed, and the reliability of the renewable energy device output is improved. And the lowest operation cost and carbon emission are realized."
+                },
+                {
+                    "p": "一种基于港口混合储能的优化调度方法，通过分别建立包括氢储能、天然气储能、电化学储能和储冷设备的存储能量和运行成本模型、港口装卸设备模型和港口冷藏集装箱系统模型的港口混合储能模型；通过构建目标函数和约束条件，建立基于港口混合储能的优化调度方案初始值；基于港口混合储能模型和优化调度方案初始值建立两阶段鲁棒优化运行模型后通过列约束生成算法进行求解，得到最终优化调度方案。本发明充分利用多种储能设备的电‑热综合效应与响应特性，利用两阶段鲁棒优化方法，充分考虑可再生能源出力的波动性与不确定性，在保证实际运行过程中实时源荷均衡的条件下，最大幅度缓解可再生能源设备出力的波动性，实现最低运行成本与碳排放量。"
+                }
+            ]
+        }
+    }
+}

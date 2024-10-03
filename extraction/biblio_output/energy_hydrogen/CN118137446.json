@@ -1,0 +1,155 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118137446",
+                            "kind": "A",
+                            "date": "20240604"
+                        },
+                        {
+                            "doc-number": "CN118137446",
+                            "date": "20240604"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   1/    10            A I                    "
+                        },
+                        {
+                            "text": "H02J   1/    14            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "1",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "1",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "24",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410252570",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410252570",
+                            "date": "20240306"
+                        },
+                        {
+                            "doc-number": "202410252570.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410252570",
+                            "date": "20240306"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV SHANGHAI TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "上海科技大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YANG HENGZHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TANG YUZHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨恒昭, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "唐毓振"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Energy management method and system of electro-hydrogen energy storage system",
+                    "一种电氢储能系统的能量管理方法和系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of micro-grids, and particularly relates to an energy management method of an electric hydrogen energy storage system, which comprises the following steps of: acquiring photovoltaic power generation power and local load power in the system, and calculating power needing to be consumed by a compressor according to a hydrogen energy storage state of a hydrogen energy storage device and a preset pressure threshold range of the hydrogen energy storage device; according to the photovoltaic power generation power, the local load power of the system and the power needing to be consumed by the compressor, the energy filling and shortage state of the system is judged, and the electric energy storage device and the hydrogen energy storage device are controlled to work to maintain the energy balance of the system; and after the hydrogen energy storage device works, the power needing to be consumed by the compressor is recalculated according to the change amount of the hydrogen energy storage state of the hydrogen energy storage device, the working states of the electric energy storage device and the hydrogen energy storage device are adjusted according to the new power needing to be consumed by the compressor, and feedback control circulation is achieved. According to the energy management method, energy balance and hydrogen balance in the system are maintained, and the state of charge of the electric energy storage device is kept stable."
+                },
+                {
+                    "p": "本发明属于微电网技术领域，具体涉及一种电氢储能系统的能量管理方法，包括：获取光伏发电功率和系统内的本地负荷功率，并依据氢储能装置的氢气储能状态和其预设的压力阈值范围计算压缩机需要消耗的功率；根据光伏发电功率，系统的本地负荷功率和压缩机需要消耗的功率判断系统的能量盈缺状态，并通过控制电储能装置和氢储能装置工作以维持系统的能量平衡；在氢储能装置工作后，依据其氢气储能状态的改变量重新计算压缩机需要消耗的功率，并依据新的压缩机需要消耗的功率调节电储能装置和氢储能装置的工作状态，实现反馈控制循环。本发明利用上述能量管理方法维持系统内的能量平衡和氢气平衡，以及电储能装置的荷电状态稳定。"
+                }
+            ]
+        }
+    }
+}

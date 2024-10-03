@@ -1,0 +1,219 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116751611",
+                            "kind": "A",
+                            "date": "20230915"
+                        },
+                        {
+                            "doc-number": "CN116751611",
+                            "date": "20230915"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C10J   3/    48            A I                    "
+                        },
+                        {
+                            "text": "C10J   3/    72            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310744808",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310744808",
+                            "date": "20230621"
+                        },
+                        {
+                            "doc-number": "202310744808.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310744808",
+                            "date": "20230621"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHN ENERGY GROUP NINGXIA COAL IND CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家能源集团宁夏煤业有限责任公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG GUOLIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO YUANQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JUNTING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DONG XIANYING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAO WENLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIN ZHENGWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAN FENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN QIHU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QIU XIAOQING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MENG YONGHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI HONGDI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王国梁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵元琪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李俊挺, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董先营, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曹文龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "金政伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "闫峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈其虎, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邱小庆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蒙勇宏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李红娣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨涛"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Furnace temperature regulation and control method and reaction device",
+                    "炉温调控方法及反应装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a furnace temperature regulation and control method and a reaction device. The furnace temperature regulation and control method comprises the steps that the temperature T1 of cooling water introduced into a water cooling wall structure is obtained; the temperature T2 of cooling water flowing out of the water cooling wall structure is obtained; the temperature T3 of the synthesis gas flowing out of the chilling chamber is obtained; the temperature T4 of the synthesis gas flowing out of the first washing assembly is obtained; the temperature T5 of the synthesis gas flowing out of the second washing assembly is obtained; the components of the synthesis gas flowing out of the second washing assembly are obtained, and the methane content, the carbon dioxide content and the carbon monoxide and hydrogen content in the synthesis gas are obtained; and according to T2-T1, T3, T3-T4, T5, the content of methane, the content of carbon dioxide and the content of carbon monoxide and hydrogen, whether the furnace temperature of the reaction chamber is proper or not is judged. According to the furnace temperature regulation and control method, the problem that in the prior art, the furnace temperature of the gasification furnace is likely to be too high or too low due to the monitoring mode of the gasification furnace, and then the effective gas yield is affected is solved."
+                },
+                {
+                    "p": "本发明提供了一种炉温调控方法及反应装置，炉温调控方法包括：获取通入水冷壁结构内的冷却水的温度T1；获取从水冷壁结构内流出的冷却水的温度T2；获取从激冷室内流出的合成气的温度T3；获取从第一洗涤组件流出的合成气的温度T4；获取从第二洗涤组件流出的合成气的温度T5；获取从第二洗涤组件流出的合成气的组份，以得到合成气中的甲烷含量、二氧化碳含量、一氧化碳加氢气的含量；根据T2‑T1、T3、T3‑T4、T5、甲烷含量、二氧化碳含量、一氧化碳加氢气的含量，判断反应室的炉温是否适当。本申请的炉温调控方法解决了现有技术中对气化炉的监测方式容易导致气化炉的炉温偏高或偏低，进而影响有效气产率的问题。"
+                }
+            ]
+        }
+    }
+}

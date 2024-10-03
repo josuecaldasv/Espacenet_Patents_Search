@@ -1,0 +1,546 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "114243771",
+                            "kind": "A",
+                            "date": "20220325"
+                        },
+                        {
+                            "doc-number": "CN114243771",
+                            "date": "20220325"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    02            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "38",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "24",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "28",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "133",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202111502800",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202111502800",
+                            "date": "20211210"
+                        },
+                        {
+                            "doc-number": "202111502800.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202111502800",
+                            "date": "20211210"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ECONOMIC AND TECHNICAL RES INSTITUTE OF STATE GRID JIANGSU POWER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " QINGHUA SICHUAN ENERGY INTERNET RES INSTITUTE"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国网江苏省电力有限公司经济技术研究院, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "清华四川能源互联网研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YUAN XIAOYUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI HU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GE YI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU XIAOYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU HUACHI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIN RUIXIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "袁晓昀, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李琥, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "葛毅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡晓燕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐华池, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "林瑞霄, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘毅"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Local micro-grid renewable energy hydrogen production consumption route decision-making method and system",
+                    "局部微网可再生能源制氢消纳路线决策方法和系统"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CA2389116",
+                                        "name": "KELOUWANI SOUSSO [CA], et al",
+                                        "date": "20031205"
+                                    },
+                                    {
+                                        "country": "CA",
+                                        "doc-number": "2389116",
+                                        "kind": "A1",
+                                        "name": "KELOUWANI SOUSSO [CA], et al",
+                                        "date": "20031205"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2005165511",
+                                        "name": "FAIRLIE MATTHEW [CA]",
+                                        "date": "20050728"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2005165511",
+                                        "kind": "A1",
+                                        "name": "FAIRLIE MATTHEW [CA]",
+                                        "date": "20050728"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102377192",
+                                        "name": "UNIV TSINGHUA",
+                                        "date": "20120314"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102377192",
+                                        "kind": "A",
+                                        "name": "UNIV TSINGHUA",
+                                        "date": "20120314"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102937298",
+                                        "name": "UNIV TAIYUAN TECHNOLOGY",
+                                        "date": "20130220"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102937298",
+                                        "kind": "A",
+                                        "name": "UNIV TAIYUAN TECHNOLOGY",
+                                        "date": "20130220"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN205882726U",
+                                        "name": "XINJIANG CLEAN ENERGY TECH RES INST",
+                                        "date": "20170111"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "205882726",
+                                        "kind": "U",
+                                        "name": "XINJIANG CLEAN ENERGY TECH RES INST",
+                                        "date": "20170111"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108599245",
+                                        "name": "UNIV XI AN JIAOTONG, et al",
+                                        "date": "20180928"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108599245",
+                                        "kind": "A",
+                                        "name": "UNIV XI AN JIAOTONG, et al",
+                                        "date": "20180928"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP3219004U",
+                                        "date": "20181122"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "3219004",
+                                        "kind": "U",
+                                        "date": "20181122"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109755965",
+                                        "name": "UNIV HEBEI SCIENCE & TECH",
+                                        "date": "20190514"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109755965",
+                                        "kind": "A",
+                                        "name": "UNIV HEBEI SCIENCE & TECH",
+                                        "date": "20190514"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109936167",
+                                        "name": "TIANJIN KIMWAN CARBON TECH AND DEVELOPMENT CO LTD",
+                                        "date": "20190625"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109936167",
+                                        "kind": "A",
+                                        "name": "TIANJIN KIMWAN CARBON TECH AND DEVELOPMENT CO LTD",
+                                        "date": "20190625"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110474371",
+                                        "name": "CHINA BUILDING MATERIALS BENGBU GLASS INDUSTRY DESIGN & RES INST CO LTD",
+                                        "date": "20191119"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110474371",
+                                        "kind": "A",
+                                        "name": "CHINA BUILDING MATERIALS BENGBU GLASS INDUSTRY DESIGN & RES INST CO LTD",
+                                        "date": "20191119"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111695764",
+                                        "name": "JIANGSU POWER DESIGN INST CO LTD CHINA ENERGY ENG GROUP",
+                                        "date": "20200922"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111695764",
+                                        "kind": "A",
+                                        "name": "JIANGSU POWER DESIGN INST CO LTD CHINA ENERGY ENG GROUP",
+                                        "date": "20200922"
+                                    }
+                                ]
+                            },
+                            "category": [
+                                "A",
+                                "X"
+                            ],
+                            "rel-claims": [
+                                "1-4",
+                                "1-10"
+                            ],
+                            "rel-passage": {
+                                "passage": "* 说明书第0002-0145段，图1-3 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113315155",
+                                        "name": "STATE GRID JIANGSU ELECTRIC POWER CO LTD NANTONG POWER SUPPLY BRANCH",
+                                        "date": "20210827"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113315155",
+                                        "kind": "A",
+                                        "name": "STATE GRID JIANGSU ELECTRIC POWER CO LTD NANTONG POWER SUPPLY BRANCH",
+                                        "date": "20210827"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 滕云;王泽镝;金红洋;周桂平;陈哲;, \"用于电网调节能力提升的电热氢多源协调储能系统模型\", 中国电机工程学报, no. 24"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10"
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 滕云;王泽镝;金红洋;周桂平;陈哲;, \"用于电网调节能力提升的电热氢多源协调储能系统模型\", 中国电机工程学报, (20191220), no. 24"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The embodiment of the invention provides a local micro-grid renewable energy hydrogen production consumption route decision-making method and system, and relates to the technical field of local micro-grids. The method comprises the following steps: starting an electric energy storage system to discharge under the condition that the electricity utilization power difference PeSuplus between the wind-solar power generation power PeRE in the local micro-grid and the park basic electricity utilization power PeB is less than or equal to zero, so as to supplement the electricity utilization load of the local micro-grid; under the condition that the electricity utilization power difference PeSuplus is greater than zero, estimating the electricity storage power PeStor of the electric energy storage system; under the condition that the electricity utilization power difference PeSuplus is smaller than or equal to the electricity storage power PeStor, the electric energy storage system is started to be charged, and the charging power is the electricity utilization power difference PeSuplus. According to the method and the system, efficient utilization and complete consumption of local micro-grid energy can be realized, and the energy efficiency and the economical efficiency of the system are improved."
+                },
+                {
+                    "p": "本发明的实施例提供了一种局部微网可再生能源制氢消纳路线决策方法和系统，涉及局部微网技术领域。方法包括：在局域微网中的风光发电功率PeRE与园区基础用电功率PeB的用电功率差额PeSurplus小于或等于零的情况下，启动电储能系统放电，以补充局域微网的用电负荷；在用电功率差额PeSurplus大于零的情况下，估算电储能系统的储电功率PeStor；在用电功率差额PeSurplus小于或等于储电功率PeStor的情况下，启动电储能系统充电，充电功率为用电功率差额PeSurplus。该方法和系统能够实现局域微网能源高效利用、完全消纳，提升系统能源效率和统经济性。"
+                }
+            ]
+        }
+    }
+}

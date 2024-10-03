@@ -1,0 +1,185 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116519223",
+                            "kind": "A",
+                            "date": "20230801"
+                        },
+                        {
+                            "doc-number": "CN116519223",
+                            "date": "20230801"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G01M   3/    00            A I                    "
+                        },
+                        {
+                            "text": "G01M   3/    04            A I                    "
+                        },
+                        {
+                            "text": "G01N   3/    30            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "3",
+                            "subgroup": "002",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "3",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "3",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "32",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310548438",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310548438",
+                            "date": "20230515"
+                        },
+                        {
+                            "doc-number": "202310548438.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310548438",
+                            "date": "20230515"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GUANGDONG INST OF SPECIAL EQUIPMENT INSPECTION"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " ZHUHAI SENBO LOW TEMPERATURE ENERGY EQUIPMENT CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " ZHONGSHAN CHUANGYU PRECISION MACHINERY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "广东省特种设备检测研究院, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "珠海森铂低温能源装备有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中山市创宇精密机械科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YANG GANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TANG JIANJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "唐建军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘英"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Leak-proof test method and device for carbon fiber fully-wound hydrogen storage cylinder",
+                    "碳纤维全缠绕储氢气瓶的防泄漏测试方法及装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of safety testing, and discloses an anti-leakage testing method and device for a carbon fiber full-winding hydrogen storage bottle, and the method comprises the steps: carrying out the exposure operation of the carbon fiber full-winding hydrogen storage bottle to obtain an exposed hydrogen bottle, carrying out the force bearing operation of the exposed hydrogen bottle to obtain a force-bearing hydrogen bottle, and carrying out the force bearing operation of the force-bearing hydrogen bottle; the carbon fiber depression difference of the exposed hydrogen cylinder and the force-bearing hydrogen cylinder is calculated, when the carbon fiber depression difference is smaller than or equal to a specified depression threshold value, the force-bearing hydrogen cylinder is filled with hydrogen and placed in a closed environment, an infrared thermal imager is placed in the closed environment, the infrared thermal imager is started to generate infrared radiation, a radiation change value is obtained through calculation, and the carbon fiber depression difference of the exposed hydrogen cylinder and the force-bearing hydrogen cylinder is calculated according to the radiation change value. According to the radiation change value, the hydrogen storage safety level of the hydrogen cylinder subjected to force bearing is measured, and therefore the anti-leakage test of the carbon fiber full-winding hydrogen storage cylinder is completed. According to the invention, the hydrogen storage capability of the hydrogen storage cylinder and the wrapping performance of the carbon fiber on the hydrogen storage cylinder in a severe environment can be enriched."
+                },
+                {
+                    "p": "本发明涉及安全测试技术领域，揭露了一种碳纤维全缠绕储氢气瓶的防泄漏测试方法及装置，包括：将碳纤维全缠绕储氢气瓶执行包括暴露操作得到已暴露氢气瓶，对已暴露氢气瓶执行承力操作得到已承力氢气瓶，计算已暴露氢气瓶和已承力氢气瓶的碳纤维凹陷差，当碳纤维凹陷差小于或等于指定凹陷阈值时，将已承力氢气瓶中注满氢气并放置于密闭环境中，其中密闭环境中放有红外热像仪，启动红外热像仪产生红外辐射，并计算得到辐射变化值，根据辐射变化值测定已承力氢气瓶对氢气的储藏安全等级，从而完成碳纤维全缠绕储氢气瓶的防泄漏测试。本发明可丰富恶劣环境下对储氢气瓶的氢气储藏能力及碳纤维对储氢气瓶包裹性的测试。"
+                }
+            ]
+        }
+    }
+}

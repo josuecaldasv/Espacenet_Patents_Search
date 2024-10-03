@@ -1,0 +1,184 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "5789744",
+                            "kind": "A",
+                            "date": "19980804"
+                        },
+                        {
+                            "doc-number": "US5789744",
+                            "date": "19980804"
+                        }
+                    ]
+                },
+                "classification-ipc": {
+                    "text": "H05H3/00"
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H05H   3/    02            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "H",
+                            "main-group": "3",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "H",
+                            "main-group": "3",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "250/251"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "64461096",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US19960644610",
+                            "date": "19960426"
+                        },
+                        {
+                            "doc-number": "644610"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "US19960644610",
+                            "date": "19960426"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "US ARMY [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "THE UNITED STATES OF AMERICA AS REPRESENTED BY THE UNITED STATES DEPARTMENT OF ENERGY"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SPENCE DAVID [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LYKKE KEITH [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "SPENCE, DAVID, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "LYKKE, KEITH"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Method for the production of atomic ion species from plasma ion sources",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US3742219",
+                                        "name": "POST R, et al",
+                                        "date": "19730626"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "3742219",
+                                        "kind": "A",
+                                        "name": "POST R, et al",
+                                        "date": "19730626"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4584473",
+                                        "name": "HASHIMOTO KIYOSHI [JP], et al",
+                                        "date": "19860422"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4584473",
+                                        "kind": "A",
+                                        "name": "HASHIMOTO KIYOSHI [JP], et al",
+                                        "date": "19860422"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5654541",
+                                        "name": "OUTLAW RONALD A [US], et al",
+                                        "date": "19970805"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5654541",
+                                        "kind": "A",
+                                        "name": "OUTLAW RONALD A [US], et al",
+                                        "date": "19970805"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "A technique to enhance the yield of atomic ion species (H+, D+, O+, N+, etc.) from plasma ion sources. The technique involves the addition of catalyzing agents to the ion discharge. Effective catalysts include H2O, D2O, O2, and SF6, among others, with the most effective being water (H2O) and deuterated water (D2O). This technique has been developed at Argonne National Laboratory, where microwave generated plasmas have produced ion beams comprised of close to 100% purity protons (H+) and close to 100% purity deuterons (D+). The technique also increases the total yield of protons and deuterons by converting unwanted ion species, namely, H2+,H3+ and D2+, D3+, into the desired ion species, H+ and D+, respectively."
+            }
+        }
+    }
+}

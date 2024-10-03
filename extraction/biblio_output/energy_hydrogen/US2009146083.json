@@ -1,0 +1,313 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2009146083",
+                            "kind": "A1",
+                            "date": "20090611"
+                        },
+                        {
+                            "doc-number": "US2009146083",
+                            "date": "20090611"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G21G   4/    00            A I                    "
+                        },
+                        {
+                            "text": "G21K   1/    00            A I                    "
+                        },
+                        {
+                            "text": "H05G   2/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "21",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "21",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "G",
+                            "main-group": "2",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "05",
+                            "subclass": "G",
+                            "main-group": "2",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "250/493.1"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "21347608",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US20080213476",
+                            "date": "20080619"
+                        },
+                        {
+                            "doc-number": "12213476"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20000191492P",
+                                    "date": "20000323"
+                                },
+                                {
+                                    "doc-number": "60191492"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US20010813792",
+                                    "date": "20010322"
+                                },
+                                {
+                                    "doc-number": "09813792"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": {
+                                "doc-number": "US20080213476",
+                                "date": "20080619"
+                            }
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BLACKLIGHT POWER INC"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "BLACKLIGHT POWER, INC"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "MILLS RANDELL L [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "MILLS RANDELL L"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Hydrogen catalysis",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6024935",
+                                        "name": "MILLS RANDELL L [US], et al",
+                                        "date": "20000215"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6024935",
+                                        "kind": "A",
+                                        "name": "MILLS RANDELL L [US], et al",
+                                        "date": "20000215"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US1628190",
+                                        "name": "MURRAY RANEY",
+                                        "date": "19270510"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "1628190",
+                                        "kind": "A",
+                                        "name": "MURRAY RANEY",
+                                        "date": "19270510"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5112439",
+                                        "name": "REISMAN ARNOLD [US], et al",
+                                        "date": "19920512"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5112439",
+                                        "kind": "A",
+                                        "name": "REISMAN ARNOLD [US], et al",
+                                        "date": "19920512"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6253689",
+                                        "name": "FUTATSUGI TAKEHIKO [JP]",
+                                        "date": "20010703"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6253689",
+                                        "kind": "B1",
+                                        "name": "FUTATSUGI TAKEHIKO [JP]",
+                                        "date": "20010703"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US7773656",
+                                        "name": "MILLS RANDELL L [US]",
+                                        "date": "20100810"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "7773656",
+                                        "kind": "B1",
+                                        "name": "MILLS RANDELL L [US]",
+                                        "date": "20100810"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US6149829",
+                                        "name": "TAKAMATSU TOSHIYUKI [JP], et al",
+                                        "date": "20001121"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "6149829",
+                                        "kind": "A",
+                                        "name": "TAKAMATSU TOSHIYUKI [JP], et al",
+                                        "date": "20001121"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- [AlexanderKarl R Popper, _Bykanov_Summary.pdf]date 01-18-2012,"
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Chris Morrison in VentureBeat, October 21, 2008\"Blacklight Power bolsters its impossible claims of a new renewable energy source\",<http://green.venturebeat.com/2008/10/21/blacklight-power-bolsters-its-impossible-claims-of-a-new-renewable-energy-source/>"
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Gans et al., Contrib. Plasma Phys. 42 (2002) 6-7, 596-602\"Observations of Fast Hydrogen Atoms Formed by Ion Bombarding of Surfaces\""
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Radovanov et al., Appl. Phys. Lett.66 (20) 15 May 1995\"Time-resolved Balmer-alpha emission from fast hydrogen atoms in low pressure radio-frequency discharges in hydrogen\""
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Karl R Popper, 1963\"Science as Falsification\","
+                            },
+                            "category": " "
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- BLP_Management3/16/2011,"
+                            },
+                            "category": " "
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "A catalytic reaction of atomic hydrogen is provided which produces a more stable or lower energy atomic hydrogen atom than uncatalyzed atomic hydrogen. The catalyzed lower energy hydrogen atom may serve as a reactant of a disproportionation reaction whereby it which accepts energy from an second catalyzed lower energy hydrogen atom to cause a further release of energy as the first atom undergoes a nonradiative electronic transition to a higher energy level while the second undergoes a transition to a lower energy level. The catalytic reaction and disproportionation reaction of lower energy atomic hydrogen may produce light, plasma, power, and novel hydrogen compounds. The light, plasma, power and compound source comprises a cell for the catalysis of atomic hydrogen and disproportionation reactions of lower energy atomic hydrogen to form novel hydrogen species and compositions of matter comprising hydrogen that is more stable or lower energy than uncatalyzed hydrogen. The compounds comprise at least one neutral, positive, or negative hydrogen species having a binding energy greater than its corresponding ordinary hydrogen species, or greater than any hydrogen species for which the corresponding ordinary hydrogen species is unstable or is not observed."
+            }
+        }
+    }
+}

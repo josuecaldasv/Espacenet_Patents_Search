@@ -1,0 +1,228 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118274377",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118274377",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "F24D  18/    00            A I                    "
+                        },
+                        {
+                            "text": "F24D  19/    00            A I                    "
+                        },
+                        {
+                            "text": "F24D 101/    10            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410261950",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410261950",
+                            "date": "20240307"
+                        },
+                        {
+                            "doc-number": "202410261950.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410261950",
+                            "date": "20240307"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANDONG ELECTRIC POWER ENGINEERING CONSULTING INST CORP LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "山东电力工程咨询院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CAO HONGZHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG JUNBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG BIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG RULING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SU WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU JIANMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO QINGUANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG GANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SONG HAIBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU QINGLI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曹洪振, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨俊波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张斌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄汝玲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苏伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘建岷, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王勇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "国钦光, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "柳涌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋海宾, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘庆利"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Gas turbine and coal machine combined load peak regulation system and working method thereof",
+                    "一种燃机与煤机组合的负荷调峰系统及其工作方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of load peak regulation, and provides a gas turbine and coal turbine combined load peak regulation system and a working method thereof.The gas turbine and coal turbine combined cycle load peak regulation system comprises a coal-fired cogeneration unit, a gas turbine combined cycle cogeneration unit and a water electrolysis hydrogen production system, and an oxygen pipeline of the water electrolysis hydrogen production system is connected to the coal-fired cogeneration unit; a hydrogen pipeline of the water electrolysis hydrogen production system is connected to the gas turbine combined cycle cogeneration unit; the coal-fired cogeneration unit supplies power to the water electrolysis hydrogen production system; when a heat supply network has no heat supply requirement and a power grid needs peak regulation of the coal-fired combined heat and power generation unit, the water electrolysis hydrogen production system is started, and oxygen generated by the water electrolysis hydrogen production system enters the coal-fired combined heat and power generation unit; when a heat supply network has the maximum heat load and a power grid uses electricity and needs peak regulation of the coal-fired cogeneration unit, the water electrolysis hydrogen production system is started, and oxygen generated by the water electrolysis hydrogen production system is not input. The requirement for long-term energy storage can be met, and the lowest stable combustion load of a coal-fired cogeneration unit can be reduced."
+                },
+                {
+                    "p": "本发明属于负荷调峰技术领域，提供了一种燃机与煤机组合的负荷调峰系统及其工作方法，包括燃煤热电联产机组、燃机联合循环热电联产机组和电解水制氢系统，且电解水制氢系统的氧气管道连接至所述燃煤热电联产机组，电解水制氢系统的氢气管道连接至所述燃机联合循环热电联产机组；燃煤热电联产机组为电解水制氢系统供电；在热网无供热需求且电网用电需燃煤热电联产机组调峰时，电解水制氢系统启动，且电解水制氢系统产生的氧气进入所述燃煤热电联产机组；在热网带最大热负荷且电网用电需燃煤热电联产机组调峰时，电解水制氢系统启动，且电解水制氢系统产生的氧气不投入。不仅能适应长期储能的要求，而且能降低燃煤热电联产机组的最低稳燃负荷。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118248902",
+                            "kind": "A",
+                            "date": "20240625"
+                        },
+                        {
+                            "doc-number": "CN118248902",
+                            "date": "20240625"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04225            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04664            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04225",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04664",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410379342",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410379342",
+                            "date": "20240329"
+                        },
+                        {
+                            "doc-number": "202410379342.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410379342",
+                            "date": "20240329"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WEISHI ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "未势能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TIAN JUNLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FAN WEIFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "田俊龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "范伟丰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李昂"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for activating fuel cell stack",
+                    "燃料电池的电堆活化方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a fuel cell stack activation method. The fuel cell stack activation method comprises the following steps: preparing a fuel cell to be activated; hydrogen is introduced into the anode of the fuel cell, air is introduced into the cathode of the fuel cell, and the fuel cell is loaded to a preset first current density value; reducing the amount of air introduced into the cathode of the fuel cell, and maintaining for a first preset time; the amount of air introduced into the cathode of the fuel cell is increased again, and the fuel cell is loaded to the preset first current density value again; judging whether the current density value of the fuel cell under the preset voltage is greater than a first threshold value or not; if yes, activation is ended. According to the fuel cell stack activation method provided by the embodiment of the invention, the fuel cell can be well activated by switching the amount of air introduced into the cathode of the fuel cell between a reduced air amount state and a normal air amount state in the fuel cell activation process and judging the cycle index; and the fuel cells with problems can be well screened out."
+                },
+                {
+                    "p": "本发明公开了一种燃料电池的电堆活化方法，燃料电池的电堆活化方法包括：准备待活化的燃料电池；燃料电池的阳极通入氢气、阴极通入空气，燃料电池拉载至预设的第一电流密度值；减少燃料电池的阴极通入的空气量，并维持第一预定时间；再次使得燃料电池的阴极通入的空气量上升，燃料电池再次拉载至预设的第一电流密度值；判断燃料电池在预定电压下的电流密度值是否大于第一阈值；若是，则结束活化。根据本发明实施例的燃料电池的电堆活化方法，通过在燃料电池活化过程中使得通入燃料电池的阴极的空气量在减少空气量的状态以及正常空气量的状态之间切换，并判断循环次数，可以较好地对燃料电池进行活化，并可以较好地筛选出有问题的燃料电池。"
+                }
+            ]
+        }
+    }
+}

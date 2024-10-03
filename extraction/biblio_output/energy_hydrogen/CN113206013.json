@@ -1,0 +1,264 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "113206013",
+                            "kind": "A",
+                            "date": "20210803"
+                        },
+                        {
+                            "doc-number": "CN113206013",
+                            "date": "20210803"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01L  21/   265            A I                    "
+                        },
+                        {
+                            "text": "H01L  21/   331            A I                    "
+                        },
+                        {
+                            "text": "H01L  29/    06            A I                    "
+                        },
+                        {
+                            "text": "H01L  29/   739            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "26506",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "29",
+                            "subgroup": "0607",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "29",
+                            "subgroup": "66348",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "29",
+                            "subgroup": "7397",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202110459976",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202110459976",
+                            "date": "20210427"
+                        },
+                        {
+                            "doc-number": "202110459976.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202110459976",
+                            "date": "20210427"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANGHAI GTA SEMICONDUCTOR CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "上海积塔半导体有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CAO GONGXUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU XIAOLI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU JIANHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曹功勋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴晓丽, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘建华"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "IGBT device with back buffer layer structure and preparation method thereof",
+                    "具有背面缓冲层结构的IGBT器件及其制备方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102687277",
+                                        "name": "FUJI ELECTRIC CO LTD",
+                                        "date": "20120919"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102687277",
+                                        "kind": "A",
+                                        "name": "FUJI ELECTRIC CO LTD",
+                                        "date": "20120919"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2016080288",
+                                        "name": "FUJI ELECTRIC CO LTD [JP]",
+                                        "date": "20160526"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2016080288",
+                                        "kind": "A1",
+                                        "name": "FUJI ELECTRIC CO LTD [JP]",
+                                        "date": "20160526"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN106463528",
+                                        "name": "FUJI ELECTRIC CO LTD",
+                                        "date": "20170222"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "106463528",
+                                        "kind": "A",
+                                        "name": "FUJI ELECTRIC CO LTD",
+                                        "date": "20170222"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107431087",
+                                        "name": "MITSUBISHI ELECTRIC CORP",
+                                        "date": "20171201"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107431087",
+                                        "kind": "A",
+                                        "name": "MITSUBISHI ELECTRIC CORP",
+                                        "date": "20171201"
+                                    }
+                                ]
+                            },
+                            "category": "X",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书实施方式1和图1-10 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an IGBT device with a back buffer layer structure and a preparation method thereof. The preparation method comprises the following steps: providing an N-type doped substrate; performing a front surface process of the IGBT device on the front surface of the substrate; carrying out phosphorus ion implantation, P-type ion implantation and high-energy hydrogen ion implantation on the back surface of the substrate, and carrying out annealing activation to form a phosphorus ion doped layer, a P-type doped layer and a hydrogen ion doped layer; enabling the hydrogen ion doping layer to be located above the phosphorus ion doping layer, and enabling the hydrogen ion doping layer and the phosphorus ion doping layer to form a buffer layer of the IGBT device together; enabling the P-type doped layer to form a collector region of the IGBT device; and forming a back metal layer on the back of the substrate. By adopting the preparation method of the buffer layer, the production efficiency of the IGBT device can be effectively improved and the preparation cost of the IGBT device can be effectively reduced under the condition of ensuring the performance of the IGBT device."
+                },
+                {
+                    "p": "本发明提供一种具有背面缓冲层结构的IGBT器件及其制备方法，该制备方法包括：提供N型掺杂的衬底；于衬底的正面进行IGBT器件的正面工艺；于衬底的背面进行磷离子注入、P型离子注入及高能量氢离子注入并退火激活，形成磷离子掺杂层、P型掺杂层及氢离子掺杂层；氢离子掺杂层位于磷离子掺杂层的上方，并一起形成为IGBT器件的缓冲层；P型掺杂层形成为IGBT器件的集电极区；于衬底的背面形成背面金属层。采用本发明的缓冲层的制备方法，可在保证IGBT器件性能的条件下有效提高IGBT器件的生产效率以及降低IGBT器件的制备成本。"
+                }
+            ]
+        }
+    }
+}

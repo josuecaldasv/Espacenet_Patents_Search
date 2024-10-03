@@ -1,0 +1,541 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117986074",
+                            "kind": "A",
+                            "date": "20240507"
+                        },
+                        {
+                            "doc-number": "CN117986074",
+                            "date": "20240507"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01D   3/    00            A I                    "
+                        },
+                        {
+                            "text": "B01J   4/    00            A I                    "
+                        },
+                        {
+                            "text": "B01J  19/    00            A I                    "
+                        },
+                        {
+                            "text": "C07C   4/    22            A I                    "
+                        },
+                        {
+                            "text": "C07C   5/    03            A I                    "
+                        },
+                        {
+                            "text": "C07C   5/    05            A I                    "
+                        },
+                        {
+                            "text": "C07C   7/    04            A I                    "
+                        },
+                        {
+                            "text": "C07C   7/    09            A I                    "
+                        },
+                        {
+                            "text": "C07C  13/    10            A I                    "
+                        },
+                        {
+                            "text": "C07C  13/    12            A I                    "
+                        },
+                        {
+                            "text": "C07C  13/    15            A I                    "
+                        },
+                        {
+                            "text": "C07C  13/    18            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "3",
+                            "subgroup": "009",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "4",
+                            "subgroup": "001",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "4",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "19",
+                            "subgroup": "0006",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "4",
+                            "subgroup": "22",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "5",
+                            "subgroup": "03",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "5",
+                            "subgroup": "05",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "7",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "7",
+                            "subgroup": "09",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "2204",
+                            "subgroup": "002",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "2204",
+                            "subgroup": "005",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "2204",
+                            "subgroup": "007",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "2219",
+                            "subgroup": "00006",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "2601",
+                            "subgroup": "08",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "2601",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "2601",
+                            "subgroup": "14",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C4/22",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C13/15",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C5/03",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C13/10",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "3",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C5/05",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C13/12",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "4",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C7/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C13/10",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "5",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C7/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C13/12",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "6",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C7/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C13/18",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "7",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C7/09",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C13/10",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "8",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C7/09",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C13/12",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "9",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C7/09",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C13/18",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211373608",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211373608",
+                            "date": "20221103"
+                        },
+                        {
+                            "doc-number": "202211373608.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211373608",
+                            "date": "20221103"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "DALIAN INST CHEM & PHYSICS CAS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国科学院大连化学物理研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DING HUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG SHENGJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG DAZHI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZOU MINGMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIAO YUTONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄声骏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张大治, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邹明明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "焦雨桐"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Production method and production device of low-carbon cyclic hydrocarbon",
+                    "一种低碳环状碳氢化合物的生产方法及其生产装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a production method and a production device of low-carbon cyclic hydrocarbon. The production method comprises a reaction stage and a separation stage, the reaction stage comprises the following steps: preheating a raw material I containing cyclopentadiene I and hydrogen I, introducing the preheated raw material I into a cracking reactor, carrying out a cracking reaction to obtain a cracking reaction product, carrying out heat exchange on the cracking reaction product and the raw material I to obtain a hydrogenation raw material, mixing the hydrogenation raw material with a diluent, introducing the mixture into a hydrogenation reactor, and carrying out a hydrogenation reaction to obtain a hydrogenation reaction product; the separation stage comprises the following steps: carrying out gas-liquid separation and three-stage rectification treatment on the hydrogenation reaction product to sequentially obtain hydrogen II, cyclopentadiene II, cyclopentene and cyclopentane. The method can be used for a production method for preparing cyclopentene through partial hydrogenation of cyclopentadiene, the process is continuous, the flow is simple, high-grade cooling capacity consumption is reduced through fractional condensation, the reaction temperature rise is controlled by adding a circular reaction inert diluent, and the method is suitable for industrial large-scale continuous operation."
+                },
+                {
+                    "p": "本申请公开了一种低碳环状碳氢化合物的生产方法及其生产装置，所述生产方法包括反应阶段和分离阶段；所述反应阶段包括：将含有环戊二烯I、氢气I的原料I经预热后通入裂解反应器中，发生裂解反应，获得裂解反应产物，裂解反应产物与所述原料I换热后获得加氢原料，加氢原料与稀释剂混合，通入加氢反应器中发生加氢反应，获得加氢反应产物；所述分离阶段包括：将所述加氢反应产物经气液分离、三级精馏处理，依次获得氢气II、环戊二烯II、环戊烯、环戊烷。本方法可以用于环戊二烯部分加氢制备环戊烯的生产方法，工艺连续，流程简洁，通过分级冷凝节省高品位冷量消耗，并添加循环反应惰性稀释剂控制反应温升，适于工业化大规模连续操作。"
+                }
+            ]
+        }
+    }
+}

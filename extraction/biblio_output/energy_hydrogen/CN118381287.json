@@ -1,0 +1,156 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118381287",
+                            "kind": "A",
+                            "date": "20240723"
+                        },
+                        {
+                            "doc-number": "CN118381287",
+                            "date": "20240723"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02M   1/    00            A I                    "
+                        },
+                        {
+                            "text": "H02M   1/    08            A I                    "
+                        },
+                        {
+                            "text": "H02M   1/    12            A I                    "
+                        },
+                        {
+                            "text": "H02M   1/    14            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "36",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410421528",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410421528",
+                            "date": "20240409"
+                        },
+                        {
+                            "doc-number": "202410421528.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410421528",
+                            "date": "20240409"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "JIANGSU INTELLI HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "江苏英特利氢能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HUANG YONGBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN LIJUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHAN QILING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG CAIJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄勇博, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王坚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙利娟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "单棋凌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨才建"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Three-phase current type rectification power supply control method and system for producing hydrogen by electrolyzing water",
+                    "用于电解水制氢的三相电流型整流电源控制方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a three-phase current type rectification power supply control method and system for water electrolysis hydrogen production, and relates to the field of power supply control, and the method comprises the steps: carrying out the sector division of a three-phase input voltage signal, and obtaining an initial even sector signal and an initial odd sector signal; calculating the number of carrier cycles in the initial even sector signal and the number of carrier cycles in the initial odd sector signal, and determining a target carrier frequency; determining an even sector extension time based on the target carrier frequency, and generating a target even sector signal and a target odd sector signal, thereby generating a triangular carrier signal; and on the basis of the triangular carrier signal and the modulation wave obtained based on the three-phase input voltage signal, a switch driving signal of the three-phase current type rectification power supply is generated, and the method has the advantages of eliminating distortion of the input current of the three-phase current type rectification power supply at the sector switching position, reducing the harmonic content of the input current, reducing the ripple of the output current and improving the efficiency of the rectification power supply."
+                },
+                {
+                    "p": "本发明提供用于电解水制氢的三相电流型整流电源控制方法及系统，涉及电源控制领域，其中，该方法包括：对三相输入电压信号进行扇区划分，得到初始偶扇区信号和初始奇扇区信号；计算初始偶扇区信号内的载波周期数量和初始奇扇区信号内的载波周期数量，确定目标载波频率；基于目标载波频率，确定偶扇区延长时间，生成目标偶扇区信号和目标奇扇区信号，从而生成三角载波信号；基于三角载波信号与基于三相输入电压信号得到的调制波，生成三相电流型整流电源的开关驱动信号，具有消除三相电流型整流电源输入电流在扇区切换处的畸变，降低输入电流谐波含量，降低输出电流纹波，提升整流电源效率的优点。"
+                }
+            ]
+        }
+    }
+}

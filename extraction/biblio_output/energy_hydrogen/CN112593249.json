@@ -1,0 +1,532 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "112593249",
+                            "kind": "A",
+                            "date": "20210402"
+                        },
+                        {
+                            "doc-number": "CN112593249",
+                            "date": "20210402"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C02F   1/    00            A I                    "
+                        },
+                        {
+                            "text": "F03D   9/    25            A I                    "
+                        },
+                        {
+                            "text": "C02F 103/    08            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "1",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "03",
+                            "subclass": "D",
+                            "main-group": "9",
+                            "subgroup": "25",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "2103",
+                            "subgroup": "08",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "A",
+                            "main-group": "20",
+                            "subgroup": "141",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "10",
+                            "subgroup": "72",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "133",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202011511777",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202011511777",
+                            "date": "20201218"
+                        },
+                        {
+                            "doc-number": "202011511777.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202011511777",
+                            "date": "20201218"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ZHONGSHAN POWER SUPPLY BUREAU GUANGDONG POWER GRID CO"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "广东电网有限责任公司中山供电局"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHEN MINKANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIN HONGDONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU HUIBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG HAITAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG GANJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FENG GUOPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU WENHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG SHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LU WENWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIANG JIANHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG ZHIYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN JIAHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG JINJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU SHI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU ZHIGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " OU WENJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈敏康, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "林洪栋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周慧彬, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "汪海涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王干军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "冯国鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘文浩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "姜山, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陆文伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "梁建辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄智勇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈嘉豪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄锦坚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘石, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘志刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "欧文俊"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "New energy hydrogen production platform",
+                    "一种新能源制氢平台"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103011343",
+                                        "name": "DALIAN DESIGN INST CO LTD CHINA FIRST HEAVY IND, et al",
+                                        "date": "20130403"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103011343",
+                                        "kind": "A",
+                                        "name": "DALIAN DESIGN INST CO LTD CHINA FIRST HEAVY IND, et al",
+                                        "date": "20130403"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104753163",
+                                        "name": "TIANJIN TDQS ELECTRIC POWER NEW TECHNOLOGY CO LTD",
+                                        "date": "20150701"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104753163",
+                                        "kind": "A",
+                                        "name": "TIANJIN TDQS ELECTRIC POWER NEW TECHNOLOGY CO LTD",
+                                        "date": "20150701"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN106374816",
+                                        "name": "XU ZHIYONG",
+                                        "date": "20170201"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "106374816",
+                                        "kind": "A",
+                                        "name": "XU ZHIYONG",
+                                        "date": "20170201"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107493058",
+                                        "name": "CHINA DATANG CORP SCI & TECH RES INST CO LTD",
+                                        "date": "20171219"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107493058",
+                                        "kind": "A",
+                                        "name": "CHINA DATANG CORP SCI & TECH RES INST CO LTD",
+                                        "date": "20171219"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110945234",
+                                        "name": "NATIONAL SUN YAT SEN UNIV",
+                                        "date": "20200331"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110945234",
+                                        "kind": "A",
+                                        "name": "NATIONAL SUN YAT SEN UNIV",
+                                        "date": "20200331"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111172551",
+                                        "name": "SHENZHEN XIMA TECH CO LTD",
+                                        "date": "20200519"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111172551",
+                                        "kind": "A",
+                                        "name": "SHENZHEN XIMA TECH CO LTD",
+                                        "date": "20200519"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111926342",
+                                        "name": "SICHUAN DIWEI ENERGY TECH CO LTD",
+                                        "date": "20201113"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111926342",
+                                        "kind": "A",
+                                        "name": "SICHUAN DIWEI ENERGY TECH CO LTD",
+                                        "date": "20201113"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "5-6",
+                            "rel-passage": {
+                                "passage": "* 具体实施方式 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111926852",
+                                        "name": "TSINGHUA SHENZHEN INT GRADUATE SCHOOL",
+                                        "date": "20201113"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111926852",
+                                        "kind": "A",
+                                        "name": "TSINGHUA SHENZHEN INT GRADUATE SCHOOL",
+                                        "date": "20201113"
+                                    }
+                                ]
+                            },
+                            "category": [
+                                "Y",
+                                "X"
+                            ],
+                            "rel-claims": [
+                                "5-6",
+                                "1-4、7-10"
+                            ],
+                            "rel-passage": {
+                                "passage": "* 具体实施方式 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "In order to overcome the defects of serious energy loss and low conversion rate in the energy conversion process, the invention provides a new energy hydrogen production platform which comprises a wind driven generator, a jacket, a top bearing platform, a central control module, a storage battery, an electrolytic hydrogen production module, a seawater desalination module and gas storage equipment.The wind driven generator converts wind energy into electric energy and then transmits the electric energy to the central control module and the storage battery, the central control module distributes and regulates the electric energy as required and then supplies the electric energy to the electrolytic hydrogen production module and the seawater desalination module for use, and meanwhile, the storage battery stores the electric energy generated by the wind driven generator. The seawater desalination module pumps seawater for desalination treatment, fresh water obtained through treatment is conveyed to the electrolytic hydrogen production module for electrolytic hydrogen production, finally, prepared hydrogen and prepared oxygen are conveyed into the gas storage equipment to be stored respectively, sufficient utilization of wind energy is achieved, and the wind energy conversion rate is increased."
+                },
+                {
+                    "p": "本发明为克服能源转化过程中存在严重的能源损耗，存在转化率低的的缺陷，提出一种新能源制氢平台，包括风力发电机、导管架、顶部承台、中控模块、蓄电池、电解制氢模块、海水淡化模块和储气设备。其中风力发电机将风能转化为电能后传输至中控模块和蓄电池中，中控模块对电能进行按需分配调控后供应到电解制氢模块、海水淡化模块中使用，同时蓄电池对风力发电机产生的电能进行存储。海水淡化模块抽取海水进行淡化处理，再将处理得到的淡水输送至电解制氢模块进行电解制氢，最后将制备好的氢气和氧气分别输送至储气设备中分别储存，实现对风能的充分利用，提高风能转化率。"
+                }
+            ]
+        }
+    }
+}

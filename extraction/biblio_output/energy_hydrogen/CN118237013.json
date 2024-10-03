@@ -1,0 +1,242 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118237013",
+                            "kind": "A",
+                            "date": "20240625"
+                        },
+                        {
+                            "doc-number": "CN118237013",
+                            "date": "20240625"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  23/    54            A I                    "
+                        },
+                        {
+                            "text": "B01J  37/    12            A I                    "
+                        },
+                        {
+                            "text": "C01G  43/    01            A I                    "
+                        },
+                        {
+                            "text": "C07C 201/    00            A I                    "
+                        },
+                        {
+                            "text": "C07C 207/    02            A I                    "
+                        },
+                        {
+                            "text": "C07C 207/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "54",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "G",
+                            "main-group": "43",
+                            "subgroup": "01",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "201",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "P",
+                            "main-group": "2002",
+                            "subgroup": "72",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C201/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C207/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C201/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C207/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410342210",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410342210",
+                            "date": "20240325"
+                        },
+                        {
+                            "doc-number": "202410342210.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410342210",
+                            "date": "20240325"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV LANZHOU"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "兰州大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LONG YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PAN DUOQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAN YUHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SONG JIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "龙雨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "潘多强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "撖禹辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋劼"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Preparation method of depleted uranium alpha-UO3 and application of depleted uranium alpha-UO3 in catalytic synthesis of nitrosobenzene or derivatives thereof",
+                    "一种贫铀基α-UO3的制备方法及其催化合成亚硝基苯或其衍生物的应用"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "Uranium is the most important strategic nuclear energy resource in China, however, along with the expansion of the nuclear energy utilization scale, how to safely dispose and reuse a large amount of depleted uranium generated after nuclear concentration has become an inevitable issue in pollution control work. The invention aims to explore a new mode for utilizing depleted uranium (238U, which has no radiation injury to human bodies), and particularly, U3O8 prepared by depleting UF6 is taken as a raw material, and alpha-UO3 is prepared by a simple dissolution and reprecipitation method. Alpha-UO3 is used as a catalyst, an organic solvent is used as a reaction solvent, hydrogen peroxide is used as an oxidizing agent, and aniline or derivatives thereof can be catalyzed to be selectively oxidized to generate nitrosobenzene or derivatives thereof. According to the implementation of the method, on one hand, the problem of reutilization of the depleted uranium waste is innovatively solved, and a new thought is provided for nuclear waste treatment; and on the other hand, the maximum utilization of resources is realized by converting aniline and derivatives thereof into nitrosobenzene or derivatives thereof with higher additional value. No matter from the perspective of environmental protection and sustainable development or from the perspective of increasing the added value of the product, the method has extremely important value and profound significance."
+                },
+                {
+                    "p": "铀是我国最重要的战略核能资源，然而，随着核能利用规模的扩大，如何安全处置与再利用核浓缩后产生的大量贫铀，已成为污染防治工作中刻不容缓的议题。本发明旨在探索一种贫铀(238U，对人体无放射伤害)利用的新模式，特别地，我们以贫化UF6制得的U3O8为原料，通过简单地溶解再沉淀法制备出α‑UO3。以α‑UO3为催化剂，有机溶剂为反应溶剂，过氧化氢为氧化剂，可催化苯胺或其衍生物选择性氧化生成亚硝基苯或其衍生物。本发明的实施，一方面创新性地解决了贫铀废料的再利用问题，为核废料处理提供了新的思路；另一方面，通过将苯胺及其衍生物转化为附加值更高的亚硝基苯或其衍生物，实现了资源的最大化利用。无论从环境保护和可持续发展的角度，还是从提升产物附加值的角度出发，本发明都具有极其重要的价值和深远的意义。"
+                }
+            ]
+        }
+    }
+}

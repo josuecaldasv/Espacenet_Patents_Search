@@ -1,0 +1,220 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117943130",
+                            "kind": "A",
+                            "date": "20240430"
+                        },
+                        {
+                            "doc-number": "CN117943130",
+                            "date": "20240430"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  31/    28            A I                    "
+                        },
+                        {
+                            "text": "B01J  35/    50            A I                    "
+                        },
+                        {
+                            "text": "B01J  37/    02            A I                    "
+                        },
+                        {
+                            "text": "B01J  37/    12            A I                    "
+                        },
+                        {
+                            "text": "B01J  37/    34            A I                    "
+                        },
+                        {
+                            "text": "C07C 253/    18            A I                    "
+                        },
+                        {
+                            "text": "C07C 255/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "31",
+                            "subgroup": "28",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "0201",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "344",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "253",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C253/18",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C255/04",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410088055",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20241088055",
+                            "date": "20240122"
+                        },
+                        {
+                            "doc-number": "202410088055.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20241088055",
+                            "date": "20240122"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV YANGZHOU"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "扬州大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YU LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU WANGCHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN YING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YIYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "俞磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "许王成, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈颖, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张亦旸"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Tubular polyaniline supported copper-selenium catalyst as well as preparation method and application thereof",
+                    "一种管状聚苯胺负载铜硒催化剂及其制备方法与用途"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a tubular polyaniline supported copper-selenium catalyst and a preparation method and application thereof in the field of aldoxime dehydration reaction catalysts, and the catalyst is prepared by carrying out photocatalytic oxidation polymerization on aniline in the presence of copper salt and polymer carbon nitride and then dipping in a sodium hydrogen selenide solution. The method is simple to operate and easily available in raw materials. The obtained catalyst can be used for a dehydration reaction of adipaldehyde 1, 6-dioxime, a unique tubular structure is formed by using polyaniline, and selenium and copper substances in the tubular structure cannot be excessively oxidized, so that the dehydration reaction of the adipaldehyde 1, 6-dioxime can be selectively catalyzed, adiponitrile is generated, and the catalyst has the advantages of simple preparation process and low cost. Oxime is not removed to generate adipic dialdehyde or adipic acid is not generated by further oxidation due to oxidation reaction, and the reaction can be controlled to be carried out under mild conditions."
+                },
+                {
+                    "p": "本发明公开了醛肟脱水反应催化剂领域内的一种管状聚苯胺负载铜硒催化剂及其制备方法与用途，该催化剂由苯胺在铜盐与聚合物氮化碳存在下光催化氧化聚合后，再通过在硒氢化钠溶液中浸渍来制备。该方法操作简单，原料易得。获得的催化剂可用于己二醛‑1,6‑二肟的脱水反应，利用聚苯胺形成独特的管状结构，使其内部硒铜物质不会被过度氧化，从而能够选择性地催化己二醛‑1,6‑二肟的脱水反应，生成己二腈，而不会因发生氧化反应而脱肟生成己二醛或进一步氧化生成己二酸，可控制反应在温和条件下进行。"
+                }
+            ]
+        }
+    }
+}

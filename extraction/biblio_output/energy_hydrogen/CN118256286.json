@@ -1,0 +1,192 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118256286",
+                            "kind": "A",
+                            "date": "20240628"
+                        },
+                        {
+                            "doc-number": "CN118256286",
+                            "date": "20240628"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C10K   3/    04            A I                    "
+                        },
+                        {
+                            "text": "C10L   3/    08            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "K",
+                            "main-group": "3",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "L",
+                            "main-group": "3",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "L",
+                            "main-group": "2290",
+                            "subgroup": "06",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "L",
+                            "main-group": "2290",
+                            "subgroup": "58",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211719590",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211719590",
+                            "date": "20221226"
+                        },
+                        {
+                            "doc-number": "202211719590.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211719590",
+                            "date": "20221226"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HANGZHOU LINDA CHEMICAL TECH ENGINEERING CORPORATION"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "杭州林达化工技术工程有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LOU REN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI YUTING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YUYAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FENG ZAINAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAO ZELONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LOU SHOULIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "楼韧, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李玉婷, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王雨瑶, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "冯再南, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "姚泽龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "楼寿林"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "System and method for preparing natural gas through methanation of hydrogen-rich synthesis gas",
+                    "一种富氢合成气甲烷化制天然气的系统及方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a process method for preparing natural gas through methanation of hydrogen-rich synthesis gas, which comprises the following steps of: adding a certain amount of CO2 gas into the hydrogen-rich synthesis gas subjected to desulfurization, detoxification and purification to obtain raw material synthesis gas with a certain consumption composition ratio, mixing the raw material synthesis gas with circulating gas returned in a system to obtain tower gas, adjusting the content of CO + CO2 in the tower gas, raising the temperature, feeding into a constant-temperature methanation reactor, and carrying out methanation to obtain the natural gas. The synthesis gas is subjected to catalytic conversion under the catalysis of a catalyst, most of CO in the synthesis gas discharged from the constant-temperature methanation reactor is converted, a small amount of CO2 is not converted, part of the synthesis gas subjected to heat recovery and primary separation is used as recycle gas to return to a constant-temperature methanation system, and the other part of the synthesis gas is used as subsequent methanation gas; after secondary temperature rise, the gas enters a deep methanation reactor to prepare qualified product gas; by means of the process method, effective gas H2 in the hydrogen-rich synthesis gas can be efficiently utilized and converted, energy loss is reduced, and meanwhile a certain amount of CO2 gas is converted into a CH4 product with the higher economic value."
+                },
+                {
+                    "p": "本发明公开了一种富氢合成气甲烷化制天然气的工艺方法，经脱硫脱毒净化后的富氢合成气配入一定量的CO2气，调配成一定消耗组成比的原料合成气，与系统中返回的循环气混合成人塔气，调整入塔气CO+CO2含量，提温后进恒温甲烷化反应器，在催化剂的催化下催化转化，出恒温甲烷化反应器的合成气中CO绝大部分被转化，CO2还有少量未转化，经过热量回收及一次分离后的合成气部分作为循环气返回恒温甲烷化系统，另一部分合成气作为后续甲烷化气，经二次提温后进深度甲烷化反应器制得合格产品气；通过本发明专利的工艺方法，可以实现富氢合成气中的有效气体H2被高效利用转化，减少能源损耗，同时将一定的CO2气转化为经济价值更高的CH4产品。"
+                }
+            ]
+        }
+    }
+}

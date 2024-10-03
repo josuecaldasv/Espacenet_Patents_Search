@@ -1,0 +1,209 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118410899",
+                            "kind": "A",
+                            "date": "20240730"
+                        },
+                        {
+                            "doc-number": "CN118410899",
+                            "date": "20240730"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  17/    10            A I                    "
+                        },
+                        {
+                            "text": "G06F  18/   214            A I                    "
+                        },
+                        {
+                            "text": "G06F  18/  2415            A I                    "
+                        },
+                        {
+                            "text": "G06F  30/    27            A I                    "
+                        },
+                        {
+                            "text": "G06N   3/  0464            A I                    "
+                        },
+                        {
+                            "text": "G06N   3/    08            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "G06F 111/    04            A N                    "
+                        },
+                        {
+                            "text": "G06F 111/    10            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410341419",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410341419",
+                            "date": "20240322"
+                        },
+                        {
+                            "doc-number": "202410341419.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410341419",
+                            "date": "20240322"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HOHAI UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "河海大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHEN SHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHU LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEI ZHINONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN GUOQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZANG HAIXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG MANYUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHU YING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU YIZHOU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAN HAITENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈胜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "朱蕾, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卫志农, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙国强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "臧海祥, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄蔓云, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "朱瑛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周亦洲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "韩海腾"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for constructing flexible operation domain of electricity-gas-hydrogen series-parallel integrated energy system",
+                    "一种电-气-氢混联综合能源系统灵活性运行域的构建方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a construction method of a flexible operation domain of an electricity-gas-hydrogen hybrid integrated energy system, and the method comprises the steps: mining the internal relation between the feasibility of an electric hydrogen production power point and the conditions of system topology, operation constraint, scene data and the like through a graph convolutional neural network, and accurately recognizing whether the electric hydrogen production power point is a feasible point or not on the basis of accurately recognizing whether the electric hydrogen production power point is a feasible point or not. And rapid construction of the flexible operation domain of the electricity-gas-hydrogen hybrid integrated energy system under different scene conditions is realized. The method comprises the following steps: establishing a basic physical model for identifying whether an electric hydrogen production power point is a feasible point or not on the basis of an electric-gas-hydrogen series-parallel comprehensive energy system model by taking the minimum load shedding of the electric-gas-hydrogen series-parallel comprehensive energy system as a target; a graph convolutional neural network is introduced, the change of a gas network operation topology is considered, and a model for constructing a flexible operation domain of the electricity-gas-hydrogen hybrid integrated energy system based on the graph convolutional neural network is established."
+                },
+                {
+                    "p": "本发明提出了一种电‑气‑氢混联综合能源系统灵活性运行域的构建方法，通过图卷积神经网络挖掘电制氢功率点可行性与系统拓扑、运行约束以及场景数据等条件的内在联系，在能够精准识别电制氢功率点是否为可行点的基础上，实现了在不同的场景条件下电‑气‑氢混联综合能源系统灵活性运行域的快速构建。以电‑气‑氢混联综合能源系统的切负荷最小为目标，在电‑气‑氢混联综合能源系统模型的基础上，建立了识别电制氢功率点是否为可行点的基本物理模型；引入图卷积神经网络，考虑气网运行拓扑的变化，建立了基于图卷积神经网络构建电‑气‑氢混联综合能源系统灵活性运行域的模型。"
+                }
+            ]
+        }
+    }
+}

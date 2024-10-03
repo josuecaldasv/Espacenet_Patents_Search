@@ -1,0 +1,172 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117165940",
+                            "kind": "A",
+                            "date": "20231205"
+                        },
+                        {
+                            "doc-number": "CN117165940",
+                            "date": "20231205"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B  32/   186            A I                    "
+                        },
+                        {
+                            "text": "C23C  28/    00            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B  11/   036            A I                    "
+                        },
+                        {
+                            "text": "C25D   3/    12            A I                    "
+                        },
+                        {
+                            "text": "C25D   5/    26            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311146953",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311146953",
+                            "date": "20230906"
+                        },
+                        {
+                            "doc-number": "202311146953.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311146953",
+                            "date": "20230906"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV CHINA PETROLEUM EAST CHINA"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国石油大学（华东）"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHAO WEIMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIA QILIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TANG JING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZANG XIAOBEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN JIANBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG WENCHUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵卫民, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "夏琪良, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "唐静, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "臧晓蓓, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙建波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蒋文春"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for preparing low-interface contact resistance coating on surface of stainless steel bipolar plate",
+                    "一种在不锈钢双极板表面制备低界面接触电阻涂层的方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the field of new materials, belongs to a proton exchange membrane water electrolysis hydrogen production technology, and provides a method for preparing a low-interface contact resistance coating on the surface of a stainless steel bipolar plate, which comprises the following specific steps: (1) carrying out mechanical grinding and polishing and ultrasonic cleaning on a stainless steel material; (2) the stainless steel material in the step (1) is subjected to nickel plating treatment, the grain orientation of a nickel plating layer is controlled by adjusting the current density, and the thickness of the nickel plating layer is controlled by adjusting the nickel plating time; and (3) in-situ growth of graphene on the surface of the nickel-plated stainless steel in the step (2) is carried out by using a chemical vapor deposition technology, and the quality of the graphene layer is controlled by adjusting the flow of methane and hydrogen. By adopting the method, a plurality of graphene layers which are completely covered and almost have no amorphous carbon can be formed on the surface of the stainless steel, the interface contact resistance value of the graphene layers and a gas diffusion layer in a PEM electrolytic tank is less than or equal to 0.01 omega.cm < 2 >, and the problem that the surface functional coating of the current metal bipolar plate is difficult to meet the interface contact resistance requirement is solved."
+                },
+                {
+                    "p": "本发明涉及新材料领域，属于质子交换膜电解水制氢技术，提供了一种在不锈钢双极板表面制备低界面接触电阻涂层的方法，具体步骤为(1)对不锈钢材料进行机械打磨抛光和超声清洗；(2)对步骤(1)的不锈钢材料进行镀镍处理，通过调整电流密度控制镀镍层的晶粒取向，通过调整镀镍时间控制镀镍层厚度；(3)利用化学气相沉积技术在步骤(2)的镀镍不锈钢表面原位生长石墨烯，通过调整甲烷和氢气的流量控制石墨烯层质量。采用上述方法，可以在不锈钢表面形成覆盖完全、几乎不存在无定形碳的多层石墨烯层，与PEM电解池中气体扩散层的界面接触电阻值≤0.01Ω·cm2，解决了目前金属双极板表面功能涂层难以满足界面接触电阻要求的难题。"
+                }
+            ]
+        }
+    }
+}

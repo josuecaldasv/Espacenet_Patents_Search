@@ -1,0 +1,208 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116663714",
+                            "kind": "A",
+                            "date": "20230829"
+                        },
+                        {
+                            "doc-number": "CN116663714",
+                            "date": "20230829"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/   067            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06312",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "067",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310529121",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310529121",
+                            "date": "20230511"
+                        },
+                        {
+                            "doc-number": "202310529121.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310529121",
+                            "date": "20230511"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV WUHAN"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "武汉大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HU ZHIJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU XIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN JINPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU HAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI TIANGE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GONG QINGWU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING JIANYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡志坚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "喻鑫, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈锦鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡号, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李天格, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "龚庆武, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁坚勇"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Park-level IES optimal scheduling method and device",
+                    "一种园区级IES优化调度方法及装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a park-level IES optimal scheduling method and device, and relates to the field of comprehensive energy system optimal scheduling, and the method comprises the steps: building a park-level hydrogen-containing comprehensive energy system model; establishing an objective function of the park-level IES optimization scheduling model and carrying out linearization processing on nonlinear terms; and calling a solver to solve all the established models to obtain an optimization result. According to the method, the running flexibility of the IES can be greatly improved, and the low-carbon property and the economical efficiency of the IES are promoted through the flexibility."
+                },
+                {
+                    "p": "本发明公开了一种园区级IES优化调度方法及装置，涉及综合能源系统优化调度领域，该方法包括建立园区级含氢综合能源系统模型；建立园区级IES优化调度模型的目标函数并对非线性项进行线性化处理；调用求解器对建立的所有模型进行求解，得到优化结果。本发明能够大幅提高IES运行的灵活性，以灵活性促进IES的低碳性和经济性。"
+                }
+            ]
+        }
+    }
+}

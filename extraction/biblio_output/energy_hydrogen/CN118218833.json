@@ -1,0 +1,530 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118218833",
+                            "kind": "A",
+                            "date": "20240621"
+                        },
+                        {
+                            "doc-number": "CN118218833",
+                            "date": "20240621"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B23K  31/    02            A I                    "
+                        },
+                        {
+                            "text": "B23K  37/    00            A I                    "
+                        },
+                        {
+                            "text": "B23K  37/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "23",
+                            "subclass": "K",
+                            "main-group": "31",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "23",
+                            "subclass": "K",
+                            "main-group": "37",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "23",
+                            "subclass": "K",
+                            "main-group": "37",
+                            "subgroup": "0435",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410649879",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410649879",
+                            "date": "20240524"
+                        },
+                        {
+                            "doc-number": "202410649879.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410649879",
+                            "date": "20240524"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "DATONG XINYAN HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "大同新研氢能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "QI ZHIGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAN YONGCHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU LIPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "齐志刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "闫永臣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘利平"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Welding equipment for metal bipolar plate of hydrogen fuel cell",
+                    "一种氢燃料电池金属双极板焊接设备"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101642851",
+                                        "name": "SHENYANG INST AUTOMATION",
+                                        "date": "20100210"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101642851",
+                                        "kind": "A",
+                                        "name": "SHENYANG INST AUTOMATION",
+                                        "date": "20100210"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2011136356",
+                                        "name": "AMADA CO LTD",
+                                        "date": "20110714"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2011136356",
+                                        "kind": "A",
+                                        "name": "AMADA CO LTD",
+                                        "date": "20110714"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107081543",
+                                        "name": "MENG YU",
+                                        "date": "20170822"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107081543",
+                                        "kind": "A",
+                                        "name": "MENG YU",
+                                        "date": "20170822"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108655566",
+                                        "name": "SUZHOU LAISE TECH CO LTD",
+                                        "date": "20181016"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108655566",
+                                        "kind": "A",
+                                        "name": "SUZHOU LAISE TECH CO LTD",
+                                        "date": "20181016"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109048109",
+                                        "name": "HEFEI FEISITE LASER TECH CO LTD",
+                                        "date": "20181221"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109048109",
+                                        "kind": "A",
+                                        "name": "HEFEI FEISITE LASER TECH CO LTD",
+                                        "date": "20181221"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109128604",
+                                        "name": "NINGBO ZHIZHENG WEIYING INF TECH CO LTD",
+                                        "date": "20190104"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109128604",
+                                        "kind": "A",
+                                        "name": "NINGBO ZHIZHENG WEIYING INF TECH CO LTD",
+                                        "date": "20190104"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN208662886U",
+                                        "name": "HEFEI FSCREEN LASER TECH CO LTD",
+                                        "date": "20190329"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "208662886",
+                                        "kind": "U",
+                                        "name": "HEFEI FSCREEN LASER TECH CO LTD",
+                                        "date": "20190329"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109963702",
+                                        "name": "MERCK PATENT GMBH",
+                                        "date": "20190702"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109963702",
+                                        "kind": "A",
+                                        "name": "MERCK PATENT GMBH",
+                                        "date": "20190702"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2019151985",
+                                        "name": "TAKAMIYA CO LTD",
+                                        "date": "20190912"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2019151985",
+                                        "kind": "A",
+                                        "name": "TAKAMIYA CO LTD",
+                                        "date": "20190912"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110238653",
+                                        "name": "UNIV NANTONG",
+                                        "date": "20190917"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110238653",
+                                        "kind": "A",
+                                        "name": "UNIV NANTONG",
+                                        "date": "20190917"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN214443722U",
+                                        "name": "SHIJIAZHUANG JINGTAI ELECTRIC COMPLETE EQUIPMENT CO LTD",
+                                        "date": "20211022"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "214443722",
+                                        "kind": "U",
+                                        "name": "SHIJIAZHUANG JINGTAI ELECTRIC COMPLETE EQUIPMENT CO LTD",
+                                        "date": "20211022"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN215546201U",
+                                        "name": "CHONGQING ALUMINUM TECH CO LTD",
+                                        "date": "20220118"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "215546201",
+                                        "kind": "U",
+                                        "name": "CHONGQING ALUMINUM TECH CO LTD",
+                                        "date": "20220118"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2022016616",
+                                        "name": "HUIBO NEW MAT CO LTD [CN]",
+                                        "date": "20220127"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2022016616",
+                                        "kind": "A1",
+                                        "name": "HUIBO NEW MAT CO LTD [CN]",
+                                        "date": "20220127"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115673627",
+                                        "name": "FOSHAN FEIDIPU ELECTRIC APPLIANCE CO LTD",
+                                        "date": "20230203"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115673627",
+                                        "kind": "A",
+                                        "name": "FOSHAN FEIDIPU ELECTRIC APPLIANCE CO LTD",
+                                        "date": "20230203"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN219837346U",
+                                        "name": "ROCHESTER PRECISION PARTS TECH SUZHOU CO LTD",
+                                        "date": "20231017"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "219837346",
+                                        "kind": "U",
+                                        "name": "ROCHESTER PRECISION PARTS TECH SUZHOU CO LTD",
+                                        "date": "20231017"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116944755",
+                                        "name": "CHINA TIESIJU CIVIL ENG GROUP CO LTD, et al",
+                                        "date": "20231027"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116944755",
+                                        "kind": "A",
+                                        "name": "CHINA TIESIJU CIVIL ENG GROUP CO LTD, et al",
+                                        "date": "20231027"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117020462",
+                                        "name": "CCCC FIRST HIGHWAY ENGINEERING GROUP CO LTD                                                         ",
+                                        "date": "20231110"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117020462",
+                                        "kind": "A",
+                                        "name": "CCCC FIRST HIGHWAY ENGINEERING GROUP CO LTD                                                         ",
+                                        "date": "20231110"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN220405126U",
+                                        "name": "QINGDAO POWER SPACE ENVIRONMENTAL PROTECTION TECH CO LTD",
+                                        "date": "20240130"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "220405126",
+                                        "kind": "U",
+                                        "name": "QINGDAO POWER SPACE ENVIRONMENTAL PROTECTION TECH CO LTD",
+                                        "date": "20240130"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117900625",
+                                        "name": "DALIAN SHIPBUILDING INDUSTRY                                                                        ",
+                                        "date": "20240419"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117900625",
+                                        "kind": "A",
+                                        "name": "DALIAN SHIPBUILDING INDUSTRY                                                                        ",
+                                        "date": "20240419"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses hydrogen fuel cell metal bipolar plate welding equipment, and relates to the field of welding equipment.The hydrogen fuel cell metal bipolar plate welding equipment comprises a welding machine tool, a multidirectional moving frame is installed on the welding machine tool, a welding base is installed on the multidirectional moving frame, and a welding head used for welding is installed on the welding base; a mounting plate for placing a plate is mounted on the welding machine tool; the welding device further comprises a cleaning protection device, and the cleaning protection device is installed on the welding base. It needs to be illustrated that in the embodiment of the invention, the telescopic protective sleeve is used for protecting the welding head from being damaged and shielding spark smoke generated by welding so as to prevent splashed sparks from being splashed onto a plate, meanwhile, the dust collector is automatically started during welding, and the telescopic protective sleeve drives the cleaning chassis to move to clean the plate. Impurities are sucked and removed through dust suction holes, and the quality of the plates is guaranteed; and the plate is pressed through the pressing rod, and when the plate is deformed, the pigment is extruded on the plate, so that the plate can be marked."
+                },
+                {
+                    "p": "本发明公开一种氢燃料电池金属双极板焊接设备，涉及到焊接设备领域，其包括焊接机床，所述焊接机床上安装有多向移动架，所述多向移动架上安装有焊接座，所述焊接座上安装有用于焊接的焊接头，所述焊接机床上安装有用于放置板材的安装板；还包括清理保护装置，所述清理保护装置安装在所述焊接座上。需要说明的是，在本发明实施例中，伸缩保护套用于保护焊接头不受损坏，并对焊接产生的火花烟气进行遮挡，避免溅出的火花溅到板材上，同时吸尘器在焊接时自动启动，伸缩保护套带动清理底盘移动对板材进行清理，并通过吸尘孔对杂质进行吸除，保证板材的质量；通过压紧杆对板材进行压紧，并在板材发生变形时，将颜料挤压在板材上，可以对板材进行标记。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,365 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "WO",
+                            "doc-number": "2023243259",
+                            "kind": "A1",
+                            "date": "20231221"
+                        },
+                        {
+                            "doc-number": "WO2023243259",
+                            "date": "20231221"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C23C  16/    24            A I                    "
+                        },
+                        {
+                            "text": "C30B  25/    18            A I                    "
+                        },
+                        {
+                            "text": "C30B  29/    36            A I                    "
+                        },
+                        {
+                            "text": "H01L  21/    20            A I                    "
+                        },
+                        {
+                            "text": "H01L  21/   205            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "16",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "30",
+                            "subclass": "B",
+                            "main-group": "25",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "30",
+                            "subclass": "B",
+                            "main-group": "29",
+                            "subgroup": "36",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "L",
+                            "main-group": "21",
+                            "subgroup": "2015",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "JP",
+                            "doc-number": "2023017373",
+                            "kind": "W"
+                        },
+                        {
+                            "doc-number": "WO2023JP17373",
+                            "date": "20230509"
+                        },
+                        {
+                            "doc-number": "JP2023/017373"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "JP20220095410",
+                                "date": "20220614"
+                            },
+                            {
+                                "doc-number": "2022-095410"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHINETSU HANDOTAI KK [JP]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "信越半導体株式会社"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "MATSUBARA TOSHIKI [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUZUKI ATSUSHI [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " OHTSUKI TSUYOSHI [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ABE TATSUO [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "松原　寿樹, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "鈴木　温, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "大槻　剛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "阿部　達夫"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "PROCÉDÉ DE PRODUCTION D'UNE TRANCHE HÉTÉROÉPITAXIALE",
+                    "METHOD FOR PRODUCING HETEROEPITAXIAL WAFER",
+                    "ヘテロエピタキシャルウェーハの製造方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JPH026388",
+                                        "name": "FUJITSU LTD",
+                                        "date": "19900110"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "H026388",
+                                        "kind": "A",
+                                        "name": "FUJITSU LTD",
+                                        "date": "19900110"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* entire text, all drawings *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JPH02267197",
+                                        "name": "NEC CORP",
+                                        "date": "19901031"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "H02267197",
+                                        "kind": "A",
+                                        "name": "NEC CORP",
+                                        "date": "19901031"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* entire text, all drawings *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JPH07165497",
+                                        "name": "DOW CORNING",
+                                        "date": "19950627"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "H07165497",
+                                        "kind": "A",
+                                        "name": "DOW CORNING",
+                                        "date": "19950627"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* entire text, all drawings *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JPH11228297",
+                                        "name": "JAPAN ATOMIC ENERGY RES INST",
+                                        "date": "19990824"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "H11228297",
+                                        "kind": "A",
+                                        "name": "JAPAN ATOMIC ENERGY RES INST",
+                                        "date": "19990824"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* entire text, all drawings *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2000264792",
+                                        "name": "TOHOKU TECHNO ARCH CO LTD",
+                                        "date": "20000926"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2000264792",
+                                        "kind": "A",
+                                        "name": "TOHOKU TECHNO ARCH CO LTD",
+                                        "date": "20000926"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* entire text, all drawings *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2005347666",
+                                        "name": "TOSHIBA CERAMICS CO",
+                                        "date": "20051215"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2005347666",
+                                        "kind": "A",
+                                        "name": "TOSHIBA CERAMICS CO",
+                                        "date": "20051215"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* entire text, all drawings *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2012171830",
+                                        "name": "SEIKO EPSON CORP",
+                                        "date": "20120910"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2012171830",
+                                        "kind": "A",
+                                        "name": "SEIKO EPSON CORP",
+                                        "date": "20120910"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* entire text, all drawings *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The present invention is a method for producing a heteroepitaxial wafer in which a 3C-SiC single crystal film is heteroepitaxially grown on a single crystal silicon substrate, said method comprising: a first step for removing a natural oxide film on a surface of a single crystal silicon substrate by hydrogen baking using a low-pressure CVD device; a second step for forming a SiC nucleus on the single crystal silicon substrate at a pressure of 13-13,332 Pa and a temperature of 600-1200°C while supplying a source gas containing carbon; and a third step for growing a SiC single crystal at a pressure of 13-13,332 Pa and a temperature of not less than 800°C but less than 1200°C, while supplying a source gas containing carbon and silicon, to form a 3C-SiC single crystal film. Thus, provided is a method for producing a heteroepitaxial wafer that makes it possible to efficiently epitaxially grow a good 3C-SiC single crystal film on a single crystal silicon substrate."
+                },
+                {
+                    "p": "La présente invention concerne un procédé de production d'une tranche hétéroépitaxiale dans laquelle un film monocristallin de 3C-SiC est développé de manière hétéroépitaxiale sur un substrat de silicium monocristallin, ledit procédé comprenant : une première étape d'élimination d'un film d'oxyde naturel sur une surface d'un substrat de silicium monocristallin par cuisson à l'hydrogène à l'aide d'un dispositif CVD basse pression; une deuxième étape de formation d'un noyau de SiC sur le substrat de silicium monocristallin à une pression comprise entre 13 et 13 332 Pa et à une température comprise entre 600 et 1 200 °C tout en fournissant un gaz source contenant du carbone; et une troisième étape de développement d'un monocristal de SiC à une pression comprise entre 13 et 13 332 Pa et à une température supérieure ou égale à 800 °C, mais inférieure à 1 200 °C, tout en fournissant un gaz source contenant du carbone et du silicium, pour former un film monocristallin de 3C-SiC. Ainsi, l'invention concerne un procédé de production d'une tranche hétéroépitaxiale qui permet de développer de manière épitaxiale et efficace un bon film monocristallin de 3C-SiC sur un substrat de silicium monocristallin."
+                },
+                {
+                    "p": "本発明は、単結晶シリコン基板上に３Ｃ－ＳｉＣ単結晶膜をヘテロエピタキシャル成長させるヘテロエピタキシャルウェーハの製造方法であって、減圧ＣＶＤ装置を用いて、単結晶シリコン基板の表面の自然酸化膜を水素ベイクにより除去する第一工程と、炭素を含むソースガスを供給しつつ、圧力が１３Ｐａ以上１３３３２Ｐａ以下、温度が６００℃以上１２００℃以下の条件で単結晶シリコン基板上にＳｉＣの核形成を行う第二工程と、炭素とケイ素を含むソースガスを供給しつつ、圧力が１３Ｐａ以上１３３３２Ｐａ以下、温度が８００℃以上１２００℃未満の条件でＳｉＣ単結晶を成長させて３Ｃ－ＳｉＣ単結晶膜を形成する第三工程と、を含むヘテロエピタキシャルウェーハの製造方法である。これにより、単結晶シリコン基板上に良質な３Ｃ－ＳｉＣ単結晶膜を効率よくエピタキシャル成長させることができるヘテロエピタキシャルウェーハの製造方法が提供される。"
+                }
+            ]
+        }
+    }
+}

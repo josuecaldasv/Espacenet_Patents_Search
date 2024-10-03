@@ -1,0 +1,165 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118261325",
+                            "kind": "A",
+                            "date": "20240628"
+                        },
+                        {
+                            "doc-number": "CN118261325",
+                            "date": "20240628"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/   063            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/    20            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "063",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410356435",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410356435",
+                            "date": "20240327"
+                        },
+                        {
+                            "doc-number": "202410356435.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410356435",
+                            "date": "20240327"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUNAN LONGSHEN HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "湖南隆深氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CAI PEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO QI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PENG ZHIYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU MENGLIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蔡沛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭启, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "彭智勇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "于孟林"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Safety production method and system applied to continuous carbon fiber base paper production equipment",
+                    "应用于连续化碳纤维原纸生产设备的安全生产方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention is applicable to the technical field of raw paper production, and provides a safety production method and system applied to continuous carbon fiber raw paper production equipment, and the method comprises the following steps: firstly, obtaining information of a current-round maintenance actual inspection assembly set and information of a current-round maintenance inspection-needing assembly set; the method comprises the following steps: firstly, determining information of a current round of maintenance actual inspection component set information and information of a current round of maintenance inspection-required component set information, then determining overlapped component set information according to the current round of maintenance actual inspection component set information and the current round of maintenance inspection-required component set information, rapidly generating missing inspection component set information according to the current round of maintenance inspection-required component set information and the overlapped component set information, and finally, effectively generating first reinspection suggestion information according to the missing inspection component set information. According to the method, effective supplementary maintenance and inspection suggestions can be provided for maintenance personnel, the body paper production assembly lacking of maintenance and inspection is maintained and inspected in time, and the reliability of the maintenance work is greatly improved."
+                },
+                {
+                    "p": "本申请适用于原纸生产的技术领域，提供了一种应用于连续化碳纤维原纸生产设备的安全生产方法及系统，其方法包括先获取本轮维护实检组件集信息和本轮维护需检组件集信息，然后根据本轮维护实检组件集信息和本轮维护需检组件集信息，确定出重合组件集信息，再根据本轮维护需检组件集信息和重合组件集信息，快速生成缺检组件集信息，最后根据缺检组件集信息，有效生成第一补检建议信息。本申请能够为维护人员提供有效的补充维护检查建议，及时对缺少维护检查的原纸生产组件进行维护检查工作，大幅度提高维护工作的可靠性。"
+                }
+            ]
+        }
+    }
+}

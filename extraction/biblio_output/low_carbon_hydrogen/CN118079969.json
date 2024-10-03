@@ -1,0 +1,191 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118079969",
+                            "kind": "A",
+                            "date": "20240528"
+                        },
+                        {
+                            "doc-number": "CN118079969",
+                            "date": "20240528"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  27/    22            A I                    "
+                        },
+                        {
+                            "text": "B01J  35/    30            A I                    "
+                        },
+                        {
+                            "text": "C07C   1/    12            A I                    "
+                        },
+                        {
+                            "text": "C07C   9/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "27",
+                            "subgroup": "22",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "9",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C1/12",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C9/04",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410476453",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410476453",
+                            "date": "20240419"
+                        },
+                        {
+                            "doc-number": "202410476453.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410476453",
+                            "date": "20240419"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHENGDU MINSHAN GREEN HYDROGEN ENERGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "成都岷山绿氢能源有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZENG JING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LEI XIANZHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KAZUNAGA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU CAIHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曾婧, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "雷宪章, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "和永, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "伍彩虹"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Core-shell Ru-RuC catalyst as well as preparation method and application thereof",
+                    "一种核壳型Ru-RuC催化剂及其制备方法和应用"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of catalysts, in particular to a core-shell Ru-RuC catalyst as well as a preparation method and application thereof. The preparation method of the core-shell Ru-RuC catalyst comprises the following steps: mixing a ruthenium source, a carbon source and a solvent to obtain a gel mixture; carrying out hydrothermal crystallization reaction on the gel mixture, and cooling after the reaction is finished to obtain a crystallized product; and drying the crystallized product, and roasting to obtain the core-shell type Ru-RuC catalyst. Ru is a high-activity metal capable of performing carbon dioxide methanation at a relatively low temperature, and RuC also has intrinsic catalytic activity of adsorbing and activating CO2 molecules, so that the metal Ru and RuC are connected more firmly by forming a core-shell structure, the loss of active components is reduced, the catalyst can realize a relatively high carbon dioxide conversion rate at a relatively low reaction temperature, and the carbon dioxide methanation efficiency is improved. And the catalyst has high methane selectivity and long service life."
+                },
+                {
+                    "p": "本申请涉及催化剂技术领域，特别涉及一种核壳型Ru‑RuC催化剂及其制备方法和应用。本申请的核壳型Ru‑RuC催化剂制备方法包括步骤：将钌源、碳源和溶剂混合，得到凝胶混合物；将所述凝胶混合物进行水热晶化反应，反应结束后冷却，得到结晶产物；所述结晶产物经过干燥后，进行焙烧，得到核壳型Ru‑RuC催化剂。Ru是一种能在较低温度下进行二氧化碳甲烷化的高活性金属，同时RuC也具有吸附和活化CO2分子的本征催化活性，本申请通过形成核壳结构使金属Ru和RuC连接更牢固，降低活性组分的流失，该催化剂能在较低反应温度下实现较高的二氧化碳转化率，且具有较高的甲烷选择性和较长的催化剂寿命。"
+                }
+            ]
+        }
+    }
+}

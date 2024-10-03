@@ -1,0 +1,135 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118306269",
+                            "kind": "A",
+                            "date": "20240709"
+                        },
+                        {
+                            "doc-number": "CN118306269",
+                            "date": "20240709"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L   3/    00            A I                    "
+                        },
+                        {
+                            "text": "B60L  50/    70            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    30            A I                    "
+                        },
+                        {
+                            "text": "B60R  21/   013            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410450083",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410450083",
+                            "date": "20240415"
+                        },
+                        {
+                            "doc-number": "202410450083.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410450083",
+                            "date": "20240415"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "YUTONG BUS CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "宇通客车股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU CHANGLE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI TENGFEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG MINGCHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO XINWEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘长乐, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李腾斐, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王明超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵新文"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen fuel cell vehicle and collision safety control method",
+                    "一种氢燃料电池车及碰撞安全控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a hydrogen fuel cell vehicle and a collision safety control method, and belongs to the field of new energy fuel cell vehicles. According to the scheme, the method comprises the steps that after a device capable of conducting logic judgment on a collision signal on a vehicle receives the vehicle collision signal, the collision strength reflected by the signal is compared with a preset strength threshold value, and if the collision strength is larger than the strength threshold value, the vehicle executes the hydrogen cutoff action; and if yes, the vehicle does not execute the hydrogen cutoff action. Whether the vehicle executes the hydrogen cut-off action or not is determined by judging whether the collision strength of the vehicle exceeds the preset strength threshold value or not, and the situation that when the vehicle is only slightly collided or scratched and safe driving is not affected, hydrogen supply is cut off, and consequently vehicle power is insufficient can be avoided."
+                },
+                {
+                    "p": "本发明涉及一种氢燃料电池车及碰撞安全控制方法，属于新能源燃料电池汽车领域。本发明的方案包括，车辆上能够对碰撞信号进行逻辑判断的设备接收到车辆碰撞信号后，将该信号所反映的碰撞力度与预设的力度阈值进行比较，若大于力度阈值，则车辆执行断氢动作；若小于力度阈值，则车辆不执行断氢动作。本发明通过判断车辆所受碰撞力度是否超过预设力度阈值，来决定车辆是否执行断氢动作，即可解决当车辆仅受到轻微撞击或剐蹭，并不影响安全行驶时，切断氢气供应而导致的车辆动力不足的情况。"
+                }
+            ]
+        }
+    }
+}

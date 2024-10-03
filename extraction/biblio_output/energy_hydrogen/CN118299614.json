@@ -1,0 +1,122 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118299614",
+                            "kind": "A",
+                            "date": "20240705"
+                        },
+                        {
+                            "doc-number": "CN118299614",
+                            "date": "20240705"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04007            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04029            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0612            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410409422",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410409422",
+                            "date": "20240407"
+                        },
+                        {
+                            "doc-number": "202410409422.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410409422",
+                            "date": "20240407"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "FOSHAN SHUFENG NEW ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "佛山树风新能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "OU GUANGFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG EUN-MYUNG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIANG PEIMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "区光烽, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "梁溵洺, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "梁沛明"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Temperature control system combining high-temperature fuel cell and organic liquid hydrogen desorption system",
+                    "结合高温燃料电池和有机液态放氢系统的温度控制系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "A temperature control system combining a high-temperature fuel cell and an organic liquid hydrogen desorption system comprises the high-temperature fuel cell, a heat pipe, a temperature adjusting system and the organic liquid hydrogen desorption system, and the temperature adjusting system comprises a processor and a heat-conducting medium flow control device connected with the processor. The heat pipe, the high-temperature fuel cell, the heat-conducting medium flow control device and the organic liquid hydrogen desorption system are sequentially connected, the organic liquid hydrogen desorption system is connected with the high-temperature fuel cell and conveys hydrogen fuel to the high-temperature fuel cell, and the temperature adjusting system is used for adjusting the temperature of the high-temperature fuel cell according to a preset temperature control strategy through the processor. And the heat-conducting medium flow control device is controlled to adjust the working temperatures of the high-temperature fuel cell and the organic liquid hydrogen desorption system. The temperature control system can intelligently control the heat-conducting medium flow control device to adjust the working temperature of the high-temperature fuel cell and the organic liquid hydrogen desorption system, so that the energy consumption of the organic liquid hydrogen desorption system is reduced."
+                },
+                {
+                    "p": "一种结合高温燃料电池和有机液态放氢系统的温度控制系统，其中系统包括高温燃料电池、热管、调温系统和有机液态放氢系统，该调温系统包括处理器和该处理器连接的导热介质流量控制装置，该热管、该高温燃料电池、该导热介质流量控制装置和该有机液态放氢系统依次连接，该有机液态放氢系统与该高温燃料电池连接，向该高温燃料电池输送氢气燃料，该调温系统用于通过该处理器按照预设的温度控制策略，控制该导热介质流量控制装置调节该高温燃料电池和该有机液态放氢系统的工作温度。上述温度控制系统可智能控制导热介质流量控制装置调节高温燃料电池和有机液态放氢系统的工作温度，降低有机液态放氢系统的能耗。"
+                }
+            ]
+        }
+    }
+}

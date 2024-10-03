@@ -1,0 +1,209 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118380607",
+                            "kind": "A",
+                            "date": "20240723"
+                        },
+                        {
+                            "doc-number": "CN118380607",
+                            "date": "20240723"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04082            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04291            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   9/    06            A I                    "
+                        },
+                        {
+                            "text": "H04L  12/    10            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410431200",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410431200",
+                            "date": "20240410"
+                        },
+                        {
+                            "doc-number": "202410431200.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410431200",
+                            "date": "20240410"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA UNITED NETWORK COMMUNICATIONS GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国联合网络通信集团有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JI WEIJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO MIANHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG XINBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO JIEFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHU HENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIE WEIYUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DU HONGGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LU XINGWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUAN XIAOBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO RUGUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "纪伟健, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗绵辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄新波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗杰峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "朱恒, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谢伟岳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杜洪刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陆杏威, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "管晓斌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵汝桂"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Power supply system for communication",
+                    "一种通信用供电系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a power supply system for communication, relates to the technical field of standby power supplies, and aims to solve the problem that communication is affected due to low power supply efficiency of an existing generator car. The system comprises a battery subsystem, a gas storage unit and a DC/DC unit. The gas storage unit provides hydrogen and oxygen for the battery subsystem, a proton exchange membrane of the battery subsystem is arranged in a battery reaction cavity, an annular hydrogen storage cavity is formed between the proton exchange membrane and the cavity wall of the battery reaction cavity, and an oxygen storage cavity is formed in the proton exchange membrane. Compared with an existing plate-shaped proton exchange membrane, the proton exchange membrane has the advantages that the contact area of gas and the proton exchange membrane is increased, and the utilization rate of fuel gas is improved, so that the energy conversion efficiency and the power supply efficiency of the battery subsystem are improved. The battery subsystem is connected with the communication equipment through the DC/DC unit, and smooth user communication can be guaranteed through mutual cooperation of the battery subsystem, the gas storage unit and the DC/DC unit. The invention is used for supplying power to the communication equipment."
+                },
+                {
+                    "p": "本发明公开一种通信用供电系统，涉及备用电源技术领域，为解决现有发电车的供电效率较低而影响通信的问题。该系统包括电池子系统、储气单元以及DC/DC单元。储气单元向电池子系统提供氢气和氧气，电池子系统的质子交换膜设置于电池反应腔内，质子交换膜与电池反应腔的腔壁之间形成环形的氢气储存腔，质子交换膜内部形成氧气储存腔。质子交换膜呈环形，相比现有的呈板状的质子交换膜，增大了气体与质子交换膜的接触面积，提高了燃料气体的利用率，从而提升了电池子系统的能量转化效率以及供电效率。本发明利用DC/DC单元将电池子系统与通信设备连接，通过电池子系统、储气单元以及DC/DC单元的相互配合，能够保障用户通信的畅通。本发明用于向通信设备供电。"
+                }
+            ]
+        }
+    }
+}

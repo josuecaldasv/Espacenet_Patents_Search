@@ -1,0 +1,310 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "114142499",
+                            "kind": "A",
+                            "date": "20220304"
+                        },
+                        {
+                            "doc-number": "CN114142499",
+                            "date": "20220304"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "28",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "15",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "24",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "10",
+                            "subgroup": "56",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "70",
+                            "subgroup": "30",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202111487738",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202111487738",
+                            "date": "20211207"
+                        },
+                        {
+                            "doc-number": "202111487738.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202111487738",
+                            "date": "20211207"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUNLIGHT POWER SOURCE CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "阳光电源股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "BAI YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JIANGSONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI XIAOGUANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN MENGTING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "柏杨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李江松, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李晓光, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈梦婷"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "New energy hydrogen production system and method",
+                    "一种新能源制氢的系统及方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108923446",
+                                        "name": "STATE GRID TIANJIN ELECTRIC POWER CO ELECTRIC POWER RES INST, et al",
+                                        "date": "20181130"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108923446",
+                                        "kind": "A",
+                                        "name": "STATE GRID TIANJIN ELECTRIC POWER CO ELECTRIC POWER RES INST, et al",
+                                        "date": "20181130"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109802414",
+                                        "name": "STATE GRID CORP CHINA, et al",
+                                        "date": "20190524"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109802414",
+                                        "kind": "A",
+                                        "name": "STATE GRID CORP CHINA, et al",
+                                        "date": "20190524"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112260260",
+                                        "name": "NANJING ECAR ELECTRICAL TECH CO LTD, et al",
+                                        "date": "20210122"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112260260",
+                                        "kind": "A",
+                                        "name": "NANJING ECAR ELECTRICAL TECH CO LTD, et al",
+                                        "date": "20210122"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112613742",
+                                        "name": "NORTH CHINA POWER ENG CO LTD",
+                                        "date": "20210406"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112613742",
+                                        "kind": "A",
+                                        "name": "NORTH CHINA POWER ENG CO LTD",
+                                        "date": "20210406"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113410832",
+                                        "name": "INST ELECTRICAL ENG CAS",
+                                        "date": "20210917"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113410832",
+                                        "kind": "A",
+                                        "name": "INST ELECTRICAL ENG CAS",
+                                        "date": "20210917"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113572197",
+                                        "name": "BEIJING NEGO AUTOMATION TECH CO LTD",
+                                        "date": "20211029"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113572197",
+                                        "kind": "A",
+                                        "name": "BEIJING NEGO AUTOMATION TECH CO LTD",
+                                        "date": "20211029"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a new energy hydrogen production system and a control method. The system comprises a controller, a new energy system hydrogen production system and an energy storage system. The new energy system outputs new energy electric energy; the energy storage system stores the new energy electric energy and supplies the stored electric energy to the hydrogen production system; the hydrogen production system is used for producing hydrogen by using the new energy electric energy or the electric energy of the energy storage system; the controller is used for determining the minimum capacity configuration of the energy storage system according to the response time of the hydrogen production system and the power fluctuation of the new energy system in the response time; obtaining the rated capacity of the energy storage system according to the minimum capacity configuration, and obtaining the rated power of the energy storage system according to the power fluctuation; the rated capacity is greater than or equal to the minimum capacity configuration and the rated power is greater than or equal to the power fluctuation. According to the scheme, the rated capacity and the rated power of the energy storage system are determined according to the response time of the hydrogen production system and the power fluctuation of the new energy system, the power fluctuation can be balanced, and a large-capacity energy storage system does not need to be arranged."
+                },
+                {
+                    "p": "本申请公开了一种新能源制氢的系统及控制方法，包括：控制器、新能源系统制氢系统和储能系统；新能源系统输出新能源电能；储能系统将新能源电能进行储能，将储存的电能提供给制氢系统；制氢系统，用于利用新能源电能或储能系统的电能进行制氢；控制器，用于根据制氢系统的响应时间和新能源系统在响应时间内的功率波动，确定储能系统的最小容量配置；根据最小容量配置获得储能系统的额定容量，根据功率波动获得储能系统的额定功率；额定容量大于等于最小容量配置，额定功率大于等于功率波动。该方案根据制氢系统的响应时间和新能源系统的功率波动来确定储能系统的额定容量和额定功率，既能平衡功率波动，又不必设置大容量的储能系统。"
+                }
+            ]
+        }
+    }
+}

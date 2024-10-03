@@ -1,0 +1,228 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117614000",
+                            "kind": "A",
+                            "date": "20240227"
+                        },
+                        {
+                            "doc-number": "CN117614000",
+                            "date": "20240227"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "G05F   1/    67            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "05",
+                            "subclass": "F",
+                            "main-group": "1",
+                            "subgroup": "67",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "38",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "388",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "46",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "26",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "28",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "10",
+                            "subgroup": "56",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311536726",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311536726",
+                            "date": "20231117"
+                        },
+                        {
+                            "doc-number": "202311536726.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311536726",
+                            "date": "20231117"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV CHINESE HONG KONG SHENZHEN"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "香港中文大学（深圳）"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TANG SHUXIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIN FANGRUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TIAN HAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHU CHUANHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZOU ZHIGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "唐叔贤, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "金方润, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "田浩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "朱船辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邹志刚"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Grid-connected and off-grid new energy hydrogen production control method and system",
+                    "一种并离网新能源制氢控制方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a grid-connected and off-grid new energy hydrogen production control method and system, and the method comprises the steps: analyzing and configuring the optimal capacity of a photovoltaic panel and a wind turbine generator based on meteorological data, obtaining the current output power of the photovoltaic panel and the current output power of the wind turbine generator in real time, and judging whether the minimum power working condition of an electrolytic cell is met or not; if yes, the second AC/DC converter is controlled not to work, and the output voltage and current of the photovoltaic panel and the wind turbine generator are adjusted through the DC/DC converter and the first AC/DC converter, so that the relation of the voltage and current input into the electrolytic bath conforms to the IV characteristic curve of the electrolytic bath; and if not, the maximum power point of the photovoltaic panel is tracked through the DC/DC converter, the maximum power point of the wind turbine generator is tracked through the first AC/DC converter, the voltage corresponding to the set minimum power of the electrolytic cell is output to the electrolytic cell, and the output current is adjusted through the second AC/DC converter based on the set minimum power and the maximum power point so that the electric power of the power grid can be connected into the electrolytic cell. According to the embodiment, efficient hydrogen production is achieved, the scale of power taking of a power grid is minimized, and the green hydrogen ratio is increased."
+                },
+                {
+                    "p": "本发明公开了一种并离网新能源制氢控制方法及系统，方法包括基于气象数据分析配置光伏面板和风电机组最优容量，实时获取光伏面板和风电机组当前的输出功率，判断是否满足电解槽最低功率工作条件；若满足，则控制第二AC/DC变换器不工作，通过DC/DC变换器和第一AC/DC变换器调节光伏面板和风电机组的输出电压电流，使输入电解槽的电压电流关系符合电解槽的IV特性曲线；若不满足，则通过DC/DC变换器追踪光伏面板最大功率点，通过第一AC/DC变换器追踪风电机组最大功率点，以设定电解槽最低功率的对应电压输出至电解槽，基于设定最低功率和最大功率点通过第二AC/DC变换器调整输出电流将电网的电力接入电解槽。本实施例实现高效制氢，电网取电的规模最小化，提高绿氢占比。"
+                }
+            ]
+        }
+    }
+}

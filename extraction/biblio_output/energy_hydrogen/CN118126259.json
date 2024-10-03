@@ -1,0 +1,222 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118126259",
+                            "kind": "A",
+                            "date": "20240604"
+                        },
+                        {
+                            "doc-number": "CN118126259",
+                            "date": "20240604"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C08F   2/    48            A I                    "
+                        },
+                        {
+                            "text": "C08F 220/    06            A I                    "
+                        },
+                        {
+                            "text": "C08F 220/    18            A I                    "
+                        },
+                        {
+                            "text": "C08F 220/    56            A I                    "
+                        },
+                        {
+                            "text": "C08F 283/    12            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "2",
+                            "subgroup": "48",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "283",
+                            "subgroup": "124",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08F283/124",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08F220/1804",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "3",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08F220/06",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "4",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C08F220/56",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410257914",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410257914",
+                            "date": "20240307"
+                        },
+                        {
+                            "doc-number": "202410257914.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410257914",
+                            "date": "20240307"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHANGCHUN INST APPLIED CHEMISTRY CAS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国科学院长春应用化学研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JIANG XING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU KUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG PIXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BAI YUNGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG FAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DONG XIAOTONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "姜行, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐昆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王丕新, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "白云刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张帆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董笑佟"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Preparation method of self-healing impact-resistant organic hydrogel with speed responsiveness",
+                    "一种具有速度响应性的自愈抗冲击有机水凝胶的制备方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a preparation method of self-healing impact-resistant organic hydrogel with speed responsiveness, and belongs to the field of impact-resistant materials. The impact hardening material IHP is introduced into the gel by emulsion polymerization and introduction of double bonds into the IHP to participate in copolymerization, so that the gel has a good impact resistance effect and obvious responsiveness to the speed, and the energy absorption efficiency can be improved along with the increase of the impact speed. The organic hydrogel is crosslinked by hydrogen bonds and boron-oxygen dynamic bonds, so that the organic hydrogel can be self-healed under a heating condition, and the service life of the material is prolonged. The organic hydrogel disclosed by the invention is moderate in Young modulus and high in elongation at break, still has good flexibility and ductility at low temperature, and can be suitable for flexible wearable protective materials. Meanwhile, the organic hydrogel is stable in impact resistance after being impacted for multiple times, and is more durable than foam materials."
+                },
+                {
+                    "p": "本发明公开了一种具有速度响应性的自愈抗冲击有机水凝胶的制备方法，属于抗冲击材料领域。本发明通过乳液聚合和给IHP引入双键参加共聚的方式，将冲击硬化材料IHP引入凝胶中，使之具有良好的抗冲击效果，同时对速度有明显的响应性，吸能效率可随冲击速度的增大而提高。由于有机水凝胶利用氢键和硼氧动态键交联，因此可在加热条件下自愈，增加了材料的使用寿命。本发明的有机水凝胶杨氏模量适中，断裂伸长率高，在低温下依旧有良好的柔韧性和延展性，可适用于柔性可穿戴防护材料。同时有机水凝胶受到多次冲击后抗冲性能稳定，较泡沫类材料更加耐用。"
+                }
+            ]
+        }
+    }
+}

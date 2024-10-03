@@ -1,0 +1,506 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116459857",
+                            "kind": "A",
+                            "date": "20230721"
+                        },
+                        {
+                            "doc-number": "CN116459857",
+                            "date": "20230721"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  27/    24            A I                    "
+                        },
+                        {
+                            "text": "C07C 209/    36            A I                    "
+                        },
+                        {
+                            "text": "C07C 211/    52            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "27",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "209",
+                            "subgroup": "365",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "584",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C209/365",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C211/52",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310445038",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310445038",
+                            "date": "20230424"
+                        },
+                        {
+                            "doc-number": "202310445038.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310445038",
+                            "date": "20230424"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV ANHUI"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "安徽大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "BAI JIAQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU JIAHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN SONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAI MENGDIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN JINGSHUAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHENG QIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MA MEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU HUANGFEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEI YUXUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO LISHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN FANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "柏家奇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐家辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙松, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蔡梦蝶, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈京帅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "程芹, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马梅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘煌飞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "魏宇学, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭立升, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈芳"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "High-selectivity catalyst Co/NS800, preparation method thereof and method for selectively hydrogenating parachloronitrobenzene in heterogeneous system",
+                    "一种高选择性催化剂Co/NS800及其制备方法和在非均相体系中选择性加氢对氯硝基苯的方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2015044965",
+                                        "name": "MEGAFINE PHARMA P LTD [IN]",
+                                        "date": "20150402"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2015044965",
+                                        "kind": "A1",
+                                        "name": "MEGAFINE PHARMA P LTD [IN]",
+                                        "date": "20150402"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN106006599",
+                                        "name": "UNIV ZHEJIANG TECHNOLOGY",
+                                        "date": "20161012"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "106006599",
+                                        "kind": "A",
+                                        "name": "UNIV ZHEJIANG TECHNOLOGY",
+                                        "date": "20161012"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107051571",
+                                        "name": "UNIV LANZHOU TECH",
+                                        "date": "20170818"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107051571",
+                                        "kind": "A",
+                                        "name": "UNIV LANZHOU TECH",
+                                        "date": "20170818"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108097229",
+                                        "name": "UNIV ZHEJIANG TECHNOLOGY",
+                                        "date": "20180601"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108097229",
+                                        "kind": "A",
+                                        "name": "UNIV ZHEJIANG TECHNOLOGY",
+                                        "date": "20180601"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111085241",
+                                        "name": "UNIV XIANGTAN",
+                                        "date": "20200501"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111085241",
+                                        "kind": "A",
+                                        "name": "UNIV XIANGTAN",
+                                        "date": "20200501"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* 说明书段[0005]、[0010]、[0012]-[0014]、[0036]，表1 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112290036",
+                                        "name": "SUMA BRANCH OF ANHUI SHENGYUAN ENVIRONMENTAL PROT NEW MATERIAL CO LTD",
+                                        "date": "20210129"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112290036",
+                                        "kind": "A",
+                                        "name": "SUMA BRANCH OF ANHUI SHENGYUAN ENVIRONMENTAL PROT NEW MATERIAL CO LTD",
+                                        "date": "20210129"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112808288",
+                                        "name": "UNIV ZHENGZHOU",
+                                        "date": "20210518"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112808288",
+                                        "kind": "A",
+                                        "name": "UNIV ZHENGZHOU",
+                                        "date": "20210518"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115254167",
+                                        "name": "UNIV ANHUI                                                                                          ",
+                                        "date": "20221101"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115254167",
+                                        "kind": "A",
+                                        "name": "UNIV ANHUI                                                                                          ",
+                                        "date": "20221101"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* 说明书段[0035]-[0042] *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115304489",
+                                        "name": "UNIV LANZHOU                                                                                        ",
+                                        "date": "20221108"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115304489",
+                                        "kind": "A",
+                                        "name": "UNIV LANZHOU                                                                                        ",
+                                        "date": "20221108"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115896848",
+                                        "name": "ZHEJIANG UNIV QUZHOU RESEARCH INSTITUTE, et al",
+                                        "date": "20230404"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115896848",
+                                        "kind": "A",
+                                        "name": "ZHEJIANG UNIV QUZHOU RESEARCH INSTITUTE, et al",
+                                        "date": "20230404"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 丁晓波等, \"N、S共掺杂碳基高效氧还原催化剂的制备\", 《武汉工程大学学报》, (20211231), vol. 43, no. 4, pages 362 - 366"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-7"
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 刘晓林, \"杂原子掺杂碳基材料氧电极双功能催化剂及其电化学性能研究\", 《中国优秀硕士学位论文全文数据库》, (20190301)"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a high-selectivity catalyst Co/NS800, a preparation method thereof and a method for selectively hydrogenating parachloronitrobenzene in a heterogeneous system, and belongs to the field of catalytic hydrogenation. According to the catalyst, cobalt acetate tetrahydrate serves as a cobalt source, N and S co-doped carbon serves as a carrier, active metal is loaded on the N and S co-doped carbon through an impregnation method, the catalyst Co/NS800 is obtained through hydrogen reduction in a tubular furnace, then the catalyst Co/NS800 is dispersed in a solvent, and hydrogen serves as a hydrogen source to catalyze selective hydrogenation of parachloronitrobenzene. Wherein the Co/NS800 catalyst with the loading capacity of 5% has good catalytic performance, and when the hydrogen pressure is 3 MPa, the temperature is 80 DEG C and the reaction is performed for 12 hours, the conversion rate of the parachloronitrobenzene reaches 100%, and the selectivity reaches 99.9% or above. The preparation method is low in cost, high in catalytic hydrogenation conversion rate, high in target product selectivity and easy to separate, and has industrialization prospects."
+                },
+                {
+                    "p": "本发明涉及一种高选择性催化剂Co/NS800及其制备方法和在非均相体系中选择性加氢对氯硝基苯的方法，属于催化加氢领域。该催化剂以四水合乙酸钴为钴源，N,S共掺杂的碳为载体，采用浸渍法在N,S共掺杂的碳上负载活性金属，放在管式炉中氢气还原，得到催化剂Co/NS800，然后分散在溶剂中，以氢气为氢源，催化对氯硝基苯选择性加氢。其中负载量为5％的Co/NS800催化剂具有较好的催化性能，在氢气压力3MPa、温度80℃、反应12h时，对氯硝基苯的转化率达到100％，选择性达到了99.9％以上。该制备方法成本低廉、催化加氢转化率高，目标产物选择性高，且易于分离具有产业化前景。"
+                }
+            ]
+        }
+    }
+}

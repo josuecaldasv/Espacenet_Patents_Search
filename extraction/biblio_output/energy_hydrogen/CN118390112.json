@@ -1,0 +1,202 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118390112",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118390112",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/   021            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410146114",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410146114",
+                            "date": "20240201"
+                        },
+                        {
+                            "doc-number": "202410146114.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410146114",
+                            "date": "20240201"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUANENG ZHANGYE ENERGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " HUANENG CLEAN ENERGY RES INSTITUTE"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华能张掖能源有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国华能集团清洁能源技术研究院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HUANG HAIWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAO YAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAO XIAOHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG LIPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAO CHENGQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG KUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG PENGJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JINYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG CHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " REN ZHIBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄海威, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郝延, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郝小会, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨立平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陶成强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨奎, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王鹏杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王金意, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张畅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任志博"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Operation control method and device of alkaline electrolyzed water system and alkaline electrolyzed water system",
+                    "碱性电解水系统的运行控制方法、装置及碱性电解水系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an operation control method and device of an alkaline electrolyzed water system and the alkaline electrolyzed water system, and relates to the technical field of electrolytic hydrogen production. If a stopping instruction for the alkaline electrolyzed water system is monitored, a power switch corresponding to the alkaline electrolyzed water system is turned off; a cooling water inlet valve corresponding to a cooling and heat exchange all-in-one device in the alkaline electrolyzed water system is closed, and a hot water inlet valve corresponding to the cooling and heat exchange all-in-one device is opened, so that heat preservation is conducted on alkali liquor in the alkaline electrolyzed water system based on the cooling and heat exchange all-in-one device; controlling the alkaline electrolyzed water system to keep alkali liquor circulation and keep the temperature of the alkali liquor within a preset temperature range in a shutdown state; if the starting instruction for the alkaline electrolyzed water system is monitored, a power switch corresponding to the alkaline electrolyzed water system is started, and the alkaline electrolyzed water system is controlled to be increased to the rated load. According to the method, the alkaline electrolyzed water system can be quickly started when started, so that the starting and stopping cost is greatly saved, and efficient and stable operation under the long-time intermittent condition is realized."
+                },
+                {
+                    "p": "本申请提出了一种碱性电解水系统的运行控制方法、装置及碱性电解水系统，涉及电解制氢技术领域，通过若监测到对碱性电解水系统的停车指令，关闭碱性电解水系统对应的电源开关；关闭碱性电解水系统中的冷却换热一体器对应的冷却水进口阀门并开启冷却换热一体器对应的热水进口阀门，以基于冷却换热一体器对碱性电解水系统中的碱液进行保温；控制碱性电解水系统在停车状态下保持碱液循环并保持碱液温度处于预设温度范围内；若监测到对碱性电解水系统的开启指令，开启碱性电解水系统对应的电源开关并控制碱性电解水系统增加至额定负荷。本申请中有助于在碱性电解水系统启动时快速启动，从而大节省了启停费用，实现了长时间间歇条件下的高效稳定运行。"
+                }
+            ]
+        }
+    }
+}

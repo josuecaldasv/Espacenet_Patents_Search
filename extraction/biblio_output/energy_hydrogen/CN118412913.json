@@ -1,0 +1,207 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118412913",
+                            "kind": "A",
+                            "date": "20240730"
+                        },
+                        {
+                            "doc-number": "CN118412913",
+                            "date": "20240730"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    36            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410485271",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410485271",
+                            "date": "20240422"
+                        },
+                        {
+                            "doc-number": "202410485271.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410485271",
+                            "date": "20240422"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ECONOMIC TECH RESEARCH INSTITUTE OF STATE GRID GANSU ELECTRIC POWER COMPANY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " STATE GRID GANSU ELECTRIC POWER COMPANY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国网甘肃省电力公司经济技术研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SUN YALU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YONGCHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG CHANGHAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING KUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG ZHUXIU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DU SHENGLEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG MINGHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAN XU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JING JIAWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG MINGYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YUAN TIEJIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙亚璐, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘永成, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨昌海, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁坤, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王著秀, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杜晟磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蒋明华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "颜旭, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "景嘉伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王茗洋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "袁铁江"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Electricity-hydrogen collaborative new energy delivery planning method and device",
+                    "一种电氢协同的新能源外送规划方法及装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an electricity-hydrogen collaborative new energy delivery planning method and device, and aims at a long-distance and high-capacity new energy delivery scene, and adopts an electricity transmission mode in a high-voltage direct current transmission mode and a hydrogen transmission mode in a hydrogen transmission pipeline mode. Firstly, minimum total cost and loss are taken as an objective function, and the cost and loss are respectively considered from a source end, a transmission end and a load end. Secondly, development data of the power systems and the hydrogen energy systems at the source end, the transmission end and the load end are set to serve as the initial state of the new energy delivery planning of electricity and hydrogen collaboration; and finally, setting constraint conditions of the power and hydrogen collaborative new energy delivery planning model from the source end, the transmission end and the load end to solve the target function. According to the invention, new energy delivery is carried out by adopting two modes of high-voltage direct-current power transmission and a hydrogen pipeline, and an optimal configuration scheme is researched by taking minimum total cost and total loss as a target function."
+                },
+                {
+                    "p": "本发明提出一种电氢协同的新能源外送规划方法及装置，针对远距离、大容量的新能源送出场景，采用以高电压直流输电为形式的电输送和以输氢管道为形式的氢输送方式。首先以总成本和总损耗最小为目标函数，分别从源端、传输端和负荷端考虑其成本和损耗。其次设置源端、传输端和负荷端电力系统和氢能系统的发展数据作为电、氢协同的新能源外送规划的起始状态。最后从源端、传输端和负荷端设置电、氢协同新能源外送规划模型的约束条件对目标函数进行求解。本发明采用高电压直流输电和氢气管道两种方式进行新能源外送，以总成本和总损耗最小为目标函数，研究最佳的配置方案。"
+                }
+            ]
+        }
+    }
+}

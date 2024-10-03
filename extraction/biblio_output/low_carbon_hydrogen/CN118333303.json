@@ -1,0 +1,115 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118333303",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118333303",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/   067            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    26            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410399869",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410399869",
+                            "date": "20240403"
+                        },
+                        {
+                            "doc-number": "202410399869.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410399869",
+                            "date": "20240403"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHONGQING UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "重庆大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "REN ZHOUYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG YUNPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任洲洋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "姜云鹏"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Integrated energy system low-carbon operation scheduling method based on definite carbon emission operation domain",
+                    "一种基于定碳排运行域的综合能源系统低碳运行调度方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a low-carbon operation scheduling method for an integrated energy system based on a carbon emission determination operation domain. The method comprises the following steps: 1) defining the carbon emission determination operation domain of a hydrogen-containing micro energy network; the carbon emission determination operation domain envelops and depicts a low-carbon feasible space under polymerization of various low-carbon resources in the hydrogen-containing micro-energy network; 2) constructing a carbon emission operation domain model considering the flexibility of a hydrogen energy subsystem and the uncertainty of a distributed power supply in the hydrogen-containing micro-energy network; 3) based on a distributed robust chance constraint method, converting the carbon emission operation domain model into a deterministic model, and quantifying the low-carbon operation support capability of the hydrogen-containing micro-energy network by using a piecewise linear fitting method; and 4) on the basis of the low-carbon operation support capability of the hydrogen-containing micro-energy network, constructing a comprehensive energy system low-carbon scheduling model considering the low-carbon feasible space collaborative support effect of the plurality of hydrogen-containing micro-energy networks. According to the method, the low-carbon feasible space of each hydrogen-containing micro-energy network is quantified based on carbon emission domain determination, and the low-carbon operation capability of the hydrogen-containing micro-energy network is effectively excavated and quantified. On the basis, the comprehensive energy system low-carbon scheduling method considering the low-carbon feasible space cooperative supporting effect of the multiple hydrogen-containing micro-energy networks is provided, so that scheduling adjustment of low-carbon resources in the multiple hydrogen-containing micro-energy networks is effectively aggregated and utilized, and the low-carbon operation level of the comprehensive energy system is improved."
+                },
+                {
+                    "p": "一种基于定碳排运行域的综合能源系统低碳运行调度方法，包括以下步骤：1)定义含氢微能网的定碳排运行域；所述定碳排运行域包络和刻画含氢微能网内各类低碳资源聚合下的低碳可行空间；2)构建考虑含氢微能网中氢能子系统灵活性和分布式电源不确定性的定碳排运行域模型；3)基于分布鲁棒机会约束方法，将定碳排运行域模型转换为确定性模型，并利用分段线性拟合法量化含氢微能网的低碳运行支撑能力；4)基于含氢微能网的低碳运行支撑能力，构建考虑多个含氢微能网的低碳可行空间协同支撑作用的综合能源系统低碳调度模型。本发明基于定碳排域量化各含氢微能网的低碳可行空间，实现含氢微能网低碳运行能力有效挖掘和量化。在此基础上，提出考虑多含氢微能网的低碳可行空间协同支撑作用的综合能源系统低碳调度方法，从而有效聚合利用多个含氢微能网内部低碳资源的调度调节，提升综合能源系统低碳运行水平。"
+                }
+            ]
+        }
+    }
+}

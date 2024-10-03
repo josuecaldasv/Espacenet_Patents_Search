@@ -1,0 +1,196 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118207587",
+                            "kind": "A",
+                            "date": "20240618"
+                        },
+                        {
+                            "doc-number": "CN118207587",
+                            "date": "20240618"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/   023            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "60",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "023",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410606602",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410606602",
+                            "date": "20240516"
+                        },
+                        {
+                            "doc-number": "202410606602.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410606602",
+                            "date": "20240516"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "YAOJING NEW ENERGY JILIN CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "尧景新能源（吉林）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CUI XINRONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "崔欣荣"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Remote monitoring, regulation and control system for hydrogen production through alkaline water electrolysis",
+                    "一种碱性水电解制氢远程监测调控控制系统"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117535728",
+                                        "name": "GUANGDONG KAWO LUOQING TECH CO LTD",
+                                        "date": "20240209"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117535728",
+                                        "kind": "A",
+                                        "name": "GUANGDONG KAWO LUOQING TECH CO LTD",
+                                        "date": "20240209"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117587459",
+                                        "name": "GUANGDONG KAWO LUOQING TECH CO LTD",
+                                        "date": "20240223"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117587459",
+                                        "kind": "A",
+                                        "name": "GUANGDONG KAWO LUOQING TECH CO LTD",
+                                        "date": "20240223"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117833471",
+                                        "name": "STATE GRID XINJIANG ELECTRIC POWER CO LTD AKSU POWER SUPPLY COMPANY",
+                                        "date": "20240405"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117833471",
+                                        "kind": "A",
+                                        "name": "STATE GRID XINJIANG ELECTRIC POWER CO LTD AKSU POWER SUPPLY COMPANY",
+                                        "date": "20240405"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of electrolytic hydrogen production regulation and control, and particularly discloses a remote monitoring regulation and control system for alkaline water electrolytic hydrogen production, which detects the network transmission state of a remote monitoring platform in real time in the process of alkaline water electrolytic hydrogen production, and judges whether the remote transmission state meets the data transmission requirement in combination with monitored process parameters. When it is judged that the data transmission requirement is not met, transmission priority adjustment is carried out on the monitored technological parameters, and it can be guaranteed that the monitored data is adaptively transmitted in the corresponding network transmission state; meanwhile, monitoring data is subjected to adjacent monitoring moment analysis when monitoring equipment is used for monitoring process parameters in real time in the alkaline water electrolysis hydrogen production process, so that preparation process monitoring abnormity is recognized in time, recovery processing is carried out after abnormity recognition, and then the monitoring data subjected to recovery processing are remotely transmitted; and the effectiveness and credibility of remote transmission data can be ensured to the greatest extent."
+                },
+                {
+                    "p": "本发明属于电解制氢调控技术领域，具体公开一种碱性水电解制氢远程监测调控控制系统，通过在碱性水电解制氢过程中实时检测远程监控平台的网络传输状态，由此结合监测的工艺参数评判远程传输状态是否满足数据传输需求，并在评判不满足数据传输需求时对监测的工艺参数进行传输优先级调整，能够保证监测数据在相应网络传输状态下的适应传输，与此同时在利用监测设备在碱性水电解制氢过程中实时监测工艺参数时将监测的数据进行相邻监测时刻分析，由此实现了制备工艺监测异常的及时识别，并在异常识别后进行恢复处理，进而将恢复处理后的监测数据进行远程传输，可以最大限度保证远程传输数据的有效性和可信度。"
+                }
+            ]
+        }
+    }
+}

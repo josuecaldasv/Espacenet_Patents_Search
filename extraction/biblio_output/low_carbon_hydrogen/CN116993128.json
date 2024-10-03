@@ -1,0 +1,466 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116993128",
+                            "kind": "A",
+                            "date": "20231103"
+                        },
+                        {
+                            "doc-number": "CN116993128",
+                            "date": "20231103"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06N   3/    04            A I                    "
+                        },
+                        {
+                            "text": "G06N   3/   092            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    26            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "N",
+                            "main-group": "3",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "N",
+                            "main-group": "3",
+                            "subgroup": "092",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "0631",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311245150",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311245150",
+                            "date": "20230926"
+                        },
+                        {
+                            "doc-number": "202311245150.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311245150",
+                            "date": "20230926"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ELECTRIC POWER SCIENT RES INST STATE GRID JIANGXI ELECTRIC POWER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " STATE GRID CORP CHINA"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国网江西省电力有限公司电力科学研究院, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家电网有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZENG WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JIA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " RAO ZHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIONG JUNJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DUAN WEINAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN HUIJUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIONG JIANHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEI ZETAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曾伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李佳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "饶臻, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "熊俊杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "段伟男, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙惠娟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "熊健豪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "魏泽涛"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Deep reinforcement learning low-carbon scheduling method and system for integrated energy system",
+                    "一种综合能源系统深度强化学习低碳调度方法及系统"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2013036463",
+                                        "name": "SHASHIDHAR NAGARAJA [US]",
+                                        "date": "20130207"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2013036463",
+                                        "kind": "A1",
+                                        "name": "SHASHIDHAR NAGARAJA [US]",
+                                        "date": "20130207"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112395998",
+                                        "name": "UNIV NANJING",
+                                        "date": "20210223"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112395998",
+                                        "kind": "A",
+                                        "name": "UNIV NANJING",
+                                        "date": "20210223"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114091879",
+                                        "name": "ZHEJIANG HUAYUN ELECTRIC POWER ENG DESIGN CONSULTATION CO LTD, et al",
+                                        "date": "20220225"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114091879",
+                                        "kind": "A",
+                                        "name": "ZHEJIANG HUAYUN ELECTRIC POWER ENG DESIGN CONSULTATION CO LTD, et al",
+                                        "date": "20220225"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2022234584",
+                                        "name": "INOUE HARUKI [JP]",
+                                        "date": "20220728"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2022234584",
+                                        "kind": "A1",
+                                        "name": "INOUE HARUKI [JP]",
+                                        "date": "20220728"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2022160705",
+                                        "name": "CHINA ELECTRIC POWER RES INSTITUTE COMPANY LIMITED [CN], et al",
+                                        "date": "20220804"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2022160705",
+                                        "kind": "A1",
+                                        "name": "CHINA ELECTRIC POWER RES INSTITUTE COMPANY LIMITED [CN], et al",
+                                        "date": "20220804"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-3",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115081733",
+                                        "name": "UNIV NORTHEAST DIANLI                                                                               ",
+                                        "date": "20220920"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115081733",
+                                        "kind": "A",
+                                        "name": "UNIV NORTHEAST DIANLI                                                                               ",
+                                        "date": "20220920"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115238987",
+                                        "name": "STATE GRID GANSU ELECTRIC POWER CO ELECTRIC POWER RES INST                                          , et al",
+                                        "date": "20221025"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115238987",
+                                        "kind": "A",
+                                        "name": "STATE GRID GANSU ELECTRIC POWER CO ELECTRIC POWER RES INST                                          , et al",
+                                        "date": "20221025"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115392373",
+                                        "name": "ZHEJIANG ENGIPOWER TECH CO LTD",
+                                        "date": "20221125"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115392373",
+                                        "kind": "A",
+                                        "name": "ZHEJIANG ENGIPOWER TECH CO LTD",
+                                        "date": "20221125"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116151477",
+                                        "name": "UNIV SHANDONG                                                                                       ",
+                                        "date": "20230523"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116151477",
+                                        "kind": "A",
+                                        "name": "UNIV SHANDONG                                                                                       ",
+                                        "date": "20230523"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- Sihua Shao等, \"Self-Optimizing Data Offloading in Mobile Heterogeneous Radio-Optical Networks: A Deep Reinforcement Learning Approach\", 《IEEE》, vol. 22, no. 2, doi:10.1109/MNET.007.2100606, pages 100 - 106, XP011909873"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10"
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 孙惠娟等, \"基于乐观行动-评判深度强化学习的含氢综合能源 系统低碳经济调度\", 《电网技术》, pages 1 - 15"
+                            },
+                            "category": "T",
+                            "rel-claims": "1-10"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a deep reinforcement learning low-carbon scheduling method and system for an integrated energy system. The method comprises the following steps: constructing a hydrogen-containing integrated energy system scheduling model based on an electrical hybrid hydrogen production and comprehensive utilization operation mode and a source-load complementary carbon reduction mechanism; and an optimistic action-evaluation (OAC) reinforcement learning algorithm with an optimistic exploration strategy is adopted to carry out offline scheduling training on the hydrogen-containing integrated energy system scheduling model, and the trained hydrogen-containing integrated energy system scheduling model is utilized to realize online optimal scheduling. According to the method, low-carbon online optimal scheduling of the comprehensive energy system can be efficiently realized, hydrogen energy supply in the comprehensive energy system is ensured, and the hydrogen utilization efficiency is improved."
+                },
+                {
+                    "p": "本发明公开了一种综合能源系统深度强化学习低碳调度方法及系统，该方法基于电气混合制氢及综合利用运行模式与源荷互补降碳机制构建含氢综合能源系统调度模型；采用具有乐观探索策略的乐观行动‑评判(OAC)强化学习算法对含氢综合能源系统调度模型进行离线调度训练，并利用训练好的含氢综合能源系统调度模型实现在线优化调度。本发明可高效实现综合能源系统的低碳在线优化调度，保证综合能源系统中的氢能供给并提高用氢效率。"
+                }
+            ]
+        }
+    }
+}

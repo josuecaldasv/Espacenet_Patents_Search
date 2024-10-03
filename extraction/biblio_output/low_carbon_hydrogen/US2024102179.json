@@ -1,0 +1,214 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2024102179",
+                            "kind": "A1",
+                            "date": "20240328"
+                        },
+                        {
+                            "doc-number": "US2024102179",
+                            "date": "20240328"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "C25B   1/    04            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "042",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "202318471768",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US202318471768",
+                            "date": "20230921"
+                        },
+                        {
+                            "doc-number": "18471768"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US202263409331P",
+                                    "date": "20220923"
+                                },
+                                {
+                                    "doc-number": "63409331"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US202318117606",
+                                    "date": "20230306"
+                                },
+                                {
+                                    "doc-number": "18117606"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US202363451940P",
+                                    "date": "20230314"
+                                },
+                                {
+                                    "doc-number": "63451940"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": {
+                                "doc-number": "US202318471768",
+                                "date": "20230921"
+                            }
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "KRAKEN TECH HOLDINGS LLC [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "Kraken Technology Holdings, LLC"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "MILLER CHRISTOPHER MICHAEL [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BUCKLEY ANNA LOUISE [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BEST III BYRON GLADUS [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JARLSJO BENGT ARNE [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHAPIRO DANIEL JOSEPH [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "MILLER, Christopher Michael, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "BUCKLEY, Anna Louise, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "BEST, III, Byron Gladus, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "JARLSJO, Bengt Arne, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "SHAPIRO, Daniel Joseph"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "PROCESS FOR PRODUCING LOW, NEUTRAL, AND/OR NEGATIVE CARBON INTENSITY HYDROGEN THROUGH ELECTROLYSIS"
+            },
+            "abstract": {
+                "p": "Methods for producing a hydrogen product having a carbon intensity less than about 0.45 kg CO2e/kg H2 is provided. The method includes the steps of converting water to oxygen and the hydrogen product through an electrolysis process, providing at least some, and substantially all, of the required energy for the electrolysis process from a biomass power plant, and processing one or more flue gas streams from the biomass power plant in a carbon capture unit to reduce CO2e emissions. The energy produced from the biomass power plant may comprise one or more of electricity, steam used as process steam in the electrolysis process, steam used as thermal energy in the electrolysis process, and steam used to power a mechanical drive for one or more compressors, pumps, or other motors generating shaft torque in the electrolysis process."
+            }
+        }
+    }
+}

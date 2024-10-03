@@ -1,0 +1,152 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "AU",
+                            "doc-number": "2022445675",
+                            "kind": "A1",
+                            "date": "20240613"
+                        },
+                        {
+                            "doc-number": "AU2022445675",
+                            "date": "20240613"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    04            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "AU",
+                            "doc-number": "2022445675",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "AU20220445675",
+                            "date": "20221202"
+                        },
+                        {
+                            "doc-number": "2022445675"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "CN202210223708",
+                                    "date": "20220307"
+                                },
+                                {
+                                    "doc-number": "202210223708.8"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "WO2022CN136260",
+                                    "date": "20221202"
+                                },
+                                {
+                                    "doc-number": "CN2022/136260"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUNGROW HYDROGEN SCI & TECH CO LTD [CN]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "SUNGROW HYDROGEN SCI. & TECH. CO., LTD"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI JIANGSONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN LONGLIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "LI, Jiangsong, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "SUN, Longlin"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "NEW ENERGY HYDROGEN PRODUCTION CONTROL METHOD AND APPARATUS AND ELECTRONIC DEVICE"
+            },
+            "abstract": {
+                "p": "Disclosed in the present invention is a new energy hydrogen production control method and apparatus and an electronic device. The method comprises: when a new energy hydrogen production system meets a preset mode conversion condition, the preset mode conversion condition being that the oxygen concentration in hydrogen is higher than a first purity limit and/or the hydrogen concentration in oxygen is higher than a second purity limit, converting the new energy hydrogen production system into a standby mode from a working mode, inputting a target voltage smaller than a decomposition voltage of an electrolyzer into the electrolyzer, enabling the electrolyzer to work in a capacitive area to keep electrode activity, and enabling the temperature of the electrolyzer to reach a preset temperature threshold. In the present invention, when the oxygen concentration in hydrogen is higher than the first purity limit and/or the hydrogen concentration in oxygen is higher than the second purity limit, the new energy hydrogen production system enters the standby mode, the target voltage is used to keep the electrolyzer to be in the capacitive state, frequent startup and shutdown of the electrolyzer are avoided, the temperature of the electrolyzer reaches the preset temperature threshold, such that the electrolyzer can quickly respond when the new energy power is increased, thereby avoiding further large-range temperature rise."
+            }
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116401880",
+                            "kind": "A",
+                            "date": "20230707"
+                        },
+                        {
+                            "doc-number": "CN116401880",
+                            "date": "20230707"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  30/    20            A I                    "
+                        },
+                        {
+                            "text": "G06Q  40/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    26            A I                    "
+                        },
+                        {
+                            "text": "G06F 111/    04            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "30",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "40",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "2111",
+                            "subgroup": "04",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310389025",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310389025",
+                            "date": "20230412"
+                        },
+                        {
+                            "doc-number": "202310389025.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310389025",
+                            "date": "20230412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NANJING INST TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "南京工程学院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "BAI BIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG CHUANFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAO ZHIPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "白标, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄传峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陶之朋"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Thermoelectric optimization method for comprehensive energy system of stepped carbon transaction mechanism and electric hydrogen production",
+                    "阶梯式碳交易机制与电制氢的综合能源系统热电优化方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a stepped carbon transaction mechanism and electric hydrogen production integrated energy system thermoelectric optimization method, which comprehensively considers the influence of a stepped carbon transaction mechanism, a P2G two-stage operation process and an adjustable heat-to-power ratio CHP and hydrogen fuel cell HFC operation strategy on integrated energy system IES optimization scheduling. Establishing an IES operation framework containing a stepped carbon transaction mechanism and electric hydrogen production; a low-carbon economic operation target with the minimum energy purchase cost, carbon emission cost and wind curtailment cost is constructed, an original problem is converted into a mixed integer linear problem, and a CPLEX commercial solver is used for solving; according to the method, thermoelectric optimization is carried out on the comprehensive energy system considering a stepped carbon transaction mechanism and electric hydrogen production, the effect of better guiding carbon emission reduction can be achieved, the advantage of high energy efficiency of hydrogen energy can be played while wind power absorption is promoted, and meanwhile, stepped loss of energy can be reduced."
+                },
+                {
+                    "p": "本发明公开了阶梯式碳交易机制与电制氢的综合能源系统热电优化方法，本发明综合考虑阶梯式碳交易机制、细化电转气P2G两阶段运行过程以及热电比可调的含热电联产CHP、氢燃料电池HFC运行策略对综合能源系统IES优化调度的影响，建立含阶梯式碳交易机制与电制氢的IES运行框架；构建以购能成本、碳排放成本、弃风成本最小的低碳经济运行目标，并将原问题转化为混合整数线性问题，运用CPLEX商业求解器进行求解；本发明对考虑阶梯式碳交易机制与电制氢的综合能源系统热电优化，能够起到更好地引导碳排放减排的效果，在促进风电消纳的同时，能够发挥氢能高能效的优势，同时能够减少能量的梯级损耗。"
+                }
+            ]
+        }
+    }
+}

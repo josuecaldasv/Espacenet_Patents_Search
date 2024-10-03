@@ -1,0 +1,210 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "WO",
+                            "doc-number": "2023167187",
+                            "kind": "A1",
+                            "date": "20230907"
+                        },
+                        {
+                            "doc-number": "WO2023167187",
+                            "date": "20230907"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "C08F  36/    20            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "C",
+                        "class": "08",
+                        "subclass": "F",
+                        "main-group": "36",
+                        "subgroup": "20",
+                        "classification-value": "I",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "JP",
+                            "doc-number": "2023007318",
+                            "kind": "W"
+                        },
+                        {
+                            "doc-number": "WO2023JP07318",
+                            "date": "20230228"
+                        },
+                        {
+                            "doc-number": "JP2023/007318"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "JP20220031609",
+                                "date": "20220302"
+                            },
+                            {
+                                "doc-number": "2022-031609"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NIPPON CATALYTIC CHEM IND [JP]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "株式会社日本触媒"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "KANEKO TOMOMASA [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "金子　知正"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "COMPOSITION POLYMÉRISABLE",
+                    "POLYMERIZABLE COMPOSITION",
+                    "重合性組成物"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2013216737",
+                                        "name": "NIPPON CATALYTIC CHEM IND",
+                                        "date": "20131024"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2013216737",
+                                        "kind": "A",
+                                        "name": "NIPPON CATALYTIC CHEM IND",
+                                        "date": "20131024"
+                                    }
+                                ]
+                            },
+                            "category": "X",
+                            "rel-claims": "1-5",
+                            "rel-passage": {
+                                "passage": "* claims, paragraph [0096], examples *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2013231164",
+                                        "name": "NIPPON CATALYTIC CHEM IND",
+                                        "date": "20131114"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2013231164",
+                                        "kind": "A",
+                                        "name": "NIPPON CATALYTIC CHEM IND",
+                                        "date": "20131114"
+                                    }
+                                ]
+                            },
+                            "category": "X",
+                            "rel-claims": "1-5",
+                            "rel-passage": {
+                                "passage": "* claims, paragraph [0095], examples *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2020050832",
+                                        "name": "NIPPON CATALYTIC CHEM IND",
+                                        "date": "20200402"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2020050832",
+                                        "kind": "A",
+                                        "name": "NIPPON CATALYTIC CHEM IND",
+                                        "date": "20200402"
+                                    }
+                                ]
+                            },
+                            "category": "X",
+                            "rel-claims": "1-5",
+                            "rel-passage": {
+                                "passage": "* claims, paragraph [0069], examples *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2021024795",
+                                        "name": "NIPPON CATALYTIC CHEM IND",
+                                        "date": "20210222"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2021024795",
+                                        "kind": "A",
+                                        "name": "NIPPON CATALYTIC CHEM IND",
+                                        "date": "20210222"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-5",
+                            "rel-passage": {
+                                "passage": "* claims, examples *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The present invention provides a polymerizable composition, which is reduced in the amount of a low-molecular-weight compound such as low-molecular-weight compound that can be easily released into an environment, is hydrophilic and water-soluble and has a harmful effect in radical polymerization, and which contains 2-allyloxymethylacrylic acid and/or a salt thereof. The present invention is a polymerizable composition comprising (A) a cyclized polymerizable carboxylic acid having a partial structure represented by formula (1) and/or a salt thereof, (B) a β-oxycarboxylic acid having a partial structure represented by any one of formulae (2) to (4) (wherein R and R' each independently represent a hydrogen atom or a saturated hydrocarbon group having 4 or less carbon atoms) and/or a salt thereof; and (C) a radically polymerizable compound that is different from the cyclized polymerizable carboxylic acid and/or the salt thereof (A) or the β-oxycarboxylic acid and/or the salt thereof (B), in which the molar ratio of a partial structure contained in the polymerizable composition in a largest molar amount in the polymerizable composition, among the partial structures respectively represented by formulae (2) to (4), is 1.5 or less relative to the molar amount, i.e., 100, of the partial structure represented by formula (1)."
+                },
+                {
+                    "p": "La présente invention concerne une composition polymérisable, comprenant une quantité réduite d'un composé de faible poids moléculaire tel qu'un composé de faible poids moléculaire qui peut être facilement libéré dans un environnement, est hydrophile et soluble dans l'eau et a un effet nocif dans la polymérisation radicalaire, et qui contient de l'acide 2-allyloxyméthylacrylique et/ou un sel de celui-ci. La présente invention concerne une composition polymérisable comprenant (A) un acide carboxylique polymérisable cyclisé ayant une structure partielle représentée par la formule (1) et/ou un sel de celui-ci, (B) un acide β-oxycarboxylique ayant une structure partielle représentée par l'une quelconque des formules (2) à (4) (R et R' représentant chacun indépendamment un atome d'hydrogène ou un groupe hydrocarboné saturé ayant 4 atomes de carbone ou moins) et/ou un sel de celui-ci ; et (C) un composé polymérisable par voie radicalaire qui est différent de l'acide carboxylique polymérisable cyclisé et/ou du sel de celui-ci (A) ou de l'acide β-oxycarboxylique et/ou du sel de celui-ci (B), dans lequel le rapport molaire d'une structure partielle contenue dans la composition polymérisable en une quantité molaire la plus grande dans la composition polymérisable, parmi les structures partielles représentées respectivement par les formules (2) à (4), est de 1,5 ou moins par rapport à la quantité molaire, c'est-à-dire 100, de la structure partielle représentée par la formule (1)."
+                },
+                {
+                    "p": "本発明は、環境中に放出されやすい親水性、水溶性であり、且つラジカル重合において悪影響があるような低分子化合物が低減された２－アリルオキシメチルアクリル酸および／またはその塩を含む、重合性組成物を提供する。本発明は、下記式（１）で表される部分構造を有する環化重合性カルボン酸および／またはその塩（Ａ）、下記式（２）～（４）（式中、ＲおよびＲ'は、それぞれ独立して水素原子、または炭素数が４以下の飽和炭化水素基を表す。）のいずれかで表される部分構造を有するβ－オキシカルボン酸および／またはその塩（Ｂ）、ならびに、該環化重合性カルボン酸および／またはその塩（Ａ）および該β－オキシカルボン酸および／またはその塩（Ｂ）以外のラジカル重合性化合物（Ｃ）を含む重合性組成物であって、該式（２）～（４）のいずれかで表される部分構造のうち、該重合性組成物中にモル量として最も多く含まれる部分構造のモル割合が、該式（１）で表される部分構造のモル量１００に対して、１．５以下である重合性組成物である。"
+                }
+            ]
+        }
+    }
+}

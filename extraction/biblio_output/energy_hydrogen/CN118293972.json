@@ -1,0 +1,119 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118293972",
+                            "kind": "A",
+                            "date": "20240705"
+                        },
+                        {
+                            "doc-number": "CN118293972",
+                            "date": "20240705"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G01D  11/    00            A I                    "
+                        },
+                        {
+                            "text": "G01D  21/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410341468",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410341468",
+                            "date": "20240322"
+                        },
+                        {
+                            "doc-number": "202410341468.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410341468",
+                            "date": "20240322"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "DIQUN SHANGHAI NEW ENERGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "缔群（上海）新能源有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI CHAOQUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FAN CHUANGHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李超群, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "樊创宏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张炜"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Component full-period monitoring system for electrochemical energy storage device",
+                    "一种用于电化学储能装置的部件全周期监测系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a part full-period monitoring system for an electrochemical energy storage device, which comprises a detection module for detecting the gas content in the electrochemical energy storage device and identifying the concentrations of carbon monoxide, hydrogen, smog and electrolyte and the gas temperature. And the monitoring module is used for monitoring the abnormal state of each sensor in the detection module. And a service life monitoring hard module is also arranged for monitoring the service time of the detection module. And the detection module and the monitoring module both depend on the main control module to realize corresponding functions. By adopting the main control module and the corresponding circuit design, the health state of a plurality of sensors such as a carbon monoxide sensor, a hydrogen sensor, a temperature sensor, a smoke sensor and an electrolyte sensor can be monitored, so that whether the sensors operate normally or not and whether the service life of the sensors is exceeded or not can be known in real time; therefore, each sensor is ensured to be in a normal operation state during use, and further guarantee is provided for hidden danger detection of the electrochemical energy storage device."
+                },
+                {
+                    "p": "本发明公开了一种用于电化学储能装置的部件全周期监测系统，对电化学储能装置内的气体含量进行检测的检测模块，识别一氧化碳、氢气、烟雾和电解液浓度以及气体温度。分别对检测模块中的各个传感器的异常状态进行监控的监控模块。其还设有使用寿命监控硬模块，对检测模块的使用时长进行监控。检测模块与监控模块均依赖于主控模块实现相应功能。采用主控模块以及相应的电路设计，实现对一氧化碳传感器、氢气传感器、温度传感器、烟雾传感器以及电解液传感器等多个传感器进行健康状态监控，从而实时了解到传感器是否正常运转以及是否超过使用寿命，从而保证各传感器使用时处于正常运行状态，为电化学储能装置的隐患检测提供更进一步的保障。"
+                }
+            ]
+        }
+    }
+}

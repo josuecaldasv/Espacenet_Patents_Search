@@ -1,0 +1,185 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116377459",
+                            "kind": "A",
+                            "date": "20230704"
+                        },
+                        {
+                            "doc-number": "CN116377459",
+                            "date": "20230704"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    13            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    08            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "13",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "083",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310328798",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310328798",
+                            "date": "20230330"
+                        },
+                        {
+                            "doc-number": "202310328798.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310328798",
+                            "date": "20230330"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "EAST CHINA UNIV OF TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华东理工大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU BO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG QIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YUAN FANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘博, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "袁方"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Low-bubble-energy-consumption electrolysis device and method adopting circularly flowing electrolyte",
+                    "一种采用循环流动电解液的低气泡能耗的电解装置和方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a low-bubble-energy-consumption electrolysis device and method.The electrolysis device comprises an electrolysis system, a switch valve system, a circulating pump, a flow meter and a gas separation and purification system.The electrolysis system is sequentially connected with the circulating pump and the flow meter in a closed loop mode; the gas separation and purification system is connected with the electrolysis system; the electrolysis system comprises an electrolytic bath and a liquid storage tank, and a plurality of electrode plates and a liquid circulating pipe are arranged in the electrolytic bath. The electrolysis method comprises the steps of continuously wetting the surface of the electrode plate, continuously circulating electrolyte, preparing hydrogen and oxygen through electrolysis, separating and purifying the hydrogen and the oxygen and the like. The electrolysis device and method not only can greatly improve the electrolysis efficiency and save the electrolysis energy consumption, but also can be suitable for a large-scale electrolysis system, are expected to be coupled with the industrial hydrogen production industry in China, and have great significance for the development of the green hydrogen industry in China and the realization of the carbon neutralization strategy."
+                },
+                {
+                    "p": "本发明提供一种采用循环流动电解液的低气泡能耗的电解装置和方法，所述电解装置包括电解系统、开关阀门系统、循环泵、流量计、以及气体分离纯化系统，其中：所述电解系统与循环泵、流量计依次闭环连接，所述气体分离纯化系统与所述电解系统连接；所述电解系统包括电解槽和储液罐，所述电解槽内设置有若干个电极板和液体循环管。所述电解方法，包括持续润湿电极板表面、持续循环电解液、电解制备氢气和氧气、以及氢气和氧气的分离纯化等步骤。本发明的电解装置和方法不仅可以大幅提高电解效率，节约电解能耗，还可适用于大型电解系统，有望与我国工业制氢产业耦合，对我国绿氢产业的发展以及碳中和战略的实现具有重大的意义。"
+                }
+            ]
+        }
+    }
+}

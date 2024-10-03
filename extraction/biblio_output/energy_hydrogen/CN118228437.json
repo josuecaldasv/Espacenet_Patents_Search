@@ -1,0 +1,95 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118228437",
+                            "kind": "A",
+                            "date": "20240621"
+                        },
+                        {
+                            "doc-number": "CN118228437",
+                            "date": "20240621"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  30/    10            A I                    "
+                        },
+                        {
+                            "text": "G06F  30/    20            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410059019",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20241059019",
+                            "date": "20240115"
+                        },
+                        {
+                            "doc-number": "202410059019.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20241059019",
+                            "date": "20240115"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANGHAI KELIANG INFORMATION TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "上海科梁信息科技股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": {
+                            "inventor-name": {
+                                "name": "请求不公布姓名"
+                            }
+                        }
+                    }
+                },
+                "invention-title": [
+                    "New energy hydrogen production system planning method based on simulation platform and simulation platform",
+                    "基于仿真平台的新能源制氢系统规划方法及仿真平台"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The embodiment of the invention relates to the technical field of simulation testing, in particular to a new energy hydrogen production system planning method based on a simulation platform and the simulation platform, and the simulation platform comprises a simulation management machine, a simulation machine and at least one hydrogen production topological structure, the method comprises the steps that the simulation management machine builds a hydrogen production model according to at least one given hydrogen production topological structure and structure parameters; the simulator simulates the hydrogen production model for multiple times, selects a structure parameter corresponding to a simulation result from simulation results obtained for multiple times, and takes the hydrogen production model with the structure parameter as a working hydrogen production model; wherein in the multiple times of simulation, the structure parameters adopted by each time of simulation are obtained by adjusting the structure parameters adopted by the previous simulation based on the previous simulation result. According to the scheme, the optimal planning design in a specific scene can be selected for the new energy hydrogen production system, and the equipment utilization rate and economical efficiency of new energy hydrogen production are improved."
+                },
+                {
+                    "p": "本发明实施例涉及仿真测试技术领域，特别涉及一种基于仿真平台的新能源制氢系统规划方法及仿真平台，所述仿真平台包括：仿真管理机、仿真机以及至少一个制氢拓扑结构，方法包括：所述仿真管理机针对给定的至少一个所述制氢拓扑结构和结构参数搭建制氢模型；所述仿真机对所述制氢模型进行多次仿真，并从多次得到的仿真结果中，选择一次仿真结果所对应的结构参数，并以该结构参数的所述制氢模型作为工作制氢模型；其中，所述多次仿真中，每次仿真所采用的结构参数是基于前一次仿真结果对前一次仿真所采用的结构参数进行调整后获得。本方案能够为新能源制氢系统选择在特定场景下最佳的规划设计，提高新能源制氢的设备利用率和经济性。"
+                }
+            ]
+        }
+    }
+}

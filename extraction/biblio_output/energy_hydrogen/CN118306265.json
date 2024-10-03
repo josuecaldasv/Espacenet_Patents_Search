@@ -1,0 +1,122 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118306265",
+                            "kind": "A",
+                            "date": "20240709"
+                        },
+                        {
+                            "doc-number": "CN118306265",
+                            "date": "20240709"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60K   1/    00            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    26            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    27            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410345075",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410345075",
+                            "date": "20240325"
+                        },
+                        {
+                            "doc-number": "202410345075.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410345075",
+                            "date": "20240325"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ANHUI JIANGHUAI AUTOMOBILE GROUP CORP LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "安徽江淮汽车集团股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YI BIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG YUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU WANFA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "易彪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "江元, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘万发"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Thermal management method and device for power battery of hydrogen fuel tractor and medium",
+                    "氢燃料牵引车动力电池热管理方法、装置及介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a thermal management method and device for a hydrogen fuel tractor power battery and a medium, and relates to the technical field of thermal management of power batteries. The method comprises the steps that when it is detected that the hydrogen fuel tractor is in a running state, the minimum temperature Tmin of a battery of a power battery pack of the hydrogen fuel tractor is smaller than or equal to 12 DEG C, the maximum temperature Tmax of the battery of the power battery pack of the hydrogen fuel tractor is smaller than or equal to 28 DEG C, and heating film high-pressure heating is conducted on the power battery pack of the hydrogen fuel tractor; and when it is detected that the hydrogen fuel tractor is in a running state and the minimum temperature Tmin of the battery of the power battery pack of the hydrogen fuel tractor is larger than or equal to 15 DEG C or the maximum temperature Tmax of the battery of the power battery pack of the hydrogen fuel tractor is larger than or equal to 30 DEG C, high-pressure heating of the heating film on the power battery pack of the hydrogen fuel tractor is stopped. According to the invention, the problems of low working mode efficiency and large energy consumption of traditional power battery thermal management are solved, and the power battery pack is ensured to work at the optimal temperature under various working conditions."
+                },
+                {
+                    "p": "本公开涉及一种氢燃料牵引车动力电池热管理方法、装置及介质，涉及动力电池热管理技术领域。该方法包括：检测到氢燃料牵引车为行车状态，且氢燃料牵引车的动力电池组的电池的最小温度Tmin≤12℃，氢燃料牵引车的动力电池组的电池的最大温度Tmax≤28℃，对氢燃料牵引车的动力电池组进行加热膜高压加热；检测到氢燃料牵引车为行车状态，且氢燃料牵引车的动力电池组的电池的最小温度Tmin≥15℃，或氢燃料牵引车的动力电池组的电池的最大温度Tmax≥30℃，停止对氢燃料牵引车的动力电池组进行加热膜高压加热。本公开解决了传统动力电池热管理的工作模式效率低、能耗大的问题，且保证动力电池组在多种工况下均能在最优温度下工作。"
+                }
+            ]
+        }
+    }
+}

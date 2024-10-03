@@ -1,0 +1,120 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "1352323",
+                            "kind": "A",
+                            "date": "20020605"
+                        },
+                        {
+                            "doc-number": "CN1352323",
+                            "date": "20020605"
+                        }
+                    ]
+                },
+                "classification-ipc": {
+                    "text": [
+                        "C25B1/04",
+                        "C25B9/04"
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "133",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "00123199",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20001023199",
+                            "date": "20001103"
+                        },
+                        {
+                            "doc-number": "00123199"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20001023199",
+                            "date": "20001103"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "MU RUILI [CN]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "MU RUILI"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "MU RUILI [CN]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "RUILI MU"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Method and apparatus for producing hydrogen by utilizing solar energy and/or wind energy"
+            },
+            "abstract": {
+                "p": "A solar and wind energy hydrogen producing apparatus consists of solar cell and/or windmill generator, water electrolyzing barrel, compressor, solenoid valve, central control circuit, etc. The electric energy produced by the solar cell and/or windmill generator is stepped up and applied to the water electrolyzing barrel, and the generated hydrogen is compressed by the compressor into a steel cylinder. The present invention converts electric energy produced by the solar cell and/or windmill generator into combustion gas which has storage density far greater than that of electric power in an accumulator."
+            }
+        }
+    }
+}

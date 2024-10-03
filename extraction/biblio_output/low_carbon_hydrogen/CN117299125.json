@@ -1,0 +1,224 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117299125",
+                            "kind": "A",
+                            "date": "20231229"
+                        },
+                        {
+                            "doc-number": "CN117299125",
+                            "date": "20231229"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  23/    72            A I                    "
+                        },
+                        {
+                            "text": "B01J  35/    04            A I                    "
+                        },
+                        {
+                            "text": "B01J  35/    10            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   154            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "72",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "154",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C29/154",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C31/04",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311202261",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311202261",
+                            "date": "20230918"
+                        },
+                        {
+                            "doc-number": "202311202261.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311202261",
+                            "date": "20230918"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV SHANDONG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " QINGDA LOW CARBON GREEN HYDROGEN INDUSTRIAL TECH RESEARCH INSTITUTE QINGDAO CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "山东大学, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "青达低碳绿氢产业技术研究院（青岛）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHANG JINGCAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAN XINYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU HAORAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG LIANHAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHI YONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QIN ZHIHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "常景彩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "韩新宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴浩然, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张连海, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "石涌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "秦志昊"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Biomass monolithic industrial catalyst as well as preparation method and application thereof",
+                    "一种生物质整体式工业催化剂及其制备方法与应用"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of methanol synthesis catalysts, and relates to an industrial catalyst for methanol synthesis, in particular to a biomass monolithic industrial catalyst as well as a preparation method and application thereof. The preparation method comprises the following steps: pre-treating cordierite honeycomb ceramic to increase the specific surface area of the cordierite honeycomb ceramic; al2O3 powder, pseudo-boehmite powder and biomass charcoal powder are prepared into biochar aluminum powder according to the mass ratio of 1: 5: 1-1: 9: 4, then the biochar aluminum powder is prepared into biomass alumina gel, and then copper nitrate is added into the biomass alumina gel to prepare biomass active sol; the biomass active sol is attached to the surface of the pretreated cordierite honeycomb ceramic, the cordierite honeycomb ceramic attached with the biomass active sol keeps a honeycomb structure, and then aging, forming and calcining are conducted to obtain the biomass honeycomb ceramic. The industrial catalyst prepared by the invention has the advantages of simple components, small airflow resistance, good thermal stability, high compressive strength, corrosion resistance and the like, and methanol synthesis can be efficiently carried out for a long time."
+                },
+                {
+                    "p": "本发明属于甲醇合成催化剂技术领域，涉及甲醇合成的工业催化剂，具体涉及一种生物质整体式工业催化剂及其制备方法与应用。将堇青石蜂窝陶瓷进行预处理以提高所述堇青石蜂窝陶瓷的比表面积；将Al2O3粉末、拟薄水铝石粉末和生物质炭粉末按照质量比为1:5:1～1:9:4制成生物炭铝粉，再将生物炭铝粉制成生物质铝胶，然后向生物质铝胶加入硝酸铜制成生物质活性溶胶；将生物质活性溶胶附着于预处理的堇青石蜂窝陶瓷的表面，且附着生物质活性溶胶的堇青石蜂窝陶瓷保持蜂窝结构，然后陈化、成型煅烧，即得。本发明制备的工业催化剂具有成分简单、气流阻力小、热稳定性好、抗压强度高、耐腐蚀等优点，能够高效率、长时间的进行甲醇合成。"
+                }
+            ]
+        }
+    }
+}

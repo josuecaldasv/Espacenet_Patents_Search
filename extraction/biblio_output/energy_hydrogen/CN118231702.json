@@ -1,0 +1,217 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118231702",
+                            "kind": "A",
+                            "date": "20240621"
+                        },
+                        {
+                            "doc-number": "CN118231702",
+                            "date": "20240621"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04089            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0444            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04537            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04701            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04858            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04992            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04089",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0447",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04544",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04701",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04753",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04925",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04992",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211644124",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211644124",
+                            "date": "20221220"
+                        },
+                        {
+                            "doc-number": "202211644124.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211644124",
+                            "date": "20221220"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ZHONGKE JIAHONG FOSHAN NEW ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中科嘉鸿(佛山市)新能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SUN GONGQUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG ZIQIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG LINLIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙公权, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王子乾, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨林林"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fuel cell gas distribution and utilization rate on-line detection system and detection method thereof",
+                    "一种燃料电池气体分配以及利用率的在线检测系统及其检测方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a fuel cell gas distribution and utilization rate online detection system and a detection method thereof, and belongs to the field of fuel cells. The invention discloses an online detection system for gas distribution and utilization rate of a fuel cell. The online detection system comprises the fuel cell, a voltage acquisition module, a hydrogen concentration acquisition module, a temperature control module, a gas flow control module, a load control module and a data analysis module, an anode fuel gas channel and a cathode air channel are arranged in the fuel cell. According to the method, a complex detection structure and a sensing unit in a traditional industrial measurement method are omitted, and on-line efficient detection of gas flow distribution and gas utilization rate of each cell in the fuel cell stack is realized based on measurement and analysis of electrochemical parameters."
+                },
+                {
+                    "p": "本申请公开了一种燃料电池气体分配以及利用率的在线检测系统及其检测方法，属于燃料电池领域。一种燃料电池气体分配以及利用率的在线检测系统，所述在线检测系统包含燃料电池、电压采集模块、氢浓度采集模块、温度控制模块、气体流量控制模块、负载控制模块、数据分析模块；所述燃料电池的内部含有阳极燃料气通道和阴极空气通道。该方法省去了传统工业测量方法的复杂检测结构与传感单元，基于电化学参数的测量与分析，实现了对燃料电池电堆内各节电池气体流量分配与气体利用率的在线高效检测。"
+                }
+            ]
+        }
+    }
+}

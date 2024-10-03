@@ -1,0 +1,221 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116341968",
+                            "kind": "A",
+                            "date": "20230627"
+                        },
+                        {
+                            "doc-number": "CN116341968",
+                            "date": "20230627"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0639            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06312",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06315",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "0639",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "466",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310272498",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310272498",
+                            "date": "20230320"
+                        },
+                        {
+                            "doc-number": "202310272498.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310272498",
+                            "date": "20230320"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV XI AN JIAOTONG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西安交通大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU YONGZHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YE KAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KANG LIXIA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘永忠, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "叶锴, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王靖, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "康丽霞"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method and system for flexibility analysis and bottleneck identification of renewable energy hydrogen production system under uncertain conditions",
+                    "一种不确定性条件下可再生能源制氢系统的灵活性分析和瓶颈识别方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a flexibility analysis and bottleneck identification method and system for a renewable energy hydrogen production system under an uncertain condition, and the method comprises the steps: taking the renewable energy output of a supply side as an uncertain variable, and building a flexibility analysis model through combining the energy and mass conservation constraint of the system and the equipment operation condition constraint; the flexibility analysis model can judge whether energy and mass conservation constraints and operation condition constraints of the system can be met by adjusting a scheduling plan of the system or not according to the given configuration capacity of each device under the condition that the output of the renewable energy source on the supply side fluctuates, and calculates the flexibility factor of the system under the fluctuation condition, so that the flexibility of the system is improved. And the capabilities of keeping supply and demand balance and resisting parameter fluctuation of the system are quantified. For the renewable energy hydrogen production system with insufficient flexibility, the bottleneck equipment limiting the stability of the system is identified through the bottleneck identification method, and the bottleneck equipment is used as a basis for further transformation of the renewable energy hydrogen production system."
+                },
+                {
+                    "p": "本发明提供一种不确定性条件下可再生能源制氢系统的灵活性分析和瓶颈识别方法及系统，灵活性分析方法以供给侧的可再生能源出力作为不确定性变量，结合系统的能量、质量守恒约束和设备操作条件约束构建灵活性分析模型，该灵活性分析模型能针对给定的各设备的配置容量，判断在供给侧可再生能源出力发生波动的情况下，能否通过调整系统的调度计划来满足系统的能量、质量守恒约束和操作条件约束，并计算出该波动情况下系统的灵活性因子，以量化系统维持供需平衡、抵抗参数波动的能力。针对灵活性不足的可再生能源制氢系统，本发明通过瓶颈识别方法识别出限制系统稳定能力的瓶颈设备，作为可再生能源制氢系统进一步改造的依据。"
+                }
+            ]
+        }
+    }
+}

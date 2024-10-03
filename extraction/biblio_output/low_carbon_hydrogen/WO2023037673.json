@@ -1,0 +1,244 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "WO",
+                            "doc-number": "2023037673",
+                            "kind": "A1",
+                            "date": "20230316"
+                        },
+                        {
+                            "doc-number": "WO2023037673",
+                            "date": "20230316"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C10G   2/    00            A I                    "
+                        },
+                        {
+                            "text": "C10L   1/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "G",
+                            "main-group": "2",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "L",
+                            "main-group": "1",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "133",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "JP",
+                            "doc-number": "2022022509",
+                            "kind": "W"
+                        },
+                        {
+                            "doc-number": "WO2022JP22509",
+                            "date": "20220602"
+                        },
+                        {
+                            "doc-number": "JP2022/022509"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "WO2021JP33067",
+                                "date": "20210909"
+                            },
+                            {
+                                "doc-number": "PCT/JP2021/033067"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "EUREKA ENG INC [JP]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "株式会社　ユーリカ　エンジニアリング"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ITO SHINZO [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "伊藤　信三"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "SYSTÈME DE PRODUCTION DE COMBUSTIBLE LIQUIDE À L'AIDE DE MÉTHANE NEUTRE EN CARBONE",
+                    "SYSTEM FOR PRODUCING LIQUID FUEL USING CARBON NEUTRAL METHANE",
+                    "カーボンニュートラルメタン使用液体燃料製造システム"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2005517053",
+                                        "name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+                                        "date": "20050609"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2005517053",
+                                        "kind": "A",
+                                        "name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+                                        "date": "20050609"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-5"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2016511296",
+                                        "name": "SAUDI ARABIAN OIL COMPANY",
+                                        "date": "20160414"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2016511296",
+                                        "kind": "A",
+                                        "name": "SAUDI ARABIAN OIL COMPANY",
+                                        "date": "20160414"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-5"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2018525510",
+                                        "name": "FULCRUM BIOENERGY INC",
+                                        "date": "20180906"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2018525510",
+                                        "kind": "A",
+                                        "name": "FULCRUM BIOENERGY INC",
+                                        "date": "20180906"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-5"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2019502533",
+                                        "name": "DOW GLOBAL TECHNOLOGIES LLC",
+                                        "date": "20190131"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2019502533",
+                                        "kind": "A",
+                                        "name": "DOW GLOBAL TECHNOLOGIES LLC",
+                                        "date": "20190131"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-5"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP6999213B",
+                                        "name": "EUREKA ENG INC",
+                                        "date": "20220118"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "6999213",
+                                        "kind": "B1",
+                                        "name": "EUREKA ENG INC",
+                                        "date": "20220118"
+                                    }
+                                ]
+                            },
+                            "category": "PA"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "This system is provided with a condensing turbine power generation device 10, a carbon dioxide gas recovery device 25, a methanation device 30, a synthetic gas production device 40, a liquid fuel synthesis device 50, and a heat transfer device 58. The carbon dioxide recovery device recovers a biomass-derived carbon dioxide gas generated via biomass power generation by the condensing turbine power generation device. The methanation device produces a carbon neutral methane gas from the recovered biomass-derived carbon dioxide gas and a low-carbon hydrogen gas. The synthetic gas production device produces a synthetic gas from the carbon neutral methane gas. The liquid fuel synthesis device synthesizes a liquid fuel crude oil from the synthetic gas. The heat transfer device transfers, to the carbon dioxide gas recovery device, reaction heat generated when the synthesis gas is synthesized into the liquid fuel crude oil in the liquid fuel synthesis device, and heats a CO2-containing absorbing liquid in a regeneration tower 27. Thus, green electric power and a liquid fuel crude oil can be produced in a carbon neutral state and with energy saving by systematically combining the established technologies."
+                },
+                {
+                    "p": "Ce système est pourvu d'un dispositif de production d'électricité par turbine à condensation 10, un dispositif de récupération de dioxyde de carbone gazeux 25, un dispositif de méthanation 30, un dispositif de production de gaz synthétique 40, un dispositif de synthèse de combustible liquide 50 et un dispositif de transfert de chaleur 58. Le dispositif de récupération de dioxyde de carbone récupère du dioxyde de carbone gazeux dérivé de biomasse généré par la production d'énergie de biomasse au moyen du dispositif de production d'électricité par turbine à condensation. Le dispositif de méthanation produit un gaz de méthane neutre en carbone à partir du dioxyde de carbone dérivé de biomasse récupéré et d'un gaz hydrogène à faible teneur en carbone. Le dispositif de production de gaz synthétique produit un gaz synthétique à partir du gaz de méthane neutre en carbone. Le dispositif de synthèse de combustible liquide synthétise une huile brute de combustible liquide à partir du gaz synthétique. Le dispositif de transfert de chaleur transfère, au dispositif de récupération de dioxyde de carbone gazeux, la chaleur de réaction générée lorsque le gaz de synthèse est synthétisé dans l'huile brute de combustible liquide dans le dispositif de synthèse de combustible liquide, et chauffe un liquide absorbant contenant du CO2 dans une tour de régénération 27. Ainsi, une puissance électrique verte et une huile brute de combustible liquide peuvent être produites dans un état neutre en carbone et avec une économie d'énergie par combinaison systématique des technologies établies."
+                },
+                {
+                    "p": "本システムは、復水タービン発電装置１０と、炭酸ガス回収装置２５と、メタネーション装置３０と、合成ガス製造装置４０と、液体燃料合成装置５０と、熱移送装置５８を備える。炭酸ガス回收装置は、復水タービン発電装置がバイオマス発電を行なって生じたバイオマス由来炭酸ガスを回収する。メタネーション装置は回収されたバイオマス由来炭酸ガスと低炭素水素ガスでカーボンニュートラルメタンガスを生成する。合成ガス製造装置は、カーボンニュートラルメタンガスから合成ガスを製造する。液体燃料合成装置は合成ガスから液体燃料粗油を合成する。熱移送装置は、液体燃料合成装置で合成ガスを液体燃料粗油に合成する際に生じる反応熱を炭酸ガス回收装置に熱移動し再生塔２７でＣＯ２含有吸収液を加熱する。これにより、確立した技術を有機的に結合してカーボンニュートラルかつ省エネルギーでグリーン電力および液体燃料粗油を製造することができる。"
+                }
+            ]
+        }
+    }
+}

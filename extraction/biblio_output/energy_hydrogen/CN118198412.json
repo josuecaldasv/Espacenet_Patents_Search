@@ -1,0 +1,145 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118198412",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118198412",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04007            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04014            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04225            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04014",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04059",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04225",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410624714",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410624714",
+                            "date": "20240520"
+                        },
+                        {
+                            "doc-number": "202410624714.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410624714",
+                            "date": "20240520"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "DU QIAN"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "杜谦"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DU QIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杜谦"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Air-cooled hydrogen fuel cell system adapted to high and low temperature environments and operation method",
+                    "一种适应高低温环境的空冷氢燃料电池系统及操作方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides an air-cooled hydrogen fuel cell system suitable for high and low temperature environments and an operation method. The system comprises an electric pile, an air inlet cover, an air exhaust cover, a fan, a backflow air duct, a backflow fan, a fuel cell system controller and a DC/DC converter, a first air inlet and a second air inlet are formed in the air inlet cover, and the sectional area of the first air inlet is larger than that of the second air inlet, so that the air inlet amount can be adjusted within a large range; a temperature and humidity adjusting device is arranged in the backflow air duct and used for adjusting the humidity of backflow air and meanwhile assisting in temperature control. A condensing device is arranged in the exhaust hood and is used for collecting moisture in the tail gas; the fuel cell system further comprises an evaporative cooling system and a dissipation circuit which are used for enhancing heat dissipation of the electric pile in a high-temperature environment and prolonging the service life. Compared with the prior art, the method has the advantages that the problems of low-temperature and low-energy-consumption quick start of the air-cooled hydrogen fuel cell, stable operation in a high-temperature environment and prolonging of the service life of a galvanic pile are solved at the same time."
+                },
+                {
+                    "p": "本发明提供了一种适应高低温环境的空冷氢燃料电池系统及操作方法。系统包括电堆、进风罩、排风罩、住风扇、回流风道、回流风扇、燃料电池系统控制器、DC/DC转换器；所述进风罩上设置有第一进风口和第二进风口，且第一进风口的截面积大于第二进风口的截面积，有利于进风量在较大范围内调节；所述回流风道内设置有温湿度调节装置，用于调节回流气湿度，同时辅助控温；所述排风罩内设置有冷凝装置，用于收集尾气中的水分；所述燃料电池系统还包括蒸发冷却系统和耗散电路，用于增强高温环境中电堆的散热和延长寿命。与现有技术相比，本发明的优点在于同时解决了空冷氢燃料电池低温低能耗快速启动、高温环境中稳定运行以及延长电堆使用寿命的难题。"
+                }
+            ]
+        }
+    }
+}

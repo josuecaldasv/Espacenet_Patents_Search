@@ -1,0 +1,390 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117458021",
+                            "kind": "A",
+                            "date": "20240126"
+                        },
+                        {
+                            "doc-number": "CN117458021",
+                            "date": "20240126"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    02            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    16            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    22            A I                    "
+                        },
+                        {
+                            "text": "H01M   4/   525            A I                    "
+                        },
+                        {
+                            "text": "H01M  10/  0525            A I                    "
+                        },
+                        {
+                            "text": "H01M  10/    54            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "16",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "22",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "525",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "10",
+                            "subgroup": "0525",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "10",
+                            "subgroup": "54",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "2004",
+                            "subgroup": "028",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "W",
+                            "main-group": "30",
+                            "subgroup": "84",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311356309",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311356309",
+                            "date": "20231019"
+                        },
+                        {
+                            "doc-number": "202311356309.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311356309",
+                            "date": "20231019"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV CHANGZHOU"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "常州大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DING ZHENGPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO KUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG YANQING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " REN YURONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁正平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李静, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗鲲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄妍青, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任玉荣"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Waste ternary lithium ion battery positive electrode material recovery method based on sodium sulfate electrolysis",
+                    "一种基于硫酸钠电解的废旧三元锂离子电池正极材料回收方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110010990",
+                                        "name": "SUNWODA ELECTRONIC CO LTD",
+                                        "date": "20190712"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110010990",
+                                        "kind": "A",
+                                        "name": "SUNWODA ELECTRONIC CO LTD",
+                                        "date": "20190712"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111270074",
+                                        "name": "SICHUAN NLET ENERGY TECH CO LTD",
+                                        "date": "20200612"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111270074",
+                                        "kind": "A",
+                                        "name": "SICHUAN NLET ENERGY TECH CO LTD",
+                                        "date": "20200612"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111477986",
+                                        "name": "UNIV CENTRAL SOUTH",
+                                        "date": "20200731"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111477986",
+                                        "kind": "A",
+                                        "name": "UNIV CENTRAL SOUTH",
+                                        "date": "20200731"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111778401",
+                                        "name": "UNIV CHANGZHOU",
+                                        "date": "20201016"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111778401",
+                                        "kind": "A",
+                                        "name": "UNIV CHANGZHOU",
+                                        "date": "20201016"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114381605",
+                                        "name": "UNIV CENTRAL SOUTH                                                                                  ",
+                                        "date": "20220422"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114381605",
+                                        "kind": "A",
+                                        "name": "UNIV CENTRAL SOUTH                                                                                  ",
+                                        "date": "20220422"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114956199",
+                                        "name": "UNIV XI AN JIAOTONG                                                                                 ",
+                                        "date": "20220830"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114956199",
+                                        "kind": "A",
+                                        "name": "UNIV XI AN JIAOTONG                                                                                 ",
+                                        "date": "20220830"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2023155930",
+                                        "name": "BEIJING EASPRING MAT TECH CO LTD                                                                     [CN]",
+                                        "date": "20230824"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2023155930",
+                                        "kind": "A1",
+                                        "name": "BEIJING EASPRING MAT TECH CO LTD                                                                     [CN]",
+                                        "date": "20230824"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116682984",
+                                        "name": "UNIV CHANGZHOU                                                                                      ",
+                                        "date": "20230901"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116682984",
+                                        "kind": "A",
+                                        "name": "UNIV CHANGZHOU                                                                                      ",
+                                        "date": "20230901"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a waste ternary lithium ion battery positive electrode material recovery method based on sodium sulfate electrolysis. The method specifically comprises the following steps: (1) discharging, disassembling and pretreating a waste lithium ion battery; (2) carrying out low-temperature calcination on the separated positive plate to separate a positive recycled material and aluminum foil; (3) electrolyzing sodium sulfate, wherein anode electrolysis products are a sulfuric acid solution and oxygen, and cathode electrolysis products are a sodium hydroxide solution and hydrogen; (4) carrying out acid leaching treatment on the positive electrode material to obtain a leaching solution containing lithium, nickel, cobalt and manganese and acid leaching residues; (5) separating and recycling valuable metal elements in the leachate or resynthesizing the valuable metal elements into a positive electrode material; and (6) preparing the carbon-based metal catalyst from the acid leaching residues. The whole process does not use strong acid and strong alkali, does not generate waste liquid, solves the problem of treatment of industrial wastewater sodium sulfate, is green and environment-friendly, and has the potential of practical industrial application."
+                },
+                {
+                    "p": "本发明公开了一种基于硫酸钠电解的废旧三元锂离子电池正极材料回收方法，具体包括以下步骤：(1)废旧锂离子电池进行放电、拆解和预处理；(2)分离出的正极片低温煅烧分离正极回收料与铝箔；(3)电解硫酸钠，阳极电解产物为硫酸溶液和氧气，阴极电解产物为氢氧化钠溶液和氢气；(4)将正极材料进行酸浸处理，得到含锂、镍、钴、锰的浸出液及酸浸残渣；(5)对浸出液中的有价金属元素进行分离回收或再合成正极材料；(6)酸浸残渣用于制备碳基金属催化剂。整个工艺不仅没有强酸、强碱的使用，不产生废液，还解决了工业废水硫酸钠的处理问题，绿色环保，具有实际工业化应用的潜力。"
+                }
+            ]
+        }
+    }
+}

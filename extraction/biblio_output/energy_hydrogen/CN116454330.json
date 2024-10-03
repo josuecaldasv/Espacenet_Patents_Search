@@ -1,0 +1,203 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116454330",
+                            "kind": "A",
+                            "date": "20230718"
+                        },
+                        {
+                            "doc-number": "CN116454330",
+                            "date": "20230718"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04082            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04089            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04298            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0606            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04089",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04201",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04298",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0606",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310486396",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310486396",
+                            "date": "20230428"
+                        },
+                        {
+                            "doc-number": "202310486396.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310486396",
+                            "date": "20230428"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA THREE GORGES CORP"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国长江三峡集团有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI QIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAN JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIANG TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YAN AN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李倩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "颜俊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "梁涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "颜安"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Renewable energy hydrogen production energy storage power generation system, method and device",
+                    "一种可再生能源制氢储能发电系统、方法及装置"
+                ],
+                "references-cited": {
+                    "citation": {
+                        "patcit": {
+                            "document-id": [
+                                {
+                                    "doc-number": "CN115693726",
+                                    "name": "NINGBO ZHOUSHAN PORT GROUP CO LTD",
+                                    "date": "20230203"
+                                },
+                                {
+                                    "country": "CN",
+                                    "doc-number": "115693726",
+                                    "kind": "A",
+                                    "name": "NINGBO ZHOUSHAN PORT GROUP CO LTD",
+                                    "date": "20230203"
+                                }
+                            ]
+                        },
+                        "category": "X",
+                        "rel-claims": "1-10",
+                        "rel-passage": {
+                            "passage": "* 说明书第51-123段、图1-3 *"
+                        }
+                    }
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a renewable energy hydrogen production, energy storage and power generation system, method and device, the system is connected with electric equipment, a hydrogen production system is configured through renewable energy generating capacity, and meanwhile the hydrogen production system is used for obtaining the produced first hydrogen amount; and determining a second hydrogen amount required by the hydrogen fuel cell power generation system according to the power consumption demand of the electric equipment. Furthermore, the second hydrogen amount is compared with the first hydrogen amount, the hydrogen storage amount needing to be stored by the hydrogen storage system can be obtained, and the hydrogen storage system is configured according to the hydrogen storage amount, so that configuration among subsystems in the renewable energy hydrogen production and energy storage power generation system is coordinated, and the energy storage efficiency is improved. And the safety, the economical efficiency and the stability of the renewable energy hydrogen production energy storage power generation system during operation are guaranteed."
+                },
+                {
+                    "p": "本发明公开了一种可再生能源制氢储能发电系统、方法及装置，所述系统与用电设备连接，通过可再生能源发电量配置制氢系统，同时利用制氢系统获得制取的第一氢气量；通过用电设备的用电需求量确定氢燃料电池发电系统需要的第二氢气量。进一步，将该第二氢气量与第一氢气量比对，可以得到储氢系统需要存储的氢气存储量，并根据该氢气存储量配置储氢系统，使得可再生能源制氢储能发电系统中的各个子系统之间的配置都是协调的，保障了可再生能源制氢储能发电系统运行时的安全性、经济性和稳定性。"
+                }
+            ]
+        }
+    }
+}

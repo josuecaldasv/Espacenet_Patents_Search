@@ -1,0 +1,179 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2023260592",
+                            "kind": "A1",
+                            "date": "20230817"
+                        },
+                        {
+                            "doc-number": "US2023260592",
+                            "date": "20230817"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G16B  15/    20            A I                    "
+                        },
+                        {
+                            "text": "G16B  15/    30            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "16",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "16",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "16",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "16",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "16",
+                            "subclass": "B",
+                            "main-group": "40",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "202217984660",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US202217984660",
+                            "date": "20221110"
+                        },
+                        {
+                            "doc-number": "17984660"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "CN202210138581",
+                                "date": "20220215"
+                            },
+                            {
+                                "doc-number": "202210138581.X"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HARBIN INST TECHNOLOGY [CN]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "Harbin Institute of Technology"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YANG LIN [CN]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HOU CHENGYU [CN]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIAO CHENCHEN [CN]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE XIAODONG [CN]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "Yang, Lin, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "Hou, Chengyu, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "Liao, Chenchen, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "He, Xiaodong"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Method and Device for Protein-Protein Docking Based on Identification of Low-Entropy Hydration Layer on Protein Surface"
+            },
+            "abstract": {
+                "p": "Provided is a method and a device for protein-protein docking based on identification of a low-entropy hydration layer on a protein surface. Hydrophobic groups on a protein surface and hydrophobic groups containing a small amount of oxygen and nitrogen atoms, as well as some hydrophilic groups in intramolecular hydrogen bonds formed on the protein surface are identified as low-entropy areas. In a computer program, according to a low-entropy hydration layer theory on the protein surface, some nitrogen and oxygen hydrophilic atoms of the protein are changed into hydrophobic carbon atoms; the protein surface is cut into multiple planes, atoms in a hydrophobic connection region are selected in each plane, an area and a shape of surface atoms are calculated in each hydrophobic connection region, and a plane is selected with a maximum hydrophobic connection area; a protein-protein docking site is predicted using the connection region as a possible docking site."
+            }
+        }
+    }
+}

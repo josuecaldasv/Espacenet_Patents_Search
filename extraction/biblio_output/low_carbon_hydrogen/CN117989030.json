@@ -1,0 +1,191 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117989030",
+                            "kind": "A",
+                            "date": "20240507"
+                        },
+                        {
+                            "doc-number": "CN117989030",
+                            "date": "20240507"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F02M  43/    04            A I                    "
+                        },
+                        {
+                            "text": "F02M  47/    02            A I                    "
+                        },
+                        {
+                            "text": "F02M  51/    06            A I                    "
+                        },
+                        {
+                            "text": "F02M  61/    10            A I                    "
+                        },
+                        {
+                            "text": "F02M  61/    16            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "43",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "47",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "51",
+                            "subgroup": "061",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "61",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "61",
+                            "subgroup": "16",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410123178",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410123178",
+                            "date": "20240130"
+                        },
+                        {
+                            "doc-number": "202410123178.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410123178",
+                            "date": "20240130"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHONGQING HONGJIANG MACHINERY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "重庆红江机械有限责任公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TU TIANHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU HUIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WAN GUOMENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "涂天华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘惠娥, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "万国猛"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Ejector suitable for multiple fuels",
+                    "一种适用多燃料的喷射器"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an injector suitable for multiple fuels, which can be used for injecting low-carbon and zero-carbon fuels and petrochemical fuels through a main combustion injector and an ignition injector respectively so as to achieve the purpose of mixed use of two or more fuels. Pilot fuel can be introduced into a first control cavity in the main fuel injector through a second oil inlet channel, so that the pilot fuel can provide hydraulic driving force for main fuel injection in the first control cavity, the purpose of driving main fuel injection is achieved, and the situation that a special servo oil system is independently arranged to provide power for main fuel injection is avoided; and the reliability of the ejector is effectively improved. When low-carbon zero-carbon fuel such as methanol, liquid ammonia and liquid hydrogen is used as main fuel, as ignition fuel enters the first control cavity to provide driving force for the main fuel, the low-carbon zero-carbon fuel such as methanol, liquid ammonia and liquid hydrogen is prevented from entering the first control cavity and the first cavity communicated with the first control cavity; and therefore, corrosion damage to a control device is avoided."
+                },
+                {
+                    "p": "本发明公开了一种适用多燃料的喷射器，可通过主燃喷射器和引燃喷射器分别用于喷射低碳零碳燃料与石化燃料，以达到两种或多种燃料混合使用的目的；其中，引燃燃料可通过第二进油道通入主燃喷射器中的第一控制腔，使得引燃燃料能够在第一控制腔为主燃料喷射提供液压驱动力，达到驱动主燃料喷射的目的，避免单独设置专用伺服油系统来为主燃料喷射提供动力，有效提高喷射器的可靠性。当将甲醇、液氨、液氢等低碳零碳燃料作为主燃料时，由于引燃燃料进入到第一控制腔为主燃料提供驱动力，因此避免了甲醇、液氨、液氢等低碳零碳燃料进入到第一控制腔以及与第一控制腔连通的第一空腔，进而避免对控制器件的造成腐蚀损伤。"
+                }
+            ]
+        }
+    }
+}

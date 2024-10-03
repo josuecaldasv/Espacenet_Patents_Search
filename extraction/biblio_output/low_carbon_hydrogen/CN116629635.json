@@ -1,0 +1,228 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116629635",
+                            "kind": "A",
+                            "date": "20230822"
+                        },
+                        {
+                            "doc-number": "CN116629635",
+                            "date": "20230822"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06N   3/   006            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0637            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0201            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "N",
+                            "main-group": "3",
+                            "subgroup": "006",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06375",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0206",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310587252",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310587252",
+                            "date": "20230523"
+                        },
+                        {
+                            "doc-number": "202310587252.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310587252",
+                            "date": "20230523"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "STATE GRID SHANGHAI MUNICIPAL ELECTRIC POWER CO"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " STATE GRID SHANGHAI COMPREHENSIVE ENERGY SERVICE CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国网上海市电力公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国网上海综合能源服务有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG LIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DOU ZHENLAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG ZHENYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " OH JOO-YOUNG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG CHUNYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE LINYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU HANCHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HAN DONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王炼, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "窦真兰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨震一, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴珠瑛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张春雁, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贺林钰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐瀚诚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "韩冬"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Layered optimization method for low-carbon energy and traffic system under dynamic hydrogen pricing",
+                    "一种动态氢定价下低碳能源与交通系统的分层优化方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a layered optimization method for a low-carbon energy and traffic system under dynamic hydrogen pricing, and provides an energy traffic system layered optimization model based on dynamic hydrogen pricing and solving through a subwolf algorithm (COA) to realize the economic low-carbon property of a distributed energy station (DES) and a hydrogen fuel vehicle (HFCV). First, a dynamic hydrogen pricing mechanism related to the proportion of renewable energy to energy supply is proposed and embedded into an optimization process to promote hydrogen production from renewable energy and reduce DES operating costs. Then, the equivalently polymerized HFCV is subjected to balanced hydrogenation under the guidance of dynamic hydrogen valence, so that the optimal hydrogenation amount and hydrogenation time of the HFCV are determined. And finally, hydrogen fuel automobile hydrogenation balance and lowest cost path selection are realized. According to the method, coordinated optimization of the energy and the traffic system can be promoted to improve the economic low-carbon property of the energy and the traffic system, and the influence of dynamic hydrogen pricing on the performance of the energy and the traffic system is optimized."
+                },
+                {
+                    "p": "本发明公开了一种动态氢定价下低碳能源与交通系统的分层优化方法，提出基于动态氢定价的能源交通系统分层优化模型并通过郊狼算法(COA)求解，实现分布式能源站(DES)和氢燃料汽车(HFCV)的经济低碳性。首先，一种与可再生能源占能源供应比例相关的动态氢定价机制被提出并嵌入优化过程中，以促进可再生能源制氢和降低DES运行成本。然后，等价聚合的HFCV在动态氢价的指导下实现均衡加氢，从而确定HFCV的最优加氢量及加氢时间。最后实现氢燃料汽车加氢平衡和最低成本路径选择。本发明能够促进能源和交通系统的协调优化以提高两者的经济低碳性，并优化动态氢定价对能源和交通系统性能的影响。"
+                }
+            ]
+        }
+    }
+}

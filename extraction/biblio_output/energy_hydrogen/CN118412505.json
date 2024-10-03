@@ -1,0 +1,141 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118412505",
+                            "kind": "A",
+                            "date": "20240730"
+                        },
+                        {
+                            "doc-number": "CN118412505",
+                            "date": "20240730"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04007            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04029            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04082            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04089            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0662            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410842197",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410842197",
+                            "date": "20240626"
+                        },
+                        {
+                            "doc-number": "202410842197.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410842197",
+                            "date": "20240626"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GUANGDONG WULIGONG HYDROGEN ENERGY INDUSTRY TECH RESEARCH INSTITUTE"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "广东省武理工氢能产业技术研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG RUIMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU RUOLU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU ZHUOFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FENG ZHIQING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张锐明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘若璐, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴焯峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "冯芷晴"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Integrated fuel cell stack and control method thereof",
+                    "一种一体化燃料电池堆及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of fuel cells, and discloses an integrated fuel cell stack and a control method thereof. According to the invention, a fuel cell main electric pile and an electrochemical purification sub-pile are integrated, hydrogen containing trace impurities enters the main electric pile for reaction, and excessive hydrogen containing impurities flows out of the main electric pile and then enters the electrochemical purification sub-pile using a metal bipolar plate; and the impurity gas is directly discharged, and the purified hydrogen returns to the hydrogen inlet end of the main electric pile again and is converged with the hydrogen which flows in from the gas inlet freshly. The current of the external power supply of the electrochemical purification sub-stack can be quickly adjusted according to the power and current requirements of the stack, so that the quick adjustment of the circulating hydrogen flow is realized, the flow of hydrogen entering the stack is ensured, and the performance of the fuel cell stack is improved. The volume of the purification sub-stack is only dozens of that of the main stack, moving parts and complex connecting pipelines do not need to be used, and the cost and the volume of the fuel cell system can be reduced."
+                },
+                {
+                    "p": "本发明涉及燃料电池技术领域，公开一种一体化燃料电池堆及其控制方法。本发明将燃料电池主电堆与电化学纯化子堆集成，含微量杂质的氢气进入主电堆反应，过量含杂质的氢气流出主电堆后进入使用金属双极板的电化学纯化子堆，杂质气体被直接排出而经过纯化的氢气再次返回主电堆的氢气入口端与进气口新鲜流入的氢气汇合。电化学纯化子堆的外接电源电流大小可以根据电堆的功率和电流需求来快速调节，实现循环氢气流量的快速调节，保证了进入电堆的氢气流量，提高燃料电池电堆的性能。本发明中纯化子堆的体积仅为主堆的十几分之一，无需使用运动部件和复杂的连接管路，可降低燃料电池系统的成本及体积。"
+                }
+            ]
+        }
+    }
+}

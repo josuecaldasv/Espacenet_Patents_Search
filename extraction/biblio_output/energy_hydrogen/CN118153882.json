@@ -1,0 +1,145 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118153882",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118153882",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0201            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "0631",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06315",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0206",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410328911",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410328911",
+                            "date": "20240321"
+                        },
+                        {
+                            "doc-number": "202410328911.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410328911",
+                            "date": "20240321"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV CHINA THREE GORGES CTGU"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "三峡大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TAN KAIYIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谭凯尹"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Multi-virtual power plant double-layer optimization scheduling method based on supply-demand relationship pricing",
+                    "一种基于供需关系定价的多虚拟电厂双层优化调度方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a multi-virtual power plant double-layer optimization scheduling method based on supply and demand relationship pricing, which comprises the following steps: analyzing the relationship between hydrogen flow and electric power of a reversible solid oxide battery through a Butler-Volmer equation and a Faraday law, and establishing equivalent physical models of two working modes of the reversible solid oxide battery; an inter-VPP direct transaction mechanism is introduced, the VPP is allowed to participate in the electricity market after the electricity transaction, and the inter-VPP direct transaction electricity price is jointly determined by the electricity supply and demand relationship of the VPP and the market price; according to a reversible solid oxide battery model and a direct transaction mechanism between VPP, a multi-virtual power plant double-layer scheduling model based on supply and demand relationship pricing is established, the upper layer maximizes the profit of a system operator, and the lower layer realizes VPP operation cost minimization by managing transaction electric quantity; and converting the double-layer model into a single-layer problem to solve by adopting a KKT condition. According to the invention, the new energy consumption capability of the VPP is improved, energy sharing among different VPPs is realized, and the operation cost of the VPP is reduced."
+                },
+                {
+                    "p": "本发明提供一种基于供需关系定价的多虚拟电厂双层优化调度方法，包括以下步骤：通过Butler‑Volmer方程和法拉第定律分析氢气流量与可逆固体氧化物电池电功率之间的关系，建立可逆固体氧化物电池两种工作模式的等效物理模型；引入VPP间直接交易机制，允许VPP间电力交易后再参与电力市场，VPP间直接交易电价由VPP的电量供需关系和市场价格共同决定；根据可逆固体氧化物电池模型和VPP间直接交易机制，建立一种基于供需关系定价的多虚拟电厂双层调度模型，上层最大化系统运营商的利润，下层通过管理交易电量实现VPP运行成本最小化；采用KKT条件将双层模型转化为单层问题求解。本发明提高了VPP的新能源消纳能力，实现不同VPP间能量共享，降低了VPP的运行成本。"
+                }
+            ]
+        }
+    }
+}

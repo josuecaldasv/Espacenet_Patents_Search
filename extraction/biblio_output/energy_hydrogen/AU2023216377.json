@@ -1,0 +1,181 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "AU",
+                            "doc-number": "2023216377",
+                            "kind": "A1",
+                            "date": "20240815"
+                        },
+                        {
+                            "doc-number": "AU2023216377",
+                            "date": "20240815"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F04C  23/    00            C I                    "
+                        },
+                        {
+                            "text": "F04B  37/    18            A I                    "
+                        },
+                        {
+                            "text": "F04B  41/    06            A I                    "
+                        },
+                        {
+                            "text": "F04D  17/    12            A I                    "
+                        },
+                        {
+                            "text": "F04D  25/    16            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "37",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "04",
+                            "subclass": "B",
+                            "main-group": "41",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "04",
+                            "subclass": "D",
+                            "main-group": "25",
+                            "subgroup": "163",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "04",
+                            "subclass": "C",
+                            "main-group": "23",
+                            "subgroup": "005",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "04",
+                            "subclass": "C",
+                            "main-group": "2210",
+                            "subgroup": "224",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "AU",
+                            "doc-number": "2023216377",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "AU20230216377",
+                            "date": "20230109"
+                        },
+                        {
+                            "doc-number": "2023216377"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "EP20220155337",
+                                    "date": "20220207"
+                                },
+                                {
+                                    "doc-number": "22155337.3"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "WO2023EP50285",
+                                    "date": "20230109"
+                                },
+                                {
+                                    "doc-number": "EP2023/050285"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SIEMENS ENERGY GLOBAL GMBH & CO KG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "SIEMENS ENERGY GLOBAL GMBH & CO. KG"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "MEYER-GLITZA MATTHIAS"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MINY KEVIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "MEYER-GLITZA, Matthias, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "MINY, Kevin"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "HYDROGEN COMPRESSOR"
+            },
+            "abstract": {
+                "p": "The invention relates to a compression arrangement (1) for compressing hydrogen, comprising at least eight compressors of a first type (2) which, on the inlet side, are fluidically connected to a hydrogen inlet line, at least two compressors of a second type (3) which, on the inlet side, are fluidically connected to the outlet of the compressors of the first type (2), at least one compressor of a third type (4) which, on the inlet side, is fluidically connected to the outlet of the compressors of the second type (3), at least one compressor of a fourth type (5) which, on the inlet side, is fluidically connected to the outlet of the compressor of the third type (4)."
+            }
+        }
+    }
+}

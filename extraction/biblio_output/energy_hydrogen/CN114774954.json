@@ -1,0 +1,135 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "114774954",
+                            "kind": "A",
+                            "date": "20220722"
+                        },
+                        {
+                            "doc-number": "CN114774954",
+                            "date": "20220722"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "60",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "65",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202210221435",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202210221435",
+                            "date": "20220307"
+                        },
+                        {
+                            "doc-number": "202210221435.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202210221435",
+                            "date": "20220307"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CUI HAILIANG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "崔海亮"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CUI HAILIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "崔海亮"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Multi-energy hydrogen production and energy storage system",
+                    "一种多能源式制氢储能系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a multi-energy hydrogen production and energy storage system, which belongs to the field of hydrogen energy storage, and comprises a central module, a power generation module and a power supply module, the central module is connected with a power generation amount presumption module and a power consumption prediction module, and the power generation amount presumption module is used for presuming the power generation amount of the power generation module. The power consumption prediction module is used for predicting the power consumption of the power supply module, the power generation module further comprises a quantitative power generation module and a variable power generation module, the power supply module is further connected with a water electrolysis system, hydrogen is produced through water electrolysis for energy storage, the power generation amount can be effectively and reasonably utilized, the peak period of the power consumption is avoided, and therefore energy consumption is greatly reduced; in addition, hydrogen and oxygen can be separated through the partition plate and the movable plate, mixing is avoided, meanwhile, a catalyst can be automatically supplemented, the catalyst and pure water are fully mixed, and therefore the hydrogen production effect is improved."
+                },
+                {
+                    "p": "本发明公开了一种多能源式制氢储能系统，属于氢储能领域，包括中央模块、发电模块、供电模块，所述中央模块分别连接有发电量推定模块和用电量预测模块，所述发电量推定模块用于推定发电模块的发电量，所述用电量预测模块用于预测供电模块的用电量，所述发电模块还包括定量发电模块和变量发电模块，所述供电模块还连接有电解水系统，以电解水制氢储能，可以实现有效、合理地利用发电量，避开用电量的高峰期，从而极大节约能耗，提高制氢效率，另外，通过隔板和活动板能够隔开氢氧，避免混杂，同时又能够自动补入催化剂，并且使得催化剂与纯水充分混合，从而提高制氢效果。"
+                }
+            ]
+        }
+    }
+}

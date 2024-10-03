@@ -1,0 +1,407 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "113980174",
+                            "kind": "A",
+                            "date": "20220128"
+                        },
+                        {
+                            "doc-number": "CN113980174",
+                            "date": "20220128"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C08F   8/    44            A I                    "
+                        },
+                        {
+                            "text": "C08F 220/    06            A I                    "
+                        },
+                        {
+                            "text": "C08F 220/    56            A I                    "
+                        },
+                        {
+                            "text": "H01M   4/    62            A I                    "
+                        },
+                        {
+                            "text": "H01M  10/  0525            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "8",
+                            "subgroup": "44",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "F",
+                            "main-group": "220",
+                            "subgroup": "56",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "622",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "10",
+                            "subgroup": "0525",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F8/44",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F220/56",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F220/56",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08F220/06",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202111277414",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202111277414",
+                            "date": "20211029"
+                        },
+                        {
+                            "doc-number": "202111277414.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202111277414",
+                            "date": "20211029"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV XI AN JIAOTONG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西安交通大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SONG JIANGXUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG ZHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋江选, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张祯"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Coordination bond enhanced negative electrode adhesive, preparation method and application thereof",
+                    "一种配位键增强的负极粘合剂及其制备方法及其应用"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103460461",
+                                        "name": "NEXEON LTD",
+                                        "date": "20131218"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103460461",
+                                        "kind": "A",
+                                        "name": "NEXEON LTD",
+                                        "date": "20131218"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107641484",
+                                        "name": "SAMSUNG ELECTRONICS CO LTD, et al",
+                                        "date": "20180130"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107641484",
+                                        "kind": "A",
+                                        "name": "SAMSUNG ELECTRONICS CO LTD, et al",
+                                        "date": "20180130"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108140839",
+                                        "name": "TOAGOSEI CO LTD",
+                                        "date": "20180608"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108140839",
+                                        "kind": "A",
+                                        "name": "TOAGOSEI CO LTD",
+                                        "date": "20180608"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110350195",
+                                        "name": "UNIV BEIJING SCIENCE & TECH",
+                                        "date": "20191018"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110350195",
+                                        "kind": "A",
+                                        "name": "UNIV BEIJING SCIENCE & TECH",
+                                        "date": "20191018"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111180733",
+                                        "name": "UNIV SOUTHERN SCI & TECH",
+                                        "date": "20200519"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111180733",
+                                        "kind": "A",
+                                        "name": "UNIV SOUTHERN SCI & TECH",
+                                        "date": "20200519"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111430712",
+                                        "name": "UNIV SHANGHAI ELECTRIC POWER",
+                                        "date": "20200717"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111430712",
+                                        "kind": "A",
+                                        "name": "UNIV SHANGHAI ELECTRIC POWER",
+                                        "date": "20200717"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2020205162",
+                                        "name": "ARAKAWA CHEM IND",
+                                        "date": "20201224"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2020205162",
+                                        "kind": "A",
+                                        "name": "ARAKAWA CHEM IND",
+                                        "date": "20201224"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2021083262",
+                                        "name": "IKEYATSU KATSUHIKO [JP], et al",
+                                        "date": "20210318"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2021083262",
+                                        "kind": "A1",
+                                        "name": "IKEYATSU KATSUHIKO [JP], et al",
+                                        "date": "20210318"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a coordination bond enhanced negative electrode adhesive, a preparation method and application thereof, wherein the adhesive is formed by copolymerization of propionamide and acrylic acid, and then the mechanical property of the adhesive is enhanced by introducing Fe<3+> and COO<-> to form an example coordination bond. According to the invention, the adhesive is simple in preparation method, good in stability and high in adhesive force, the stability of an electrode structure under large-volume expansion can be effectively improved through a chemical cross-linked network structure, the adhesive force of the adhesive is jointly improved through double hydrogen bonds and coordination bonds, and when a silicon negative electrode is subjected to large-volume deformation, a part of low-energy hydrogen bonds break to dissipate stress accumulation caused by volume change, and high-energy coordination bonds and a cross-linked network structure maintain the stability of the electrode structure; and the negative electrode prepared from the adhesive shows good cycle stability."
+                },
+                {
+                    "p": "本发明公开了一种配位键增强的负极粘合剂及其制备方法及其应用，该粘合剂由丙酰胺和丙烯酸共聚而成，随后通过引入Fe3+与COO‑之间形成例子配位键，增强粘合剂的力学性能。本发明粘合剂制备方法简单，稳定性好，粘附力高，化学交联网状结构可以有效提高大体积膨胀下电极结构的稳定性，其中的双重氢键和配位键，共同提升粘合剂的粘附力，在硅负极发生大体积形变时，一部分低能量氢键断裂耗散体积变化造成的应力堆积，高能配位键和交联网状结构维持电极结构的稳定性。由该粘合剂制备的负极表现出良好的循环稳定性。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "115940284",
+                            "kind": "A",
+                            "date": "20230407"
+                        },
+                        {
+                            "doc-number": "CN115940284",
+                            "date": "20230407"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    14            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211221390",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211221390",
+                            "date": "20221008"
+                        },
+                        {
+                            "doc-number": "202211221390.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211221390",
+                            "date": "20221008"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA DATANG CORP SCI & TECH RES INST CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " UNIV ZHEJIANG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国大唐集团科学技术研究总院有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "浙江大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHAO JIANYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " NIAN HENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN LEILEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN DAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG ZHENXIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU ZIWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIA TIANQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵建勇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "年珩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈磊磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙丹, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张震霄, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "余紫薇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "夏天奇"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Operation control strategy of new energy hydrogen production system considering time-of-use electricity price",
+                    "一种考虑分时电价的新能源制氢系统的运行控制策略"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an operation control strategy of a new energy hydrogen production system considering time-of-use electricity price, and belongs to the technical field of electric hydrogen production system control. Firstly, a hydrogen production load tracking strategy is executed, and current new energy power generation power surplus or water electrolysis hydrogen production power vacancy is calculated; secondly, when the hydrogen production power is vacant, a time-of-use electricity price operation mode is entered, and when the new energy power generation power is surplus, a surplus electricity networking operation mode is entered; then, energy storage state judgment, converter state judgment or time-of-use electricity price judgment are carried out on the two operation modes, and corresponding operation control strategies are executed; and finally, iterative calculation is carried out until a set time length is reached, an optimization objective function or a fitness function of the system under the current capacity configuration scheme is solved according to an iterative calculation result, and then an optimal capacity configuration scheme of the system is determined. The system can fully guarantee stable power obtaining of the hydrogen production load, fully utilizes wind energy and solar energy, reduces abandoned wind and abandoned light, and facilitates economical and efficient operation of the whole system."
+                },
+                {
+                    "p": "本发明公开了一种考虑分时电价的新能源制氢系统的运行控制策略，属于电制氢系统控制技术领域。首先执行制氢负荷跟踪策略，计算当前新能源发电功率盈余或电解水制氢功率缺额；其次，制氢功率存在缺额时，进入分时电价运行模式，新能源发电功率出现盈余时，进入余电上网运行模式；然后，对两种运行模式进行储能状态判断、变流器状态判断或分时电价判断，执行相应运行控制策略；最后，迭代计算直至达到设定时长时，根据迭代计算结果求解当前容量配置方案下系统的优化目标函数或适应度函数，进而确定系统的最优容量配置方案。本发明可以充分保障制氢负荷的稳定得电，充分利用风能和太阳能，减少弃风弃光，有利于整个系统经济高效地运行。"
+                }
+            ]
+        }
+    }
+}

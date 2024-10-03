@@ -1,0 +1,141 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118422235",
+                            "kind": "A",
+                            "date": "20240802"
+                        },
+                        {
+                            "doc-number": "CN118422235",
+                            "date": "20240802"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    23            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    67            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    08            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410406221",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410406221",
+                            "date": "20240407"
+                        },
+                        {
+                            "doc-number": "202410406221.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410406221",
+                            "date": "20240407"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ELECTRIC POWER SCIENT RESEARCH INSTITUTE OF STATE GRID ZHEJIANG ELECTRIC POWER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国网浙江省电力有限公司电力科学研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LV HONGKUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DING LIWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " AKIYASU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HOU CHENGLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吕洪坤, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁历威, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "章康, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "侯成龙"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Heat-hydrogen co-production system based on PEM water electrolysis hydrogen production and control method of heat-hydrogen co-production system",
+                    "基于PEM电解水制氢的热-氢联产系统及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a heat-hydrogen co-production system based on PEM water electrolysis hydrogen production and a control method thereof, and aims to solve the problems that an existing PEM water electrolysis hydrogen production system is unreasonable in configuration and low in heat recovery utilization rate, and the technical scheme is that the heat-hydrogen co-production system based on PEM water electrolysis hydrogen production comprises a warm water pipe network system comprising a water supply pipe network and a water return pipe network; and the PEM electrolytic hydrogen production system comprises an electrolytic tank powered by a power supply for electrolysis, and an oxygen separator and a hydrogen separator which are respectively connected with the electrolytic tank, the electrolytic tank is connected with the water return pipe network, and the oxygen separator and the hydrogen separator are both connected with the water supply pipe network. According to the system, the PEM electrolytic hydrogen production system can be reasonably configured so as to recover heat energy, and better starting performance and higher energy utilization efficiency can be achieved. The invention further provides a control method of the system, and the influence of the temperature on the hydrogen production efficiency when the PEM electrolytic hydrogen production system is started again can be effectively reduced."
+                },
+                {
+                    "p": "本发明为基于PEM电解水制氢的热‑氢联产系统及其控制方法，针对现有PEM电解制氢系统配置不合理、热量回收利用率低的问题，采用技术方案如下：基于PEM电解水制氢的热‑氢联产系统，包括：暖水管网系统，包括供水管网和回水管网；PEM电解制氢系统，包括通过电源供电进行电解的电解槽，以及分别连接电解槽的氧分离器和氢分离器，电解槽连接所述回水管网，氧分离器和氢分离器均连接所述供水管网。该系统既能合理配置PEM电解制氢系统从而回收热能，又能实现更好的启动性能和更高的能源利用效率。本发明还提供该系统的控制方法，能够有效降低PEM电解制氢系统再次启动时温度对产氢效率的影响。"
+                }
+            ]
+        }
+    }
+}

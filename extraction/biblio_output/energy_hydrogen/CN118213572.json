@@ -1,0 +1,188 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118213572",
+                            "kind": "A",
+                            "date": "20240618"
+                        },
+                        {
+                            "doc-number": "CN118213572",
+                            "date": "20240618"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04664            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04858            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04955            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "3",
+                            "subgroup": "0053",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04679",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0494",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04955",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410392908",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410392908",
+                            "date": "20240402"
+                        },
+                        {
+                            "doc-number": "202410392908.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410392908",
+                            "date": "20240402"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WEICHAI BALADE HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "潍柴巴拉德氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU HUANDONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JING SHIQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG HAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN YANTAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIA BAOJUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘焕东, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "景世强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王浩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙言涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贾宝娟"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fuel cell box purging anomaly detection method and device, vehicle and storage medium",
+                    "燃料电池箱体吹扫异常检测方法、装置、车辆及存储介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of vehicles, and particularly discloses a fuel cell box purging anomaly detection method and device, a vehicle and a storage medium. According to the fuel cell box purging anomaly detection method, the working state of a one-way valve is detected in real time; the actual time proportion of the one-way valve in the closed state within the time t1 is counted, if the actual time proportion exceeds the first set time proportion, it is indicated that the closing time of the one-way valve within the time t1 is too long, it is indicated that pressure cannot be built in the box body due to serious sealing failure of the box body, hydrogen in the box body cannot be discharged in time, and large potential safety hazards exist. Therefore, the accumulation degree of hydrogen in the box body is reduced by limiting the power generation power of the fuel cell, so that the driving safety is ensured."
+                },
+                {
+                    "p": "本发明涉及车辆技术领域，具体公开了一种燃料电池箱体吹扫异常检测方法、装置、车辆及存储介质，该燃料电池箱体吹扫异常检测方法通过实时检测单向阀的工作状态，当单向阀处于关闭状态时，统计在时间t1内单向阀处于关闭状态的实际时间占比，若实际时间占比超过第一设定时间占比，表明在时间t1内单向阀关闭时间过长，表明箱体密封失效严重导致箱体内无法建压，箱体内的氢气无法及时排出，具有较大的安全隐患，因此通过限制燃料电池的发电功率，进而降低箱体内氢气的积聚程度，以保证行车安全。"
+                }
+            ]
+        }
+    }
+}

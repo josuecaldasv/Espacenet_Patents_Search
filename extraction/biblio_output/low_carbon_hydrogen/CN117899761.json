@@ -1,0 +1,218 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117899761",
+                            "kind": "A",
+                            "date": "20240419"
+                        },
+                        {
+                            "doc-number": "CN117899761",
+                            "date": "20240419"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J   8/    22            A I                    "
+                        },
+                        {
+                            "text": "C07C   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C07C  11/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "8",
+                            "subgroup": "22",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "1",
+                            "subgroup": "041",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C1/041",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C11/02",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211239054",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211239054",
+                            "date": "20221011"
+                        },
+                        {
+                            "doc-number": "202211239054.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211239054",
+                            "date": "20221011"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHN ENERGY INVEST GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " NAT INST CLEAN & LOW CARBON ENERGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家能源投资集团有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京低碳清洁能源研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DU BING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BU YIFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO YONGMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TONG RUILI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MEN ZHUOWU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LYU YIJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杜冰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卜亿峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵用明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "佟瑞利, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "门卓武, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吕毅军"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Comprehensive utilization system and method for preparing hydrocarbon from synthesis gas",
+                    "一种合成气制烃的综合利用系统及方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The comprehensive utilization method comprises the following steps: 1) introducing the synthesis gas into a slurry bed reactor A of a first Fischer-Tropsch synthesis unit, and carrying out a gas-liquid-solid three-phase high-temperature and high-pressure Fischer-Tropsch synthesis reaction under the action of a catalyst; 2) feeding a gaseous reaction product in the slurry bed reactor A into a gas-liquid separation unit A; (3) the non-condensable gaseous product enters an olefin separation unit A, and separated tail gas enters a slurry bed reactor B of a second Fischer-Tropsch synthesis unit and continues to be subjected to a Fischer-Tropsch synthesis reaction with hydrogen; 4) feeding a gaseous reaction product in the slurry bed reactor B into the gas-liquid separation unit B; and 5) feeding the non-condensable gaseous product into a tail gas treatment unit to obtain olefin, alkane and CO2. According to the method, the treatment capacity of the reactor can be improved, the device investment can be reduced, high-added-value olefins can be increased, the yield of low-economic-value products such as CH4 and CO2 can be reduced, and the comprehensive utilization efficiency of the synthesis gas can be improved."
+                },
+                {
+                    "p": "本发明公开了一种合成气制烃的综合利用系统及方法，包括：1)将合成气通入第一费托合成单元的浆态床反应器A中，并在催化剂作用下，进行气‑液‑固三相高温高压费托合成反应；2)浆态床反应器A中的气态反应产物进入气‑液分离单元A中；3)不可冷凝气态产物进入烯烃分离单元A，分离后的尾气进入第二费托合成单元的浆态床反应器B中，与氢气继续进行费托合成反应；4)浆态床反应器B中的气态反应产物进入所述气‑液分离单元B中；5)不可冷凝气态产物进入尾气处理单元，得到烯烃、烷烃和CO2。本发明既能提高反应器的处理量、降低装置投资，又能增产高附加值的烯烃，降低CH4和CO2等低经济价值的产物产率，提高合成气的综合利用效率。"
+                }
+            ]
+        }
+    }
+}

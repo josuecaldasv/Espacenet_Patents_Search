@@ -1,0 +1,184 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118326410",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118326410",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    23            A I                    "
+                        },
+                        {
+                            "text": "C25B   3/    03            A I                    "
+                        },
+                        {
+                            "text": "C25B   3/    26            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    70            A I                    "
+                        },
+                        {
+                            "text": "F03D   9/    00            A I                    "
+                        },
+                        {
+                            "text": "F03D   9/    19            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  1246            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410466581",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410466581",
+                            "date": "20240418"
+                        },
+                        {
+                            "doc-number": "202410466581.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410466581",
+                            "date": "20240418"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING SWEET NEW ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京思伟特新能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SUN CHANGJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YAODONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU CHANGMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN YOUPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU HAORAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙长建, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王晶, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张耀东, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡常明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈有鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡浩然"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Solid oxide electrolysis equipment and system",
+                    "一种固体氧化物电解设备及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides solid oxide electrolysis equipment and system. The equipment is used for being connected with a power generation system, contains a reversible solid oxide galvanic pile and has a hydrogen production mode, a co-electrolysis mode and a power generation mode. According to the electrolysis equipment, the characteristic that the reversible solid oxide electric pile is reversible in operation is utilized, water can be electrolyzed to produce H2 and O2 to produce hydrogen in the hydrogen production mode, CO2 and water can be coupled in the co-electrolysis mode to produce mixed gas containing H2, CO and hydrocarbon in a co-electrolysis mode, and therefore resource utilization of CO2 is achieved, and the utilization rate of CO2 is increased. Clean fuel gas can be obtained; and power generation can be carried out in the power generation mode, so that the problems of intermittency and volatility existing in independent power generation of wind energy and solar energy are solved, power supply between equipment is realized, continuous and stable electrolytic hydrogen production is realized, and the hydrogen production efficiency is further improved."
+                },
+                {
+                    "p": "本发明提供了一种固体氧化物电解设备及系统，设备用于连接发电系统并容纳有可逆型固体氧化物电堆且具有制氢模式、共电解模式以及发电模式。本申请的电解设备利用可逆型固体氧化物电堆运行可逆的特点，在所述制氢模式下能够电解水生产H2和O2以制氢、在所述共电解模式下能够耦合CO2和水共电解生产含有H2、CO和碳氢化合物的混合气体，从而实现了CO2的资源化利用，还能够得到清洁的燃料气；而在发电模式下能够进行发电，以应对风能和太阳能单独发电存在间歇性和波动性问题，由此实现设备间供电以持续稳定的电解制氢，进而提高了制氢效率。"
+                }
+            ]
+        }
+    }
+}

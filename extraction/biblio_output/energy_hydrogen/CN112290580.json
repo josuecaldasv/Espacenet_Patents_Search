@@ -1,0 +1,251 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "112290580",
+                            "kind": "A",
+                            "date": "20210129"
+                        },
+                        {
+                            "doc-number": "CN112290580",
+                            "date": "20210129"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "381",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "24",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "28",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "10",
+                            "subgroup": "56",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201910631093",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201910631093",
+                            "date": "20190712"
+                        },
+                        {
+                            "doc-number": "201910631093.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201910631093",
+                            "date": "20190712"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HEFEI SUNGROW NEW ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "合肥阳光新能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YANG ZONGJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZOU SHAOKUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU YAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨宗军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邹绍琨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡遥"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "New energy hydrogen production system",
+                    "一种新能源制氢系统"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103501020",
+                                        "name": "UNIV ELECTRONIC SCIENCE & TECH",
+                                        "date": "20140108"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103501020",
+                                        "kind": "A",
+                                        "name": "UNIV ELECTRONIC SCIENCE & TECH",
+                                        "date": "20140108"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "2-6",
+                            "rel-passage": {
+                                "passage": "* 说明书第40-77段，附图1-11 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN206575378U",
+                                        "name": "ZHUZHOU CRRC TIMES ELECTRIC CO LTD",
+                                        "date": "20171020"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "206575378",
+                                        "kind": "U",
+                                        "name": "ZHUZHOU CRRC TIMES ELECTRIC CO LTD",
+                                        "date": "20171020"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-12",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109962482",
+                                        "name": "GEN RES INST NONFERROUS METALS",
+                                        "date": "20190702"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109962482",
+                                        "kind": "A",
+                                        "name": "GEN RES INST NONFERROUS METALS",
+                                        "date": "20190702"
+                                    }
+                                ]
+                            },
+                            "category": [
+                                "Y",
+                                "X"
+                            ],
+                            "rel-claims": [
+                                "2-6",
+                                "1,7-12"
+                            ],
+                            "rel-passage": {
+                                "passage": "* 说明书第13-38段，附图1-3 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a new energy hydrogen production system. Electric energy provided by a new energy power supply is converted into direct-current electric energy through a power converter, and the direct-current electric energy is output to a direct-current bus at the maximum power; and a current transformer is controlled to work through an energy controller according to the power supply parameter detection value of electrolysis equipment, so that the power received by the electrolysis equipment is equal to a self power demand given value. That is to say, the power grid is utilized to supplement or consume the new energy power supply, so that the power supply power of the electrolysis equipment is stable, the problems of low equipment utilization rate and influence on the service lifeof the equipment due to repeated start and stop of the equipment caused by unstable input power are avoided, and meanwhile, electric energy waste caused by incapability of consuming the electrolyticcell when electric energy is excessive is also avoided."
+                },
+                {
+                    "p": "本发明提供的新能源制氢系统，通过所述功率变换器将所述新能源电源提供的电能转化为直流电能，并以最大功率输出至所述直流母线；并通过所述能量控制器根据所述电解设备的供电参数检测值，控制所述变流器工作，使所述电解设备接收到的功率等于自身的功率需求给定值。即本申请利用电网为新能源电源提供补充或者消纳，使电解设备的供电功率稳定，避免了因输入功率不平稳导致设备反复启停所带来的设备利用率低和影响设备寿命的问题，同时也避免了电能过剩时电解槽无法消耗而带来的电能浪费。"
+                }
+            ]
+        }
+    }
+}

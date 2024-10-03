@@ -1,0 +1,145 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117820167",
+                            "kind": "A",
+                            "date": "20240405"
+                        },
+                        {
+                            "doc-number": "CN117820167",
+                            "date": "20240405"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C07C 253/    20            A I                    "
+                        },
+                        {
+                            "text": "C07C 255/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "253",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "141",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C253/20",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C255/04",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311834003",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311834003",
+                            "date": "20231228"
+                        },
+                        {
+                            "doc-number": "202311834003.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311834003",
+                            "date": "20231228"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "RONGFENG INVEST HOLDINGS CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "荣峰投资控股有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DU YANFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杜彦峰"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Synthesis method of malononitrile",
+                    "一种丙二腈的合成方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a synthesis method of malononitrile, which comprises the following steps: S1, adding cyanoacetamide, N, N-dimethylformamide (DMF) and dichloroethane into a reactor, and heating to 75 DEG C; dissolving triphosgene in dichloroethane to form a homogeneous solution, and dropwise adding the solution into the system at a constant speed within 3-4 hours; then, carrying out reflux reaction for 8 hours; s2, absorbing tail gas carbon dioxide and hydrogen chloride generated by the reaction with a sodium hydroxide solution, detecting the reaction process by HPLC, cooling to room temperature after the reaction is finished, purging residual hydrogen chloride gas and phosgene in the reaction liquid with nitrogen, and distilling to recover dichloroethane; and S3, carrying out reduced pressure distillation under the condition of a vacuum degree of-0.095 MPa, and collecting a fraction with a boiling point of 105-115 DEG C to obtain malononitrile. The method has distinct characteristics, the process route is simple, the cost is low, cyanoacetamide and triphosgene are subjected to reflux reaction, the product yield and quality are greatly improved, and no solid waste is generated."
+                },
+                {
+                    "p": "本发明公开了一种丙二腈的合成方法，包括以下步骤：S1：在反应器中加入氰乙酰胺和N,N‑二甲基甲酰胺（DMF）和二氯乙烷，升温至75℃；将三光气溶于二氯乙烷中形成均相溶液，再将该溶液匀速滴加至前述体系内，3~4小时滴加完毕；然后，回流反应8小时；S2：反应产生的尾气二氧化碳和氯化氢用氢氧化钠溶液吸收，HPLC检测反应进程，反应结束，降至室温，用氮气吹扫反应液中残余氯化氢气体及光气，蒸馏回收二氯乙烷；S3：再在真空度为‑0.095MPa条件下减压蒸馏，收集沸点为:105‑115℃的馏分，得丙二腈。本发明特点鲜明，且工艺路线简单、成本低，采用氰乙酰胺和三光气回流反应，使产品收率及品质都有较大的提高，不产生固体废弃物。"
+                }
+            ]
+        }
+    }
+}

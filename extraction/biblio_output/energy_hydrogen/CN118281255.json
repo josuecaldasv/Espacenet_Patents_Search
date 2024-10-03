@@ -1,0 +1,105 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118281255",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118281255",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H01M   8/ 04089            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211714596",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211714596",
+                            "date": "20221229"
+                        },
+                        {
+                            "doc-number": "202211714596.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211714596",
+                            "date": "20221229"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "TEHAI HYDROGEN ENERGY TESTING BAODING CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "特嗨氢能检测（保定）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZUO ZHENGCUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "左正村"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fuel cell system and vehicle with same",
+                    "燃料电池系统及具有其的车辆"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a fuel cell system and a vehicle with the same, the fuel cell system comprises an electric pile, a gas fuel concentration detection unit and a circulating mechanism, an anode gas inlet and an anode gas outlet are formed in the electric pile, the gas fuel concentration detection unit is used for detecting the gas fuel concentration at the anode gas outlet, and the circulating mechanism is used for circulating the gas fuel concentration at the anode gas outlet. The circulation mechanism comprises a direct circulation loop and a purification circulation loop, the two ends of the direct circulation loop and the two ends of the purification circulation loop are connected with the anode gas inlet and the anode gas outlet correspondingly, and a purification unit used for purifying gas fuel is arranged on the purification circulation loop. The circulation mechanism controls the anode exhaust port to enter the direct circulation loop according to the gas fuel concentration at the anode exhaust port, and the gas flow in the circulation loop is purified. According to the fuel cell system disclosed by the invention, the gas fuel can be better recycled, the use cost is low, and meanwhile, the concentration of the gas fuel in the anode of the electric pile can be better ensured, so that the power generation power of the fuel cell system is ensured."
+                },
+                {
+                    "p": "本发明公开了一种燃料电池系统及具有其的车辆，燃料电池系统包括：电堆、气体燃料浓度检测单元和循环机构，电堆上形成阳极进气口和阳极排气口，气体燃料浓度检测单元用于检测阳极排气口处的气体燃料浓度，循环机构包括直接循环回路和提纯循环回路，直接循环回路以及提纯循环回路的两端分别与阳极进气口和阳极排气口连接，提纯循环回路上设有用于提纯气体燃料的提纯单元，循环机构根据阳极排气口处的气体燃料浓度控制阳极排气口进入直接循环回路、提纯循环回路内的气体流量。根据本发明的燃料电池系统，可以较好地实现气体燃料的循环回收利用，使用成本低，同时可以较好地保证电堆的阳极内的气体燃料的浓度，以保证燃料电池系统的发电功率。"
+                }
+            ]
+        }
+    }
+}

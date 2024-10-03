@@ -1,0 +1,119 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2024318336",
+                            "kind": "A1",
+                            "date": "20240926"
+                        },
+                        {
+                            "doc-number": "US2024318336",
+                            "date": "20240926"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    02            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "202418609438",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US202418609438",
+                            "date": "20240319"
+                        },
+                        {
+                            "doc-number": "18609438"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "IN202321020421",
+                                "date": "20230323"
+                            },
+                            {
+                                "doc-number": "202321020421"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUZLON ENERGY LTD [IN]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "SUZLON ENERGY LIMITED"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "AHIRE NITIN [IN]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "AHIRE, Nitin"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "METHOD FOR CONTROLLONG AN ELECTROLYZER ARRANGEMENT HAVING AT LEAST TWO ELECTROLYZERS FOR OPTIMIZED BALANCE OF PLANT"
+            },
+            "abstract": {
+                "p": "A method for controlling an electrolyzer arrangement having at least two electrolyzers for optimized balance of plant, comprising obtaining electrical power provided by an electrical power source, obtaining required electrical power of power plant and determining available power for hydrogen production based on provided electrical power and required electrical power, determining an upper and lower operating limit of a primary electrolyzer of the electrolyzer arrangement and controlling the primary electrolyzer and at least one secondary electrolyzer depending on the available electrical power and operating limit of the primary electrolyzer."
+            }
+        }
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116462190",
+                            "kind": "A",
+                            "date": "20230721"
+                        },
+                        {
+                            "doc-number": "CN116462190",
+                            "date": "20230721"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "C01B  32/   186            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "32",
+                            "subgroup": "186",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2204",
+                            "subgroup": "30",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310517857",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310517857",
+                            "date": "20230510"
+                        },
+                        {
+                            "doc-number": "202310517857.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310517857",
+                            "date": "20230510"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV SHANGHAI JIAOTONG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "上海交通大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SHI ZHIWEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LOU SHUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LYU BOSAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN JIAJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHEN PEIYUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "史志文, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "娄硕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吕博赛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈佳俊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "沈沛约"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Armchair type graphene nanobelt and preparation method thereof",
+                    "扶手椅型石墨烯纳米带及其制备方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2015023858",
+                                        "name": "TOUR JAMES M [US], et al",
+                                        "date": "20150122"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2015023858",
+                                        "kind": "A1",
+                                        "name": "TOUR JAMES M [US], et al",
+                                        "date": "20150122"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115072711",
+                                        "name": "UNIV SHANGHAI JIAOTONG                                                                              ",
+                                        "date": "20220920"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115072711",
+                                        "kind": "A",
+                                        "name": "UNIV SHANGHAI JIAOTONG                                                                              ",
+                                        "date": "20220920"
+                                    }
+                                ]
+                            },
+                            "category": "X",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第0007-0008、0012、0017、0019、0048、0054、0067-0073段 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "According to the armchair type graphene nanobelt and the preparation method thereof, methane is used as a carbon source gas, hexagonal boron nitride is used as a growth substrate, the growth temperature is 800-875 DEG C, the growth time is 35-45 minutes, and a series of parameters are set that the flow ratio of hydrogen to methane gas is 1: 3-1: 5, so that metal nano catalyst particles move along the armchair crystal orientation of the substrate, and the armchair type graphene nanobelt is prepared. In the growth process, the catalyst particles assist in methane cracking dehydrogenation and carbon atoms are obtained from the catalyst particles, when the carbon concentration in the catalyst particles reaches saturation, the carbon atoms are separated out from the surfaces of the catalyst particles, so that the graphene nanobelt grows, and due to epitaxial growth, the synthesized graphene nanobelt is aligned with the lattice structure of the substrate, so that the graphene nanobelt is obtained. The length of the graphene nanobelt with the armchair-shaped edge structure can reach the micron dimension, and the purity of the graphene nanobelt with the armchair-shaped boundary morphology can reach 97%-98% or more; in addition, the preparation method is simple to operate and low in cost, can be used for large-scale production, and has better industrialization value."
+                },
+                {
+                    "p": "本发明提供一种扶手椅型石墨烯纳米带及其制备方法，采用甲烷作为碳源气体，六方氮化硼作为生长衬底，生长温度为800℃～875℃，生长时间为35min～45min，且使氢气与甲烷气体的流量比为1:3～1:5的一系列参数，使金属纳米催化剂颗粒沿着衬底的扶手椅晶向运动，在生长过程中催化剂颗粒辅助甲烷裂解脱氢并从中获取碳原子，当催化剂颗粒中的碳浓度达到饱和后，碳原子从其的表面析出，从而生长出石墨烯纳米带，由于是外延生长，合成的石墨烯纳米带和衬底晶格结构对齐，从而生长出具有扶手椅型边缘结构的石墨烯纳米带，长度可以达到微米量级，扶手椅型边界形貌的石墨烯纳米带的纯度可达97％到98％之多；另外，该制备方法操作简单，成本低廉，可大规模生产，具有较佳的产业化价值。"
+                }
+            ]
+        }
+    }
+}

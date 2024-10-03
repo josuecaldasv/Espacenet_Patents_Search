@@ -1,0 +1,182 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117522013",
+                            "kind": "A",
+                            "date": "20240206"
+                        },
+                        {
+                            "doc-number": "CN117522013",
+                            "date": "20240206"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06311",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06313",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06315",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311448601",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311448601",
+                            "date": "20231101"
+                        },
+                        {
+                            "doc-number": "202311448601.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311448601",
+                            "date": "20231101"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GUIZHOU POWER GRID CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "贵州电网有限责任公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI YUGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG GUOHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " RAO YUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TAO GANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " NING NAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李钰刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王国鸿, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "饶赟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陶钢, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宁楠"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Urban power grid source network load hydrogen storage multi-target dynamic planning method and system",
+                    "一种城市电网源网荷储氢多目标动态规划方法及系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an urban power grid source-grid-load hydrogen storage multi-target dynamic planning method, which comprises the following steps: acquiring basic parameters of a power grid, establishing a source-grid-load hydrogen storage integrated planning basic framework according to an urban power grid operation mode, determining a target function according to the basic parameters of the power grid, and performing source-grid-load hydrogen storage multi-target dynamic planning according to the target function and constraint conditions. The constraint conditions comprise thermal power generating unit decommissioning constraint, solving the multi-target dynamic coordination planning model, obtaining a Pareto leading edge of the multi-target dynamic coordination planning model, obtaining a compromise solution of the Pareto leading edge by using a sorting method to obtain an optimized adjustment strategy, and obtaining a multi-target dynamic coordination planning model according to the optimal adjustment strategy. The planning scheme is economical, low-carbon and clean, and can meet the operation requirements of the urban power grid in different planning stages."
+                },
+                {
+                    "p": "本发明公开了一种城市电网源网荷储氢多目标动态规划方法，包括：获取电网基本参数，根据城市电网运行方式建立源网荷储氢一体化规划基本框架，根据电网基本参数确定目标函数，结合所述目标函数和约束条件，建立源网荷储氢多目标动态协调规划模型，约束条件包括，火电机组退役约束，对所述多目标动态协调规划模型求解，得到多目标动态规划模型的Pareto前沿，利用排序法对所述Pareto前沿取折中解得到优化的调整策略，规划方案具备经济性、低碳性和清洁性，能够满足不同规划阶段下城市电网的运行要求。"
+                }
+            ]
+        }
+    }
+}

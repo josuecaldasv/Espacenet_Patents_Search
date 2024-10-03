@@ -1,0 +1,415 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "111774330",
+                            "kind": "A",
+                            "date": "20201016"
+                        },
+                        {
+                            "doc-number": "CN111774330",
+                            "date": "20201016"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B07C   5/    02            A I                    "
+                        },
+                        {
+                            "text": "B07C   5/    04            A I                    "
+                        },
+                        {
+                            "text": "B07C   5/    34            A I                    "
+                        },
+                        {
+                            "text": "B07C   5/    36            A I                    "
+                        },
+                        {
+                            "text": "B65G  69/    20            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "5",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "5",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "5",
+                            "subgroup": "34",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "5",
+                            "subgroup": "362",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "65",
+                            "subclass": "G",
+                            "main-group": "69",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "2501",
+                            "subgroup": "0063",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202010608188",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202010608188",
+                            "date": "20200629"
+                        },
+                        {
+                            "doc-number": "202010608188.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202010608188",
+                            "date": "20200629"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA ENERGY HYDROGEN STORAGE BEIJING ENERGY ENGINEERING RES INSTITUTE CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中能氢储（北京）能源工程研究院有限责任公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "PAN XIAOGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHU YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "潘晓钢, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "朱阳"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Plate type discharging device used for glass fiber manufacturing and discharging method",
+                    "一种用于玻璃纤维制造的板式下料装置及下料方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103501925",
+                                        "name": "TITANIUM METALS CORP",
+                                        "date": "20140108"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103501925",
+                                        "kind": "A",
+                                        "name": "TITANIUM METALS CORP",
+                                        "date": "20140108"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2015151856",
+                                        "name": "YUAAZU KK",
+                                        "date": "20150824"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2015151856",
+                                        "kind": "A",
+                                        "name": "YUAAZU KK",
+                                        "date": "20150824"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN205156639U",
+                                        "name": "ZHONGYE CHANGTIAN INT ENG CO",
+                                        "date": "20160413"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "205156639",
+                                        "kind": "U",
+                                        "name": "ZHONGYE CHANGTIAN INT ENG CO",
+                                        "date": "20160413"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-2",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107309181",
+                                        "name": "UNIV ZHEJIANG A&F, et al",
+                                        "date": "20171103"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107309181",
+                                        "kind": "A",
+                                        "name": "UNIV ZHEJIANG A&F, et al",
+                                        "date": "20171103"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108405376",
+                                        "name": "HUAHE TIANJIN NEW TECH DEVELOPMENT CO LTD",
+                                        "date": "20180817"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108405376",
+                                        "kind": "A",
+                                        "name": "HUAHE TIANJIN NEW TECH DEVELOPMENT CO LTD",
+                                        "date": "20180817"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109433627",
+                                        "name": "UNIV DALIAN MARITIME",
+                                        "date": "20190308"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109433627",
+                                        "kind": "A",
+                                        "name": "UNIV DALIAN MARITIME",
+                                        "date": "20190308"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 说明书第0031-0048段，图1 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110813779",
+                                        "name": "XU DEXING",
+                                        "date": "20200221"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110813779",
+                                        "kind": "A",
+                                        "name": "XU DEXING",
+                                        "date": "20200221"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 说明书第0026-0046段，图1-4 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111141148",
+                                        "name": "UNIV HUNAN",
+                                        "date": "20200512"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111141148",
+                                        "kind": "A",
+                                        "name": "UNIV HUNAN",
+                                        "date": "20200512"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-2",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111306945",
+                                        "name": "HUNAN INST SCIENCE & TECH",
+                                        "date": "20200619"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111306945",
+                                        "kind": "A",
+                                        "name": "HUNAN INST SCIENCE & TECH",
+                                        "date": "20200619"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-2",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN212711432U",
+                                        "name": "CHINA ENERGY HYDROGEN STORAGE BEIJING ENERGY ENGINEERING RES INSTITUTE CO LTD",
+                                        "date": "20210316"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "212711432",
+                                        "kind": "U",
+                                        "name": "CHINA ENERGY HYDROGEN STORAGE BEIJING ENERGY ENGINEERING RES INSTITUTE CO LTD",
+                                        "date": "20210316"
+                                    }
+                                ]
+                            },
+                            "category": "L",
+                            "rel-claims": "1-2",
+                            "rel-passage": {
+                                "passage": "* 权利要求书第1-4项 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a plate type discharging device used for glass fiber manufacturing. The plate type discharging device comprises a feeding portion (1), a feeding machine shell (2), a feeding device (3), mechanical arm devices (4), supporting plates (5), a large particle discharge portion (6) and a small particle discharge portion (7). The feeding portion (1) is made of steel, the upper partof the feeding portion (1) is in a funnel shape, and the lower part of the feeding portion (1) is of a pipeline structure. A pipeline of the feeding portion (1) is connected with the feeding machine shell (2). High-purity silica or crystals enter the feeding machine shell (2) through the feeding portion (1). By means of the scheme, high-purity silica or crystals large in particle size are picked out by mechanical arms and placed into the large particle discharge portion to be naturally cooled, and high-purity silica or crystals small in particle size feed the small particle discharge portion through the feeding device and then are cooled through the subsequent devices. Energy consumption of cooling work is greatly reduced, and materials are evenly cooled."
+                },
+                {
+                    "p": "该发明提供了一种用于玻璃纤维制造的板式下料装置，包括进料部(1)、给料机外壳(2)、给料装置(3)、机械臂装置(4)、支撑板(5)、大颗粒卸料部(6)、小颗粒卸料部(7)；进料部(1)是钢制的，其上部分呈漏斗形，下部分是管道结构；进料部(1)的管道与给料机外壳(2)相连；高纯硅石或水晶通过进料部(1)进入到给料机外壳(2)内；该方案通过机械臂将粒径较大的高纯硅石或水晶捡出并放入大颗粒卸料部内自然冷却，而粒径较小的高纯硅石或水晶则通过给料装置进入小颗粒卸料部，随后让后续装置对其进行冷却处理。大大减少了冷却作业的能耗，并使得物料实现均匀的冷却。"
+                }
+            ]
+        }
+    }
+}

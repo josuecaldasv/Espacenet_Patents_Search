@@ -1,0 +1,271 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "104201387",
+                            "kind": "A",
+                            "date": "20141210"
+                        },
+                        {
+                            "doc-number": "CN104201387",
+                            "date": "20141210"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H01M   4/    62            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "0404",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "622",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201410364145",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201410364145",
+                            "date": "20140728"
+                        },
+                        {
+                            "doc-number": "201410364145X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201410364145",
+                            "date": "20140728"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING WANYUAN INDUSTRY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING WANYUAN INDUSTRY CO., LTD"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GONG LIYUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN KUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "GONG LIYUAN, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "CHEN KUN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Production method of novel negative electrode binding agent and application of production method in battery production",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101740807",
+                                        "name": "SONY CORP",
+                                        "date": "20100616"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101740807",
+                                        "kind": "A",
+                                        "name": "SONY CORP",
+                                        "date": "20100616"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第[0018]-[0069]段、第[0062]-[0077]段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2009214949",
+                                        "name": "UGAWA SHINSAKU [JP]",
+                                        "date": "20090827"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2009214949",
+                                        "kind": "A1",
+                                        "name": "UGAWA SHINSAKU [JP]",
+                                        "date": "20090827"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103066296",
+                                        "name": "SHENZHEN HYB BATTERY CO LTD",
+                                        "date": "20130424"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103066296",
+                                        "kind": "A",
+                                        "name": "SHENZHEN HYB BATTERY CO LTD",
+                                        "date": "20130424"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第[0009]-[0036]段、第[0068]段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2010129719",
+                                        "name": "ITO HIROTOMO [JP], et al",
+                                        "date": "20100527"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2010129719",
+                                        "kind": "A1",
+                                        "name": "ITO HIROTOMO [JP], et al",
+                                        "date": "20100527"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102356491",
+                                        "name": "LG CHEMICAL LTD",
+                                        "date": "20120215"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102356491",
+                                        "kind": "A",
+                                        "name": "LG CHEMICAL LTD",
+                                        "date": "20120215"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102983306",
+                                        "name": "TIANJIN LISHEN BATTERY",
+                                        "date": "20130320"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102983306",
+                                        "kind": "A",
+                                        "name": "TIANJIN LISHEN BATTERY",
+                                        "date": "20130320"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "The invention provides a production method of a novel negative electrode binding agent. The production method comprises two steps of proportionally mixing polyacrylonitrile with methyl pyrrolidone to prepare a colloid, and proportionally mixing the colloid with negative electrode active substances and a conductive agent to prepare slurry. The invention further provides an application of the novel negative electrode binding agent in battery production. A preparation method of a negative electrode button battery prepared by the invention is tested, and a result shows that the novel negative electrode binding agent can form a net structure in the preparation process of the negative electrode slurry, can form high-bond-energy hydrogen bond with negative electrode active substances and has excellent electronic conductivity and electrochemical performance; polyacrylonitrile is low in molar mass and good in machining performance and is suitable for preparing multi-cycle lithium ion batteries."
+            }
+        }
+    }
+}

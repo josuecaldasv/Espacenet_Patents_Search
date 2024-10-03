@@ -1,0 +1,169 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118376934",
+                            "kind": "A",
+                            "date": "20240723"
+                        },
+                        {
+                            "doc-number": "CN118376934",
+                            "date": "20240723"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G01R   1/    02            A I                    "
+                        },
+                        {
+                            "text": "G01R   1/    36            A I                    "
+                        },
+                        {
+                            "text": "G01R  31/   367            A I                    "
+                        },
+                        {
+                            "text": "G01R  31/   378            A I                    "
+                        },
+                        {
+                            "text": "G01R  31/   385            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410518555",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410518555",
+                            "date": "20240428"
+                        },
+                        {
+                            "doc-number": "202410518555.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410518555",
+                            "date": "20240428"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "MINGTIAN HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "安徽明天氢能科技股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JIANG JIAXUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG CHENGYAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUO LIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YONGCHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PAN YONGZHI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG CHAOYUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蒋加旋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王成尧, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "霍亮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张永超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "潘永志, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王朝云"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "System and method for automatically testing performance of cell stack of hydrogen fuel cell automobile based on upper computer",
+                    "基于上位机的氢燃料电池汽车电池堆性能自动测试系统及方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a hydrogen fuel cell automobile cell stack performance automatic test system and method based on an upper computer, and relates to the technical field of cell stack performance test.The hydrogen fuel cell automobile cell stack performance automatic test system comprises a test module, a data acquisition module, an upper computer, a safety monitoring module and a calibration module, the test module transmits the performance data of the cell stack to the upper computer through the data acquisition module, the safety monitoring module monitors the working state of the cell stack in real time, and the calibration module is used for calibrating the test module regularly. According to the system and method for automatically testing the performance of the cell stack of the hydrogen fuel cell vehicle based on the upper computer provided by the invention, the efficiency, the accuracy and the safety of the performance test of the cell stack of the hydrogen fuel cell vehicle are effectively improved through the design in multiple aspects of automatic test, real-time monitoring, data acquisition, safety monitoring, a calibration mechanism and the like; and powerful technical support is provided for performance evaluation and optimization of the cell stack."
+                },
+                {
+                    "p": "本发明公开了基于上位机的氢燃料电池汽车电池堆性能自动测试系统及方法，涉及电池堆性能测试技术领域，包括测试模块、数据采集模块、上位机、安全监控模块和校准模块，其中测试模块与电池堆连接，测试模块通过数据采集模块将电池堆性能数据传输至上位机，安全监控模块实时监控电池堆的工作状态，校准模块用于定期对测试模块进行校准。本申请提供的基于上位机的氢燃料电池汽车电池堆性能自动测试系统及方法，通过自动化测试、实时监控、数据采集、安全监控、校准机制等多方面的设计，有效提高了氢燃料电池汽车电池堆性能测试的效率、准确性和安全性，为电池堆的性能评估和优化提供了有力的技术支持。"
+                }
+            ]
+        }
+    }
+}

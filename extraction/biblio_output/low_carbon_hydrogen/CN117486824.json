@@ -1,0 +1,233 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117486824",
+                            "kind": "A",
+                            "date": "20240202"
+                        },
+                        {
+                            "doc-number": "CN117486824",
+                            "date": "20240202"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  31/    02            A I                    "
+                        },
+                        {
+                            "text": "C07D 273/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "27",
+                            "subgroup": "053",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "31",
+                            "subgroup": "0225",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "D",
+                            "main-group": "273",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "584",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311440339",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311440339",
+                            "date": "20231101"
+                        },
+                        {
+                            "doc-number": "202311440339.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311440339",
+                            "date": "20231101"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HEBEI BAYI SPACE TIME PHARMACEUTICAL CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "河北八亿时空药业有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LUO SHIHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHENG ZHONGFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YIPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG QI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗世宏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郑忠峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张一鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张琦"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Synthetic method of indoxacarb",
+                    "茚虫威的合成方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO9529171",
+                                        "name": "DU PONT [US], et al",
+                                        "date": "19951102"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "9529171",
+                                        "kind": "A1",
+                                        "name": "DU PONT [US], et al",
+                                        "date": "19951102"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109651288",
+                                        "name": "JINGBO AGROCHEMICALS TECH CO LTD",
+                                        "date": "20190419"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109651288",
+                                        "kind": "A",
+                                        "name": "JINGBO AGROCHEMICALS TECH CO LTD",
+                                        "date": "20190419"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111269194",
+                                        "name": "JINGBO AGROCHEMICALS TECH CO LTD",
+                                        "date": "20200612"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111269194",
+                                        "kind": "A",
+                                        "name": "JINGBO AGROCHEMICALS TECH CO LTD",
+                                        "date": "20200612"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of pesticides, and provides an indoxacarb synthesis method, which comprises: S1, adding 5-chloro-2-methoxycarbonyl-2-hydroxy-1-indanone into toluene, adding benzyl carbazate, adding a catalyst, and carrying out a condensation reaction to obtain an intermediate 1; s2, adding the intermediate 1 into methylbenzene, adding paraformaldehyde, and carrying out cyclization reaction to obtain an intermediate 2; s3, adding the intermediate 2 into toluene, adding a palladium-carbon catalyst, introducing hydrogen, and reacting to obtain an intermediate 3; and S4, adding the intermediate 3 into methylbenzene, adding N-chloroformyl-N-[4-(trifluoromethoxy) phenyl] methyl carbamate, reacting, adding petroleum ether after the reaction is finished, crystallizing, and filtering to obtain indoxacarb. According to the technical scheme, the problem of low yield of indoxacarb in the prior art is solved."
+                },
+                {
+                    "p": "本发明涉及农药技术领域，提出了茚虫威的合成方法，包括以下步骤：S1、将5‑氯‑2‑甲氧羰基‑2‑羟基‑1‑茚酮加入甲苯中，加入肼基甲酸苄酯，加入催化剂，进行缩合反应，得到中间体1；S2、将中间体1加入甲苯中，加入多聚甲醛，进行环合反应得到中间体2；S3、将中间体2加入甲苯中，加入钯碳催化剂，通入氢气，反应，得到中间体3；S4、将中间体3加入甲苯中，加入N‑氯甲酰基‑N‑[4‑(三氟甲氧基)苯基]氨基甲酸甲酯，反应，反应结束后加入石油醚结晶，过滤，得到茚虫威；通过上述技术方案，解决了现有技术中茚虫威收率较低的问题。"
+                }
+            ]
+        }
+    }
+}

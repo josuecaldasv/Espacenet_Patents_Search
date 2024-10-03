@@ -1,0 +1,168 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118281915",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118281915",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F25B  30/    04            A I                    "
+                        },
+                        {
+                            "text": "F25B  30/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410287437",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410287437",
+                            "date": "20240313"
+                        },
+                        {
+                            "doc-number": "202410287437.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410287437",
+                            "date": "20240313"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "STATE GRID INTEGRATED ENERGY SERVICE GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " UNIV OF SCIENCE & TECHNOLOGY BEIJING"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国网综合能源服务集团有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京科技大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GUO DONGXU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI NA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LUO CHUNHUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU CHUNTING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG CHANGCHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JIANHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭东旭, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李娜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗春欢, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周春廷, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨畅畅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李建昊"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Cold-heat-electricity-gas-storage system and working method",
+                    "一种冷-热-电-气-储系统及工作方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a cold-heat-electricity-gas-storage system and a working method. The system comprises a data center, a power grid, an absorption heat pump, a hydrogen storage tank, an energy storage component and an energy release component. The power grid is connected with the data center, the energy storage component and the energy release component and used for providing power. The energy storage part and the energy release part are connected with the hydrogen storage tank and the absorption heat pump at the same time to store hydrogen or release electric power; and the absorption heat pump is also electrically connected with the data center and is used for refrigerating or heating the data center. Waste heat of the electrolytic bath, the compressor and the fuel cell is fully utilized, and the energy utilization rate of the system can be effectively improved; the absorption heat pump technology is adopted for waste heat recovery and refrigeration, and heat energy waste of the data center can be effectively reduced; redundant photoelectricity and wind power are stored in the form of hydrogen energy, abandoned light and abandoned wind are reduced, and meanwhile, valley electricity is stored to the peak electricity period to be released, so that the load of a power grid can be reduced."
+                },
+                {
+                    "p": "本发明涉及一种冷‑热‑电‑气‑储系统及工作方法，系统包括:数据中心、电网、吸收式热泵、储氢罐、储能部件、释能部件；电网同时连接数据中心、储能部件和释能部件，用于提供电力；储能部件和释能部件同时连接储氢罐和吸收式热泵，储存氢气或释放电力；吸收式热泵还同时电连接所述数据中心，用于对所述数据中心制冷或制热。本发明充分利用电解槽、压缩机和燃料电池的余热，可有效提高系统的能量利用率；采用吸收式热泵技术进行余热回收和制冷，可有效降低数据中心的热能浪费；将多余的光电和风电以氢能的形式储存起来，减少弃光和弃风，同时将谷电储存至峰电时期释放可降低电网负荷。"
+                }
+            ]
+        }
+    }
+}

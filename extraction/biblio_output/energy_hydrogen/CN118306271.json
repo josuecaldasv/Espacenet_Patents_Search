@@ -1,0 +1,195 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118306271",
+                            "kind": "A",
+                            "date": "20240709"
+                        },
+                        {
+                            "doc-number": "CN118306271",
+                            "date": "20240709"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "B60L  58/    40            A I                    "
+                    }
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410739179",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410739179",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "202410739179.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410739179",
+                            "date": "20240607"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "TAIYUAN UNIV OF SCIENCE AND TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "太原科技大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DING XIAOFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG XUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO FUQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI TONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEI XINYUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁小凤, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张轩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵富强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李通, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "魏鑫源"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Energy management method and system for hydrogen fuel cell hybrid vehicle and storage medium",
+                    "一种氢燃料电池混动汽车能量管理方法、系统及存储介质"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116278993",
+                                        "name": "UNIV JILIN                                                                                          ",
+                                        "date": "20230623"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116278993",
+                                        "kind": "A",
+                                        "name": "UNIV JILIN                                                                                          ",
+                                        "date": "20230623"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116796446",
+                                        "name": "SHANGHAI RE FIRE ENERGY TECH CO LTD",
+                                        "date": "20230922"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116796446",
+                                        "kind": "A",
+                                        "name": "SHANGHAI RE FIRE ENERGY TECH CO LTD",
+                                        "date": "20230922"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117227514",
+                                        "name": "UNIV TAIYUAN SCIENCE & TECH                                                                         ",
+                                        "date": "20231215"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117227514",
+                                        "kind": "A",
+                                        "name": "UNIV TAIYUAN SCIENCE & TECH                                                                         ",
+                                        "date": "20231215"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of hybrid electric vehicle energy management, in particular to a hydrogen fuel cell hybrid electric vehicle energy management method and system and a storage medium. Solving the output power of the power battery when the equivalent hydrogen consumption is minimum; secondly, solving a hydrogen fuel cell and power cell energy game Nash equilibrium solution in a bargaining game whole vehicle energy model based on the load demand power, the power cell output power when the whole vehicle equivalent hydrogen consumption is minimum and the preset hydrogen fuel cell efficient operation power; and finally, performing whole-course energy management control according to the solved Nash equilibrium solution. According to the method, the fuel economy and the operation efficiency of the hydrogen fuel cell hybrid vehicle are considered at the same time, the hydrogen consumption of the whole vehicle is reduced, the operation efficiency of the fuel cell is improved to a certain extent, and therefore the whole vehicle economy of the hydrogen fuel cell hybrid vehicle is integrally improved."
+                },
+                {
+                    "p": "本发明涉及混合动力汽车能量管理技术领域，具体涉及一种氢燃料电池混动汽车能量管理方法、系统及存储介质，该方法具体为：车辆启动后将汽车实时运行状态数据输入整车等效氢耗量模型中，求解出等效氢耗最小时的动力电池输出功率；其次，基于负载需求功率、整车等效氢耗最小时的动力电池输出功率以及预设的氢燃料电池高效运行功率，在议价博弈整车能量模型中进行求解氢燃料电池与动力电池能量博弈纳什均衡解；最后，根据求解出的纳什均衡解进行全程能量管理控制。本发明同时考虑了氢燃料电池混动汽车的燃料经济性与运行效率，而且在降低整车氢气消耗的同时，一定程度上提高了燃料电池运行效率，从而整体提高了氢燃料电池混动汽车的整车经济性。"
+                }
+            ]
+        }
+    }
+}

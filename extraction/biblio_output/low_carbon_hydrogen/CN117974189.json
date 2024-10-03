@@ -1,0 +1,165 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117974189",
+                            "kind": "A",
+                            "date": "20240503"
+                        },
+                        {
+                            "doc-number": "CN117974189",
+                            "date": "20240503"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/   067            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0201            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0202            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "067",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0201",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0202",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0206",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410147572",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410147572",
+                            "date": "20240201"
+                        },
+                        {
+                            "doc-number": "202410147572.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410147572",
+                            "date": "20240201"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANXI ENERGY INTERNET RES INSTITUTE"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "山西省能源互联网研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SU JIA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GE HUAICHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHANG XINYUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苏珈, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "葛怀畅, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "常馨月"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Industrial cluster low-hydrocarbon supply chain network optimization method",
+                    "一种产业集群低碳氢供应链网络优化方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of hydrogen energy supply chain network optimization, and particularly relates to an industrial cluster low-hydrocarbon supply chain network optimization method, which comprises the following steps: S1, establishing a hydrogen supply chain network operation model considering storage and transportation; s2, analyzing the capital cost of the hydrogen supply chain network for the hydrogen-related industry cluster; s3, analyzing the operation cost of the hydrogen supply chain network in combination with the production mode; s4, establishing an objective function with the minimum comprehensive cost as an objective function of the transportation model; the comprehensive cost comprises capital cost and operation cost; s5, solving the operation model in combination with the objective function to obtain a hydrogen supply chain network optimization scheme; and S6, implementing the network optimization scheme obtained in the S5, and optimizing the please supply chain network. According to the method, fine modeling can be carried out on the low-carbon-hydrogen supply chain network, and comprehensive optimization of the whole supply chain network is achieved."
+                },
+                {
+                    "p": "本发明属于氢能供应链网络优化技术领域，尤其涉及一种产业集群低碳氢供应链网络优化方法，S1、建立氢供应链网络计及存储和运输的运行模型；S2、针对氢相关产业集群分析氢供应链网络的资本成本；S3、结合生产方式分析氢供应链网络的运营成本；S4、建立综合成本最小的目标函数，作为运输模型的目标函数；所述综合成本包括资本成本和运营成本；S5、结合目标函数对运行模型进行求解，得到氢供应链网络优化方案；S6、实施S5得到的网络优化方案，对请供应链网络进行优化。本方法可以对低碳氢的供应链网络进行精细建模，实现整个供应链网络的综合优化。"
+                }
+            ]
+        }
+    }
+}

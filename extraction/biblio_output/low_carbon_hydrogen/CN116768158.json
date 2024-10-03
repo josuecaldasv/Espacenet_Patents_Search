@@ -1,0 +1,197 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116768158",
+                            "kind": "A",
+                            "date": "20230919"
+                        },
+                        {
+                            "doc-number": "CN116768158",
+                            "date": "20230919"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    48            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    50            A I                    "
+                        },
+                        {
+                            "text": "C01B  32/    50            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310758835",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310758835",
+                            "date": "20230626"
+                        },
+                        {
+                            "doc-number": "202310758835.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "CN202310326930",
+                                "date": "20230330"
+                            },
+                            {
+                                "doc-number": "2023103269305"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING INSTITUTE TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " BEIJING WEITONGDAO TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京理工大学, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京微通道科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI HANSHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG ZHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG SUFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YAOYUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU QIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHI DAXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN KANGCHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEI SONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU ZIHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黎汉生, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王振, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王素峰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张耀远, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴芹, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "史大昕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈康成, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "魏崧, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡子恒"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for preparing green hydrogen from skid-mounted self-contained biogas",
+                    "撬装型自给式沼气制备绿氢的方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a skid-mounted self-contained method for preparing green hydrogen from marsh gas, which comprises the following steps: pretreating marsh gas, air and water, mixing part of marsh gas with water vapor for conversion reaction to obtain mixed gas, and inputting the other part of marsh gas and air into a combustion furnace for combustion, cooling the mixed gas, mixing the mixed gas with water, inputting the mixed gas into a shift reactor, carrying out shift reaction to obtain synthesis gas, then carrying out cooling, gas-liquid separation, carbon dioxide removal and membrane separation on the synthesis gas to obtain hydrogen and residual gas, and circulating part of the residual gas into a combustion furnace for combustion, and the other part of residual gas is circulated to the conversion reactor for circular reaction, and then the removed carbon dioxide is purified and stored. Part of biogas is used for combustion and heating, so that the method does not need an external heat source; the conversion reaction and the membrane separation purification are combined, so that the cost of the device is low, and the pressure of tail gas treatment in the later period is reduced by recovering effective components in the tail gas."
+                },
+                {
+                    "p": "本发明提供了一种撬装型自给式沼气制备绿氢的方法，包括对沼气、空气和水进行预处理，将部分沼气与水蒸气混合用于进行转化反应以得到混合气，另外部分沼气与空气输入燃烧炉内燃烧，对混合气进行降温后与水混合并输入变换反应器内进行变换反应，以得到合成气，随后对合成气进行冷却、气液分离、脱除二氧化碳和膜分离后得到氢气和余气，将部分余气循环至燃烧炉内燃烧，将另外部分余气循环至变换反应器中进行循环反应，随后将脱除的二氧化碳进行纯化并储存。本发明通过将部分沼气用于燃烧发热，使得本方法无需外部热源；将转化反应与膜分离提纯进行结合，使得装置的成本低廉，通过回收尾气中的有效成分，降低了后期尾气处理的压力。"
+                }
+            ]
+        }
+    }
+}

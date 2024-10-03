@@ -1,0 +1,398 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116925544",
+                            "kind": "A",
+                            "date": "20231024"
+                        },
+                        {
+                            "doc-number": "CN116925544",
+                            "date": "20231024"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C08K   3/    04            A I                    "
+                        },
+                        {
+                            "text": "C08K   5/    01            A I                    "
+                        },
+                        {
+                            "text": "C08L  23/    06            A I                    "
+                        },
+                        {
+                            "text": "C08L  55/    02            A I                    "
+                        },
+                        {
+                            "text": "C08L  79/    02            A I                    "
+                        },
+                        {
+                            "text": "C08L  79/    08            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0221            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0226            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/    18            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "79",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "79",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0221",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0226",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "188",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "2201",
+                            "subgroup": "001",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "2203",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L79/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L55/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "3",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08K3/041",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "4",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08K5/01",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L79/08",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L23/06",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "3",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08K3/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "4",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08K5/01",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "3",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L79/08",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L55/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "3",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08K3/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "4",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08K5/01",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202210344206",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202210344206",
+                            "date": "20220331"
+                        },
+                        {
+                            "doc-number": "202210344206.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202210344206",
+                            "date": "20220331"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHN ENERGY INVEST GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " NAT INST CLEAN & LOW CARBON ENERGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家能源投资集团有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京低碳清洁能源研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YANG HONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU QINGHUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG XUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MIAO PING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG QUNJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIA ZHIJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG SHAOLIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨虹, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘庆华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "阳雪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "缪平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄群健, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贾志军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王绍亮"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Composite material and preparation method thereof, bipolar plate and flow battery",
+                    "复合材料及其制备方法、双极板、液流电池"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of flow batteries, in particular to a composite material and a preparation method thereof, a bipolar plate and a flow battery. The method comprises the following steps: performing extrusion molding on slurry containing resin-I, resin-II, a conductive agent, a modifier and a dispersant to obtain a composite material; wherein in the slurry, the weight ratio of the resin-I to the resin-II to the conductive agent to the modifier is (1-10): (10-40): (50-70): (5-15); the ratio of the dispersing agent (metered by mL) to the total dosage of the resin-I, the resin-II, the conductive agent and the modifier (metered by g) is (300-1000): 100; the modifier contains a polycyclic aromatic hydrocarbon mixture, and the carbon atom number of polycyclic aromatic hydrocarbon in the polycyclic aromatic hydrocarbon mixture is C22-C24. According to the method, the composite material with high bending strength and low hydrogen permeability is obtained; meanwhile, the flow battery containing the composite material has relatively high efficiency."
+                },
+                {
+                    "p": "本发明涉及液流电池技术领域，具体涉及一种复合材料及其制备方法、一种双极板、一种液流电池。该方法包括：将含树脂‑I、树脂‑II、导电剂、改性剂和分散剂的浆料进行挤出成型，得到复合材料；其中，所述浆料中，所述树脂‑I、树脂‑II、导电剂和改性剂的重量比为1‑10：10‑40：50‑70：5‑15；以mL计的所述分散剂和以g计的所述树脂‑I、树脂‑II、导电剂和改性剂的总用量的比值为300‑1000：100；所述改性剂含有稠环芳烃混合物，且所述稠环芳烃混合物中稠环芳烃的碳原子数为C22‑C24。该方法得到兼具高弯曲强度和低氢气透过率的复合材料；同时，将含有该复合材料的液流电池具有较高的效率。"
+                }
+            ]
+        }
+    }
+}

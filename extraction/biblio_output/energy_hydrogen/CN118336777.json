@@ -1,0 +1,158 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118336777",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118336777",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410442715",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410442715",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "202410442715.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410442715",
+                            "date": "20240412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HARBIN INSTITUTE OF TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "哈尔滨工业大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GUO YUFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YU JILAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YINGWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN QINGQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " OUYANG YIHANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭钰锋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "于继来, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王瑛玮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙清琪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "欧阳逸航"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Steel park power grid friendly regulation and control strategy considering steel block gravity energy storage",
+                    "一种考虑钢块重力储能的钢铁园区电网友好型调控策略"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a steel park power grid friendly regulation and control strategy considering steel block gravity energy storage, and belongs to the technical field of power system operation and planning. The method comprises the following steps: S1, defining a grid-connected reference power curve, and guiding the steel park to carry out grid-connected power optimization shaping through the grid-connected reference power curve so as to meet the peak regulation requirement of a power grid; s2, establishing a whole-process and multi-energy-flow coupling model of steel production, simulating flow, conversion and consumption conditions of electric energy, heat energy, hydrogen energy and the like in the production process, and realizing energy control and optimal management of the whole production chain; and S3, implementing a gravity energy storage participation regulation strategy taking the steel block as a medium, designing a gravity energy storage system, converting electric energy into potential energy of the steel block for storage when electric energy supply is excessive, and releasing the potential energy and converting the potential energy into electric energy for use when the energy demand is increased. According to the invention, the grid-connected power of the steel park is optimized, the energy utilization efficiency and the adaptability of the production process are improved, and the construction cost of the energy storage system is reduced by using the steel block as the energy storage medium."
+                },
+                {
+                    "p": "一种考虑钢块重力储能的钢铁园区电网友好型调控策略，属于电力系统运行与规划技术领域。S1.定义并网参考功率曲线，通过并网参考功率曲线引导钢铁园区进行并网功率的优化整形，满足电网调峰需求；S2.建立钢铁生产的全过程、多能流耦合模型，模拟电能、热能、氢能等在生产过程中的流动、转换和消耗情况，实现整个生产链的能量控制和优化管理；S3.实施以钢块为介质的重力储能参与调控策略，设计重力储能系统，实现在电能供应过剩时将电能转换为钢块的势能进行储存，能源需求增加时释放势能转换为电能使用。本发明优化了钢铁园区的并网功率，提高了能源利用效率和生产过程的适应性，通过利用钢块作为储能介质，降低了储能系统的建设成本。"
+                }
+            ]
+        }
+    }
+}

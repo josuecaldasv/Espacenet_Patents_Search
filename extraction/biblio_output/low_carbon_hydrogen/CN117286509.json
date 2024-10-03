@@ -1,0 +1,155 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117286509",
+                            "kind": "A",
+                            "date": "20231226"
+                        },
+                        {
+                            "doc-number": "CN117286509",
+                            "date": "20231226"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    70            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "70",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202210701876",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202210701876",
+                            "date": "20220620"
+                        },
+                        {
+                            "doc-number": "202210701876.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202210701876",
+                            "date": "20220620"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHN ENERGY INVEST GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " NAT INST CLEAN & LOW CARBON ENERGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家能源投资集团有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京低碳清洁能源研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHAO LULU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ZHE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵璐璐, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李哲"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method and device for controlling hydrogen production, storage medium and electronic equipment",
+                    "控制制氢的方法、装置、存储介质和电子设备"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a method and device for controlling hydrogen production, a storage medium and electronic equipment, and the method comprises the steps: determining one or more target electrolytic cells from a plurality of electrolytic cells according to the total hydrogen production power and the preset minimum safe power of each electrolytic cell in the plurality of electrolytic cells; distributing the total hydrogen production power to the one or more target electrolytic cells according to a first preset power distribution mode; obtaining residual hydrogen production power after the total hydrogen production power is subjected to power distribution according to the first preset power distribution mode; distributing the residual hydrogen production power to the one or more target electrolytic baths according to a second preset power distribution mode; and controlling the one or more target electrolytic baths to produce hydrogen according to the hydrogen production power distributed to the one or more target electrolytic baths."
+                },
+                {
+                    "p": "本公开涉及一种控制制氢的方法、装置、存储介质和电子设备，所述方法包括：根据总制氢功率和预先设置的多个电解槽中每个电解槽的最小安全功率，从所述多个电解槽中，确定一个或多个目标电解槽；按照第一预设功率分配方式将所述总制氢功率分配至所述一个或多个目标电解槽；获取所述总制氢功率按照所述第一预设功率分配方式进行功率分配后的剩余制氢功率；按照第二预设功率分配方式将所述剩余制氢功率分配至所述一个或多个目标电解槽；按照所述一个或多个目标电解槽被分配的制氢功率，控制所述一个或多个目标电解槽制氢。"
+                }
+            ]
+        }
+    }
+}

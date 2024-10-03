@@ -1,0 +1,296 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116873940",
+                            "kind": "A",
+                            "date": "20231013"
+                        },
+                        {
+                            "doc-number": "CN116873940",
+                            "date": "20231013"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B  33/    18            A I                    "
+                        },
+                        {
+                            "text": "C08K   3/    36            A I                    "
+                        },
+                        {
+                            "text": "C08K   9/    02            A I                    "
+                        },
+                        {
+                            "text": "C08L  83/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "33",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "33",
+                            "subgroup": "181",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "3",
+                            "subgroup": "36",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "9",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "P",
+                            "main-group": "2006",
+                            "subgroup": "90",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08K3/36",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L83/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08K9/02",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L83/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310796516",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310796516",
+                            "date": "20230630"
+                        },
+                        {
+                            "doc-number": "202310796516.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310796516",
+                            "date": "20230630"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ZHENJIANG JIANGNAN CHEMICAL CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "镇江江南化工有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HU XIAOHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MENG QINGXI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LAI SHANGYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG JIANGUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TANG YAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GE WEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YAJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU XIAODONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN JIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡晓晖, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孟庆曦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赖尚艳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李坚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张建国, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "唐燕, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "葛文, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "汪亚军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡孝东, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙洁"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Residue-free pH value adjusting process for crude silicon dioxide and application of residue-free pH value adjusting process",
+                    "一种用于粗品二氧化硅的无残留酸碱度调节工艺及应用"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a residue-free pH value adjusting process for crude silicon dioxide and application, and the residue-free pH value adjusting process comprises the following steps: S1, collecting high-boiling residues generated in a rectification section in a process of synthesizing organic silicon from silicon powder and chloromethane; s2, high-temperature treatment is carried out on the high-boiling-point substance, the organic silicon material in the high-boiling-point substance is converted into crude silicon dioxide, and the crude silicon dioxide is mixed with a hydrogen chloride component; s3, adding an alkaline substance, adjusting the pH value of the obtained crude silicon dioxide, consuming the hydrogen chloride component in the crude silicon dioxide, and consuming the alkaline substance at the same time, so as to obtain a pure crude silicon dioxide material. According to the process, the thinking limitation of traditional treatment is broken through, a pH value adjusting step is added, so that a relatively pure crude silicon dioxide material is prepared on the basis of not adding new impurities, and the process can be suitable for alternative use of white carbon black in certain scenes with relatively low requirements."
+                },
+                {
+                    "p": "本发明公开了一种用于粗品二氧化硅的无残留酸碱度调节工艺及应用，包括以下步骤：S1、收集硅粉和氯甲烷合成有机硅的过程中，在精馏工段产生的高沸物；S2、对高沸物进行高温处理，转化其中的有机硅材料为粗品二氧化硅，其中该粗品二氧化硅中混杂有氯化氢成分；S3、添加碱性物质，对得到的粗品二氧化硅进行酸碱度调节，消耗其中的氯化氢成分，并同时消耗碱性物质，以获得纯净的粗品二氧化硅材料。该工艺突破传统处理的思维限制，加入酸碱度调节步骤，从而在不添加新杂质的基础上，制备得到相对纯净的粗品二氧化硅材料，可以适用于白炭黑在某些要求较低场景下的替代使用。"
+                }
+            ]
+        }
+    }
+}

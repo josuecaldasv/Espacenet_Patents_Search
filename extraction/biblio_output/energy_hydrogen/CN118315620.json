@@ -1,0 +1,176 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118315620",
+                            "kind": "A",
+                            "date": "20240709"
+                        },
+                        {
+                            "doc-number": "CN118315620",
+                            "date": "20240709"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04014            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04082            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04111            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04223            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410710397",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410710397",
+                            "date": "20240603"
+                        },
+                        {
+                            "doc-number": "202410710397.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410710397",
+                            "date": "20240603"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHENZHEN QINGRUI FUEL CELL TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "深圳市氢瑞燃料电池科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JIA KUNHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG ZHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "贾坤晗, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张震"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fuel cell system utilizing compressed air",
+                    "一种利用压缩空气的燃料电池系统"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113675436",
+                                        "name": "YANTAI DONGDE IND CO LTD",
+                                        "date": "20211119"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113675436",
+                                        "kind": "A",
+                                        "name": "YANTAI DONGDE IND CO LTD",
+                                        "date": "20211119"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114864996",
+                                        "name": "CHINA FAW GROUP CORP",
+                                        "date": "20220805"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114864996",
+                                        "kind": "A",
+                                        "name": "CHINA FAW GROUP CORP",
+                                        "date": "20220805"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115149045",
+                                        "name": "BEIJING IN POWER NEW ENERGY CO LTD, et al",
+                                        "date": "20221004"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115149045",
+                                        "kind": "A",
+                                        "name": "BEIJING IN POWER NEW ENERGY CO LTD, et al",
+                                        "date": "20221004"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a fuel cell system utilizing compressed air. The fuel cell system comprises an air filter, an air compressor, an intercooler, a switch valve, an air inlet combination valve, a hydrogen pump, a hydrogen bottle, a fuel cell stack and a humidifier, the air filter, the air compressor, the intercooler, the air inlet combination valve, the humidifier and the fuel cell stack are connected in sequence; an inlet of the switch valve is respectively connected with the air compressor and the intercooler, and an outlet of the switch valve is respectively connected with the air inlet combination valve, the fuel cell stack and the hydrogen pump; and the hydrogen bottle is respectively connected with the fuel cell stack and the hydrogen pump. The hydrogen pump and the fuel cell stack are heated through high-temperature air at the rear end of the air compressor, so that low-temperature cold start of the fuel cell system is facilitated; and meanwhile, the hydrogen pump and the fuel cell stack are cooled through gas energy of a bypass of the gas inlet combination valve, so that the overall efficiency of the fuel cell system is effectively improved."
+                },
+                {
+                    "p": "本申请涉及一种利用压缩空气的燃料电池系统，包括空气过滤器、空压机、中冷器、开关阀、进气组合阀、氢泵、氢瓶、燃料电池堆和加湿器；所述空气过滤器、所述空压机、所述中冷器、所述进气组合阀、所述加湿器和所述燃料电池堆依次连接；所述开关阀的入口分别与所述空压机、所述中冷器连接，所述开关阀的出口分别与所述进气组合阀、所述燃料电池堆、所述氢泵连接；所述氢瓶分别与所述燃料电池堆、所述氢泵连接。本申请通过空压机后端高温空气给氢泵和燃料电池堆加热，方便燃料电池系统的低温冷启动；同时通过进气组合阀旁通路的气体能量给氢泵和燃料电池堆散热，有效提高了燃料电池系统的整体效率。"
+                }
+            ]
+        }
+    }
+}

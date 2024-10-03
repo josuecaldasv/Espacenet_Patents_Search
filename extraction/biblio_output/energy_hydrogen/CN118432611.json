@@ -1,0 +1,114 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118432611",
+                            "kind": "A",
+                            "date": "20240802"
+                        },
+                        {
+                            "doc-number": "CN118432611",
+                            "date": "20240802"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "H03L   7/    26            A I                    "
+                    }
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410609315",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410609315",
+                            "date": "20240516"
+                        },
+                        {
+                            "doc-number": "202410609315.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410609315",
+                            "date": "20240516"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING INST OF RADIO METROLOGY AND MEASUREMENT"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京无线电计量测试研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHOU TIEZHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FENG YUBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU QIONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周铁中, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "冯玉宾, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴琼"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Energy state control device for hydrogen atom frequency standard",
+                    "一种氢原子频标用能态控制装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an energy state control device for a hydrogen atom frequency standard, which is used for realizing output signal width of a squeezing physical part, improving long-term stability of a hydrogen atom clock and reducing system drift. The device comprises an energy state inversion structure, a secondary state selector, a primary state selector and an ionization bubble, the ionization bubble is used for ionizing hydrogen atoms; the primary state selector is used for separating hydrogen atoms in a first energy state and hydrogen atoms in a third energy state from the ionized hydrogen atoms; the energy state inversion structure is used for inverting hydrogen atoms in a first energy state to a second energy state; and the secondary state selector is used for filtering hydrogen atoms in a second energy state for the reversed hydrogen atoms, so that the hydrogen atoms entering the storage bubble are only hydrogen atoms in a third energy state."
+                },
+                {
+                    "p": "本发明公开了一种氢原子频标用能态控制装置，用以实现压榨物理部分输出信号宽度，提升氢原子钟的长期稳定度，降低系统漂移。所述装置，包括：能态反转结构、二级选态器、一级选态器、电离泡；所述电离泡，用于对氢原子进行电离；所述一级选态器，用于将电离后的氢原子分离出第一能态的氢原子和第三能态的氢原子；所述能态反转结构，用于将处于第一能态的氢原子反转至第二能态；所述二级选态器，用于针对经过反转的氢原子滤除第二能态氢原子，使进入贮存泡内的氢原子只有处于第三能态的氢原子。"
+                }
+            ]
+        }
+    }
+}

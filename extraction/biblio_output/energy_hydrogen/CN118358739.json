@@ -1,0 +1,139 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118358739",
+                            "kind": "A",
+                            "date": "20240719"
+                        },
+                        {
+                            "doc-number": "CN118358739",
+                            "date": "20240719"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L  58/    40            A I                    "
+                        },
+                        {
+                            "text": "B63H  21/    00            A I                    "
+                        },
+                        {
+                            "text": "B63H  21/    17            A I                    "
+                        },
+                        {
+                            "text": "B63H  21/    20            A I                    "
+                        },
+                        {
+                            "text": "G06F  17/    10            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "T",
+                        "main-group": "90",
+                        "subgroup": "40",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410522654",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410522654",
+                            "date": "20240428"
+                        },
+                        {
+                            "doc-number": "202410522654.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410522654",
+                            "date": "20240428"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WUHAN UNIV OF TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "武汉理工大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YUAN YUPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG HONGWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TONG LIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "袁裕鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张洪伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "童亮"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Capacity configuration optimization method for ship fuel cell power system",
+                    "一种船舶燃料电池动力系统容量配置优化方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a ship fuel cell power system capacity configuration optimization method, which comprises the following steps of performing energy distribution on ship power requirements through an established ship fuel cell power system energy management strategy; establishing a ship fuel cell-energy storage cell hybrid power system mathematical model; constructing an economical efficiency objective function, a fuel cell system output stability objective function, a hydrogen consumption objective function and various constraint conditions of the ship fuel cell hybrid power system based on the strategy and the model; and carrying out optimization solution on the capacity configuration of the ship fuel cell power system through a multi-objective optimization particle swarm algorithm. Various load and working condition requirements of the ship can be met; the economic cost and hydrogen consumption of the system can be reduced, and the service life of the fuel cell system is prolonged."
+                },
+                {
+                    "p": "本发明公开了一种船舶燃料电池动力系统容量配置优化方法，包括以下步骤：通过建立的船舶燃料电池动力系统能量管理策略，对船舶功率需求进行能量分配；建立船舶燃料电池‑储能电池混合动力系统数学模型；基于上策略和模型构建船舶燃料电池混合动力系统的经济性目标函数、燃料电池系统输出稳定性目标函数、氢气消耗量目标函数以及多种约束条件；再通过多目标优化的粒子群算法，对船舶燃料电池动力系统容量配置进行优化求解。本发明可满足船舶各种负载和工况需求；能降低系统的经济成本和氢气消耗量，并提高燃料电池系统的使用寿命。"
+                }
+            ]
+        }
+    }
+}

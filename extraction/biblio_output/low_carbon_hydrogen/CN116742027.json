@@ -1,0 +1,228 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116742027",
+                            "kind": "A",
+                            "date": "20230912"
+                        },
+                        {
+                            "doc-number": "CN116742027",
+                            "date": "20230912"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B82Y  30/    00            A I                    "
+                        },
+                        {
+                            "text": "B82Y  40/    00            A I                    "
+                        },
+                        {
+                            "text": "H01M   4/    88            A I                    "
+                        },
+                        {
+                            "text": "H01M   4/    92            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "82",
+                            "subclass": "Y",
+                            "main-group": "30",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "82",
+                            "subclass": "Y",
+                            "main-group": "40",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "88",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "925",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310792855",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310792855",
+                            "date": "20230629"
+                        },
+                        {
+                            "doc-number": "202310792855.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310792855",
+                            "date": "20230629"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV GUANGZHOU"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "广州大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DU LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU YANGDONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIANG YUQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU QIAOJING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JIAYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU PUWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN JUNDA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YE SIYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杜磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周扬东, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "梁蔚淇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴巧靖, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李佳鸯, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴普伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈俊达, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "叶思宇"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Low-platinum catalyst and preparation method thereof",
+                    "一种低铂催化剂及其制备方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of electro-catalysis, in particular to a low-platinum catalyst and a preparation method thereof.The catalyst is composed of an MNC carrier and PtM nanoparticles reduced on the surface of the MNC carrier in situ, and the MNC carrier comprises any one or more of FeNC, CoNC, MnNC, NiNC and CuNC; the content of Pt in the catalyst is 1-10 wt%, the content of M is 1-3 wt%, and the particle size of PtM nanoparticles is 2-6 nm. The prepared low-platinum catalyst has excellent oxygen reduction and hydrogen evolution performance which is obviously superior to commercial platinum carbon, the usage amount of precious metal can be effectively reduced, and the utilization efficiency of the precious metal is improved; in addition, the preparation method is simple in preparation procedure and relatively low in cost, can realize batch preparation, and has excellent market value and economic value."
+                },
+                {
+                    "p": "本发明涉及电催化技术领域，尤其是涉及一种低铂催化剂及其制备方法，所述催化剂由MNC载体和原位还原于所述MNC载体表面的PtM纳米颗粒组成，其中，所述MNC载体包括FeNC、CoNC、MnNC、NiNC和CuNC中的任意一种或多种；所述催化剂中Pt的含量为1‑10wt％，M的含量为1‑3wt％，PtM纳米颗粒的粒径为2‑6nm。本发明所制备得的低铂催化剂具有优异的氧还原以及析氢性能，明显优于商用铂碳，可有效地降低贵金属的使用量，提高贵金属的利用效率；此外，该制备方法制备程序简单、成本较低，可实现批量制备，具有优异的市场价值和经济价值。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,531 @@
+{
+    "exchange-documents": {
+        "exchange-document": [
+            {
+                "bibliographic-data": {
+                    "publication-reference": {
+                        "document-id": [
+                            {
+                                "country": "WO",
+                                "doc-number": "2024091856",
+                                "kind": "A2",
+                                "date": "20240502"
+                            },
+                            {
+                                "doc-number": "WO2024091856",
+                                "date": "20240502"
+                            }
+                        ]
+                    },
+                    "classifications-ipcr": {
+                        "classification-ipcr": [
+                            {
+                                "text": "C01C   1/    04            A I                    "
+                            },
+                            {
+                                "text": "G16C  20/    10            A I                    "
+                            }
+                        ]
+                    },
+                    "patent-classifications": {
+                        "patent-classification": [
+                            {
+                                "classification-scheme": null,
+                                "section": "H",
+                                "class": "02",
+                                "subclass": "J",
+                                "main-group": "3",
+                                "subgroup": "004",
+                                "classification-value": "I",
+                                "generating-office": "US"
+                            },
+                            {
+                                "classification-scheme": null,
+                                "section": "H",
+                                "class": "02",
+                                "subclass": "J",
+                                "main-group": "3",
+                                "subgroup": "004",
+                                "classification-value": "I",
+                                "generating-office": "EP"
+                            },
+                            {
+                                "classification-scheme": null,
+                                "section": "H",
+                                "class": "02",
+                                "subclass": "J",
+                                "main-group": "3",
+                                "subgroup": "381",
+                                "classification-value": "I",
+                                "generating-office": "US"
+                            },
+                            {
+                                "classification-scheme": null,
+                                "section": "H",
+                                "class": "02",
+                                "subclass": "J",
+                                "main-group": "3",
+                                "subgroup": "381",
+                                "classification-value": "I",
+                                "generating-office": "EP"
+                            },
+                            {
+                                "classification-scheme": null,
+                                "section": "H",
+                                "class": "02",
+                                "subclass": "J",
+                                "main-group": "2300",
+                                "subgroup": "20",
+                                "classification-value": "A",
+                                "generating-office": "US"
+                            }
+                        ]
+                    },
+                    "application-reference": {
+                        "document-id": [
+                            {
+                                "country": "US",
+                                "doc-number": "2023077450",
+                                "kind": "W"
+                            },
+                            {
+                                "doc-number": "WO2023US77450",
+                                "date": "20231020"
+                            },
+                            {
+                                "doc-number": "US2023/077450"
+                            }
+                        ]
+                    },
+                    "priority-claims": {
+                        "priority-claim": {
+                            "document-id": [
+                                {
+                                    "doc-number": "US202263419495P",
+                                    "date": "20221026"
+                                },
+                                {
+                                    "doc-number": "63/419,495"
+                                }
+                            ]
+                        }
+                    },
+                    "parties": {
+                        "applicants": {
+                            "applicant": [
+                                {
+                                    "applicant-name": {
+                                        "name": "KELLOGG BROWN & ROOT LLC [US]"
+                                    }
+                                },
+                                {
+                                    "applicant-name": {
+                                        "name": " BERNAT RAFAL [GB]"
+                                    }
+                                },
+                                {
+                                    "applicant-name": {
+                                        "name": "KELLOGG BROWN & ROOT LLC, "
+                                    }
+                                },
+                                {
+                                    "applicant-name": {
+                                        "name": "BERNAT, Rafal"
+                                    }
+                                }
+                            ]
+                        },
+                        "inventors": {
+                            "inventor": [
+                                {
+                                    "inventor-name": {
+                                        "name": "BERNAT RAFAL [US]"
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": " FENG ZHENTAO [US]"
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": " BALIGA SATISH [US]"
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": " YAMALIDOU EKATERINI [US]"
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": " BRUNENGO PAOLO [US]"
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": " BIAN SHOUJUN [US]"
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": "BERNAT, Rafal, "
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": "FENG, Zhentao, "
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": "BALIGA, Satish, "
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": "YAMALIDOU, Ekaterini, "
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": "BRUNENGO, Paolo, "
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": "BIAN, Shoujun"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "invention-title": [
+                        "COMMANDE AVANCÉE ET PROCÉDÉS ASSOCIÉS POUR UNE INSTALLATION D'AMMONIAC À FAIBLE TENEUR EN CARBONE",
+                        "ADVANCED CONTROL AND RELATED METHODS FOR A LOW CARBON AMMONIA FACILITY"
+                    ]
+                },
+                "abstract": [
+                    {
+                        "p": "Advanced control and related methods for a low carbon ammonia facility having an ammonia synthesis loop that includes systems to carry out the steps of supplying energy to the facility, wherein at least a portion of the supplied energy is from a low carbon energy source, receiving a forecasted energy profile for the low carbon energy source over a time period, predicting, using an advanced regulatory controller (ARC), the operating conditions of the facility based on the forecasted energy profile for the low carbon energy source, generating, by the ARC, one or more set points to control the facility; controlling the generating of the hydrogen feed using the ARC; and producing ammonia by feeding the generated hydrogen feed to the ammonia synthesis loop in accordance with one or more set points generated by the ARC."
+                    },
+                    {
+                        "p": "Commande avancée et procédés associés pour une installation d'ammoniac à faible teneur en carbone possédant une boucle de synthèse d'ammoniac qui comprend des systèmes servant à réaliser les étapes consistant à alimenter en énergie l'installation, au moins une partie de l'énergie fournie provenant d'une source d'énergie à faible teneur en carbone, à recevoir un profil d'énergie prévu pour la source d'énergie à faible teneur en carbone sur une période, à prédire, à l'aide d'un dispositif de commande régulateur avancé (ARC), les conditions de fonctionnement de l'installation sur la base du profil d'énergie prévu pour la source d'énergie à faible teneur en carbone, à générer, par l'ARC, un ou plusieurs points de consigne pour commander l'installation ; à commander la génération de la charge d'hydrogène à l'aide de l'ARC ; et à produire de l'ammoniac par alimentation de la charge d'hydrogène générée à la boucle de synthèse d'ammoniac conformément à un ou plusieurs points de consigne générés par l'ARC."
+                    }
+                ]
+            },
+            {
+                "bibliographic-data": {
+                    "publication-reference": {
+                        "document-id": [
+                            {
+                                "country": "WO",
+                                "doc-number": "2024091856",
+                                "kind": "A3",
+                                "date": "20240627"
+                            },
+                            {
+                                "doc-number": "WO2024091856",
+                                "date": "20240627"
+                            }
+                        ]
+                    },
+                    "classifications-ipcr": {
+                        "classification-ipcr": [
+                            {
+                                "text": "C01C   1/    02            A I                    "
+                            },
+                            {
+                                "text": "C01C   1/    04            A I                    "
+                            }
+                        ]
+                    },
+                    "patent-classifications": {
+                        "patent-classification": [
+                            {
+                                "classification-scheme": null,
+                                "section": "H",
+                                "class": "02",
+                                "subclass": "J",
+                                "main-group": "3",
+                                "subgroup": "004",
+                                "classification-value": "I",
+                                "generating-office": "US"
+                            },
+                            {
+                                "classification-scheme": null,
+                                "section": "H",
+                                "class": "02",
+                                "subclass": "J",
+                                "main-group": "3",
+                                "subgroup": "004",
+                                "classification-value": "I",
+                                "generating-office": "EP"
+                            },
+                            {
+                                "classification-scheme": null,
+                                "section": "H",
+                                "class": "02",
+                                "subclass": "J",
+                                "main-group": "3",
+                                "subgroup": "381",
+                                "classification-value": "I",
+                                "generating-office": "US"
+                            },
+                            {
+                                "classification-scheme": null,
+                                "section": "H",
+                                "class": "02",
+                                "subclass": "J",
+                                "main-group": "3",
+                                "subgroup": "381",
+                                "classification-value": "I",
+                                "generating-office": "EP"
+                            },
+                            {
+                                "classification-scheme": null,
+                                "section": "H",
+                                "class": "02",
+                                "subclass": "J",
+                                "main-group": "2300",
+                                "subgroup": "20",
+                                "classification-value": "A",
+                                "generating-office": "US"
+                            }
+                        ]
+                    },
+                    "application-reference": {
+                        "document-id": [
+                            {
+                                "country": "US",
+                                "doc-number": "2023077450",
+                                "kind": "W"
+                            },
+                            {
+                                "doc-number": "WO2023US77450",
+                                "date": "20231020"
+                            },
+                            {
+                                "doc-number": "US2023/077450"
+                            }
+                        ]
+                    },
+                    "priority-claims": {
+                        "priority-claim": {
+                            "document-id": [
+                                {
+                                    "doc-number": "US202263419495P",
+                                    "date": "20221026"
+                                },
+                                {
+                                    "doc-number": "63/419,495"
+                                }
+                            ]
+                        }
+                    },
+                    "parties": {
+                        "applicants": {
+                            "applicant": [
+                                {
+                                    "applicant-name": {
+                                        "name": "KELLOGG BROWN & ROOT LLC [US]"
+                                    }
+                                },
+                                {
+                                    "applicant-name": {
+                                        "name": " BERNAT RAFAL [GB]"
+                                    }
+                                },
+                                {
+                                    "applicant-name": {
+                                        "name": "KELLOGG BROWN & ROOT LLC, "
+                                    }
+                                },
+                                {
+                                    "applicant-name": {
+                                        "name": "BERNAT, Rafal"
+                                    }
+                                }
+                            ]
+                        },
+                        "inventors": {
+                            "inventor": [
+                                {
+                                    "inventor-name": {
+                                        "name": "BERNAT RAFAL [US]"
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": " FENG ZHENTAO [US]"
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": " BALIGA SATISH [US]"
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": " YAMALIDOU EKATERINI [US]"
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": " BRUNENGO PAOLO [US]"
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": " BIAN SHOUJUN [US]"
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": "BERNAT, Rafal, "
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": "FENG, Zhentao, "
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": "BALIGA, Satish, "
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": "YAMALIDOU, Ekaterini, "
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": "BRUNENGO, Paolo, "
+                                    }
+                                },
+                                {
+                                    "inventor-name": {
+                                        "name": "BIAN, Shoujun"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "invention-title": [
+                        "COMMANDE AVANCÉE ET PROCÉDÉS ASSOCIÉS POUR UNE INSTALLATION D'AMMONIAC À FAIBLE TENEUR EN CARBONE",
+                        "ADVANCED CONTROL AND RELATED METHODS FOR A LOW CARBON AMMONIA FACILITY"
+                    ],
+                    "references-cited": {
+                        "citation": [
+                            {
+                                "patcit": {
+                                    "document-id": [
+                                        {
+                                            "doc-number": "US10082786",
+                                            "name": "SAIT SADIQ M [SA], et al",
+                                            "date": "20180925"
+                                        },
+                                        {
+                                            "country": "US",
+                                            "doc-number": "10082786",
+                                            "kind": "B2",
+                                            "name": "SAIT SADIQ M [SA], et al",
+                                            "date": "20180925"
+                                        }
+                                    ]
+                                },
+                                "category": "YA"
+                            },
+                            {
+                                "patcit": {
+                                    "document-id": [
+                                        {
+                                            "doc-number": "US10082786",
+                                            "name": "SAIT SADIQ M [SA], et al",
+                                            "date": "20180925"
+                                        },
+                                        {
+                                            "country": "US",
+                                            "doc-number": "10082786",
+                                            "kind": "B2",
+                                            "name": "SAIT SADIQ M [SA], et al",
+                                            "date": "20180925"
+                                        }
+                                    ]
+                                },
+                                "category": "A"
+                            },
+                            {
+                                "patcit": {
+                                    "document-id": [
+                                        {
+                                            "doc-number": "US2019064757",
+                                            "name": "RAMAMURTHY SHANKAR [US]",
+                                            "date": "20190228"
+                                        },
+                                        {
+                                            "country": "US",
+                                            "doc-number": "2019064757",
+                                            "kind": "A1",
+                                            "name": "RAMAMURTHY SHANKAR [US]",
+                                            "date": "20190228"
+                                        }
+                                    ]
+                                },
+                                "category": "Y"
+                            },
+                            {
+                                "patcit": {
+                                    "document-id": [
+                                        {
+                                            "doc-number": "US2019064757",
+                                            "name": "RAMAMURTHY SHANKAR [US]",
+                                            "date": "20190228"
+                                        },
+                                        {
+                                            "country": "US",
+                                            "doc-number": "2019064757",
+                                            "kind": "A1",
+                                            "name": "RAMAMURTHY SHANKAR [US]",
+                                            "date": "20190228"
+                                        }
+                                    ]
+                                },
+                                "category": "A"
+                            },
+                            {
+                                "patcit": {
+                                    "document-id": [
+                                        {
+                                            "doc-number": "CN113993816",
+                                            "name": "SABIC GLOBAL TECHNOLOGIES BV",
+                                            "date": "20220128"
+                                        },
+                                        {
+                                            "country": "CN",
+                                            "doc-number": "113993816",
+                                            "kind": "A",
+                                            "name": "SABIC GLOBAL TECHNOLOGIES BV",
+                                            "date": "20220128"
+                                        }
+                                    ]
+                                },
+                                "category": "YA"
+                            }
+                        ]
+                    }
+                },
+                "abstract": [
+                    {
+                        "p": "Advanced control and related methods for a low carbon ammonia facility having an ammonia synthesis loop that includes systems to carry out the steps of supplying energy to the facility, wherein at least a portion of the supplied energy is from a low carbon energy source, receiving a forecasted energy profile for the low carbon energy source over a time period, predicting, using an advanced regulatory controller (ARC), the operating conditions of the facility based on the forecasted energy profile for the low carbon energy source, generating, by the ARC, one or more set points to control the facility; controlling the generating of the hydrogen feed using the ARC; and producing ammonia by feeding the generated hydrogen feed to the ammonia synthesis loop in accordance with one or more set points generated by the ARC."
+                    },
+                    {
+                        "p": "Commande avancée et procédés associés pour une installation d'ammoniac à faible teneur en carbone possédant une boucle de synthèse d'ammoniac qui comprend des systèmes servant à réaliser les étapes consistant à alimenter en énergie l'installation, au moins une partie de l'énergie fournie provenant d'une source d'énergie à faible teneur en carbone, à recevoir un profil d'énergie prévu pour la source d'énergie à faible teneur en carbone sur une période, à prédire, à l'aide d'un dispositif de commande régulateur avancé (ARC), les conditions de fonctionnement de l'installation sur la base du profil d'énergie prévu pour la source d'énergie à faible teneur en carbone, à générer, par l'ARC, un ou plusieurs points de consigne pour commander l'installation ; à commander la génération de la charge d'hydrogène à l'aide de l'ARC ; et à produire de l'ammoniac par alimentation de la charge d'hydrogène générée à la boucle de synthèse d'ammoniac conformément à un ou plusieurs points de consigne générés par l'ARC."
+                    }
+                ]
+            }
+        ]
+    }
+}

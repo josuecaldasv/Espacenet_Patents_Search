@@ -1,0 +1,185 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117537259",
+                            "kind": "A",
+                            "date": "20240209"
+                        },
+                        {
+                            "doc-number": "CN117537259",
+                            "date": "20240209"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F17C   5/    02            A I                    "
+                        },
+                        {
+                            "text": "F17C   5/    04            A I                    "
+                        },
+                        {
+                            "text": "F17C   7/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "5",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "5",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "7",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "17",
+                            "subclass": "C",
+                            "main-group": "2203",
+                            "subgroup": "03",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311371103",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311371103",
+                            "date": "20231020"
+                        },
+                        {
+                            "doc-number": "202311371103.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311371103",
+                            "date": "20231020"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA THREE GORGES CORP"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " UNIV CENTRAL SOUTH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国长江三峡集团有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中南大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIN XINXING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DAI HUITAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHONG GEYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SU WEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蔺新星, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "代慧涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "钟舸宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苏文"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Liquid hydrogen gasification station energy compensation system and working method thereof",
+                    "液氢氢气化站能量补偿系统及其工作方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of energy storage, and discloses a liquid hydrogen gasification station energy compensation system and a working method thereof, and the liquid hydrogen gasification station energy compensation system comprises a low-pressure liquid hydrogen storage tank and a high-pressure gas hydrogen storage tank; the primary energy recovery device comprises a low-pressure hydrogen chamber, a high-pressure liquid hydrogen chamber and a magnetic refrigeration refrigerator; the low-pressure hydrogen chamber is suitable for being connected with a low-pressure liquid hydrogen storage tank to form a liquid hydrogen storage evaporation gas recovery cycle; the secondary energy recovery device comprises a high-pressure hydrogen chamber, a liquid carbon dioxide chamber and a Stirling engine; the high-pressure liquid hydrogen chamber and the high-pressure hydrogen chamber are connected between the low-pressure liquid hydrogen storage tank and the high-pressure gas hydrogen storage tank to form liquid hydrogen vaporization circulation; and the low-temperature heat exchanger is suitable for forming liquid carbon dioxide circulation with the liquid carbon dioxide chamber and an external cold load. A large amount of low-temperature cold energy can be fully utilized, and the liquid hydrogen loss rate can be reduced in the long-period storage process."
+                },
+                {
+                    "p": "本发明涉及储能技术领域，公开了一种液氢氢气化站能量补偿系统及其工作方法，液氢氢气化站能量补偿系统包括：低压液氢储罐和高压气氢储罐；一级能量回收装置，包括低压氢气室、高压液氢室和磁制冷冷机；低压氢气室适于与低压液氢储罐连接形成储液氢蒸发气体回收循环；二级能量回收装置，包括高压氢气室、液态二氧化碳室和斯特林机；高压液氢室和高压氢气室连接于低压液氢储罐与高压气氢储罐之间以形成液氢汽化循环；低温换热器，低温换热器适于与液态二氧化碳室以及外界冷负荷形成液态二氧化碳循环。本发明不仅能够对大量低温冷能充分利用，而且能够在长周期存储过程中降低液氢损耗率。"
+                }
+            ]
+        }
+    }
+}

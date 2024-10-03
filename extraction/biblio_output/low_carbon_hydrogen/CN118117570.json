@@ -1,0 +1,221 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118117570",
+                            "kind": "A",
+                            "date": "20240531"
+                        },
+                        {
+                            "doc-number": "CN118117570",
+                            "date": "20240531"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  17/    10            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0637            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "17",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06375",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "28",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311473093",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311473093",
+                            "date": "20231107"
+                        },
+                        {
+                            "doc-number": "202311473093.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311473093",
+                            "date": "20231107"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV CHONGQING"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "重庆大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "REN ZHOUYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO YUGE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG YUNPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FENG JIANBING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG JIYUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任洲洋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高宇歌, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "姜云鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "冯健冰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张基岳"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Carbon emission operation domain determination analysis method for electricity-hydrogen coupling system",
+                    "电-氢耦合系统定碳排运行域分析方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of power system low-carbon operation, and particularly discloses an electricity-hydrogen coupling system carbon emission determination operation domain analysis method, which comprises the following steps: 1) constructing a concept and a model of an electricity-hydrogen coupling system carbon emission determination operation domain; 2) analyzing geometric characteristics of the carbon emission determination operation domain of the electricity-hydrogen coupling system, and constructing evaluation indexes of the carbon emission determination operation domain of the electricity-hydrogen coupling system; and 3) establishing a fitting method-based boundary solving method for the carbon emission determination operation domain of the electricity-hydrogen coupling system."
+                },
+                {
+                    "p": "本发明涉及电力系统低碳运行技术领域，具体公开了一种电‑氢耦合系统定碳排运行域分析方法，包括：1)构建电‑氢耦合系统定碳排运行域的概念及模型；2)分析电‑氢耦合系统定碳排运行域的几何特征，构建电‑氢耦合系统定碳排运行域的评估指标；3)建立基于拟合法的电‑氢耦合系统定碳排运行域的边界求解方法。"
+                }
+            ]
+        }
+    }
+}

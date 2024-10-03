@@ -1,0 +1,201 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118198423",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118198423",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L  58/    30            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04119            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04701            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04992            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "58",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04179",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04701",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04753",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04992",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "2250",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311406280",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311406280",
+                            "date": "20231027"
+                        },
+                        {
+                            "doc-number": "202311406280.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311406280",
+                            "date": "20231027"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "TEHAI HYDROGEN ENERGY TESTING BAODING CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "特嗨氢能检测（保定）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FENG LILI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DUAN ZHIJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "封利利, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "段志洁"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Drainage control method and drainage control system of fuel cell and vehicle",
+                    "燃料电池的排水控制方法、排水控制系统及车辆"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a drainage control method for a fuel cell, which comprises the following steps of: judging the operation condition of the fuel cell by using a tilt angle sensor, blowing the fuel cell when the fuel cell operates to a first preset time under a ramp inclination condition, increasing the flow and pressure of blowing air, and meanwhile, increasing the operation temperature of the fuel cell, liquid water stored in the fuel cell is vaporized and blown out of the fuel cell. The invention further provides a drainage control system matched with the drainage control method and a vehicle, the existing structure and state of the fuel cell do not need to be changed, the development cost is saved, the problem that drainage of the fuel cell is not thorough under the ramp inclined working condition is solved, the adverse effect of water gathering on a fuel cell system is reduced, and the safety of the vehicle is improved. And the service life and durability of the fuel cell are enhanced."
+                },
+                {
+                    "p": "本发明提供了一种燃料电池的排水控制方法，利用倾角传感器来判断燃料电池的运行工况，当燃料电池在坡道倾斜工况运行至第一预设时间时，对燃料电池进行吹扫，并提高吹扫空气的流量和压力，同时提升燃料电池的运行温度，将燃料电池内部积存的液态水汽化并吹出燃料电池。本发明还提供了与上述排水控制方法相匹配的排水控制系统及车辆，无需改变燃料电池现有的结构和状态，节省了开发成本，避免了燃料电池在坡道倾斜工况下排水不净的问题，减少水聚集对燃料电池系统造成的不利影响，增强燃料电池的寿命和耐久性。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118387881",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118387881",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B  33/   035            A I                    "
+                        },
+                        {
+                            "text": "F27D  19/    00            A I                    "
+                        },
+                        {
+                            "text": "G05B  13/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311863261",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311863261",
+                            "date": "20231229"
+                        },
+                        {
+                            "doc-number": "202311863261.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311863261",
+                            "date": "20231229"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "QINGHAI ASIA SILICON SEMICONDUCTOR CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " QINGHAI ASIA SILICON IND POLYSILICON CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " ASIA SILICON QINGHAI CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " QINGHAI YAGUI SILICON MATERIAL ENGINEERING TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " QINGHAI ASIA SILICON SILICON MAT CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "青海亚洲硅业半导体有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "青海亚洲硅业多晶硅有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "亚洲硅业（青海）股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "青海省亚硅硅材料工程技术有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "青海亚洲硅业硅材料有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GUO GUANGWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHENG LIANJI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI XUEPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN HONGBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHEN ZHENGGUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI MING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI YUCHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CAO DEHU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭光伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郑连基, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李雪萍, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈宏博, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "沈正国, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李宇辰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曹德虎"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Reduction furnace regulation and control method",
+                    "一种还原炉调控方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of polycrystalline silicon materials, in particular to a reduction furnace regulation and control method. The method comprises the following steps: S101, setting the diameters of all rings of silicon rods in the reduction furnace to be the same at the same time point, and determining optimal process operation parameters; s102, selecting an optimal curve parameter according to the existing operation condition; s103, measuring and calculating an operation parameter K value; s104, performing interlocking control on the operating parameter K value, a hydrogen regulating valve and current regulation; and S105, optimizing and adjusting the operating parameter K value of the previous period according to the operating condition. The method has the advantage that the temperature is controlled timely and accurately. The energy consumption is reduced. And optimization and adjustment of the reduction process are enhanced. And the replicability of the reduction process is improved."
+                },
+                {
+                    "p": "本发明涉及多晶硅材料技术领域，具体涉及一种还原炉调控方法。所述的方法包括：S101设定还原炉内各环硅棒在同一时间点直径相同，确定最优工艺运行参数；S102根据已有运行工况，选取最优曲线参数；S103测算运行参数K值；S104运行参数K值与氢气调节阀和电流调控进行联锁控制；S105根据运行工况对上一周期运行参数K值进行优化调整。本发明的优点：及时、精准的控制温度。降低能耗。增强还原工艺优化调整。提升还原工艺的可复制性。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118238685",
+                            "kind": "A",
+                            "date": "20240625"
+                        },
+                        {
+                            "doc-number": "CN118238685",
+                            "date": "20240625"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L  58/    30            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04298            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04858            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/    22            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "58",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04298",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "0494",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "22",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "2240",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "2250",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410496692",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410496692",
+                            "date": "20240424"
+                        },
+                        {
+                            "doc-number": "202410496692.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410496692",
+                            "date": "20240424"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING FOTON DAIMLER AUTOMOTIVE CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京福田戴姆勒汽车有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG WENCAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG HONGPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG BO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YUTING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张文才, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王洪朋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张雨婷"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Vehicle and control method thereof",
+                    "车辆及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a vehicle and a control method thereof.The vehicle comprises a gear shifting knob used for controlling the generated power of a hydrogen reactor, the control method comprises the steps that operation parameters of the vehicle are obtained, and the operation parameters comprise at least one of the vehicle load state, the electric quantity of a power battery, the accelerator required opening degree of a vehicle pedal and the vehicle operation working condition; the gear of the gear shifting knob is determined according to the operation parameters; by reasonably controlling the size of the generated power of the hydrogen stack, on the basis of meeting the dynamic property of the vehicle, it is guaranteed that the electric quantity of the power battery is maintained in a reasonable interval, the stability of the electric quantity of the power battery is improved, the service life of the power battery is prolonged, and meanwhile the energy loss of the vehicle is optimized; and the economical efficiency of the vehicle is improved."
+                },
+                {
+                    "p": "本发明提出一种车辆及其控制方法，车辆包括：用于控制氢堆发电功率的调挡旋钮，控制方法包括：获取车辆的运行参数，其中，运行参数包括车辆负载状态、动力电池电量、车辆踏板的油门需求开度和车辆运行工况的至少一个；根据运行参数确定调挡旋钮所处挡位；根据挡位和运行参数确定氢堆发电功率，本发明通过合理控制氢堆发电功率的大小，在满足车辆动力性的基础上，保证动力电池电量维持在合理区间，提高动力电池电量的稳定性，延长动力电池寿命，同时优化优化车辆的能量损耗，以提高车辆的经济性。"
+                }
+            ]
+        }
+    }
+}

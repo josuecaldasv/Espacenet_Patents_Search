@@ -1,0 +1,140 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118350655",
+                            "kind": "A",
+                            "date": "20240716"
+                        },
+                        {
+                            "doc-number": "CN118350655",
+                            "date": "20240716"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "G06F  30/    20            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/    04            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0637            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410324330",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410324330",
+                            "date": "20240321"
+                        },
+                        {
+                            "doc-number": "202410324330.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410324330",
+                            "date": "20240321"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "LANZHOU UNIV OF TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "兰州理工大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHOU HUAIRONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU XIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI CHUNLEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周怀荣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴鑫, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李春雷"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Wind power-photovoltaic-photo-thermal coupling hydrogen production system capacity optimization configuration method",
+                    "一种风电-光伏-光热耦合制氢系统容量优化配置方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of coupling and optimization of renewable energy systems, in particular to a wind power-photovoltaic-photo-thermal coupling hydrogen production system capacity optimization configuration method, which comprises the following steps of: acquiring data such as wind speed and illumination intensity in a certain region, acquiring output power operation parameters of a photo-thermal power station, and calculating the output power of the photo-thermal power station; collecting electricity price fluctuation data of the region and hydrogen load data of a certain refinery; the output power of a wind power plant and a photovoltaic field and the volatility of the hydrogen load of a refinery plant are analyzed, and a wind power-photovoltaic-photo-thermal coupling hydrogen production system is simulated under multiple scenes; based on the multi-scene renewable energy source hydrogen production, establishing an objective function of minimizing the total consumption cost of a wind power-photovoltaic-photo-thermal coupling hydrogen production system, and giving constraint conditions to the objective function; the total consumption cost minimum objective function comprises investment cost, operation and maintenance cost and system income; and calling a CPLEX solver through a YALMIP platform on the basis of the target function with the minimum total consumption cost and the constraint condition, and solving and determining the hydrogen production cost and the optimal hydrogen production scheme of the system through MATLAB."
+                },
+                {
+                    "p": "本发明涉及可再生能源系统耦合与优化技术领域，具体为一种风电‑光伏‑光热耦合制氢系统容量优化配置方法，包括：采集某地区风速与光照强度等数据，采集光热电站输出功率运行参数，采集该地区电价波动数据和某炼化厂氢负荷数据；分析风电场与光伏场的输出功率，炼化厂氢气负荷的波动性，多情景下模拟风电‑光伏‑光热耦合制氢系统；基于所述多情景的可再生能源制氢建立风电‑光伏‑光热耦合制氢系统消耗总费用最小目标函数，并为所述目标函数给予约束条件；所述消耗总费用最小目标函数包括投资成本、运维成本和系统收益；基于消耗总费用最小目标函数和所述约束条件，通过YALMIP平台调用CPLEX求解器，通过MATLAB求解确定系统的制氢成本和最佳的制氢方案。"
+                }
+            ]
+        }
+    }
+}

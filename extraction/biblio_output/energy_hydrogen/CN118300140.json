@@ -1,0 +1,178 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118300140",
+                            "kind": "A",
+                            "date": "20240705"
+                        },
+                        {
+                            "doc-number": "CN118300140",
+                            "date": "20240705"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J  15/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410391993",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410391993",
+                            "date": "20240402"
+                        },
+                        {
+                            "doc-number": "202410391993.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410391993",
+                            "date": "20240402"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA UNIV OF PETROLEUM EAST CHINA"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国石油大学（华东）"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "SHEN YI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KANG ZHONGJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAI JUNYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI LONGCHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG CHENGUANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YIHONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO XIANHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHEN YICHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "沈翊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "康忠健, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "翟俊义, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李龙晨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张晨光, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘一鸿, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郜宪辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "沈逸超"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Electro-hydrogen system flexibility measuring method considering space-time performance",
+                    "一种考虑时空表现的电氢系统灵活性测度方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "A method for measuring the flexibility of an electro-hydrogen system considering space-time performance comprises the following steps: (1) research on flexible resources of the electro-hydrogen system: summarizing the existing research on the flexibility of the electro-hydrogen system from four aspects of flexibility resource integration, planning configuration, operation regulation and control and quantitative evaluation; (2) aiming at the uncertainty in the electro-hydrogen system, analyzing the flexibility source of the system; (3) excavating adjustable flexible resources of subunits such as energy storage, a converter, an electrolytic cell and an auxiliary machine in the system on different spatial and temporal scales on the basis of output characteristics, power adjustment and other characteristics of the electro-hydrogen system, providing a time-space-expression three-dimensional flexibility measurement system, and performing quantitative analysis on the flexibility of the electro-hydrogen system; and (4) constructing a system flexibility measurement function, depicting the flexibility of the electro-hydrogen subsystem, evaluating the flexible adjustment potential of each subsystem in the electro-hydrogen system for coping with renewable energy fluctuation, and providing reference for researches such as system planning configuration and operation optimization related to the electro-hydrogen flexibility."
+                },
+                {
+                    "p": "一种考虑时空表现的电氢系统灵活性测度方法，包括：(1)电氢系统灵活资源研究，依次从灵活性资源整合、规划配置、运行调控、量化评估方法四个方面总结了电氢灵活性的现有研究；(2)针对电氢系统中不确定性，分析系统灵活性来源；(3)基于电氢系统输出特性、功率调节等特性，挖掘系统中储能、变流器、电解槽和辅机等子单元在不同时空尺度上的可调灵活性资源，提出“时间‑空间‑表现”的三维灵活性测度体系，进行电氢系统灵活性量化分析；(4)构建统灵活性测度函数，刻画电氢子系统的灵活性大小，评估电氢系统中各子系统应对可再生能源波动的灵活调节潜力，为电氢灵活性相关的系统规划配置和运行优化等研究提供参考。"
+                }
+            ]
+        }
+    }
+}

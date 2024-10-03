@@ -1,0 +1,632 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117427649",
+                            "kind": "A",
+                            "date": "20240123"
+                        },
+                        {
+                            "doc-number": "CN117427649",
+                            "date": "20240123"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  23/   883            A I                    "
+                        },
+                        {
+                            "text": "B01J  29/    03            A I                    "
+                        },
+                        {
+                            "text": "B01J  29/    04            A I                    "
+                        },
+                        {
+                            "text": "B01J  29/    46            A I                    "
+                        },
+                        {
+                            "text": "B01J  37/    10            A I                    "
+                        },
+                        {
+                            "text": "C07C   5/    10            A I                    "
+                        },
+                        {
+                            "text": "C07C   5/    11            A I                    "
+                        },
+                        {
+                            "text": "C07C  13/    66            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "883",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "29",
+                            "subgroup": "0333",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "29",
+                            "subgroup": "044",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "29",
+                            "subgroup": "46",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "37",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "5",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "5",
+                            "subgroup": "11",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "13",
+                            "subgroup": "66",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "2229",
+                            "subgroup": "186",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "2603",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "52",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C5/10",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C13/66",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C5/11",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C13/66",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311754783",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311754783",
+                            "date": "20231220"
+                        },
+                        {
+                            "doc-number": "202311754783.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311754783",
+                            "date": "20231220"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHAANXI COAL BASED SPECIAL FUEL RES INSTITUTE CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "陕西煤基特种燃料研究院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "BAI BAIYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG QINGTING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LANG QUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU ZEYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LYU ZISHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SU HUAIQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "白柏杨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张青婷, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王玥, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郎群, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "徐泽宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吕子胜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苏怀强"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Pyrene hydrogenation reaction catalyst as well as preparation method and application thereof",
+                    "一种芘加氢反应催化剂及其制备方法与应用"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN102190554",
+                                        "name": "PANJIN HEYUN NEW MATERIAL CO LTD, et al",
+                                        "date": "20110921"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "102190554",
+                                        "kind": "A",
+                                        "name": "PANJIN HEYUN NEW MATERIAL CO LTD, et al",
+                                        "date": "20110921"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108164384",
+                                        "name": "CHINA PETROLEUM & CHEM CORP, et al",
+                                        "date": "20180615"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108164384",
+                                        "kind": "A",
+                                        "name": "CHINA PETROLEUM & CHEM CORP, et al",
+                                        "date": "20180615"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109092315",
+                                        "name": "UNIV NORTHWESTERN",
+                                        "date": "20181228"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109092315",
+                                        "kind": "A",
+                                        "name": "UNIV NORTHWESTERN",
+                                        "date": "20181228"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 说明书[0008]-[0101]段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110013851",
+                                        "name": "UNIV BEIJING FORESTRY",
+                                        "date": "20190716"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110013851",
+                                        "kind": "A",
+                                        "name": "UNIV BEIJING FORESTRY",
+                                        "date": "20190716"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110227531",
+                                        "name": "UNIV TAIYUAN TECHNOLOGY",
+                                        "date": "20190913"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110227531",
+                                        "kind": "A",
+                                        "name": "UNIV TAIYUAN TECHNOLOGY",
+                                        "date": "20190913"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 说明书第[0004]-[0041]段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110479314",
+                                        "name": "UNIV TIANJIN",
+                                        "date": "20191122"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110479314",
+                                        "kind": "A",
+                                        "name": "UNIV TIANJIN",
+                                        "date": "20191122"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111871421",
+                                        "name": "UNIV QINGDAO SCIENCE & TECHNOLOGY                                                                ",
+                                        "date": "20201103"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111871421",
+                                        "kind": "A",
+                                        "name": "UNIV QINGDAO SCIENCE & TECHNOLOGY                                                                ",
+                                        "date": "20201103"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114752961",
+                                        "name": "NINGBO FENGCHENG ADVANCED ENERGY MATERIAL RES INSTITUTE CO LTD",
+                                        "date": "20220715"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114752961",
+                                        "kind": "A",
+                                        "name": "NINGBO FENGCHENG ADVANCED ENERGY MATERIAL RES INSTITUTE CO LTD",
+                                        "date": "20220715"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114917907",
+                                        "name": "UNIV DALIAN TECH                                                                                    ",
+                                        "date": "20220819"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114917907",
+                                        "kind": "A",
+                                        "name": "UNIV DALIAN TECH                                                                                    ",
+                                        "date": "20220819"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-5",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115555031",
+                                        "name": "ZHEJIANG HENGYI PETROCHEMICAL RES INSTITUTE CO LTD, et al",
+                                        "date": "20230103"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115555031",
+                                        "kind": "A",
+                                        "name": "ZHEJIANG HENGYI PETROCHEMICAL RES INSTITUTE CO LTD, et al",
+                                        "date": "20230103"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2023071930",
+                                        "name": "CHINA PETROLEUM & CHEM CORP                                                                          [CN], et al",
+                                        "date": "20230504"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2023071930",
+                                        "kind": "A1",
+                                        "name": "CHINA PETROLEUM & CHEM CORP                                                                          [CN], et al",
+                                        "date": "20230504"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-8",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117138825",
+                                        "name": "SHAANXI COAL BASED SPECIAL FUEL RES INSTITUTE CO LTD",
+                                        "date": "20231201"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117138825",
+                                        "kind": "A",
+                                        "name": "SHAANXI COAL BASED SPECIAL FUEL RES INSTITUTE CO LTD",
+                                        "date": "20231201"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-5",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 赵敏等, \"苯酚加氢制环己酮用高效Pd/MgAl-LDO@Al2O3催化剂的制备及性能研究\", 《化学学报》, (20211231), vol. 79, no. 12, pages 1518 - 1525"
+                            },
+                            "category": "Y",
+                            "rel-claims": "2、6-8"
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 姜锋等, \"芘选择性催化加氢的研究\", 《石油化工》, (20111231), vol. 40, no. 1, pages 75 - 79"
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-8"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a pyrene hydrogenation reaction catalyst as well as a preparation method and application thereof. The pyrene hydrogenation reaction catalyst comprises an active component and a carrier, the active component coats the surface of the carrier in a nanosheet layer form; wherein the active component comprises oxides of Ni and Mo; the carrier is a non-inert carrier. The active component Ni/Mo forms a special morphology and coats the surface of the carrier NiAl-LDO-coated Al2O3 in a nanosheet layer form, so that the deep hydrogenation activity of pyrene can be remarkably improved, and the carbon hydrogen ratio of pyrene can be increased. And the active component is non-noble metal, and is low in price and high in activity."
+                },
+                {
+                    "p": "本申请公开一种芘加氢反应催化剂及其制备方法与应用，包括：活性组分和载体；所述活性组分以纳米片层形态包覆在载体表面；其中，所述活性组分包括：Ni、Mo的氧化物；所述载体为非惰性载体。活性组分Ni/Mo形成一种特殊形貌，以纳米片层形态包覆在载体NiAl‑LDO@Al2O3表面，能够显著提高芘的深度加氢活性，提高其碳氢比。且活性组分为非贵金属，价格低廉，活性高。"
+                }
+            ]
+        }
+    }
+}

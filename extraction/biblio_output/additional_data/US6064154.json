@@ -1,0 +1,208 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "6064154",
+                            "kind": "A",
+                            "date": "20000516"
+                        },
+                        {
+                            "doc-number": "US6064154",
+                            "date": "20000516"
+                        }
+                    ]
+                },
+                "classification-ipc": {
+                    "text": [
+                        "H01J23/20",
+                        "H01J25/587"
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01J  23/   213            A I                    "
+                        },
+                        {
+                            "text": "H01J  25/   587            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "213",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "23",
+                            "subgroup": "213",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "25",
+                            "subgroup": "587",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "25",
+                            "subgroup": "587",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "315/39.57"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "classification-symbol": "331/90"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "9516698",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US19980095166",
+                            "date": "19980610"
+                        },
+                        {
+                            "doc-number": "095166"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "US19980095166",
+                            "date": "19980610"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "RAYTHEON CO [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "RAYTHEON COMPANY"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CROUCH DAVID D [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SANTORU JOSEPH [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HARVEY ROBIN J [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "CROUCH, DAVID D, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "SANTORU, JOSEPH, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "HARVEY, ROBIN J"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "Magnetron tuning using plasmas",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US4282499",
+                                        "name": "DEFONZO ALFRED P",
+                                        "date": "19810804"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "4282499",
+                                        "kind": "A",
+                                        "name": "DEFONZO ALFRED P",
+                                        "date": "19810804"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO9220088",
+                                        "name": "THOMSON TUBES ELECTRONIQUES [FR]",
+                                        "date": "19921112"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "9220088",
+                                        "kind": "A1",
+                                        "name": "THOMSON TUBES ELECTRONIQUES [FR]",
+                                        "date": "19921112"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "Improved magnetron oscillators that controllably form a plasma within each of its resonant cavities to rapidly change the resonant frequency of each cavity. The present invention also provides for frequency tuning methods for use with magnetron oscillators. The plasma is controllably formed in one or more subcells of each resonant cavity in a manner that alters the electromagnetic field within each cavity. Preferably, a magnetized collisional plasma is controlled to rapidly change the resonant frequency of each cavity. However, many types of plasmas may be used to implement the present invention. Controlling formation of the plasma within each cavity tunes the magnetron oscillator on a submillisecond time scale."
+            }
+        }
+    }
+}

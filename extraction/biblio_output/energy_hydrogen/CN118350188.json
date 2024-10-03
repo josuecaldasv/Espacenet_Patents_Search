@@ -1,0 +1,158 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118350188",
+                            "kind": "A",
+                            "date": "20240716"
+                        },
+                        {
+                            "doc-number": "CN118350188",
+                            "date": "20240716"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  30/    20            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/   067            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "G06F 111/    04            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410429173",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410429173",
+                            "date": "20240410"
+                        },
+                        {
+                            "doc-number": "202410429173.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410429173",
+                            "date": "20240410"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA THREE GORGES UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "三峡大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG QIUJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU GUOAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LENG ZIHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU GUANHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN JIAXUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG HAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王秋杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘国安, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "冷子豪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘观辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈嘉训, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王昊"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Electro-hydrogen coupling virtual power plant robust feasible region model and solving method thereof",
+                    "一种电氢耦合虚拟电厂鲁棒可行域模型及其求解方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an electricity-hydrogen coupling virtual power plant robust feasible region model and a solving method thereof, and the method comprises the steps: building an electricity-hydrogen coupling virtual power plant model through employing a built electrolytic cell hydrogen production model, a built hydrogen fuel cell model and a built virtual power plant operation model; and establishing a robust feasible region model of the electric-hydrogen coupling virtual power plant by using the established electric-hydrogen coupling virtual power plant model and applying a feasible region projection theory. Decomposing the established electro-hydrogen coupling virtual power plant robust feasible region model into a main problem MP and a sub-problem SP, and in MATLAB, utilizing the designed Camp; and solving by a CG-PCSM coupling algorithm to obtain a robust feasible region of the electro-hydrogen coupling virtual power plant. According to the electric-hydrogen coupling virtual power plant robust feasible region model and the solving method thereof, the electric-hydrogen coupling virtual power plant robust feasible region can be accurately solved, electric-hydrogen coupling virtual power can participate in transmission-level power dispatching, and consumption of distributed renewable energy sources is improved."
+                },
+                {
+                    "p": "一种电氢耦合虚拟电厂鲁棒可行域模型及其求解方法，利用建立的电解槽制氢模型、构建的氢气燃料电池模型以及构建的虚拟电厂运行模型，建立电氢耦合虚拟电厂模型；利用建立的电氢耦合虚拟电厂模型，并应用可行域投影理论，建立电氢耦合虚拟电厂鲁棒可行域模型。将建立的电氢耦合虚拟电厂鲁棒可行域模型分解为主问题MP与子问题SP，并在MATLAB中，利用设计的C&CG‑PCSM耦合算法求解，得到电氢耦合虚拟电厂的鲁棒可行域。本发明一种电氢耦合虚拟电厂鲁棒可行域模型及其求解方法，可以精确求解电氢耦合虚拟电厂鲁棒可行域，有利于电氢耦合虚拟电参与输电级电力调度，提高分布式可再生能源的消纳。"
+                }
+            ]
+        }
+    }
+}

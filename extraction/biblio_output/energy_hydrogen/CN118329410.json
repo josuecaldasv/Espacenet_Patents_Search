@@ -1,0 +1,208 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118329410",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118329410",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G01M   3/    04            A I                    "
+                        },
+                        {
+                            "text": "G01M   3/    28            A I                    "
+                        },
+                        {
+                            "text": "G01M  13/    00            A I                    "
+                        },
+                        {
+                            "text": "G01M  13/   003            A I                    "
+                        },
+                        {
+                            "text": "G01N   3/    12            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410438149",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410438149",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "202410438149.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410438149",
+                            "date": "20240412"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ENRIC LANGFANG ENERGY EQUIPMENT INTEGRATION CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " CIMC ENRIC INVEST HOLDINGS SHENZHEN CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " CHINA INT MARINE CONTAINERS GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "安瑞科（廊坊）能源装备集成有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中集安瑞科投资控股（深圳）有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国国际海运集装箱（集团）股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LU BAIJI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG JINFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG LIMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LU XINZHE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU DAWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO LIJUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO XIUPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG PENGNA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZU JINGRU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卢百吉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张金锋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张丽敏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卢欣喆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡大伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高丽君, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭秀平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张鹏娜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "祖静茹"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "High-pressure-resistant hydrogen pipeline and valve detection system and method",
+                    "耐高压氢气管道和阀门检测系统以及方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention belongs to the technical field of pipeline detection, and particularly relates to a high-pressure-resistant hydrogen pipeline and valve detection system and a high-pressure-resistant hydrogen pipeline and valve detection method. The method comprises the steps that a detection object of the high-pressure-resistant hydrogen pipeline and valve detection system is determined according to the type of a test process, a detection environment is arranged in a position area where the detection object is located, and the detection environment is used for enabling the detection object to be located in the environment where the test process is located; acquiring a connecting assembly connected with the detection object in the high-pressure-resistant hydrogen pipeline and valve detection system, and controlling the working state of the connecting assembly; and acquiring a state value of the high-pressure-resistant hydrogen pipeline and valve detection system, and determining a detection result for the detection object based on a comparison result of the state value and a preset state value. The pipeline and valve detection device is used for improving the detection efficiency of pipeline and valve detection."
+                },
+                {
+                    "p": "本申请属于管道检测技术领域，具体涉及一种耐高压氢气管道和阀门检测系统及耐高压氢气管道和阀门检测方法。该方法包括：根据测试过程的类型，确定所述耐高压氢气管道和阀门检测系统的检测对象，在所述检测对象所在的位置区域设置检测环境，所述检测环境用于使所述检测对象处于测试过程所在的环境中；获取在所述耐高压氢气管道和阀门检测系统中与所述检测对象具有连接关系的连接组件，对所述连接组件的工作状态进行控制；获取所述耐高压氢气管道和阀门检测系统的状态值，基于所述状态值与预设状态值的比较结果，确定针对所述检测对象的检测结果。本申请用于提高对管道和阀门进行检测的检测效率。"
+                }
+            ]
+        }
+    }
+}

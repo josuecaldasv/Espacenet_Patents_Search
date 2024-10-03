@@ -1,0 +1,195 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118157458",
+                            "kind": "A",
+                            "date": "20240607"
+                        },
+                        {
+                            "doc-number": "CN118157458",
+                            "date": "20240607"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02M   1/    14            A I                    "
+                        },
+                        {
+                            "text": "H02M   1/    32            A I                    "
+                        },
+                        {
+                            "text": "H02M   3/   158            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "1",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "1",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "1",
+                            "subgroup": "325",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "3",
+                            "subgroup": "01",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "3",
+                            "subgroup": "158",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "B",
+                            "main-group": "70",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410362877",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410362877",
+                            "date": "20240328"
+                        },
+                        {
+                            "doc-number": "202410362877.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410362877",
+                            "date": "20240328"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HARBIN INST TECHNOLOGY WEIHAI"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "哈尔滨工业大学（威海）"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "MENG FANGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI HONGYI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI QUANHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孟凡刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李泓意, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高蕾, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李泉慧"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Resonant capacitor converter for water electrolysis hydrogen production post-stage and control method thereof",
+                    "一种用于电解水制氢后级的谐振电容变换器及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a resonant capacitor converter for a water electrolysis hydrogen production post-stage and a control method of the resonant capacitor converter, and relates to the technical field of power electronics. Aiming at the problems of large output current ripples, high circuit loss and the like of a traditional DC-DC converter, the output current ripples are reduced through an interleaving parallel structure, soft switching is realized by adopting phase-shifting frequency conversion control, the soft switching range is expanded, and the circuit loss is reduced. The DC-DC module is used for outputting voltage sampling, and circuit output is stabilized; current sharing control is adopted to realize sharing of two paths of current; a frequency-phase shift meter is adopted to obtain circuit switching frequency and phase shift time, and the converter is controlled to act. Compared with a traditional DC-DC converter and control thereof, the resonant capacitor converter for the water electrolysis hydrogen production post-stage and the control method of the resonant capacitor converter have the advantages that the control method is accurate, the stress of a switching tube is halved, soft switching is achieved, switching loss is reduced, output current ripples are effectively reduced, the electric energy quality is improved, and the service life of a system is prolonged."
+                },
+                {
+                    "p": "本发明提供了一种用于电解水制氢后级的谐振电容变换器及其控制方法，涉及电力电子技术领域。本发明针对传统DC‑DC变换器输出电流纹波大、电路损耗高等问题，通过交错并联结构降低输出电流纹波，采用移相变频控制实现软开关并扩大软开关范围，降低电路损耗。本发明利用DC‑DC模块输出电压采样，稳定电路输出；采用电流均流控制实现两路电流均分；采用频率‑移相表获取电路开关频率和移相时间，控制变换器动作。本发明所述的用于电解水制氢后级的谐振电容变换器及其控制方法与传统DC‑DC变换器及其控制相比，控制方法精确，开关管应力减半，实现软开关降低开关损耗，有效降低输出电流纹波，提高电能质量，提高系统的使用寿命。"
+                }
+            ]
+        }
+    }
+}

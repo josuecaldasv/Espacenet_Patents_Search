@@ -1,0 +1,114 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118379238",
+                            "kind": "A",
+                            "date": "20240723"
+                        },
+                        {
+                            "doc-number": "CN118379238",
+                            "date": "20240723"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "G06T   7/    00            A I                    "
+                    }
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410311501",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410311501",
+                            "date": "20240319"
+                        },
+                        {
+                            "doc-number": "202410311501.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410311501",
+                            "date": "20240319"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUNAN LONGSHEN HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "湖南隆深氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DING YANCHUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU JIAHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO QI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁彦春, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘家辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭启"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Flaw detection method and system based on body paper graphitization equipment, terminal and medium",
+                    "基于原纸石墨化设备的瑕疵检测方法、系统、终端及介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention is suitable for the technical field of carbon paper production detection, and provides a flaw detection method and system based on body paper graphitization equipment, a terminal and a medium, and the method comprises the steps: firstly obtaining real-time collection image set information, and obtaining real-time voltage information, historical voltage information and nominal voltage information at the same time; then voltage fluctuation amplitude information is comprehensively generated according to the real-time voltage information, the historical voltage information and the nominal voltage information, if the voltage fluctuation amplitude information is larger than a fluctuation amplitude threshold value, current moment information and tracing moment information are obtained, and then the current moment information and the tracing moment information are obtained on the basis of real-time collected image set information; the first target image information and the second target image information are determined, and finally the detection result information of the first target image information is determined, so that the subjective deviation of manual detection can be effectively reduced, the precision and reliability of the detection result are remarkably improved, the overall precision of detection is effectively improved, and the detection efficiency is improved. And the intelligent degree of the raw paper graphitization equipment is improved."
+                },
+                {
+                    "p": "本申请适用于碳纸生产检测的技术领域，提供了一种基于原纸石墨化设备的瑕疵检测方法、系统、终端及介质，其方法包括先获取实时采集图像集信息，同时获取实时电压信息、历史电压信息和标称电压信息，然后根据实时电压信息、历史电压信息和标称电压信息，综合生成电压波动幅度信息，如果电压波动幅度信息大于波动幅度阈值，则获取当前时刻信息和追溯时刻信息，再基于实时采集图像集信息，确定出第一目标图像信息和第二目标图像信息，并最终确定出第一目标图像信息的检测结果信息，本申请能够有效地减少人工检测的主观偏差，显著地提高检测结果的精准度和可靠性，有效地提升检测的整体精度，提高原纸石墨化设备的智能程度。"
+                }
+            ]
+        }
+    }
+}

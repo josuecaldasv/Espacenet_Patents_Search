@@ -1,0 +1,181 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117867587",
+                            "kind": "A",
+                            "date": "20240412"
+                        },
+                        {
+                            "doc-number": "CN117867587",
+                            "date": "20240412"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    67            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/   021            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "60",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "67",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "021",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410073619",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20241073619",
+                            "date": "20240118"
+                        },
+                        {
+                            "doc-number": "202410073619.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20241073619",
+                            "date": "20240118"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV ZHEJIANG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "浙江大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "PENG YONGGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN JING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "彭勇刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙静"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Alkali liquor electrolytic bath variable-temperature operation control method for improving efficiency of hydrogen production system",
+                    "一种提升制氢系统效率的碱液电解槽变温运行控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to an electrolytic hydrogen production control technology, and aims to provide a variable-temperature operation control method for an alkali liquor electrolytic bath for improving the efficiency of a hydrogen production system. Comprising the steps of obtaining operation data of an alkali liquor electrolytic cell; optimizing the hydrogen production rate of the alkali liquor electrolytic cell on the basis of considering the electric heating characteristic, and obtaining the operating temperature of the hydrogen production capacity maximization of the electrolytic cell; and the power of the auxiliary temperature adjusting device and the alkaline liquor electrolytic cell is adjusted according to set conditions, the operating temperature of the electrolytic cell is controlled based on the calculation result of the hydrogen production rate optimization model, and the efficiency of the hydrogen production system is improved by maximizing the hydrogen production amount of the electrolytic cell. According to the method, the complex electric heating characteristics of the alkali liquor electrolytic cell are innovatively considered in operation optimization, the used model is close to the actual working process of the electrolytic cell, and the practicability of the model optimization result is improved; and under the condition that the total power of equipment is certain, the hydrogen energy output of the electrolytic bath can be maximized, the resource utilization rate is increased, and the low-carbon and environment-friendly significance is achieved."
+                },
+                {
+                    "p": "本发明涉及电解制氢控制技术，旨在提供一种提升制氢系统效率的碱液电解槽变温运行控制方法。包括：获取碱液电解槽的运行数据；在考虑电热特性基础上对碱液电解槽的制氢速率进行优化，获取电解槽制氢量最大化的运行温度；根据设定条件调节辅助温度调节装置和碱液电解槽的功率，基于制氢速率优化模型的计算结果控制电解槽的运行温度，通过实现电解槽制氢量最大化提升制氢统的效率。本发明创新地提出，将碱液电解槽复杂的电热特性考虑进运行优化中，所用模型贴近电解槽的实际工作过程，提高了模型优化结果的实用性；在设备总功率一定的情况下，能够最大化电解槽氢能输出，提高了资源利用率，具有低碳环保的意义。"
+                }
+            ]
+        }
+    }
+}

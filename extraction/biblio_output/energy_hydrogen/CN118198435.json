@@ -1,0 +1,185 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118198435",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118198435",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04302            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04701            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04302",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04708",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04753",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410090098",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20241090098",
+                            "date": "20240122"
+                        },
+                        {
+                            "doc-number": "202410090098.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20241090098",
+                            "date": "20240122"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "TEHAI HYDROGEN ENERGY TESTING BAODING CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "特嗨氢能检测（保定）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YU KUOYOU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG SIPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU HAIFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MA PENGFEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI XIAOLIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "于阔游, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张思朋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "武海锋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马朋飞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李小亮"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Fuel cell cold start test system and test method",
+                    "燃料电池冷启动测试系统及测试方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a fuel cell cold start test system and test method, the fuel cell cold start test system comprises an anode gas loop and a cathode gas loop, the anode gas loop and/or the cathode gas loop comprises a gas supply unit, and the gas supply unit comprises a gas inlet pipeline and a gas exhaust pipeline. Besides, a gas path control part and a temperature control part are arranged on the gas inlet pipeline, the gas path control part is used for controlling gas in the gas inlet pipeline to enter the gas exhaust pipeline before the cold start test and controlling the gas in the gas inlet pipeline to flow through the fuel cell during the cold start test, and the temperature control part is used for adjusting the temperature of the gas flowing through the gas inlet pipeline. According to the fuel cell cold start test system, the temperature of the gas in the gas inlet pipeline is adjusted through the temperature control part, different gas inlet temperatures can be realized during the fuel cell cold start test, and the accuracy of the fuel cell cold start test can be improved."
+                },
+                {
+                    "p": "本发明提供了一种燃料电池冷启动测试系统及测试方法，本发明的燃料电池冷启动测试系统包括阳极气体回路和阴极气体回路，且阳极气体回路和/或阴极气体回路包括供气单元，且供气单元包括进气管路和排气管路。此外，进气管路上设有气路控制部和温度控制部，气路控制部用于在冷启动测试前控制进气管路中的气体进入排气管路，以及在冷启动测试时控制进气管路中的气体流经燃料电池，温度控制部用于调节流经进气管路的气体的温度。本发明的燃料电池冷启动测试系统，通过温度控制部对进气管路中气体温度的调节，可以在燃料电池冷启动测试时实现不同的进气温度，而能够提高燃料电池冷启动测试的准确性。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116622425",
+                            "kind": "A",
+                            "date": "20230822"
+                        },
+                        {
+                            "doc-number": "CN116622425",
+                            "date": "20230822"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01D  53/    52            A I                    "
+                        },
+                        {
+                            "text": "B01D  53/    62            A I                    "
+                        },
+                        {
+                            "text": "B01D  53/    78            A I                    "
+                        },
+                        {
+                            "text": "B01D  53/    96            A I                    "
+                        },
+                        {
+                            "text": "C10L   3/    10            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "53",
+                            "subgroup": "52",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "53",
+                            "subgroup": "62",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "53",
+                            "subgroup": "78",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "53",
+                            "subgroup": "96",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "L",
+                            "main-group": "3",
+                            "subgroup": "103",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "L",
+                            "main-group": "3",
+                            "subgroup": "104",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "C",
+                            "main-group": "20",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310794278",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310794278",
+                            "date": "20230630"
+                        },
+                        {
+                            "doc-number": "202310794278.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310794278",
+                            "date": "20230630"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "DONGLAN SUZHOU HUANNENG TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " ETALON ZHEJIANG WATER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "东澜（苏州）环能科技有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "易钛珑（浙江）水务有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GUO JIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHUGE YAOYUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG CHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭建, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "诸葛耀月, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "江超"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Biogas purification method for regenerating and recycling absorption liquid",
+                    "一种吸收液再生循环使用的沼气净化方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a biogas purification method for regeneration and recycling of an absorption liquid, which is characterized by comprising the following steps: A, introducing original biogas into an absorption tower, enabling the original biogas to sequentially pass through a lower-layer spraying area and an upper-layer spraying area, reacting with a lower-layer sodium carbonate solution, then entering an upper layer, and reacting with a sodium carbonate and sodium hydroxide mixed solution, discharging through an exhaust pipe at the top of the absorption tower; b, the biogas discharged from an exhaust pipe at the top of the absorption tower firstly enters a heat exchanger for preliminary cooling and then enters a condenser for condensation and water removal, and finally pure biogas is obtained; c, the sodium carbonate solution and the sodium hydroxide solution in the absorption tower absorb carbon dioxide and hydrogen sulfide in the biogas, then are collected at the bottom of the absorption tower, are sequentially discharged into the carbon dioxide release tower and the desulfurization tank through pipelines for regeneration, and then are re-supplied into the absorption tower. The method has the beneficial effects that the technological process is simple, the carbon dioxide and hydrogen sulfide absorption liquid can be recycled after being regenerated, environmental pollution is avoided, and the operation cost is low."
+                },
+                {
+                    "p": "本发明涉及一种吸收液再生循环使用的沼气净化方法，其特征在于采用以下步骤：A、先将原沼气通入吸收塔，原沼气依次通过下层喷雾区和上层喷雾区，先与下层碳酸钠溶液反应，再进入上层与碳酸钠与氢氧化钠混合液反应，最后通过吸收塔顶部的排气管排出；B、从吸收塔顶部排气管排出的沼气先进入热交换器，进行初步降温，然后再进入冷凝器进行冷凝除水，最后得到纯净沼气；C、吸收塔内的碳酸钠溶液和氢氧化钠溶液吸收沼气中的二氧化碳和硫化氢后汇集在吸收塔底部，经管道依次排到二氧化碳释放塔、脱硫罐进行再生，然后重新供给到吸收塔内。本发明具有工艺流程简单、二氧化碳及硫化氢吸收液可以再生后循环使用，无环境污染、运行成本低等有益效果。"
+                }
+            ]
+        }
+    }
+}

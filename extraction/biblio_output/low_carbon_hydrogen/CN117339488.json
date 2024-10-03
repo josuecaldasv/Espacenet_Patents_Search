@@ -1,0 +1,262 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117339488",
+                            "kind": "A",
+                            "date": "20240105"
+                        },
+                        {
+                            "doc-number": "CN117339488",
+                            "date": "20240105"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J   8/    02            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   152            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   154            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   156            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "8",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "8",
+                            "subgroup": "0285",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "152",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "154",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "156",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/152",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/154",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "3",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/156",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311276075",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311276075",
+                            "date": "20230929"
+                        },
+                        {
+                            "doc-number": "202311276075.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311276075",
+                            "date": "20230929"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HEADWAY TECH GROUP QINGDAO CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "海德威科技集团（青岛）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CAO XUELEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DONG RAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU BINGYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GAO JIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曹学磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董然, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘炳言, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "高健"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Low-energy-consumption green methanol synthesis system",
+                    "一种低能耗绿色甲醇合成系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a low-energy-consumption green methanol synthesis system, belongs to the technical field of methanol synthesis, and particularly relates to a method for synthesizing methanol which can be used as fuel through low-energy-consumption hydrogenation catalysis by using carbon dioxide discharged from ship exhaust gas, so as to realize a carbon circulation target. The device consists of an electrolytic bath (1), a low-power-consumption hydrogen supply pressurization system (2), a low-power-consumption carbon dioxide supply pressurization system (3), a synthesis gas circulation pressurization system (4), a methanol synthesis device (5), a methanol gas-liquid separation device (6), a methanol purification device (7) and a methanol storage tank (8). The invention provides a low-power-consumption green methanol synthesis system based on a carbon capture, storage and utilization technology and a solid hydrogen storage technology, the problem can be effectively solved, the power consumption of the methanol synthesis system is greatly reduced, and the system will become an important development direction in the future energy field. The contribution is made to the goal of carbon neutralization sustainable development."
+                },
+                {
+                    "p": "发明公开了一种低能耗绿色甲醇合成系统，属于甲醇合成技术领域，具体是一种利用船舶尾气排放的二氧化碳，通过低能耗的加氢催化合成可以作为燃料的甲醇，实现碳循环目标。本发明由电解槽（1）、低功耗氢气供给加压系统（2）、低功耗二氧化碳供给加压系统（3）、合成气循环加压系统（4）、甲醇合成装置（5）、甲醇气液分离装置（6）、甲醇提纯装置（7）、甲醇储罐（8）组成。本发明依托碳捕集储存和利用技术及固态储氢技术提出了一种低功耗绿色甲醇合成系统，可以有效解决这一问题，大幅度降低甲醇合成系统的功耗，将成为未来能源领域的重要发展方向，该绿色甲醇合成系统的应用，为实现碳中和可持续发展目标做出贡献。"
+                }
+            ]
+        }
+    }
+}

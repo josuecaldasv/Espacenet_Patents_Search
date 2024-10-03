@@ -1,0 +1,143 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118272831",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118272831",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "36",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410384587",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410384587",
+                            "date": "20240401"
+                        },
+                        {
+                            "doc-number": "202410384587.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410384587",
+                            "date": "20240401"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "TIANJIN MAINLAND HYDROGEN EQUIPMENT COMPANY LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "天津市大陆制氢设备有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG MINGRUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DENG YUWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG XIA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG JIANFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张明瑞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邓雨薇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王霞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王建峰"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Mother-son type control method of modularized multi-set water electrolysis hydrogen production system",
+                    "模块化多套水电解制氢系统子母式控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a child-mother type control method for multiple sets of modularized water electrolysis hydrogen production systems, and belongs to the technical field of new energy hydrogen energy. The invention relates to a child-mother type control method of a modularized multi-set water electrolysis hydrogen production system, which comprises the following specific implementation steps of: configuring a hydrogen production station control room mother control cabinet and a field child control cabinet, controlling a power supply circuit of a control room power distribution cabinet, and distributing a gas source in the child control cabinet. A single device can be shut down for maintenance, all devices of the whole system do not need to be shut down for maintenance, the device utilization rate and the production efficiency are improved, signal interference between signal devices can be reduced, the response speed of a pneumatic ball valve and a pneumatic control valve is increased, the stability of device control is improved, and the problems that existing devices are too many in field lines and poor in reliability are solved. The problems of high line fault probability and high risk in the prior art are solved, meanwhile, the quantity of gas source pipes and the quantity of signal cables are effectively saved, and the operation cost is greatly reduced."
+                },
+                {
+                    "p": "本发明公开了模块化多套水电解制氢系统子母式控制方法，属于新能源氢能技术领域。模块化多套水电解制氢系统子母式控制方法，该种控制方法的具体实施步骤包括配置制氢站控制室母控制柜、现场子控制柜、对控制室配电柜的供电电路进行控制和在子控制柜内进行气源分配，当多台制氢设备中的某一台出现故障时，可单台停机检修，不需要把整个系统的所有设备停机检修，提高了设备利用率及生产效率，也可以降低信号设备之间的信号干扰，提高气动球阀、气动调节阀的反应速度，提高了设备控制的稳定性，解决了目前现用设备现场线路过多，线路故障概率高、风险大的问题，同时，该种作业方式，有效节省了气源管用量和信号线缆用量，大幅度降低了作业成本。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,387 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117391764",
+                            "kind": "A",
+                            "date": "20240112"
+                        },
+                        {
+                            "doc-number": "CN117391764",
+                            "date": "20240112"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  30/  0201            A I                    "
+                        },
+                        {
+                            "text": "G06Q  30/  0202            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0202",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "30",
+                            "subgroup": "0206",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311699307",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311699307",
+                            "date": "20231212"
+                        },
+                        {
+                            "doc-number": "202311699307.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311699307",
+                            "date": "20231212"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ELECTRIC POWER SCIENT RES INST STATE GRID ZHEJIANG ELECTRIC POWER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国网浙江省电力有限公司电力科学研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHEN ZHE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO BO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG XUESONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIN DA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI ZHIHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " NI CHOUWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈哲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张雪松, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "林达, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李志浩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "倪筹帷"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Comprehensive energy system optimization scheduling method and system",
+                    "一种综合能源系统优化调度方法及系统"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109727158",
+                                        "name": "UNIV YANSHAN",
+                                        "date": "20190507"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109727158",
+                                        "kind": "A",
+                                        "name": "UNIV YANSHAN",
+                                        "date": "20190507"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN110163443",
+                                        "name": "UNIV SOUTHWEST PETROLEUM",
+                                        "date": "20190823"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "110163443",
+                                        "kind": "A",
+                                        "name": "UNIV SOUTHWEST PETROLEUM",
+                                        "date": "20190823"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115238987",
+                                        "name": "STATE GRID GANSU ELECTRIC POWER CO ELECTRIC POWER RES INST                                          , et al",
+                                        "date": "20221025"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115238987",
+                                        "kind": "A",
+                                        "name": "STATE GRID GANSU ELECTRIC POWER CO ELECTRIC POWER RES INST                                          , et al",
+                                        "date": "20221025"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115310749",
+                                        "name": "STATE GRID GANSU ELECTRIC POWER CO ELECTRIC POWER RES INST                                          , et al",
+                                        "date": "20221108"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115310749",
+                                        "kind": "A",
+                                        "name": "STATE GRID GANSU ELECTRIC POWER CO ELECTRIC POWER RES INST                                          , et al",
+                                        "date": "20221108"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115986833",
+                                        "name": "UNIV NANCHANG                                                                                       ",
+                                        "date": "20230418"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115986833",
+                                        "kind": "A",
+                                        "name": "UNIV NANCHANG                                                                                       ",
+                                        "date": "20230418"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116316567",
+                                        "name": "ECONOMIC TECHNOLOGY RES INST STATE GRID GANSU ELECTRIC POWER CO                                     ",
+                                        "date": "20230623"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116316567",
+                                        "kind": "A",
+                                        "name": "ECONOMIC TECHNOLOGY RES INST STATE GRID GANSU ELECTRIC POWER CO                                     ",
+                                        "date": "20230623"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 说明书第[0004]-[0193]段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116777154",
+                                        "name": "CHANGCHUN INST TECH                                                                                 ",
+                                        "date": "20230919"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116777154",
+                                        "kind": "A",
+                                        "name": "CHANGCHUN INST TECH                                                                                 ",
+                                        "date": "20230919"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117195474",
+                                        "name": "UNIV CHINA THREE GORGES CTGU                                                                        ",
+                                        "date": "20231208"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117195474",
+                                        "kind": "A",
+                                        "name": "UNIV CHINA THREE GORGES CTGU                                                                        ",
+                                        "date": "20231208"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-10",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 籍美琴, \"计及不确定性和需求响应的综合能源系统低碳经济优化调度研究\", 《万方数据》, (20221223), pages 9 - 15"
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10"
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 李振坤 等, \"多类型需求响应下含氢能综合能源系统低碳运行\", 《电力系统及其自动化学报》, (20230528), pages 1 - 10"
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-10"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an optimal scheduling method and system for an integrated energy system. The method comprises the following steps: establishing a comprehensive energy system operation framework containing electricity-hydrogen-heat hybrid energy storage, considering the operation of two stages in the electricity-to-gas process, and combining a methane reactor, a hydrogen-mixed gas boiler and fuel cell modeling to construct a comprehensive energy system containing hydrogen energy fine utilization; introducing a stepped carbon transaction model and a multi-demand response model containing a price type and an incentive type, and constructing a comprehensive energy system low-carbon economic operation model considering stepped carbon transaction and a multi-demand response mechanism; establishing an integrated energy system optimization scheduling objective function considering energy purchase cost, system operation and maintenance cost, stepped carbon transaction cost, demand response cost and wind curtailment and light curtailment penalty cost and constraint conditions thereof; and solving the optimal scheduling objective function of the integrated energy system. According to the method, the goal of low-carbon economic dispatching of the comprehensive energy system is established, and the operation economy of the comprehensive energy system is improved."
+                },
+                {
+                    "p": "本发明公开了一种综合能源系统优化调度方法及系统。本发明的方法包括：建立包含电氢热混合储能的综合能源系统运行框架，考虑电转气过程中两阶段的运行，结合甲烷反应器、氢混燃气锅炉和燃料电池建模构建含氢能精细化利用的综合能源系统；引入阶梯式碳交易模型和包含价格型及激励型的多重需求响应模型，构建考虑阶梯式碳交易和多重需求响应机制的综合能源系统低碳经济运行模型；建立考虑购能成本、系统运维成本、阶梯式碳交易成本、需求响应成本和弃风弃光惩罚成本的综合能源系统优化调度目标函数及其约束条件；对综合能源系统优化调度目标函数进行求解。本发明构建综合能源系统低碳经济调度的目标，提升了综合能源系统运行经济性。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118336043",
+                            "kind": "A",
+                            "date": "20240712"
+                        },
+                        {
+                            "doc-number": "CN118336043",
+                            "date": "20240712"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04007            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0432            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410596868",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410596868",
+                            "date": "20240514"
+                        },
+                        {
+                            "doc-number": "202410596868.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410596868",
+                            "date": "20240514"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WUHAN HYDROGEN ENERGY AND FUEL CELL INDUSTRY TECH RESEARCH INSTITUTE CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "武汉氢能与燃料电池产业技术研究院有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LU KAIFA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XIONG WENHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LEI GANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU JIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " XU QIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU PENGFEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卢凯发, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "熊文浩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "雷刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘捷, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "许强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴鹏飞"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Test system for hydrothermal component of fuel cell",
+                    "一种燃料电池水热部件测试系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a fuel cell hydrothermal component test system, which comprises an electric pile heating simulator, a thermostat, a PTC heater, a water tank, an electronic water pump and a heat exchanger, the liquid outlet end of the electric pile heating simulator is communicated with the liquid inlet of the thermostat, the first liquid outlet of the thermostat is communicated with the PTC heater, and the second liquid outlet of the thermostat is communicated with the PTC heater. A second liquid outlet of the thermostat is communicated with the heat exchanger, the PTC heater and the heat exchanger are both communicated with the water tank, the water tank is communicated with the liquid inlet end of the electric pile heating simulator through the electronic water pump, and the electric pile heating simulator, the PTC heater, the water tank and the electronic water pump can be adjusted through the thermostat to form a first circulation loop. Or a second circulation loop is formed among the electric pile heating simulator, the heat exchanger, the water tank and the electronic water pump. The problem that the performance of each part in the fuel cell hydrothermal management system is inconvenient to detect in the prior art is solved."
+                },
+                {
+                    "p": "本发明公开了一种燃料电池水热部件测试系统，包括电堆加热模拟器、节温器、PTC加热器、水箱、电子水泵以及换热器，电堆加热模拟器的出液端与节温器的进液口相连通，节温器的第一出液口与PTC加热器相连通，节温器的第二出液口与换热器相连通，PTC加热器和换热器均与水箱相连通，水箱经由电子水泵与电堆加热模拟器的进液端相连通，通过节温器可调节电堆加热模拟器、PTC加热器、水箱以及电子水泵之间形成第一循环回路，或电堆加热模拟器、换热器、水箱以及电子水泵之间形成第二循环回路。解决了现有技术中燃料电池水热管理系统内各零部件的性能不便检测的问题。"
+                }
+            ]
+        }
+    }
+}

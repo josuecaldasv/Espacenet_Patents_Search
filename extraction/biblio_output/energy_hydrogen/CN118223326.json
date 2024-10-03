@@ -1,0 +1,496 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118223326",
+                            "kind": "A",
+                            "date": "20240621"
+                        },
+                        {
+                            "doc-number": "CN118223326",
+                            "date": "20240621"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B32B   9/    04            A I                    "
+                        },
+                        {
+                            "text": "B32B  27/    02            A I                    "
+                        },
+                        {
+                            "text": "B32B  27/    04            A I                    "
+                        },
+                        {
+                            "text": "B32B  27/    30            A I                    "
+                        },
+                        {
+                            "text": "B32B  27/    36            A I                    "
+                        },
+                        {
+                            "text": "B32B  33/    00            A I                    "
+                        },
+                        {
+                            "text": "D21H  13/    14            A I                    "
+                        },
+                        {
+                            "text": "D21H  13/    16            A I                    "
+                        },
+                        {
+                            "text": "D21H  13/    24            A I                    "
+                        },
+                        {
+                            "text": "D21H  13/    50            A I                    "
+                        },
+                        {
+                            "text": "D21H  17/    06            A I                    "
+                        },
+                        {
+                            "text": "D21H  17/    47            A I                    "
+                        },
+                        {
+                            "text": "D21H  17/    48            A I                    "
+                        },
+                        {
+                            "text": "D21H  25/    00            A I                    "
+                        },
+                        {
+                            "text": "D21H  25/    06            A I                    "
+                        },
+                        {
+                            "text": "D21H  27/    30            A I                    "
+                        },
+                        {
+                            "text": "D21J   5/    00            A I                    "
+                        },
+                        {
+                            "text": "H01M   4/    88            A I                    "
+                        },
+                        {
+                            "text": "H01M   4/    96            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  1004            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "5",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "33",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "21",
+                            "subclass": "H",
+                            "main-group": "13",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "21",
+                            "subclass": "H",
+                            "main-group": "13",
+                            "subgroup": "16",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "21",
+                            "subclass": "H",
+                            "main-group": "13",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "21",
+                            "subclass": "H",
+                            "main-group": "13",
+                            "subgroup": "50",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "21",
+                            "subclass": "H",
+                            "main-group": "17",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "21",
+                            "subclass": "H",
+                            "main-group": "17",
+                            "subgroup": "47",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "21",
+                            "subclass": "H",
+                            "main-group": "17",
+                            "subgroup": "48",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "21",
+                            "subclass": "H",
+                            "main-group": "25",
+                            "subgroup": "005",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "21",
+                            "subclass": "H",
+                            "main-group": "25",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "21",
+                            "subclass": "H",
+                            "main-group": "27",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "21",
+                            "subclass": "J",
+                            "main-group": "5",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "8807",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "4",
+                            "subgroup": "96",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "1004",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2250",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2250",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2260",
+                            "subgroup": "023",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2260",
+                            "subgroup": "046",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2262",
+                            "subgroup": "0223",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2262",
+                            "subgroup": "0276",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2262",
+                            "subgroup": "106",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2307",
+                            "subgroup": "302",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2307",
+                            "subgroup": "546",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "32",
+                            "subclass": "B",
+                            "main-group": "2457",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410379867",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410379867",
+                            "date": "20240329"
+                        },
+                        {
+                            "doc-number": "202410379867.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410379867",
+                            "date": "20240329"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "STATE POWER INVESTMENT GROUP HYDROGEN ENERGY TECH DEVELOPMENT CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家电投集团氢能科技发展有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG SHUIMU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG SHIYUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LU LIANYUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QIAO WEIJING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LOU YIWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO YUSEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN YUJIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHOU MINGZHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张水木, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王士元, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卢恋月, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "乔伟静, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "娄益玮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭禹森, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈玉姣, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "周明正"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Carbon felt, carbon paper, preparation method of carbon felt and carbon paper, and fuel cell membrane electrode",
+                    "一种碳毡、碳纸及其制备方法和燃料电池膜电极"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The embodiment of the invention provides carbon felt, carbon paper, a preparation method of the carbon felt and the carbon paper and a fuel cell membrane electrode, and belongs to the technical field of fuel cells. The carbon felt obtained by the preparation method of the carbon felt has the carbon fiber layer, the reinforced fiber layer and the carbon fiber layer, and the carbon paper prepared by using the carbon felt subsequently has a main body structure of the carbon fiber resin carbon layer, the resin carbon layer and the carbon fiber resin carbon layer, so that the pore degree of the carbon paper can be improved, and a Venturi tube effect can be generated on a diffusion channel; a pressure gradient is formed, the conveying efficiency of gas and liquid is improved, and the mass transfer and heat transfer efficiency of the fuel cell are effectively improved; the strength and the bending resistance of the carbon paper can also be effectively improved."
+                },
+                {
+                    "p": "本发明实施例提供了一种碳毡、碳纸及其制备方法和燃料电池膜电极，属于燃料电池技术领域。通过所述碳毡的制备方法获得的碳毡具有碳纤维层、增强纤维层、碳纤维层，后续利用该碳毡制备得到的碳纸具有碳纤维树脂炭层、树脂炭层、碳纤维树脂炭层的主体结构，能够提高碳纸的孔隙程度，在扩散通道上可以产生文丘里管效应，形成压力梯度，提升气体和液体的输送效率，有效改善燃料电池的传质和传热效率；还能够有效提高碳纸的强度和抗弯曲程度。"
+                }
+            ]
+        }
+    }
+}

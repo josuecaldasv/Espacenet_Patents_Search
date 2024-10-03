@@ -1,0 +1,150 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118399416",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118399416",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  18/   214            A I                    "
+                        },
+                        {
+                            "text": "G06F  18/ 23213            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    14            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410490693",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410490693",
+                            "date": "20240423"
+                        },
+                        {
+                            "doc-number": "202410490693.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410490693",
+                            "date": "20240423"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANGHAI JIAO TONG UNIV"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "上海交通大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "NING CHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MA AOKAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MA XUTAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI LONGYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宁超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马翱凯, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马徐韬, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李龙艳"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Data-driven electricity-hydrogen comprehensive energy system multi-stage distribution robust scheduling method",
+                    "一种数据驱动的电-氢综合能源系统多阶段分布鲁棒调度方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a data-driven multi-stage distribution robust scheduling method for an electricity-hydrogen comprehensive energy system, and the method comprises the following steps: building an electricity-hydrogen comprehensive energy system optimization scheduling model, determining the type, scheduling range and time interval of uncertain quantities, and collecting an uncertain quantity data set; discretizing the uncertainties, and constructing a data-driven structured fuzzy set according to an independence relationship among the uncertainties tested by chi-square test; clustering data of each sub-fuzzy set in the structured fuzzy set based on a K-means clustering algorithm, and further constructing a data-driven structured mixed fuzzy set; and converting a multi-stage distribution robust optimization problem of the optimization scheduling model of the electricity-hydrogen comprehensive energy system into a single-stage distribution robust optimization problem based on a structured mixed fuzzy set and a dimension raising decision rule, and solving to obtain an optimal scheduling strategy. Compared with the prior art, the method has the advantages of depicting the high-dimensional uncertainty of the system in detail, reducing the conservative property of the optimization decision and the like."
+                },
+                {
+                    "p": "本发明涉及一种数据驱动的电‑氢综合能源系统多阶段分布鲁棒调度方法，包括以下步骤：建立电‑氢综合能源系统优化调度模型，确定不确定量类别、调度范围和时间间隔，收集不确定量数据集；对不确定量进行离散化，依据卡方检验测试不确定量之间的独立性关系，构建数据驱动的结构化模糊集；基于K‑means聚类算法对结构化模糊集中每个子模糊集的数据进行聚类，进一步构建数据驱动的结构化混合模糊集；基于结构化混合模糊集和升维决策规则将电‑氢综合能源系统优化调度模型的多阶段分布鲁棒优化问题转换为单阶段分布鲁棒优化问题，并求解得到最优调度策略。与现有技术相比，本发明具有在详细刻画系统高维不确定性的同时，降低了优化决策的保守性等优点。"
+                }
+            ]
+        }
+    }
+}

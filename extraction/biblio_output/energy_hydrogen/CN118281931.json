@@ -1,0 +1,169 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118281931",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118281931",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    14            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    24            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    02            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    04            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    35            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410452863",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410452863",
+                            "date": "20240416"
+                        },
+                        {
+                            "doc-number": "202410452863.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410452863",
+                            "date": "20240416"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "STATE GRID INTEGRATED ENERGY SERVICE GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国网综合能源服务集团有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI ZHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO JIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU SIFAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YUE JINGQI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TIAN ZHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李振, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵锦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴思帆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "岳婧琦, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "田政"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Coordination control method of energy storage converter in off-grid operation mode",
+                    "一种离网运行模式下储能变流器的协调控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a coordination control method for an energy storage converter in an off-grid operation mode, and belongs to the field of control of energy storage converters in off-grid operation of a new energy micro-grid, and the method comprises the following steps: building an optical hydrogen storage isolated grid direct current micro-grid composed of a photovoltaic power generation grid-connected unit, an energy storage converter, a 10kV alternating current bus and an electrolytic hydrogen production load unit, the energy storage converter adopts a droop control strategy; on the basis of the power balance characteristic of the optical hydrogen storage isolated grid direct-current micro-grid, switching and load increasing and decreasing of an electrolytic hydrogen production load unit are coordinated according to mapping of bus voltage frequency to energy storage power, and system power balance of the optical hydrogen storage isolated grid direct-current micro-grid is achieved. According to the invention, coordinated droop control of power output and the state of charge SOC of the energy storage converter can be realized, the charge and discharge allowance of the battery of the energy storage converter is maintained, and unbalance of bus power balance capability or photovoltaic light abandoning caused by full charge and over discharge is prevented."
+                },
+                {
+                    "p": "本发明公开了一种离网运行模式下储能变流器的协调控制方法，属于新能源微电网离网运行储能变流器控制领域，包括以下步骤：搭建光伏发电并网单元、储能变流器、10kV交流母线和电解制氢负荷单元组成的光储氢孤网直流微电网，其中，储能变流器采用下垂控制策略；基于光储氢孤网直流微电网的功率平衡特性，依据母线电压频率对储能功率的映射，协调电解制氢负荷单元的投切以及增减载，实现光储氢孤网直流微电网的系统功率平衡；本发明可实现储能变流器功率输出与荷电状态SOC的协调下垂控制，维持储能变流器电池充放电裕量，防止满充与过度放电导致的母线功率平衡能力失衡或光伏弃光。"
+                }
+            ]
+        }
+    }
+}

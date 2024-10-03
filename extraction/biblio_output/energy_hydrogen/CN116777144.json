@@ -1,0 +1,194 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116777144",
+                            "kind": "A",
+                            "date": "20230919"
+                        },
+                        {
+                            "doc-number": "CN116777144",
+                            "date": "20230919"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  40/    18            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/    10            A I                    "
+                        },
+                        {
+                            "text": "G06Q  40/    06            A I                    "
+                        },
+                        {
+                            "text": "G06Q  40/    12            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "F",
+                            "main-group": "40",
+                            "subgroup": "18",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "06313",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "10",
+                            "subgroup": "103",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "40",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "40",
+                            "subgroup": "125",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "06",
+                            "subclass": "Q",
+                            "main-group": "50",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310626182",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310626182",
+                            "date": "20230530"
+                        },
+                        {
+                            "doc-number": "202310626182.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310626182",
+                            "date": "20230530"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NORTHEAST BRANCH OF BEIJING JINGNENG CLEAN ENERGY POWER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " QINGYUN ZHITONG CHENGDU TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京京能清洁能源电力股份有限公司东北分公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "清云智通（成都）科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "TAO XIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HUANG CHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陶鑫, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄超"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Analysis system for renewable energy hydrogen production and ammonia synthesis project",
+                    "一种用于可再生能源制氢合成氨项目的分析系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The embodiment of the invention discloses an analysis system for a renewable energy hydrogen production and ammonia synthesis project. According to the scheme, the system comprises a project basic data input module used for a user to input project basic data about a renewable energy hydrogen production synthesis ammonia project; the project basic data comprises power generation scale data of a renewable energy hydrogen production synthesis ammonia project, wind-light ratio data and distribution proportion data for distributing the power generation amount represented by the power generation scale data between chemical production and grid connection; the report generation module is used for generating a visual financial report about the renewable energy hydrogen production synthesis ammonia project based on the self-defined logic calculation module; the chart analysis module is used for visually displaying the economical efficiency of the renewable energy hydrogen production and synthesis ammonia project based on the updated visual financial statement after the change of the project basic data is monitored; and the sensitivity analysis module is used for performing sensitivity analysis on the project basic data of the specific type."
+                },
+                {
+                    "p": "本说明书实施例公开了一种用于可再生能源制氢合成氨项目的分析系统。方案可以包括：项目基础数据录入模块，用于供用户输入关于可再生能源制氢合成氨项目的项目基础数据；项目基础数据包括可再生能源制氢合成氨项目的发电规模数据、风光配比数据以及将发电规模数据所表示的发电量在化工生产和并入电网之间进行分配的分配比例数据；报表生成模块，用于基于自定义逻辑计算模块，生成关于可再生能源制氢合成氨项目的可视化的财务报表；图表分析模块，用于当监测到项目基础数据发生变化后，基于更新后的可视化的财务报表对可再生能源制氢合成氨项目的经济性进行可视化展示；灵敏度分析模块，用于对特定种类的项目基础数据进行灵敏度分析。"
+                }
+            ]
+        }
+    }
+}

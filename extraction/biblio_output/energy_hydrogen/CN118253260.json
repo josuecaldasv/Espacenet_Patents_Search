@@ -1,0 +1,312 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118253260",
+                            "kind": "A",
+                            "date": "20240628"
+                        },
+                        {
+                            "doc-number": "CN118253260",
+                            "date": "20240628"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J   8/    00            A I                    "
+                        },
+                        {
+                            "text": "B01J   8/    02            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   151            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   152            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    04            A I                    "
+                        },
+                        {
+                            "text": "G01N  30/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "8",
+                            "subgroup": "001",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "8",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "1518",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "152",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "30",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/1518",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/152",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410265066",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410265066",
+                            "date": "20240308"
+                        },
+                        {
+                            "doc-number": "202410265066.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410265066",
+                            "date": "20240308"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "GUIYAN NEW ENERGY TECH SHANGHAI CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " YUNNAN PRECIOUS METALS LABORATORY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "贵研新能源科技（上海）有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "云南贵金属实验室有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JIANG YUNBO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI NIANGXIU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHENG XUELIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI SHIMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE JIANYUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU ZHICHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU ZIYAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG XIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG AIMIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU FENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "蒋云波, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李娘修, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "生学良, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李世民, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何建云, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘智超, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘梓妍, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张潇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张爱敏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘锋"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Continuous reaction device for preparing methanol through hydrogenation of carbon dioxide",
+                    "一种二氧化碳加氢制甲醇的连续反应装置"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a continuous reaction device for preparing methanol through hydrogenation of carbon dioxide based on a fixed bed. The continuous reaction device comprises a carbon dioxide gas path, a hydrogen gas path, a nitrogen gas path, an argon gas path, an air gas path, the fixed bed, a point type gas detector and a gas chromatographic detector. The carbon dioxide gas circuit, the hydrogen gas circuit, the nitrogen gas circuit and the argon gas circuit are respectively communicated with a gas inlet pipeline of the fixed bed, a gas outlet of the fixed bed is communicated with a gas inlet of the gas chromatograph, and air is conveyed by the compressor and inductively drives the supercharger to start through the electromagnetic valve. According to the device, the temperature of the part connected with the fixed bed and the gas chromatography detector is increased in the whole process, so that the generated methanol enters the gas chromatography detector in a gaseous form, and the yield of the methanol is continuously detected on line."
+                },
+                {
+                    "p": "本发明提供了一种基于固定床的二氧化碳加氢制甲醇的连续反应装置，包括：二氧化碳气路、氢气气路、氮气气路、氩气气路、空气气路、固定床、点型气体探测器、气相色谱检测仪。二氧化碳气路、氢气气路、氮气气路、氩气气路分别与固定床进气口管路连通，固定床的出气口与气相色谱的进气口相连通，空气经过压缩机输送通过电磁阀感应驱动增压机开启。该装置将连接固定床与气相色谱检测仪的部分全程升高温度，使得生成的甲醇以气态的形式进入气相色谱检测仪实现在线连续检测甲醇的产率。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116979100",
+                            "kind": "A",
+                            "date": "20231031"
+                        },
+                        {
+                            "doc-number": "CN116979100",
+                            "date": "20231031"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04082            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0432            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0438            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04201",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04373",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04425",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202210431101",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202210431101",
+                            "date": "20220422"
+                        },
+                        {
+                            "doc-number": "202210431101.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202210431101",
+                            "date": "20220422"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHN ENERGY INVEST GROUP CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " NAT INST CLEAN & LOW CARBON ENERGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国家能源投资集团有限责任公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京低碳清洁能源研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XU ZHUANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DONG HUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DONG WENPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE GUANGLI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "许壮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董文平, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何广利"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Pressure determination method and device, electronic equipment and computer readable storage medium",
+                    "压力确定方法、装置、电子设备及计算机可读存储介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a pressure determination method and device, electronic equipment and a computer readable storage medium, and relates to the field of fuel cells, and the method comprises the following steps: obtaining a first peak pressure, a first flow and a first temperature of a fuel gas when the pressure of the fuel gas reaches an initial pulse peak value; acquiring a first balance pressure of the fuel gas when the pressure state of the fuel gas reaches a balance state, determining an equivalent resistance coefficient according to the first peak pressure, the first flow, the first temperature and the first balance pressure, and acquiring a second peak pressure, a second flow and a second temperature of the fuel gas when filling of the fuel gas is stopped, and according to the second peak pressure, the second flow data, the second hydrogen temperature and the equivalent resistance coefficient, determining the target balance pressure when the fuel gas filling is stopped. Through the method, accurate pressure guidance can be provided for the filling process of the fuel gas, and the problem of insufficient filling is avoided."
+                },
+                {
+                    "p": "本公开涉及一种压力确定方法、装置、电子设备及计算机可读存储介质，涉及燃料电池领域，该方法包括：获取加注燃料气体的压力到达初始脉冲峰值时该燃料气体的第一峰值压力、第一流量、第一温度，获取燃料气体的压力状态到达平衡状态时该燃料气体的第一平衡压力，根据第一峰值压力、第一流量、第一温度以及第一平衡压力，确定等效阻力系数，获取燃料气体加注截止时该燃料气体的第二峰值压力、第二流量、第二温度，根据第二峰值压力、第二流量数据、第二氢气温度以及等效阻力系数，确定该燃料气体加注截止时的目标平衡压力。通过本方法，可以为燃料气体的加注过程提供准确的压力指导，避免加注不充分的问题。"
+                }
+            ]
+        }
+    }
+}

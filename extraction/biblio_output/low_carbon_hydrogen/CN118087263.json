@@ -1,0 +1,317 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118087263",
+                            "kind": "A",
+                            "date": "20240528"
+                        },
+                        {
+                            "doc-number": "CN118087263",
+                            "date": "20240528"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C08B  37/    16            A I                    "
+                        },
+                        {
+                            "text": "C08K   7/    06            A I                    "
+                        },
+                        {
+                            "text": "C08K   9/    04            A I                    "
+                        },
+                        {
+                            "text": "C08L  63/    00            A I                    "
+                        },
+                        {
+                            "text": "C08L  79/    04            A I                    "
+                        },
+                        {
+                            "text": "D06M  15/    03            A I                    "
+                        },
+                        {
+                            "text": "D06M  15/    53            A I                    "
+                        },
+                        {
+                            "text": "D06M  15/    61            A I                    "
+                        },
+                        {
+                            "text": "D06M 101/    40            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "B",
+                            "main-group": "37",
+                            "subgroup": "0015",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "7",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "K",
+                            "main-group": "9",
+                            "subgroup": "08",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "L",
+                            "main-group": "79",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "06",
+                            "subclass": "M",
+                            "main-group": "15",
+                            "subgroup": "03",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "06",
+                            "subclass": "M",
+                            "main-group": "15",
+                            "subgroup": "53",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "06",
+                            "subclass": "M",
+                            "main-group": "15",
+                            "subgroup": "61",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "D",
+                            "class": "06",
+                            "subclass": "M",
+                            "main-group": "2101",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08K7/06",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L63/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "3",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L79/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "4",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L63/00%2",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "5",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08K9/08",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "6",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08K7/06%2",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08K9/08",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C08L63/00",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410177868",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410177868",
+                            "date": "20240208"
+                        },
+                        {
+                            "doc-number": "202410177868.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410177868",
+                            "date": "20240208"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV ZHEJIANG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "浙江大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "XU PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU YUSHAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PENG HUAXIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QIN FAXIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "许鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "吴俣姗, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "彭华新, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "秦发祥"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for modifying carbon fiber surface through quasi-polyrotaxane and improving interface performance of composite material",
+                    "一种准聚轮烷改性碳纤维表面及提高复合材料界面性能的方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a method for modifying a carbon fiber surface through quasi-polyrotaxane and improving the interface performance of a composite material, and belongs to the technical field of carbon fiber modification.The method comprises the following steps that cyclodextrin and a linear polymer are subjected to subject-object self-assembly to form quasi-polyrotaxane; the preparation method comprises the following steps: dipping carbon fibers in a catalyst-containing quasi-polyrotaxane aqueous solution under a heating condition for reaction and combination to obtain quasi-polyrotaxane surface modification-based carbon fibers; and compounding and curing the surface modified carbon fiber and resin to obtain the quasi-polyrotaxane modified carbon fiber interface reinforced resin-based composite material. The whole process of the method is carried out in an aqueous solution, no organic solvent is added, the method is green, low-carbon and environment-friendly, and the obtained resin-based composite material has interface bonding effects including covalent bond interaction, molecular chain interlocking, hydrogen bond bonding and the like, and has excellent interface bonding strength and interface shearing strength; the method has high engineering value in the industrial application of improving the interface performance of the composite material."
+                },
+                {
+                    "p": "本发明提供了一种准聚轮烷改性碳纤维表面及提高复合材料界面性能的方法，属于碳纤维改性技术领域，该方法包括以下步骤：将环糊精和线性聚合物通过主客体自组装形成准聚轮烷；将碳纤维在加热条件下浸渍于含催化剂的准聚轮烷水溶液中反应结合，得到基于准聚轮烷表面改性的碳纤维；将所述表面改性的碳纤维与树脂复合固化，得到准聚轮烷改性碳纤维界面增强树脂基复合材料。本方法全过程在水溶液中进行，无需有机溶剂加入，绿色低碳环保，且得到的树脂基复合材料界面结合作用包括共价键作用、分子链互锁和氢键结合等，具有优异的界面粘结强度和界面剪切强度，在提高复合材料界面性能的工业应用中具有较强的工程价值。"
+                }
+            ]
+        }
+    }
+}

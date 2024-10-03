@@ -1,0 +1,218 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118223971",
+                            "kind": "A",
+                            "date": "20240621"
+                        },
+                        {
+                            "doc-number": "CN118223971",
+                            "date": "20240621"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F01N   3/    02            A I                    "
+                        },
+                        {
+                            "text": "F01N   5/    02            A I                    "
+                        },
+                        {
+                            "text": "F01N  13/    00            A I                    "
+                        },
+                        {
+                            "text": "F02M  21/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "3",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "5",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "13",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "21",
+                            "subgroup": "0206",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "21",
+                            "subgroup": "0227",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410413912",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410413912",
+                            "date": "20240408"
+                        },
+                        {
+                            "doc-number": "202410413912.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410413912",
+                            "date": "20240408"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WEICHAI POWER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "潍柴动力股份有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG DECHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GU YUNCHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZENG FAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU HONGZHE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG HAIRUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG XUEPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SU XINGDONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王德成, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "谷允成, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "曾凡, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘洪哲, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张海瑞, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王雪鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宿兴东"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Thermal management system of engine",
+                    "一种发动机的热管理系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a thermal management system of an engine. Comprising an exhaust pipe, a tail gas treatment device installed on the exhaust pipe, a hydrogen supply device coupled to the portion, between an engine and the tail gas treatment device, of the exhaust pipe, an ammonia supply device coupled to the portion, on one side of an outlet of the tail gas treatment device, of the exhaust pipe, a first temperature sensor, a second temperature sensor and a third temperature sensor. And a fourth temperature sensor and a control device, the control device is used for controlling the tail gas heat of the engine to be supplied to the hydrogen supply device and/or the ammonia supply device according to the first temperature detected by the first temperature sensor, the second temperature detected by the second temperature sensor, the third temperature detected by the third temperature sensor and the fourth temperature detected by the fourth temperature sensor. According to the technical scheme, it can be guaranteed that tail gas heat can be fully utilized, so that the combustion effect of the engine is improved, and power consumption and energy consumption of the engine are saved."
+                },
+                {
+                    "p": "本发明公开了一种发动机的热管理系统，包括：排气管、安装在排气管上的尾气处理装置、耦接于发动机与尾气处理装置之间的排气管上的氢气供应装置、耦接于尾气处理装置的出口一侧的排气管上的氨气供应装置、第一温度传感器、第二温度传感器、第三温度传感器、第四温度传感器以及控制装置，控制装置用于根据第一温度传感器检测的第一温度、第二温度传感器检测的第二温度、第三温度传感器检测的第三温度和第四温度传感器检测的第四温度控制发动机的尾气热量提供至氢气供应装置和/或氨气供应装置。以上技术方案，可以保证尾气热量能够充分被利用，以提升发动机的燃烧效果，利于节约发动机的电耗和能耗。"
+                }
+            ]
+        }
+    }
+}

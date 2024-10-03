@@ -1,0 +1,214 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "115051339",
+                            "kind": "A",
+                            "date": "20220913"
+                        },
+                        {
+                            "doc-number": "CN115051339",
+                            "date": "20220913"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/   023            A I                    "
+                        },
+                        {
+                            "text": "H02J   1/    10            A I                    "
+                        },
+                        {
+                            "text": "H02M   3/   335            A I                    "
+                        },
+                        {
+                            "text": "H02M   7/   217            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "1",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "3",
+                            "subgroup": "33576",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "M",
+                            "main-group": "7",
+                            "subgroup": "2173",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "133",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202110252342",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202110252342",
+                            "date": "20210308"
+                        },
+                        {
+                            "doc-number": "202110252342.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202110252342",
+                            "date": "20210308"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA PETROLEUM & CHEM CORP"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SINOPEC DALIAN RES INST PETROLEUM & PETROCHEMICALS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国石油化工股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国石油化工股份有限公司大连石油化工研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG HONGYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN YANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SHI ZHENTANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张洪阳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李君, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙阳, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "时振堂"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Current source system for green hydrogen preparation and current source control method",
+                    "一种绿氢制备用的电流源系统及电流源控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The embodiment of the invention provides a current source system for green hydrogen preparation and a current source control method, and the system comprises a new energy AC power generation system, a new energy DC power generation system, an AC current source type converter, a DC current source type converter, a three-phase transformer, a single-phase transformer, and an impedance controllable stable adjustment load. The impedance controllable stable adjustment load comprises a controlled adjustment variable impedor and an electrolytic bath; the new energy alternating current power generation system is connected with the alternating current power supply type converter through the three-phase transformer; the new energy direct current power generation system is connected with the direct current source type converter through the single-phase transformer; the impedance controllable stable adjusting load is connected with the alternating current and direct current source type converter; and the three-phase transformer and the single-phase transformer realize voltage level conversion between the power generation system and the current source type converter so as to meet the control on the current and power of the electrolytic bath in the impedance-controllable stable regulation load. According to the invention, the reliability and safety of electric energy hydrogen production of new energy power generation for the refinery plant can be realized."
+                },
+                {
+                    "p": "本发明实施例提供一种绿氢制备用的电流源系统及电流源控制方法，包括新能源交流发电系统、新能源直流发电系统、交流电流源型变流器、直流电流源型变流器、三相变压器、单相变压器和阻抗可控稳定调节负载，阻抗可控稳定调节负载包括受控调整可变阻抗器和电解槽；新能源交流发电系统通过三相变压器与交流电源型变流器相连接；新能源直流发电系统通过单相变压器与直流电流源型变流器相连接；阻抗可控稳定调节负载与交流和直流电流源型变流器相连接；三相变压器和单相变压器实现发电系统与电流源型变流器之间的电压等级变换，以满足对阻抗可控稳定调节负载中电解槽的电流和功率的控制。本发明可以实现炼厂级用新能源发电的电能制氢的可靠性和安全性。"
+                }
+            ]
+        }
+    }
+}

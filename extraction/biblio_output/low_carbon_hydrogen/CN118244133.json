@@ -1,0 +1,195 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118244133",
+                            "kind": "A",
+                            "date": "20240625"
+                        },
+                        {
+                            "doc-number": "CN118244133",
+                            "date": "20240625"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G01R  31/   378            A I                    "
+                        },
+                        {
+                            "text": "G01R  31/   385            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04537            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "R",
+                            "main-group": "31",
+                            "subgroup": "378",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "R",
+                            "main-group": "31",
+                            "subgroup": "385",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04559",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04589",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04619",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311636695",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311636695",
+                            "date": "20231201"
+                        },
+                        {
+                            "doc-number": "202311636695.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311636695",
+                            "date": "20231201"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANGHAI YIJING HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "上海翌晶氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LUO ZONGWEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI SHUANGBIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN KUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU QING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "罗宗文, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李双滨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈坤, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘青"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Battery performance test equipment and test method",
+                    "一种电池性能测试设备及测试方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a battery performance test device and test method, and the device comprises a fuel stack test device which is composed of an air unit, a nitrogen unit, a hydrogen unit, an alarm system, a gas pressure system, an electrical control system, a flow controller system, an upper computer and control system, a high temperature furnace, and a tail gas post-processing system. According to the invention, a product with high performance, good stability, low cost and good safety is tested through the electrochemical reaction of the battery piece in a high-temperature environment, the working stability and other states of the battery piece can be judged by testing an output voltage and current value curve graph in a severe environment, and the battery piece is an important component of a fuel cell and has a wide application prospect. The emission of carbon dioxide is reduced for social industry, the influence of harmful substances on human bodies is reduced in metallurgical industry, and the energy is recyclable clean energy."
+                },
+                {
+                    "p": "本发明公开了一种电池性能测试设备及测试方法，包括：燃料电堆测试设备，所述燃料电堆测试设备由空气单元、氮气单元、氢气单元、报警系统、气体压力系统、电气控制系统、流量控制器系统、上位机及控制系统、高温炉和尾气体后处理系统组成。本发明通过电池片在高温环境下产生电化学反应，测试出高性能，稳定性好，成本低以及安全性好的产品，在恶劣的环境下测试输出的电压电流值曲线图，能判断电池片的工作的稳定性等状态，电池片是燃料电池其中的一个重要组成部分，对社会工业减少二氧化碳的排放，在冶金行业减少有害对人体的影响，是个可循环利用的清洁能源。"
+                }
+            ]
+        }
+    }
+}

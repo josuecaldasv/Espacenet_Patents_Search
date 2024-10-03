@@ -1,0 +1,240 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118169471",
+                            "kind": "A",
+                            "date": "20240611"
+                        },
+                        {
+                            "doc-number": "CN118169471",
+                            "date": "20240611"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G01N  27/    04            A I                    "
+                        },
+                        {
+                            "text": "G01N  27/    26            A I                    "
+                        },
+                        {
+                            "text": "G01R  27/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "27",
+                            "subgroup": "041",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "N",
+                            "main-group": "27",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "G",
+                            "class": "01",
+                            "subclass": "R",
+                            "main-group": "27",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410366399",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410366399",
+                            "date": "20240328"
+                        },
+                        {
+                            "doc-number": "202410366399.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410366399",
+                            "date": "20240328"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "BEIJING INST OF SMART ENERGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " STATE GRID ZHEJIANG ELECTRIC POWER CO LTD JIAXING POWER SUPPLY CO"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " STATE GRID ZHEJIANG ELECTRIC POWER CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京智慧能源研究院, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "国网浙江省电力有限公司嘉兴供电公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "JIN TIANXU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YE QING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SONG XIAOYUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DENG ZHANFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU HAI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO SHENGHAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YIMING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG CHONGBIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN JINWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "金天旭, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "叶青, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "宋小云, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邓占锋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘海, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵圣豪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张怡明, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张冲标, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈金威"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method and system for testing proton conductivity of anode catalyst layer of electrolytic tank",
+                    "一种电解池阳极催化层质子电导率的测试方法及测试系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a method for measuring proton conductivity of an anode catalyst layer of an electrolytic tank and a test system. The method comprises the following steps: carrying out water electrolysis reaction through an electrolytic tank; after the water electrolysis reaction is carried out for a period of time, constant-current operation is stopped, and a cathode side valve is closed, so that self-produced hydrogen of the electrolytic bath is retained on the cathode side to provide a hydrogen-rich environment; replacing a water supply system on an anode side, and introducing nitrogen saturated water to the anode side; and performing an electrochemical test by taking the anode as a working electrode and the cathode as a reference electrode so as to obtain the proton conductivity of the anode catalyst layer in the electrolytic cell. According to the invention, self-produced hydrogen test is used, the device is simple, and operability is strong; the membrane electrode and other components of the electrolytic tank are hardly damaged, and no other components are connected, so that the test is equivalent to a semi-in-situ test, and the data reliability is high."
+                },
+                {
+                    "p": "一种电解池阳极催化层质子电导率测量的方法及测试系统，该方法通过电解槽进行水电解反应；水电解反应一段时间后终止恒电流运行并关闭阴极侧阀门，使电解槽自产氢气保留在阴极侧，提供富氢环境；阳极侧更换供水系统，向阳极侧通入氮气饱和水；以阳极作工作电极，阴极作参比电极进行电化学测试，从而得到电解槽中阳极催化层的质子电导率。本发明使用自产氢测试，装置简单，可操作性强；对膜电极以及电解池的其他组件几乎没有损伤，并且没有其他组件接入，相当于半原位测试，数据可靠性高。"
+                }
+            ]
+        }
+    }
+}

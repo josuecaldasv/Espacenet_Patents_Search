@@ -1,0 +1,147 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2024310083",
+                            "kind": "A1",
+                            "date": "20240919"
+                        },
+                        {
+                            "doc-number": "US2024310083",
+                            "date": "20240919"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "F25B   1/    10            A I                    "
+                        },
+                        {
+                            "text": "F25B  43/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "43",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "202418436664",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US202418436664",
+                            "date": "20240208"
+                        },
+                        {
+                            "doc-number": "18436664"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "US202363452776P",
+                                    "date": "20230317"
+                                },
+                                {
+                                    "doc-number": "63452776"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": {
+                                "doc-number": "US202418436664",
+                                "date": "20240208"
+                            }
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "H2CREO CORP [US]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "H2CREO Corp"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "BAIK JONG H [US]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KIM HYUNG JIN [KR]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KIM SUNG YONG [KR]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "BAIK, JONG H, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "KIM, HYUNG JIN, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "KIM, Sung Yong"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "LIQUID HYDROGEN VAPORIZATION SYSTEM AND LIQUID HYDROGEN VAPORIZATION METHOD"
+            },
+            "abstract": {
+                "p": "The present disclosure relates to a liquid hydrogen vaporization system and a liquid hydrogen vaporization method for vaporizing hydrogen in a liquid state into a gaseous state so as to supply hydrogen to a fuel cell, comprising a blower for supercharging wet air in atmosphere, a moisture eliminator for removing moisture contained in wet air supercharged through the blower and converting wet air into dry air, and a heat exchange unit for heating hydrogen through heat exchange between dry air and hydrogen so that hydrogen in a liquid state supplied from a hydrogen tank can be vaporized into a gaseous state and be supplied to a fuel cell, wherein the moisture eliminator condenses moisture contained in wet air by using cooling energy released when hydrogen supplied from the hydrogen tank vaporizes, thereby removing moisture contained in wet air."
+            }
+        }
+    }
+}

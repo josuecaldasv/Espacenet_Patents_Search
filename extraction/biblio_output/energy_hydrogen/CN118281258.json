@@ -1,0 +1,147 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118281258",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118281258",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L  58/    31            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    32            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04014            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04089            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04223            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04225            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04302            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/  0432            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04694            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04701            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "Y",
+                        "class": "02",
+                        "subclass": "E",
+                        "main-group": "60",
+                        "subgroup": "50",
+                        "classification-value": "A",
+                        "generating-office": "EP"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211718425",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211718425",
+                            "date": "20221229"
+                        },
+                        {
+                            "doc-number": "202211718425.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211718425",
+                            "date": "20221229"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WEISHI ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "未势能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GUO XIAOLIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " TIAN JUNLONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭晓亮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "田俊龙"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Starting control method and system of fuel cell system and fuel cell automobile",
+                    "燃料电池系统的启动控制方法、系统及燃料电池汽车"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a starting control method and system of a fuel cell system and a fuel cell automobile, and relates to the field of starting control of the fuel cell system, and the fuel cell system is applied to the fuel cell automobile. The fuel cell system comprises a fuel cell stack, an air assembly, a hydrogen assembly and a heat management assembly, after a starting instruction of the fuel cell system is received, the first temperature of the air assembly is obtained; then determining a starting strategy of the fuel cell system by using the first temperature; controlling the fuel cell system to start according to the starting strategy, and determining an operation strategy of the fuel cell system by using a second temperature value collected by a second temperature sensor; and finally, controlling the fuel cell system to operate by using the operation strategy. According to the method, gas heat in the air assembly is utilized to perform heat transfer on hydrogen in the hydrogen assembly, so that the temperature of the hydrogen entering the fuel cell stack is increased, and the problem of water logging caused by relatively low hydrogen temperature is effectively relieved."
+                },
+                {
+                    "p": "本发明提供了一种燃料电池系统的启动控制方法、系统及燃料电池汽车，涉及燃料电池系统启动控制领域，该燃料电池系统应用于燃料电池汽车中；燃料电池系统包含：燃料电池堆、空气组件、氢气组件和热管理组件；当接收到燃料电池系统的启动指令后获取空气组件的第一温度；然后利用第一温度确定燃料电池系统的启动策略；再根据启动策略控制燃料电池系统进行启动，并利用第二温度传感器采集的第二温度值确定燃料电池系统的运转策略；最后利用运转策略控制燃料电池系统进行运转；该方法利用空气组件中的气体热量对氢气组件中的氢气进行热传递，提高了进入燃料电池堆的氢气温度，有效缓解了因氢气温度较低产生的水淹问题。"
+                }
+            ]
+        }
+    }
+}

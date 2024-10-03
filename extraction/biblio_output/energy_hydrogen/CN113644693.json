@@ -1,0 +1,433 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "113644693",
+                            "kind": "A",
+                            "date": "20211112"
+                        },
+                        {
+                            "doc-number": "CN113644693",
+                            "date": "20211112"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H02J   3/    38            A I                    "
+                        },
+                        {
+                            "text": "H02J   5/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "381",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "5",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "10",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2203",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "02",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202111206828",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202111206828",
+                            "date": "20211018"
+                        },
+                        {
+                            "doc-number": "202111206828.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202111206828",
+                            "date": "20211018"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "INST ELECTRICAL ENG CAS"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国科学院电工研究所"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DENG WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI YIFENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PEI WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG XUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG GUOJU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KONG LI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邓卫, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李毅丰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "裴玮, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张学, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张国驹, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孔力"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Distributed operation management and control method for AC-DC compound system containing renewable energy/hydrogen energy",
+                    "含可再生能源/氢能交直流混联系统分散式运行管控方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107516888",
+                                        "name": "BEIJING ZHIZHONG ENERGY INTERNET RES INSTITUTE CO LTD, et al",
+                                        "date": "20171226"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107516888",
+                                        "kind": "A",
+                                        "name": "BEIJING ZHIZHONG ENERGY INTERNET RES INSTITUTE CO LTD, et al",
+                                        "date": "20171226"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109390962",
+                                        "name": "UNIV ZHEJIANG",
+                                        "date": "20190226"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109390962",
+                                        "kind": "A",
+                                        "name": "UNIV ZHEJIANG",
+                                        "date": "20190226"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109494746",
+                                        "name": "STATE GRID GANSU ELECTRIC POWER CO ELECTRIC POWER RES INST, et al",
+                                        "date": "20190319"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109494746",
+                                        "kind": "A",
+                                        "name": "STATE GRID GANSU ELECTRIC POWER CO ELECTRIC POWER RES INST, et al",
+                                        "date": "20190319"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109687507",
+                                        "name": "QINGDAO POWER SUPPLY CO STATE GRID SHANDONG ELECTRIC POWER CO, et al",
+                                        "date": "20190426"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109687507",
+                                        "kind": "A",
+                                        "name": "QINGDAO POWER SUPPLY CO STATE GRID SHANDONG ELECTRIC POWER CO, et al",
+                                        "date": "20190426"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2019207391",
+                                        "name": "FAZELI MEGHDAD [GB], et al",
+                                        "date": "20190704"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2019207391",
+                                        "kind": "A1",
+                                        "name": "FAZELI MEGHDAD [GB], et al",
+                                        "date": "20190704"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111162556",
+                                        "name": "INST ELECTRICAL ENG CAS, et al",
+                                        "date": "20200515"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111162556",
+                                        "kind": "A",
+                                        "name": "INST ELECTRICAL ENG CAS, et al",
+                                        "date": "20200515"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN111884195",
+                                        "name": "UNIV SHANDONG",
+                                        "date": "20201103"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "111884195",
+                                        "kind": "A",
+                                        "name": "UNIV SHANDONG",
+                                        "date": "20201103"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112003335",
+                                        "name": "CHINA SOUTHERN POWER GRID ENERGY DEVELOPMENT RES INSTITUTE CO LTD",
+                                        "date": "20201127"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112003335",
+                                        "kind": "A",
+                                        "name": "CHINA SOUTHERN POWER GRID ENERGY DEVELOPMENT RES INSTITUTE CO LTD",
+                                        "date": "20201127"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113364324",
+                                        "name": "UNIV JIANGSU",
+                                        "date": "20210907"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113364324",
+                                        "kind": "A",
+                                        "name": "UNIV JIANGSU",
+                                        "date": "20210907"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- YiZhen Wang等, \"Adaptive Voltage Droop Method of Multiterminal VSC-HVDC Systems for DC Voltage Deviation and Power Sharing\", 《IEEE TRANSACTIONS ON POWER DELIVERY》"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 第169-176页 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 刘文亮, \"直流微电网自适应两阶段下垂控制方法\", 《电器与能效管理技术》"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 第58-63页 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The distributed operation management and control method for the AC-DC compound system containing renewable energy/hydrogen energy comprises the following steps: S1, constructing a self-adaptive droop control strategy and a control structure of each terminal VSC of the AC-DC compound system containing renewable energy/hydrogen energy; S2, according to the control structure in the step S1, constructing a self-adaptive droop control strategy transfer function of each terminal VSC of the AC-DC compound system containing renewable energy/hydrogen energy according to each system parameter relation; S3, through a transfer function G(s) of the self-adaptive droop control strategy of each terminal VSC obtained in the step S2, constructing a new coordination controller, and providing an updated value of a current instruction for each terminal VSC under distributed operation management and control; and S4, according to the current instruction update value of each terminal VSC under distributed operation control obtained in the step S3, allowing each terminal VSC to execute operation according to the corresponding current instruction update value so as to realize distributed operation control of the AC-DC compound system containing renewable energy/hydrogen energy in a distributed and autonomous manner."
+                },
+                {
+                    "p": "本发明涉及一种含可再生能源/氢能的交直流混联系统分散式运行管控方法，包括如下步骤：步骤S1：构建含可再生能源/氢能的交直流混联系统各端VSC的自适应下垂控制策略及控制结构；步骤S2：根据步骤S1中的控制结构，本发明根据各系统参数关系构建含可再生能源/氢能的交直流混联系统各端VSC的自适应下垂控制策略传递函数；步骤S3：通过步骤S2中得出的各端VSC的自适应下垂控制策略传递函数G(s)；构造新的协调控制器，为在分散式运行管控下的各端VSC提供了电流指令的更新值；步骤S4：根据步骤S3中得到的分散式运行管控下各端VSC的电流指令更新值，各端VSC各自根据相应的电流指令更新值执行操作，分散自治地完成含可再生能源/氢能的交直流混联系统分散式运行管控。"
+                }
+            ]
+        }
+    }
+}

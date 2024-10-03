@@ -1,0 +1,336 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "114481217",
+                            "kind": "A",
+                            "date": "20220513"
+                        },
+                        {
+                            "doc-number": "CN114481217",
+                            "date": "20220513"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202210223708",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202210223708",
+                            "date": "20220307"
+                        },
+                        {
+                            "doc-number": "202210223708.8"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202210223708",
+                            "date": "20220307"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SUNLIGHT HYDROGEN ENERGY SCIENCE AND TECH LIMITED COMPANY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "阳光氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI JIANGSONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUN LONGLIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李江松, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "孙龙林"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "New energy hydrogen production control method and device and electronic equipment",
+                    "新能源制氢的控制方法、装置及电子设备"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2003006136",
+                                        "name": "HIKI YUTAKA [JP], et al",
+                                        "date": "20030109"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2003006136",
+                                        "kind": "A1",
+                                        "name": "HIKI YUTAKA [JP], et al",
+                                        "date": "20030109"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2012295175",
+                                        "name": "CHERCHI PIERPAOLO [IT], et al",
+                                        "date": "20121122"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2012295175",
+                                        "kind": "A1",
+                                        "name": "CHERCHI PIERPAOLO [IT], et al",
+                                        "date": "20121122"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2020008687",
+                                        "name": "HITACHI SHIPBUILDING ENG CO [JP]",
+                                        "date": "20200109"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2020008687",
+                                        "kind": "A1",
+                                        "name": "HITACHI SHIPBUILDING ENG CO [JP]",
+                                        "date": "20200109"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN112217227",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD",
+                                        "date": "20210112"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "112217227",
+                                        "kind": "A",
+                                        "name": "SUNGROW POWER SUPPLY CO LTD",
+                                        "date": "20210112"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2021104205",
+                                        "name": "GREAT WALL MOTOR CO LTD [CN]",
+                                        "date": "20210603"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2021104205",
+                                        "kind": "A1",
+                                        "name": "GREAT WALL MOTOR CO LTD [CN]",
+                                        "date": "20210603"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113373477",
+                                        "name": "HUANENG CLEAN ENERGY RES INST, et al",
+                                        "date": "20210910"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113373477",
+                                        "kind": "A",
+                                        "name": "HUANENG CLEAN ENERGY RES INST, et al",
+                                        "date": "20210910"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113430570",
+                                        "name": "SUNSHINE NEW ENERGY DEV CO LTD",
+                                        "date": "20210924"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113430570",
+                                        "kind": "A",
+                                        "name": "SUNSHINE NEW ENERGY DEV CO LTD",
+                                        "date": "20210924"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2021228770",
+                                        "name": "SMA SOLAR TECHNOLOGY AG [DE]",
+                                        "date": "20211118"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2021228770",
+                                        "kind": "A1",
+                                        "name": "SMA SOLAR TECHNOLOGY AG [DE]",
+                                        "date": "20211118"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2022012697",
+                                        "name": "GLOBAL ENERGY INTERCONNECTION RES INST CO LTD [CN]",
+                                        "date": "20220120"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2022012697",
+                                        "kind": "A1",
+                                        "name": "GLOBAL ENERGY INTERCONNECTION RES INST CO LTD [CN]",
+                                        "date": "20220120"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN215799943U",
+                                        "name": "HUADIAN HEAVY IND CO LTD",
+                                        "date": "20220211"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "215799943",
+                                        "kind": "U",
+                                        "name": "HUADIAN HEAVY IND CO LTD",
+                                        "date": "20220211"
+                                    }
+                                ]
+                            },
+                            "category": "X"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a new energy hydrogen production control method and device and electronic equipment, and when a new energy hydrogen production system meets a preset mode conversion condition, the preset mode conversion condition is that the oxygen concentration in hydrogen is higher than a first purity limit value and/or the hydrogen concentration in oxygen is higher than a second purity limit value; the new energy hydrogen production system is converted into a standby mode from a working mode, target voltage smaller than decomposition voltage of the electrolytic bath is input into the electrolytic bath, the electrolytic bath works in a capacitive area to keep electrode activity, and the bath temperature of the electrolytic bath reaches a preset bath temperature threshold value. When the oxygen concentration in hydrogen is higher than the first purity limit value and/or the hydrogen concentration in oxygen is higher than the second purity limit value, the new energy hydrogen production system enters the standby mode, the target voltage is used for maintaining the electrolytic cell to be in the capacitive state, frequent startup and shutdown of the electrolytic cell are avoided, the cell temperature of the electrolytic cell reaches the preset cell temperature threshold value, and the energy consumption is reduced. And the electrolytic cell can quickly respond when the new energy power is increased, and large-range temperature rise is avoided again."
+                },
+                {
+                    "p": "本发明公开了一种新能源制氢的控制方法、装置及电子设备，当新能源制氢系统满足预设模式转换条件时，预设模式转换条件为：氢中氧浓度高于第一纯度限值和/或氧中氢浓度高于第二纯度限值，将新能源制氢系统由工作模式转换为待机模式，向电解槽输入小于电解槽分解电压的目标电压，使电解槽工作在容性区域保持电极活性，并使电解槽的槽温达到预设槽温阈值。本发明在氢中氧浓度高于第一纯度限值和/或氧中氢浓度高于第二纯度限值时，使新能源制氢系统进入待机模式，利用目标电压维持电解槽处于容性状态，避免电解槽的频繁开关机，通过使电解槽的槽温达到预设槽温阈值，使电解槽在新能源功率上升时可以快速响应，避免再次大范围升温。"
+                }
+            ]
+        }
+    }
+}

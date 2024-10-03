@@ -1,0 +1,141 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118272868",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118272868",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/   023            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/   025            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410368428",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410368428",
+                            "date": "20240328"
+                        },
+                        {
+                            "doc-number": "202410368428.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410368428",
+                            "date": "20240328"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "ANHUI JIGUO SHURONG INFORMATION TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "安徽极果数融信息科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "WANG XIAOPU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SUO QI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG TAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " GUO SHUYUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王筱圃, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "索琪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张弢, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "郭术愿"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Control method of large-scale water electrolysis hydrogen production cluster oriented to wind-solar coupling",
+                    "面向风光耦合的大型电解水制氢集群的控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of water electrolysis hydrogen production, and discloses a wind-solar coupling-oriented large water electrolysis hydrogen production cluster control method, which comprises the following steps: predicting the total output power of a photovoltaic power generation system and a wind power generation system; if the actual hydrogen production amount of the electrolytic cell cannot reach the predicted hydrogen production amount within the set time, fitting the parameters again through the production data of the electrolytic cell, and obtaining a plurality of electrolytic cell power distribution sets through the constraint optimization model; clustering the production data of the electrolytic cell to obtain a plurality of state categories; and selecting an optimal electrolytic cell power distribution set through a clustering transfer model, and distributing the optimal electrolytic cell power distribution set to each electrolytic cell as the power of each electrolytic cell at the next moment. When the power distribution is carried out, the characteristics of each electrolytic cell are fully considered, the power is dynamically corrected on line, so that the energy is fully utilized, the electrolytic cells carry out collaborative production, and the hydrogen production amount can be the highest on the premise of ensuring the starting rate."
+                },
+                {
+                    "p": "本发明涉及电解水制氢技术领域，公开了一种面向风光耦合的大型电解水制氢集群的控制方法，包括：预测光伏发电系统和风力发电系统的总输出功率；如果电解槽的实际产氢量在设定时间内无法达到预计产氢量，则通过电解槽生产数据重新对参数进行拟合，通过约束优化模型得到多个电解槽功率分配集合；对电解槽生产数据进行聚类，得到多个状态类别；通过聚类转移模型选择最佳的电解槽功率分配集合，作为各电解槽下一时刻的功率分配给各电解槽。本发明进行功率分配时，充分考虑各个电解槽的特性，在线动态修正功率，使得能源充分利用，电解槽间协同生产，可以在保证开动率的前提下，使得制氢量最高。"
+                }
+            ]
+        }
+    }
+}

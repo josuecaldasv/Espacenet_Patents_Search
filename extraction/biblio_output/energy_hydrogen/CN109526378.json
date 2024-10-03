@@ -1,0 +1,332 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "109526378",
+                            "kind": "A",
+                            "date": "20190329"
+                        },
+                        {
+                            "doc-number": "CN109526378",
+                            "date": "20190329"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "A01D  45/    02            A I                    "
+                        },
+                        {
+                            "text": "A01D  57/    20            A I                    "
+                        },
+                        {
+                            "text": "A01D  69/    02            A I                    "
+                        },
+                        {
+                            "text": "A01D  69/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "45",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "57",
+                            "subgroup": "20",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "69",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "A",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "69",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201811340981",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201811340981",
+                            "date": "20181112"
+                        },
+                        {
+                            "doc-number": "201811340981.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201811340981",
+                            "date": "20181112"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HEFEI ZHONGJIANXIANG NEW ENERGY CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "合肥众建翔新能源有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "GONG QIONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "龚琼"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Application of new energy hydrogen cell to power device of corn harvester",
+                    "氢燃料电池新能源应用在玉米收割机上的动力装置"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "EP0301177",
+                                        "date": "19920304"
+                                    },
+                                    {
+                                        "country": "EP",
+                                        "doc-number": "0301177",
+                                        "kind": "B1",
+                                        "date": "19920304"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2011011048",
+                                        "name": "HOFFMAN DANIEL STEPHEN [US]",
+                                        "date": "20110120"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2011011048",
+                                        "kind": "A1",
+                                        "name": "HOFFMAN DANIEL STEPHEN [US]",
+                                        "date": "20110120"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101971737",
+                                        "name": "WUXI TONGCHUN NEW ENERGY TECH",
+                                        "date": "20110216"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101971737",
+                                        "kind": "A",
+                                        "name": "WUXI TONGCHUN NEW ENERGY TECH",
+                                        "date": "20110216"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 说明书第0010段及图1 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN207235470U",
+                                        "name": "LI HENG",
+                                        "date": "20180417"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "207235470",
+                                        "kind": "U",
+                                        "name": "LI HENG",
+                                        "date": "20180417"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 说明书第0023-0025段及图1-4 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN108417861",
+                                        "name": "GUANGDONG SINOSYNERGY HYDROGEN POWER TECH CO LTD",
+                                        "date": "20180817"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "108417861",
+                                        "kind": "A",
+                                        "name": "GUANGDONG SINOSYNERGY HYDROGEN POWER TECH CO LTD",
+                                        "date": "20180817"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 说明书第0017-0021段及图1 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CA1120274",
+                                        "name": "DENZIN WARREN",
+                                        "date": "19820323"
+                                    },
+                                    {
+                                        "country": "CA",
+                                        "doc-number": "1120274",
+                                        "kind": "A",
+                                        "name": "DENZIN WARREN",
+                                        "date": "19820323"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "EP0212185",
+                                        "date": "19900919"
+                                    },
+                                    {
+                                        "country": "EP",
+                                        "doc-number": "0212185",
+                                        "kind": "B1",
+                                        "date": "19900919"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "DE102013004438",
+                                        "name": "LOHAUS WILHELM [DE]",
+                                        "date": "20140313"
+                                    },
+                                    {
+                                        "country": "DE",
+                                        "doc-number": "102013004438",
+                                        "kind": "B3",
+                                        "name": "LOHAUS WILHELM [DE]",
+                                        "date": "20140313"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-4",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses application of a new energy hydrogen cell to a power device of a corn harvester. The power device is arranged on a stalk cutting device. The stalk cutting device comprises a machine and a plurality of chains seats with cycle conveying chains. The rear part of the stalk cutting device is provided with a transmission mechanism. The transmission mechanism comprises a transmission gear and a transmission shaft. A cycle conveying belt sleeves the transmission shaft. The transmission shaft is connected to a chain driving gear in a transmission mode. The cycle conveying chainscyclically move under the action of the chain driving gear and multiple chain driven gears. The power device is arranged under the cycle conveying belt. The power device comprises an outer box, an inner box, a hydrogen tank, and an air pump. A fuel cell stack, an electrical electronic component and an electric engine are arranged in the inner box. The provided power device is suitable for the stalk cutting device of a corn harvester and provides power to the driving part of the stalk cutting device so as to drive the cycle conveying belt and the cycle conveying chains, and thus the corn harvester can cut the corn stalks."
+                },
+                {
+                    "p": "本发明公开了种氢燃料电池新能源应用在玉米收割机上的动力装置，该动力装置设置在割杆装置上，割杆装置包括机台和多个带循环输送链的链座，割杆装置的后部设有传动机构，传动机构包括传动齿轮、传动轴，循环输送带的套设在传动轴上，传动轴传动连接有链条驱动齿轮，循环输送链在链条驱动齿轮和多个链条从动齿轮的作用循环运动；动力装置设置在循环输送带的下方，动力装置包括外箱、内箱、氢气罐和空气泵，内箱中设有燃料电池堆栈、电力电子组件和电动引擎。本发明提供的动力装置适用于玉米收割机的割杆装置，能够为割杆装置的循环输送带和循环输送链的驱动部件提供动力，满足玉米收割机的割杆需求。"
+                }
+            ]
+        }
+    }
+}

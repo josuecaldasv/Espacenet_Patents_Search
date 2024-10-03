@@ -1,0 +1,268 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "116903441",
+                            "kind": "A",
+                            "date": "20231020"
+                        },
+                        {
+                            "doc-number": "CN116903441",
+                            "date": "20231020"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    12            A I                    "
+                        },
+                        {
+                            "text": "C01B   3/    50            A I                    "
+                        },
+                        {
+                            "text": "C01B  32/    50            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   151            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/    80            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "12",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "50",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "32",
+                            "subgroup": "50",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "1518",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "80",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "65",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/1518",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/80",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202310776015",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202310776015",
+                            "date": "20230628"
+                        },
+                        {
+                            "doc-number": "202310776015.6"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202310776015",
+                            "date": "20230628"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV XI AN JIAOTONG"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "西安交通大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "YANG FUSHENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG HAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG ZAOXIAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DAI MIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨福胜, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨晗, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张早校, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "代敏"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Green hydrogen coupling coal-to-methanol method integrated with supercritical CO2 circulation",
+                    "一种集成超临界CO2循环的绿氢耦合煤制甲醇方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a green hydrogen coupling coal-to-methanol method integrating supercritical CO2 cycle power generation. A renewable energy electrolysis water device, a coal gasification device, a conversion device, a purification device, a methanol synthesis device, a carbon dioxide hydrogenation-to-methanol device, a methanol rectification device and a supercritical CO2 cycle device are included. Hydrogen and oxygen needed in the whole process are generated through the renewable energy water electrolysis device, one part of oxygen is input into the coal gasification device to meet the gasification requirement, the other part of oxygen enters the supercritical CO2 circulating device to serve as combustion-supporting gas, and methanol is prepared from hydrogen generated through electrolysis and CO2 removed through the purification device, in consideration of the resource utilization condition of the purge gas in the green hydrogen coupling coal-to-methanol process, the purge gas is used as fuel gas, the methanol and electric power co-production and CO2 low-cost separation and capture are realized by integrating supercritical CO2 cycle power generation and promoting recycling of process materials, and the method has the advantages of high efficiency, energy conservation and emission reduction."
+                },
+                {
+                    "p": "本发明提供一种集成超临界CO2循环发电的绿氢耦合煤制甲醇方法，包括：可再生能源电解水装置、煤气化装置、变换装置、净化装置、甲醇合成装置、二氧化碳加氢制甲醇装置、甲醇精馏装置、超临界CO2循环装置；通过可再生能源电解水装置产生整个过程所需的氢气与氧气，氧气一部分输入到煤气化装置满足气化需要，另一部分进入到超临界CO2循环装置作为助燃气体，电解产生的氢气则与净化装置脱除的CO2制得甲醇，其中，考虑到绿氢耦合煤制甲醇工艺过程中弛放气的资源利用情况，将弛放气作为燃料气体，通过集成超临界CO2循环发电，促进工艺物料的回收利用，实现了甲醇、电力联产以及CO2低成本分离捕集，具有高效、节能、减排的优点。"
+                }
+            ]
+        }
+    }
+}

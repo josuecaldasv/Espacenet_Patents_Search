@@ -1,0 +1,602 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118165767",
+                            "kind": "A",
+                            "date": "20240611"
+                        },
+                        {
+                            "doc-number": "CN118165767",
+                            "date": "20240611"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01D   3/    14            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   151            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   152            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/    74            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/    80            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    04            A I                    "
+                        },
+                        {
+                            "text": "C10J   3/    86            A I                    "
+                        },
+                        {
+                            "text": "C10K   1/    00            A I                    "
+                        },
+                        {
+                            "text": "C10K   1/    02            A I                    "
+                        },
+                        {
+                            "text": "C10K   1/    10            A I                    "
+                        },
+                        {
+                            "text": "C10K   1/    22            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    65            A I                    "
+                        },
+                        {
+                            "text": "C25B  15/    02            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "3",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "1518",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "152",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "74",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "80",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "3",
+                            "subgroup": "86",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "004",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "024",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "101",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "K",
+                            "main-group": "1",
+                            "subgroup": "22",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "65",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "0906",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "0909",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "0916",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "0959",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "0976",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "1615",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "165",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "1665",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "1675",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "J",
+                            "main-group": "2300",
+                            "subgroup": "1684",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "129",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": [
+                        {
+                            "group-number": "1",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/1518",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "2",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/152",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "3",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/74",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "group-number": "4",
+                            "combination-rank": [
+                                {
+                                    "rank-number": "1",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C29/80",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                },
+                                {
+                                    "rank-number": "2",
+                                    "patent-classification": {
+                                        "classification-scheme": null,
+                                        "classification-symbol": "C07C31/04",
+                                        "classification-value": "I",
+                                        "generating-office": "CN"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410327915",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410327915",
+                            "date": "20240321"
+                        },
+                        {
+                            "doc-number": "202410327915.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410327915",
+                            "date": "20240321"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA TIAN YING INC"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " JIANGSU TIANYING ENVIRONMENTAL PROT ENERGY COMPLETE EQUIPMENT CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国天楹股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "江苏天楹环保能源成套设备有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI JUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " DONG XUE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZOU XIAOPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG HUA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI YAOJIAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李军, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "董雪, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "邹晓鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨华, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李要建"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Off-grid system and method for preparing green methanol from biomass based on gasification furnace",
+                    "一种基于气化炉的生物质制备绿色甲醇的离网系统及方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "JP2012036317",
+                                        "name": "MITSUBISHI HEAVY IND LTD",
+                                        "date": "20120223"
+                                    },
+                                    {
+                                        "country": "JP",
+                                        "doc-number": "2012036317",
+                                        "kind": "A",
+                                        "name": "MITSUBISHI HEAVY IND LTD",
+                                        "date": "20120223"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103857772",
+                                        "name": "PRAXAIR TECHNOLOGY INC",
+                                        "date": "20140611"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103857772",
+                                        "kind": "A",
+                                        "name": "PRAXAIR TECHNOLOGY INC",
+                                        "date": "20140611"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116496141",
+                                        "name": "CHINA TIANCHEN ENG CORP                                                                             ",
+                                        "date": "20230728"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116496141",
+                                        "kind": "A",
+                                        "name": "CHINA TIANCHEN ENG CORP                                                                             ",
+                                        "date": "20230728"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116814300",
+                                        "name": "NORTHEAST ELECTRIC POWER DESIGN INST CO LTD OF CHINA POWER ENGINEERING CONSULTING GROUP",
+                                        "date": "20230929"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116814300",
+                                        "kind": "A",
+                                        "name": "NORTHEAST ELECTRIC POWER DESIGN INST CO LTD OF CHINA POWER ENGINEERING CONSULTING GROUP",
+                                        "date": "20230929"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses an off-network system and method for preparing green methanol from biomass based on a gasifier. The off-network system comprises a biomass drying and crushing device, the gasifier, a high-temperature reforming chamber, a waste heat boiler, a synthesis gas treatment device, a first compressor, a methanol synthesis tower and a methanol treatment device. According to the invention, the biomass is directly gasified by adopting the gasification furnace, hydrogen is directly added after carbon in the biomass is converted into CO and CO2, and the mixture enters the methanol synthesis tower for reaction, so that the biomass carbon utilization rate is high, the biomass carbon source consumption is small, complete off-network production is realized, and a pure green methanol product is prepared."
+                },
+                {
+                    "p": "本发明公开了一种基于气化炉的生物质制备绿色甲醇的离网系统及方法，包含生物质干燥与破碎装置、气化炉、高温重整室、余热锅炉、合成气处理装置、第一压缩机、甲醇合成塔和甲醇处理装置。本发明采用气化炉将生物质直接气化，将生物质中的碳转化为CO和CO2后直接加氢气进入甲醇合成塔反应，生物质碳利用率高，生物质碳源消耗量小，且完全离网生产，制备纯绿色甲醇产品。"
+                }
+            ]
+        }
+    }
+}

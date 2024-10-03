@@ -1,0 +1,323 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117046504",
+                            "kind": "A",
+                            "date": "20231114"
+                        },
+                        {
+                            "doc-number": "CN117046504",
+                            "date": "20231114"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  29/    03            A I                    "
+                        },
+                        {
+                            "text": "C07C   5/   333            A I                    "
+                        },
+                        {
+                            "text": "C07C  11/    06            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "29",
+                            "subgroup": "03",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "5",
+                            "subgroup": "3337",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "2229",
+                            "subgroup": "186",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "P",
+                            "main-group": "20",
+                            "subgroup": "52",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C5/3337",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C11/06",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311032529",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20231132529",
+                            "date": "20230816"
+                        },
+                        {
+                            "doc-number": "202311032529.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20231132529",
+                            "date": "20230816"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV XIAMEN"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "厦门大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HUANG XIAOQING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE YUTING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄小青, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何雨婷"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Preparation method of Pt-based bimetallic catalyst limited by molecular sieve and application of Pt-based bimetallic catalyst in preparation of propylene through propane dehydrogenation",
+                    "一种分子筛限域的Pt基双金属催化剂制备方法与丙烷脱氢制丙烯应用"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "KR20110078241",
+                                        "name": "HYOSUNG CORP [KR]",
+                                        "date": "20110707"
+                                    },
+                                    {
+                                        "country": "KR",
+                                        "doc-number": "20110078241",
+                                        "kind": "A",
+                                        "name": "HYOSUNG CORP [KR]",
+                                        "date": "20110707"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113751052",
+                                        "name": "UNIV XIAMEN",
+                                        "date": "20211207"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113751052",
+                                        "kind": "A",
+                                        "name": "UNIV XIAMEN",
+                                        "date": "20211207"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN113856737",
+                                        "name": "CHINA PETROLEUM & CHEM CORP, et al",
+                                        "date": "20211231"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "113856737",
+                                        "kind": "A",
+                                        "name": "CHINA PETROLEUM & CHEM CORP, et al",
+                                        "date": "20211231"
+                                    }
+                                ]
+                            },
+                            "category": "YA"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN114570415",
+                                        "name": "UNIV FUZHOU",
+                                        "date": "20220603"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "114570415",
+                                        "kind": "A",
+                                        "name": "UNIV FUZHOU",
+                                        "date": "20220603"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN115400785",
+                                        "name": "UNIV XIAMEN                                                                                         ",
+                                        "date": "20221129"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "115400785",
+                                        "kind": "A",
+                                        "name": "UNIV XIAMEN                                                                                         ",
+                                        "date": "20221129"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116116453",
+                                        "name": "UNIV XIAMEN                                                                                         ",
+                                        "date": "20230516"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116116453",
+                                        "kind": "A",
+                                        "name": "UNIV XIAMEN                                                                                         ",
+                                        "date": "20230516"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116393165",
+                                        "name": "UNIV FUZHOU                                                                                         ",
+                                        "date": "20230707"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116393165",
+                                        "kind": "A",
+                                        "name": "UNIV FUZHOU                                                                                         ",
+                                        "date": "20230707"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": {
+                                    "doc-number": "XP087377851"
+                                }
+                            },
+                            "category": "Y"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to a preparation method of a molecular sieve confinement Pt-based bimetallic catalyst and application of the molecular sieve confinement Pt-based bimetallic catalyst to propylene preparation through propane dehydrogenation, a silicon source and precious metal platinum are used as raw materials, an in-situ packaging method is adopted, the silicon source, organic alkali, a Pt precursor, an auxiliary element precursor and the like are mixed and aged, low-temperature crystallization is performed under the action of a mineralizer, and the Pt-based molecular sieve confinement catalyst is obtained after washing and drying. In the synthesis process, a mineralizer is used for treating the aging process, a large number of mesoporous structures are formed on the basis of repairing the defects of the all-silicon molecular sieve, and carbon deposition of gas reactants on the catalyst and mass transfer resistance in pore channels are improved. In addition, Pt-based bimetallic nanoparticles are effectively anchored at specific sites of molecular sieve pore channels, dispersion and confinement of active sites are facilitated, and the Pt-based bimetallic nanoparticles are kept stable for a long time at high temperature, so that the performance of the catalyst for preparing propylene through direct dehydrogenation of propane is remarkably improved. The catalyst is especially suitable for direct dehydrogenation of industrial propane to produce propylene and byproduct hydrogen, and has good economic benefits and environmental benefits."
+                },
+                {
+                    "p": "一种分子筛限域的Pt基双金属催化剂制备方法与丙烷脱氢制丙烯应用，以硅源和贵金属铂为原料，采用原位封装法，将硅源、有机碱、Pt前驱体、助剂元素前驱体等混合老化，在矿化剂作用下低温结晶，经过洗涤干燥后即得Pt基分子筛限域催化剂。在合成过程中，使用矿化剂对老化过程进行处理，在修复全硅分子筛缺陷的基础上形成大量介孔结构，改善气体反应物在催化剂上的积碳和孔道内的传质阻力。此外，分子筛孔道特定位点有效锚定Pt基双金属纳米颗粒，利于活性位点的分散和限域，并在高温下长期保持稳定，显著提高催化剂丙烷直接脱氢制丙烯的性能。该催化剂特别适用于工业丙烷直接脱氢生产丙烯以及副产氢气，具有良好的经济效益和环境效益。"
+                }
+            ]
+        }
+    }
+}

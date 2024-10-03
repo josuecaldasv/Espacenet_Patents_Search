@@ -1,0 +1,596 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "113956884",
+                            "kind": "A",
+                            "date": "20220121"
+                        },
+                        {
+                            "doc-number": "CN113956884",
+                            "date": "20220121"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01J  20/    22            A I                    "
+                        },
+                        {
+                            "text": "B01J  20/    24            A I                    "
+                        },
+                        {
+                            "text": "C02F   1/    28            A I                    "
+                        },
+                        {
+                            "text": "C05F  11/    02            A I                    "
+                        },
+                        {
+                            "text": "C05G   3/    80            A I                    "
+                        },
+                        {
+                            "text": "C07G  99/    00            A I                    "
+                        },
+                        {
+                            "text": "C08H   7/    00            A I                    "
+                        },
+                        {
+                            "text": "C09K  17/    14            A I                    "
+                        },
+                        {
+                            "text": "C09K  17/    32            A I                    "
+                        },
+                        {
+                            "text": "C02F 101/    20            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "20",
+                            "subgroup": "22",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "J",
+                            "main-group": "20",
+                            "subgroup": "24",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "1",
+                            "subgroup": "28",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "1",
+                            "subgroup": "286",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "05",
+                            "subclass": "F",
+                            "main-group": "11",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "05",
+                            "subclass": "G",
+                            "main-group": "3",
+                            "subgroup": "80",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "G",
+                            "main-group": "99",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "08",
+                            "subclass": "H",
+                            "main-group": "6",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "K",
+                            "main-group": "17",
+                            "subgroup": "14",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "09",
+                            "subclass": "K",
+                            "main-group": "17",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "09",
+                            "subclass": "C",
+                            "main-group": "2101",
+                            "subgroup": "00",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "2101",
+                            "subgroup": "20",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "02",
+                            "subclass": "F",
+                            "main-group": "2101",
+                            "subgroup": "206",
+                            "classification-value": "A",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "W",
+                            "main-group": "30",
+                            "subgroup": "40",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C05F11/02",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C05G3/80",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202111098408",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN20211198408",
+                            "date": "20210918"
+                        },
+                        {
+                            "doc-number": "202111098408.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN20211198408",
+                            "date": "20210918"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV INNER MONGOLIA SCI & TECH"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "内蒙古科技大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHENG JIANGUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MA LITONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "成建国, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "马力通"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Preparation method of lignite-based heavy metal contaminated soil remediation agent",
+                    "一种褐煤基重金属污染土壤修复剂的制备方法"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "DE2510447",
+                                        "name": "RHEINISCHE BRAUNKOHLENW AG",
+                                        "date": "19770113"
+                                    },
+                                    {
+                                        "country": "DE",
+                                        "doc-number": "2510447",
+                                        "kind": "A1",
+                                        "name": "RHEINISCHE BRAUNKOHLENW AG",
+                                        "date": "19770113"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US5670345",
+                                        "name": "SRIVASTAVA KAILASH CHANDRA [US], et al",
+                                        "date": "19970923"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "5670345",
+                                        "kind": "A",
+                                        "name": "SRIVASTAVA KAILASH CHANDRA [US], et al",
+                                        "date": "19970923"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104312589",
+                                        "name": "YUNNAN SHANGCHENG BIOTECHNOLOGY CO LTD",
+                                        "date": "20150128"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104312589",
+                                        "kind": "A",
+                                        "name": "YUNNAN SHANGCHENG BIOTECHNOLOGY CO LTD",
+                                        "date": "20150128"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104525129",
+                                        "name": "UNIV HUNAN SCI & TECHNOLOGY",
+                                        "date": "20150422"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104525129",
+                                        "kind": "A",
+                                        "name": "UNIV HUNAN SCI & TECHNOLOGY",
+                                        "date": "20150422"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105274178",
+                                        "name": "JIANGSU CASCADE CLEAN ENERGY INC",
+                                        "date": "20160127"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105274178",
+                                        "kind": "A",
+                                        "name": "JIANGSU CASCADE CLEAN ENERGY INC",
+                                        "date": "20160127"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN105586286",
+                                        "name": "JIANGSU CASCADE CLEAN ENERGY INC",
+                                        "date": "20160518"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "105586286",
+                                        "kind": "A",
+                                        "name": "JIANGSU CASCADE CLEAN ENERGY INC",
+                                        "date": "20160518"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 说明书第11-15段 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN106215857",
+                                        "name": "UNIV TIANJIN",
+                                        "date": "20161214"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "106215857",
+                                        "kind": "A",
+                                        "name": "UNIV TIANJIN",
+                                        "date": "20161214"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-5",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN107573193",
+                                        "name": "ANHUI JINYE CARBON TECH CO LTD",
+                                        "date": "20180112"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "107573193",
+                                        "kind": "A",
+                                        "name": "ANHUI JINYE CARBON TECH CO LTD",
+                                        "date": "20180112"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN109517189",
+                                        "name": "UNIV INNER MONGOLIA SCI & TECH",
+                                        "date": "20190326"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "109517189",
+                                        "kind": "A",
+                                        "name": "UNIV INNER MONGOLIA SCI & TECH",
+                                        "date": "20190326"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2019144749",
+                                        "name": "JIANG YONGHAI [CN], et al",
+                                        "date": "20190516"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2019144749",
+                                        "kind": "A1",
+                                        "name": "JIANG YONGHAI [CN], et al",
+                                        "date": "20190516"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-5",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2020113226",
+                                        "name": "TENFOLD TECH LLC [US], et al",
+                                        "date": "20200604"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2020113226",
+                                        "kind": "A1",
+                                        "name": "TENFOLD TECH LLC [US], et al",
+                                        "date": "20200604"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 衡曦彤;程娟;何环;曹清河;李成果;, \"微生物降解煤产腐植酸及应用研究进展\", vol. 25, no. 06, pages 89 - 95"
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 第89-95页 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 毛志慧, \"褐煤微生物甲烷化实验研究\", no. 2, page 17"
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 正文第17、39页 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 吴光前, \"活性炭表面氧化改性技术及其对吸附性能的影响\", vol. 28, no. 6, page 1"
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 第1.2节 *"
+                            }
+                        },
+                        {
+                            "nplcit": {
+                                "text": "- 刘明灯, \"氨基化生物质炭吸附水中汞离子性能研究\", vol. 42, no. 6"
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 摘要 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a lignite-based heavy metal contaminated soil remediation agent and a preparation method thereof, which are used for solving the problem of soil heavy metal pollution caused by production processes of chemical industry, metallurgy and the like. Lignite is subjected to microbial dissolution and conversion to prepare high-value chemicals such as benzoic acid or clean energy hydrogen and methane, then lignite microbial dissolution residues are subjected to oxidation and ammoniation modification to prepare the heavy metal adsorption passivator, and graded high-value conversion of low-value lignite is achieved. According to the method disclosed by the invention, the lignite is dissolved and converted by utilizing coal dissolving fungi or anaerobic activated sludge, high-value chemicals such as benzoic acid and phthalic acid esters can be prepared by separating aerobic dissolved products of the lignite, clean fuels such as CH4 and H2 can be produced under the action of anaerobic microorganisms, and a heavy metal adsorption passivator is prepared through modification by ozone oxidation and ammonification of residual lignite residues. The prepared lignite-based soil heavy metal pollution repairing agent has the advantages of being green, low in energy consumption, simple in process and the like, and the method is a new technology for comprehensively utilizing lignite at a high value."
+                },
+                {
+                    "p": "本发明提供一种褐煤基重金属污染土壤修复剂及其制备方法，用于解决化工、冶金等生产过程造成的土壤重金属污染问题。将褐煤经过微生物溶解转化制备高值化学品苯甲酸等或清洁能源氢气、甲烷，然后将褐煤微生物溶解残渣进行氧化和氨化改性制备成重金属吸附钝化剂，实现低值褐煤的分级高值转化。本发明方法将褐煤利用溶煤真菌或厌氧活性污泥进行溶解转化，褐煤好氧溶解产物可以分离制备高值化学品苯甲酸、邻苯二甲酸酯类等，在厌氧微生物作用下可以生产CH4、H2等清洁燃料，剩余褐煤残渣，通过臭氧氧化和氨化进行改性制备重金属吸附钝化剂。本发明制备褐煤基土壤重金属污染修复剂具有绿色、低能耗、工艺简单等优点，是一种综合高值利用褐煤的新技术。"
+                }
+            ]
+        }
+    }
+}

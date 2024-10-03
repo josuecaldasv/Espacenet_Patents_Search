@@ -1,0 +1,202 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2024270574",
+                            "kind": "A1",
+                            "date": "20240815"
+                        },
+                        {
+                            "doc-number": "US2024270574",
+                            "date": "20240815"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B   3/    32            A I                    "
+                        },
+                        {
+                            "text": "C10G   2/    00            A I                    "
+                        },
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "3",
+                            "subgroup": "32",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "G",
+                            "main-group": "2",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "10",
+                            "subclass": "G",
+                            "main-group": "2",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "062",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "1614",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "2203",
+                            "subgroup": "1657",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "202418430652",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US202418430652",
+                            "date": "20240202"
+                        },
+                        {
+                            "doc-number": "18430652"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": [
+                            {
+                                "doc-number": "JP20230017119",
+                                "date": "20230207"
+                            },
+                            {
+                                "doc-number": "2023-017119"
+                            }
+                        ]
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HONDA MOTOR CO LTD [JP]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "HONDA MOTOR CO., LTD"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "OKAMURA KOTA [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " NAKAJIMA SHIORI [JP]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "OKAMURA, Kota, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "NAKAJIMA, Shiori"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "FUEL MANUFACTURING SYSTEM"
+            },
+            "abstract": {
+                "p": "A fuel manufacturing system that makes it possible to further improve energy efficiency. the fuel manufacturing system includes: a biomass raw material supply device; a gasification furnace; a liquid fuel manufacturing device; a hydrogen supply device; a heater; and a controller, the controller being able to calculate an amount of heat necessary for gasifying the biomass raw material in the gasification furnace, and control each of an amount of the biomass raw material to be supplied to the heater by the biomass raw material supply device and an amount of the hydrogen to be supplied to the heater by the hydrogen supply device."
+            }
+        }
+    }
+}

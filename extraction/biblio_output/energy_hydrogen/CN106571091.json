@@ -1,0 +1,214 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "106571091",
+                            "kind": "A",
+                            "date": "20170419"
+                        },
+                        {
+                            "doc-number": "CN106571091",
+                            "date": "20170419"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": {
+                        "text": "G09B  23/    18            A I                    "
+                    }
+                },
+                "patent-classifications": {
+                    "patent-classification": {
+                        "classification-scheme": null,
+                        "section": "G",
+                        "class": "09",
+                        "subclass": "B",
+                        "main-group": "23",
+                        "subgroup": "188",
+                        "classification-value": "I",
+                        "generating-office": "CN"
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "201510668895",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN201510668895",
+                            "date": "20151013"
+                        },
+                        {
+                            "doc-number": "201510668895.0"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN201510668895",
+                            "date": "20151013"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WHOLE WIN (BEIJING) MAT SCI & TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "北京浩运金能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG PEILONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHU YONGGUO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张沛龙, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "朱永国"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Wind-light-hydrogen-electricity energy conversion demonstration system",
+                    "种风光氢电能源转换演示系统"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2007227899"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2007227899",
+                                        "kind": "A1"
+                                    }
+                                ]
+                            },
+                            "category": "A",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 全文 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN101841277"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "101841277",
+                                        "kind": "A"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 说明书第0002-0004、0008-0024段，图1-2 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN103366630"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "103366630",
+                                        "kind": "A"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 说明书第0008-0020、0029-0040段，图1-5 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN104616573"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "104616573",
+                                        "kind": "A"
+                                    }
+                                ]
+                            },
+                            "category": "Y",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 说明书第0002-0013段，图1 *"
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN205080809U"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "205080809",
+                                        "kind": "U"
+                                    }
+                                ]
+                            },
+                            "category": "R",
+                            "rel-claims": "1-6",
+                            "rel-passage": {
+                                "passage": "* 权利要求1-6 *"
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a wind-light-hydrogen-electricity energy conversion demonstration system, including a wind energy generation unit, a solar energy generation unit, an electrolytic hydrogen production unit, a metal hydride hydrogen storage unit, a fuel cell and a load. After the wind energy and solar power generation units generate power, through the electrolytic hydrogen production unit, the power is converted into hydrogen energy, the metal hydride hydrogen storage unit stores hydrogen, and according to the need, the fuel cell hydrogen is supplied with hydrogen to carry out power generation and also can serve as a storage unit, so that long-term lossless storage and long-distance transport of hydrogen energy is achieved. The system directly and vividly shows the conversion among wind energy, solar energy, hydrogen energy and electric energy, and realizes the interconnection and energy storage of renewable clean energy through energy conversion. The demonstrate system can be used for teaching demonstration and student experiments, which is of great significance to improve classroom fun and students' enthusiasm and improve students' awareness of renewable energy efficient use, conversion, energy storage and energy saving."
+                },
+                {
+                    "p": "本发明提供种风光氢电能源转换演示系统，包括风能发电单元、太阳能发电单元、电解制氢单元、金属氢化物储氢单元、燃料电池和负载，风能/太阳能发电单元发电后，通过电解制氢单元将电能转换为氢能，金属氢化物储氢单元储存氢气，既可根据需要为燃料电池供氢发电，又可作为储能单元，实现氢能的长期无损耗储存和远距离输运。本发明直观形象的展示了风能、太阳能、氢能、电能之间的转换，通过能源转换，实现这些可再生清洁能源的互联互通和储能。该演示系统可用于教学演示和学生实验，对提高课堂的趣味性和学生学习积极性，提高学生对可再生清洁能源高效利用、转换、储能和节能环保的认识，具有重要意义。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118396265",
+                            "kind": "A",
+                            "date": "20240726"
+                        },
+                        {
+                            "doc-number": "CN118396265",
+                            "date": "20240726"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    04            A I                    "
+                        },
+                        {
+                            "text": "G06T   7/    00            A I                    "
+                        },
+                        {
+                            "text": "G06T   7/    13            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410344283",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410344283",
+                            "date": "20240325"
+                        },
+                        {
+                            "doc-number": "202410344283.5"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410344283",
+                            "date": "20240325"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUNAN LONGSHEN HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "湖南隆深氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "DING YANCHUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG HAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " PENG ZHIYONG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HU HAIPING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "丁彦春, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王浩, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "彭智勇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "胡海平"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Adjusting method and system suitable for GDL coiled material coating production line, terminal and medium",
+                    "适用于GDL卷材涂布生产线的调节方法、系统、终端及介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention is suitable for the technical field of coating production, and provides an adjusting method and system suitable for a GDL coiled material coating production line, a terminal and a medium, and the method comprises the steps: firstly obtaining to-be-detected image information of a to-be-detected workpiece, then effectively generating to-be-detected region information according to the to-be-detected image information and an edge extraction algorithm, and finally obtaining the to-be-detected region information according to the to-be-detected image information. According to the method, pixel point color set information of to-be-detected area information is rapidly determined, then whether at least one target pixel point exists in the to-be-detected area information or not is accurately determined according to the pixel point color set information, and if at least one target pixel point exists in the to-be-detected area information, the to-be-detected area information does not exist in the to-be-detected area information. If yes, a sintering temperature increasing instruction and a sintering duration increasing instruction are generated immediately. According to the method, when the product quality is reduced, the operation parameters can be timely and automatically optimized, the product quality is improved, and the stability of the product quality can be effectively improved in long-time production."
+                },
+                {
+                    "p": "本申请适用于涂布生产的技术领域，提供了一种适用于GDL卷材涂布生产线的调节方法、系统、终端及介质，其方法包括先获取待测工件的待测图像信息，然后根据待测图像信息和边缘提取算法，有效地生成待测区域信息，再根据待测图像信息，快速地确定出待测区域信息的像素点色彩集信息，然后根据像素点色彩集信息，精准地确定待测区域信息中是否存在至少一个目标像素点，如果待测区域信息中存在至少一个目标像素点，则立刻生成烧结温度提高指令和烧结时长增加指令。本申请能够实现在产品质量下降的时候，能够及时自动地优化运行参数，提高产品质量，在长时间生产中能够有效地提高产品质量的稳定性。"
+                }
+            ]
+        }
+    }
+}

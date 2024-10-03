@@ -1,0 +1,205 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118432241",
+                            "kind": "A",
+                            "date": "20240802"
+                        },
+                        {
+                            "doc-number": "CN118432241",
+                            "date": "20240802"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    00            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   7/    34            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410475066",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410475066",
+                            "date": "20240418"
+                        },
+                        {
+                            "doc-number": "202410475066.X"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410475066",
+                            "date": "20240418"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "NARI RELAYS ELECTRIC CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " NANJING NARI RELAYS ENGINEERING TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "南京南瑞继保电气有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "南京南瑞继保工程技术有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HUANG XIN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " CHEN HUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LU YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU YONGGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " YANG BING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LOU QINGHUI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU LEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG YU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU HONGDE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "黄鑫, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卢宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘永刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "杨兵, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "娄清辉, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘磊, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘洪德"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "New energy hydrogen production power supply, system and control method thereof",
+                    "新能源制氢电源、系统及其控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention provides a new energy hydrogen production power supply and system and a control method thereof. The new energy hydrogen production power supply comprises a rectifier stage used for being connected with a power supply bus and converting alternating current into direct current; the energy storage stage is connected in parallel with the rectification stage and is used for absorbing, storing and/or releasing electric energy; and the chopping stage is respectively connected with the rectifying stage and the electrolytic bath and is used for increasing or reducing direct current voltage and providing direct current for the electrolytic bath. The control method of the new energy hydrogen production system comprises the step of controlling the new energy hydrogen production power supply to work in the following working modes according to the power generation condition of the power supply bus: a new energy low-generation mode, a new energy hydrogen production mode, a new energy fluctuation mode and a new energy powerless mode. The new energy hydrogen production power supply has an energy storage link, can work in a mode of small new energy output and rapid output fluctuation, absorbs or emits active power, maintains production of an electrolytic bath, stabilizes new energy fluctuation by using an energy storage level, and maximally utilizes new energy electric power."
+                },
+                {
+                    "p": "本申请提供一种新能源制氢电源、系统及其控制方法。新能源制氢电源包括：整流级，用于与电源母线连接，将交流电转化为直流电；储能级，与所述整流级并联连接，用于吸收、储存和/或释放电能；斩波级，与所述整流级和电解槽分别连接，用于升高或降低直流电压，为所述电解槽提供直流电。新能源制氢系统的控制方法包括：根据所述电源母线的发电情况，控制所述新能源制氢电源在以下工作模式下工作：新能源低发模式、新能源制氢模式、新能源波动模式和新能源无力模式。新能源制氢电源具有储能环节，可以工作在新能源出力小、出力快速波动的模式下，吸收或发出有功功率，维持电解槽的生产，利用储能级平抑新能源波动，最大化利用新能源电力。"
+                }
+            ]
+        }
+    }
+}

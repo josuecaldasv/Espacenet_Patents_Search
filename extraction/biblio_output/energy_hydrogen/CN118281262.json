@@ -1,0 +1,112 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118281262",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118281262",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/ 04537            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04664            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410377033",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410377033",
+                            "date": "20240329"
+                        },
+                        {
+                            "doc-number": "202410377033.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410377033",
+                            "date": "20240329"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WEICHAI BALADE HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "潍柴巴拉德氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LIU HAITAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG CHUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "柳海涛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "张椿"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Control method of fuel cell assembly",
+                    "燃料电池总成的控制方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the technical field of fuel cells, and provides a control method of a fuel cell assembly, the fuel cell assembly comprises a cell box, a cell pack, a regulating valve and a flow guide member, the cell box is provided with a common flow channel, and the regulating valve and the flow guide member are arranged at an interval in the extension direction of the common flow channel; the battery pack comprises a first battery and a second battery which are sequentially arranged, a reaction flow channel of the first battery and a reaction flow channel of the second battery are both communicated with the public flow channel, the reaction flow channel of the first battery is adjacent to the flow guide part, gas sequentially flows through the regulating valve and the battery pack, and the flow guide part can change the flow direction of the gas entering the reaction flow channel of the first battery. After the battery pack is started, if the battery pack is in an abnormal operation state, an adjusting program is triggered, the operation states of the second battery and the first battery are detected in sequence, then influence factors of the abnormal operation are determined, and then the adjusting valve or the flow guide part is adjusted in a targeted mode so as to recover normal operation of the battery pack."
+                },
+                {
+                    "p": "本发明涉及燃料电池技术领域，提供了一种燃料电池总成的控制方法，燃料电池总成包括电池盒、电池组、调节阀和导流件，电池盒开设有公共流道，调节阀与导流件于公共流道的延伸方向间隔设置，电池组包括依次排布的第一电池和第二电池，第一电池的反应流道与第二电池的反应流道均与公共流道连通，且第一电池的反应流道与导流件相邻，气体依次流经调节阀和电池组，导流件能够改变气体进入第一电池的反应流道内的流向。开机启动后，如果电池组处于非正常运行状态，触发调节程序，依次检测第二电池和第一电池的运行状态，进而明确本次非正常运行的影响因素，再针对性的调节调节阀或是导流件，以恢复电池组的正常运行。"
+                }
+            ]
+        }
+    }
+}

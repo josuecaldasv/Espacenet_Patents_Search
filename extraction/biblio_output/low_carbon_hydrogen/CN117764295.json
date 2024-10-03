@@ -1,0 +1,136 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117764295",
+                            "kind": "A",
+                            "date": "20240326"
+                        },
+                        {
+                            "doc-number": "CN117764295",
+                            "date": "20240326"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06F  30/    20            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/  0631            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/   067            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    26            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    06            A I                    "
+                        },
+                        {
+                            "text": "G06F 111/    04            A N                    "
+                        },
+                        {
+                            "text": "G06F 113/    04            A N                    "
+                        },
+                        {
+                            "text": "G06F 113/    08            A N                    "
+                        },
+                        {
+                            "text": "G06F 113/    14            A N                    "
+                        },
+                        {
+                            "text": "G06F 119/    14            A N                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202311465213",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202311465213",
+                            "date": "20231106"
+                        },
+                        {
+                            "doc-number": "202311465213.7"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202311465213",
+                            "date": "20231106"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "UNIV CHONGQING"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "重庆大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "REN ZHOUYANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " JIANG YUNPENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "任洲洋, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "姜云鹏"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Electricity-gas integrated energy system low-carbon scheduling method considering hydrogen injection",
+                    "一种考虑氢气注入的电-气综合能源系统低碳调度方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the field of comprehensive energy systems, in particular to an electricity-gas comprehensive energy system low-carbon scheduling method considering hydrogen injection. Comprising the following steps that a hydrogen-mixed natural gas energy flow model is constructed, the model comprises a hydrogen-mixed natural gas pipeline flow model, a compressor model, a node flow balance model and a hydrogen volume fraction model, and the pipe storage effect is considered; taking the operation cost minimization as an objective function, considering the low-carbon safe operation constraint of the power-gas integrated energy system, and constructing a power-gas integrated energy system low-carbon scheduling model; and converting the scheduling model into a mixed integer linear optimization model based on a linearization method for solving to obtain a scheduling scheme, and converting the constructed model based on the linearization method into the mixed integer linear optimization model for solving. According to the method, the technical problems that dynamic characteristics of hydrogen-mixed natural gas are not fully considered and the change influence of the hydrogen volume fraction cannot be quantified in an electricity-gas integrated energy system scheduling method in the prior art are solved."
+                },
+                {
+                    "p": "本发明涉及综合能源系统领域，具体是一种考虑氢气注入的电‑气综合能源系统低碳调度方法。包括如下步骤：构建混氢天然气能量流模型，该模型包括混氢天然气的管道流模型、压缩机模型、节点流平衡模型和氢气体积分数模型,并考虑管存效应；以运行成本最小化为目标函数，考虑电‑气综合能源系统低碳安全运行约束，构建电‑气综合能源系统低碳调度模型；基于线性化方法转换所述调度模型为混合整数线性优化模型进行求解以得到调度方案，其中，基于线性化方法转换所构建的模型为混合整数线性优化模型进行求解。本发明解决了现有技术中的电‑气综合能源系统调度方法对混氢天然气的动态特性考虑不充分，且无法量化氢气体积分数的变化影响的技术问题。"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,633 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "2024302037",
+                            "kind": "A1",
+                            "date": "20240912"
+                        },
+                        {
+                            "doc-number": "US2024302037",
+                            "date": "20240912"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B01D  53/    26            A I                    "
+                        },
+                        {
+                            "text": "B01F  23/    10            A I                    "
+                        },
+                        {
+                            "text": "B01F  25/   431            A I                    "
+                        },
+                        {
+                            "text": "B01F  25/   452            A I                    "
+                        },
+                        {
+                            "text": "F23C   9/    00            A I                    "
+                        },
+                        {
+                            "text": "F23L   7/    00            A I                    "
+                        },
+                        {
+                            "text": "F23L  15/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "53",
+                            "subgroup": "26",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "53",
+                            "subgroup": "56",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "F",
+                            "main-group": "23",
+                            "subgroup": "10",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "F",
+                            "main-group": "25",
+                            "subgroup": "4317",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "F",
+                            "main-group": "25",
+                            "subgroup": "4523",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "32",
+                            "subgroup": "50",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "32",
+                            "subgroup": "50",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "65",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "9",
+                            "subgroup": "00",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "9",
+                            "subgroup": "06",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "D",
+                            "main-group": "14",
+                            "subgroup": "66",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "L",
+                            "main-group": "7",
+                            "subgroup": "007",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "L",
+                            "main-group": "7",
+                            "subgroup": "007",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "L",
+                            "main-group": "7",
+                            "subgroup": "007",
+                            "classification-value": "I",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "L",
+                            "main-group": "15",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "2251",
+                            "subgroup": "102",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "2256",
+                            "subgroup": "22",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "2257",
+                            "subgroup": "404",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "2257",
+                            "subgroup": "80",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "2257",
+                            "subgroup": "80",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "2258",
+                            "subgroup": "0283",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "01",
+                            "subclass": "D",
+                            "main-group": "2258",
+                            "subgroup": "0283",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "15",
+                            "subgroup": "081",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "2202",
+                            "subgroup": "30",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "2900",
+                            "subgroup": "9901",
+                            "classification-value": "A",
+                            "generating-office": "US"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "C",
+                            "main-group": "2900",
+                            "subgroup": "9901",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "F",
+                            "class": "23",
+                            "subclass": "J",
+                            "main-group": "2215",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "20",
+                            "subgroup": "32",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "20",
+                            "subgroup": "34",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "36",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "US",
+                            "doc-number": "202418664370",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "US202418664370",
+                            "date": "20240515"
+                        },
+                        {
+                            "doc-number": "18664370"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": [
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "CN202111466784",
+                                    "date": "20211203"
+                                },
+                                {
+                                    "doc-number": "202111466784.3"
+                                }
+                            ]
+                        },
+                        {
+                            "document-id": [
+                                {
+                                    "doc-number": "WO2022CN86382",
+                                    "date": "20220412"
+                                },
+                                {
+                                    "doc-number": "PCT/CN2022/086382"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "SHANGHAI YUANHAN ENERGY & CHEMICAL TECH CO LTD [CN]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "SHANGHAI YUANHAN ENERGY & CHEMICAL TECHNOLOGY CO., LTD"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG XIANGQUAN [CN]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WU WENJUN [CN]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHANG YUNFENG [CN]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG, Xiangquan, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "WU, Wenjun, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "ZHANG, Yunfeng"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": "METHODS AND SYSTEMS FOR DENITROGENATION COMBUSTION AND CO2 CAPTURE AND UTILIZATION IN GAS BOILERS",
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2003097840",
+                                        "name": "HSU JUSTIN CHIN-CHUNG [US]",
+                                        "date": "20030529"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2003097840",
+                                        "kind": "A1",
+                                        "name": "HSU JUSTIN CHIN-CHUNG [US]",
+                                        "date": "20030529"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2011041740",
+                                        "name": "REILLY TIMOTHY J [US]",
+                                        "date": "20110224"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2011041740",
+                                        "kind": "A1",
+                                        "name": "REILLY TIMOTHY J [US]",
+                                        "date": "20110224"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2013133337",
+                                        "name": "ELKADY AHMED MOSTAFA [US], et al",
+                                        "date": "20130530"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2013133337",
+                                        "kind": "A1",
+                                        "name": "ELKADY AHMED MOSTAFA [US], et al",
+                                        "date": "20130530"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US9216903",
+                                        "name": "MCKENNA MARK [GB], et al",
+                                        "date": "20151222"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "9216903",
+                                        "kind": "B2",
+                                        "name": "MCKENNA MARK [GB], et al",
+                                        "date": "20151222"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2017089574",
+                                        "name": "STINESSEN KJELL OLAV [NO], et al",
+                                        "date": "20170330"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2017089574",
+                                        "kind": "A1",
+                                        "name": "STINESSEN KJELL OLAV [NO], et al",
+                                        "date": "20170330"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2021340075",
+                                        "name": "SCHUETZLE ROBERT [US], et al",
+                                        "date": "20211104"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2021340075",
+                                        "kind": "A1",
+                                        "name": "SCHUETZLE ROBERT [US], et al",
+                                        "date": "20211104"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2022003406",
+                                        "name": "RUIZ ROBERTO [US]",
+                                        "date": "20220106"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2022003406",
+                                        "kind": "A1",
+                                        "name": "RUIZ ROBERTO [US]",
+                                        "date": "20220106"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "WO2022079408",
+                                        "name": "JOHNSON MATTHEY DAVY TECHNOLOGIES LTD [GB]",
+                                        "date": "20220421"
+                                    },
+                                    {
+                                        "country": "WO",
+                                        "doc-number": "2022079408",
+                                        "kind": "A1",
+                                        "name": "JOHNSON MATTHEY DAVY TECHNOLOGIES LTD [GB]",
+                                        "date": "20220421"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US11407645",
+                                        "name": "ALEKSEEV ALEXANDER [DE], et al",
+                                        "date": "20220809"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "11407645",
+                                        "kind": "B2",
+                                        "name": "ALEKSEEV ALEXANDER [DE], et al",
+                                        "date": "20220809"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "abstract": {
+                "p": "The present disclosure provides a method and a system for denitrogenation combustion and CO2 capture and utilization in a gas boiler. The method is implemented by the system for denitrogenation combustion and CO2 capture and utilization in the gas boiler, and comprises: after circulating flue gas is discharged from a gas boiler, introducing the circulating flue gas into a gas heat exchanger to perform heat exchange with natural gas, hydrogen, and carbon-based denitrogenation gas; introducing the circulating flue gas after heat exchange into a flue gas dehydration device to perform dehydration; introducing a first portion of the circulating flue gas after the heat exchange and dehydration into a blower through the flue gas dehydration device to be pressurized by the blower and introduced into a carbon-based denitrogenation gas mixer; preparing the carbon-based denitrogenation gas by mixing oxygen and the circulating flue gas using the carbon-based denitrogenation gas mixer for combustion for the gas boiler; and introducing a second portion of the circulating flue gas after heat exchange and dehydration into a CO2 recovery device to perform purification and deoxygenation through the flue gas dehydration device to obtain a CO2 product, and pressurizing and transmitting the CO2 product to a CO2 utilization device through a CO2 compressor."
+            }
+        }
+    }
+}

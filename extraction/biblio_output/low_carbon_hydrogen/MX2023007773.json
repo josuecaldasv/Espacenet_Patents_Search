@@ -1,0 +1,148 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "MX",
+                            "doc-number": "2023007773",
+                            "kind": "A",
+                            "date": "20230707"
+                        },
+                        {
+                            "doc-number": "MX2023007773",
+                            "date": "20230707"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "A61L   2/    24            A I                    "
+                        },
+                        {
+                            "text": "A61L   2/    28            A I                    "
+                        },
+                        {
+                            "text": "B01D  46/    00            A I                    "
+                        },
+                        {
+                            "text": "B01D  53/    32            A I                    "
+                        },
+                        {
+                            "text": "G01N  33/    00            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "MX",
+                            "doc-number": "2023007773",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "MX20230007773",
+                            "date": "20230627"
+                        },
+                        {
+                            "doc-number": "2023007773"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "MX20230007773",
+                            "date": "20230627"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CLAUDIA ERENDIRA VAZQUEZ TORRES [MX]"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "Claudia Eréndira VÁZQUEZ TORRES"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "ALI BASSAM [MX]"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " VÁZQUEZ TORRES CLAUDIA ERÉNDIRA"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MAY TZUC OSCAR DE JESUS"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " QUIJANO CETINA RENAN GABRIEL"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " SÁNCHEZ DOMÍNGUEZ ISRAEL"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "ALI Bassam, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "VÁZQUEZ TORRES Claudia Eréndira, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "MAY TZUC Oscar De Jesus, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "QUIJANO CETINA Renan Gabriel, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "SÁNCHEZ DOMÍNGUEZ Israel"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "INTELLIGENT SYSTEM TO MONITOR AND DETECT THERMAL SENSATION, ENVIRONMENTAL QUALITY, AND NOISE IN INTERIOR AND EXTERIOR SPACES.",
+                    "SISTEMA INTELIGENTE PARA MONITOREAR Y DETECTAR LA SENSACION TERMICA, LA CALIDAD AMBIENTAL Y EL RUIDO EN ESPACIOS INTERIORES Y EXTERIORES."
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The present invention relates to detecting, analyzing, and qualifying environmental quality with an LCD screen to visualize the measurements. Specifically, it relates to low-cost monitoring devices, consisting of 1) identifying and measuring with sensors the values of chemical contaminants, suspended particles and gases, and comfort variables, 2) obtaining the collected data remotely with the adjacent use of wireless communication, and 3) generating a monitoring system with easy access, even for non-specialists. Also, it includes 4) setting off an alarm when exceeding the environmental quality levels recommended by the applicable regulations and 5) activating or deactivating the window opening action according to environmental conditions and an adaptive comfort model. Said devices can measure variables that influence ecological quality, such as carbon monoxide (CO), carbon dioxide (CO2), suspended particles (PM1, PM2.5, PM10), nitrogen dioxide (NO2), hydrogen sulfide (H2S), and ozone (O); and the comfort variables, such as temperature, relative humidity, atmospheric pressure, wind speed, and noise pollution. Said measurements allow storing them in databases by sensors sent to remote devices via Bluetooth and the internet, thus taking action on the opening or closing windows."
+                },
+                {
+                    "p": "La presente invención, que incluye detección, análisis y calificación de la calidad ambiental con pantalla LCD para la visualización de las mediciones, relaciona dispositivos de monitoreo de bajo costo para: 1) identificar y medir con sensores los valores de contaminantes químicos, partículas suspendidas y gases, así como variables del confort; 2) obtener los datos recabados de manera remota, con el uso adyacente de comunicación inalámbrica; 3) generar un sistema de monitoreo de fácil acceso, incluso para personas no especializadas, 4) encender una alarma cuando se sobrepasen los niveles de calidad ambiental recomendados por la normatividad aplicable y, 5) activar o desactivar la acción de apertura de ventanas cuando de acuerdo a las condiciones ambientales y un modelo de confort adaptativo. La invención es capaz de medir variables que influyen en la calidad ambiental: monóxido de carbono (CO), dióxido de carbono (CO2), partículas suspendidas (PM1, PM2.5, PM10), dióxido de nitrógeno (NO2), sulfuro de hidrógeno (H2S) y ozono (O). Y las variables del confort: temperatura, humedad relativa, presión atmosférica, velocidad del viento y contaminación por ruido. Las mediciones se almacenan en bases de datos por medio de sensores que posteriormente pueden ser enviados a dispositivos remotos vía bluetooth e internet. La invención es capaz de tomar acción en la apertura o cierre de ventanas."
+                }
+            ]
+        }
+    }
+}

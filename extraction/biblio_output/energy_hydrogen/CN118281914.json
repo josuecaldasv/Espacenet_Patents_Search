@@ -1,0 +1,191 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118281914",
+                            "kind": "A",
+                            "date": "20240702"
+                        },
+                        {
+                            "doc-number": "CN118281914",
+                            "date": "20240702"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "G06N   7/    01            A I                    "
+                        },
+                        {
+                            "text": "G06Q  10/   063            A I                    "
+                        },
+                        {
+                            "text": "G06Q  50/    06            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    28            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    32            A I                    "
+                        },
+                        {
+                            "text": "H02J   3/    46            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": null,
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410272945",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410272945",
+                            "date": "20240311"
+                        },
+                        {
+                            "doc-number": "202410272945.2"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410272945",
+                            "date": "20240311"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "HUAZHONG UNIV OF SCIENCE AND TECHNOLOGY"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "华中科技大学"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "AI XIAOMENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " KIM WOOK-YEOP"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHONG ZHIYAO"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEI LISHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " FANG JIAKUN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WEN JINYU"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " NI XIETING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " ZHAO RONGKANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI TIANCHEN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "艾小猛, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "金昱烨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "钟治垚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "魏利屾, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "方家琨, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "文劲宇, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "倪谢霆, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赵容康, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李天辰"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Annual time sequence production simulation method, device and system of hydrogen-containing energy storage power system",
+                    "含氢储能电力系统的全年时序生产模拟方法、装置和系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a full-year time sequence production simulation method, device and system of a hydrogen-containing energy storage power system, and belongs to the technical field of power system control. The full-year time sequence production simulation method comprises the following steps: converting a full-year time sequence production simulation model into a plurality of sub-optimization problems through time dimension decomposition; the problem that the model cannot be solved due to the existence of a large number of integer variables is solved, a transfer function corresponding to a Markov decision chain is utilized to perform coupling constraint on a plurality of sub-optimization problems, long-time coupling constraint of hydrogen energy storage is considered, and a Markov decision reconstruction model is obtained; and finally, converting the Markov decision reconstruction model into an approximate look-ahead solving model, and performing historical training and online optimization on the approximate look-ahead solving model, thereby realizing efficient and accurate annual time sequence production simulation of the hydrogen-containing energy storage power system."
+                },
+                {
+                    "p": "本发明公开了一种含氢储能电力系统的全年时序生产模拟方法、装置和系统，属于电力系统控制技术领域，所述全年时序生产模拟方法，通过时间维度分解将所述全年时序生产模拟模型转化多个子优化问题，克服模型因存在数目庞大的整数变量而无法求解的问题，并利用马尔科夫决策链对应的转移函数将多个子优化问题进行耦合约束，考虑了氢储能长时间耦合约束，得到马尔科夫决策重构模型；最后将所述马尔科夫决策重构模型转化为近似前瞻求解模型，对所述近似前瞻求解模型进行历史训练和在线优化，能够实现高效且准确地所述含氢储能电力系统的全年时序生产模拟。"
+                }
+            ]
+        }
+    }
+}

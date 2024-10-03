@@ -1,0 +1,171 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118198419",
+                            "kind": "A",
+                            "date": "20240614"
+                        },
+                        {
+                            "doc-number": "CN118198419",
+                            "date": "20240614"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "B60L  58/    30            A I                    "
+                        },
+                        {
+                            "text": "B60L  58/    33            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04089            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04298            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04746            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "58",
+                            "subgroup": "30",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "B",
+                            "class": "60",
+                            "subclass": "L",
+                            "main-group": "58",
+                            "subgroup": "33",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04089",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04298",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04753",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202211559126",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202211559126",
+                            "date": "20221206"
+                        },
+                        {
+                            "doc-number": "202211559126.3"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202211559126",
+                            "date": "20221206"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WEISHI ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "未势能源科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "HE QIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "赫强"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Hydrogen system control method, device, equipment, system, vehicle and medium",
+                    "氢气系统控制方法、装置、设备、系统、车辆及介质"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a hydrogen system control method, device, equipment and system, a vehicle and a medium, and is applied to the technical field of fuel cells, and the method specifically comprises the following steps: determining a target control state based on a target request value of a target calibration parameter and an actual output value of a previous control period; based on the mapping relation between the in-pile hydrogen pressure in the target control state and the proportional valve duty ratio, the proportional valve duty ratio of the target in-pile hydrogen pressure is determined as a first duty ratio; determining a second duty ratio by adopting a PID (Proportion Integration Differentiation) regulation strategy based on the current in-reactor hydrogen pressure and the target in-reactor hydrogen pressure; the target duty ratio is determined based on the first duty ratio and the second duty ratio, so that the actual anode pressure is quickly adjusted and well follows the target anode pressure when the working condition changes on the basis of accurately judging the uplink control and the downlink control, and the problems of slow response, overshoot of the actual pressure and the like are avoided; therefore, the anode pressure control is fast, accurate and stable, the pressure difference between the anode and the cathode is greatly improved, and the service life is prolonged."
+                },
+                {
+                    "p": "本申请公开了一种氢气系统控制方法、装置、设备、系统、车辆及介质，应用于燃料电池技术领域，具体为：基于目标标定参数的目标请求值和上一控制周期的实际输出值确定目标控制状态；基于目标控制状态的入堆氢气压力与比例阀占空比之间的映射关系，将目标入堆氢气压力的比例阀占空比确定为第一占空比；基于当前入堆氢气压力和目标入堆氢气压力采用PID调节策略确定第二占空比；基于第一占空比和第二占空确定目标占空比，从而在精确判断上行控制和下行控制的基础上使实际阳极压力在工况变化时实现快速调整并很好跟随目标阳极压力，不会出现响应慢、实际压力超调等问题，进而使阳极压力控制既快又准又稳定，极大改善了阴阳极压差，延长了使用寿命。"
+                }
+            ]
+        }
+    }
+}

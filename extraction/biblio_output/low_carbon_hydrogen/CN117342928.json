@@ -1,0 +1,191 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "117342928",
+                            "kind": "A",
+                            "date": "20240105"
+                        },
+                        {
+                            "doc-number": "CN117342928",
+                            "date": "20240105"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C01B  32/    40            A I                    "
+                        },
+                        {
+                            "text": "C01B  32/    50            A I                    "
+                        },
+                        {
+                            "text": "C07C  29/   151            A I                    "
+                        },
+                        {
+                            "text": "C07C  31/    04            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "32",
+                            "subgroup": "40",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "01",
+                            "subclass": "B",
+                            "main-group": "32",
+                            "subgroup": "50",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "07",
+                            "subclass": "C",
+                            "main-group": "29",
+                            "subgroup": "1518",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ],
+                    "combination-set": {
+                        "group-number": "1",
+                        "combination-rank": [
+                            {
+                                "rank-number": "1",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C29/1518",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            },
+                            {
+                                "rank-number": "2",
+                                "patent-classification": {
+                                    "classification-scheme": null,
+                                    "classification-symbol": "C07C31/04",
+                                    "classification-value": "I",
+                                    "generating-office": "CN"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202210762906",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202210762906",
+                            "date": "20220629"
+                        },
+                        {
+                            "doc-number": "202210762906.1"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202210762906",
+                            "date": "20220629"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CHINA PETROLEUM & CHEM CORP"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": " SHANGHAI RESEARCH INSTITUTE OF PETROCHEMICAL TECH OF SINOPEC"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国石油化工股份有限公司, "
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "中国石油化工股份有限公司上海石油化工研究院"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "CHEN WEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LI JUNJIE"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " HE ZHI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "陈伟, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李俊杰, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "何志"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Method for producing methanol through carbon dioxide hydrogenation",
+                    "一种二氧化碳加氢生产甲醇的方法"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention relates to the field of methanol synthesis, and particularly provides a method for producing methanol by hydrogenating carbon dioxide, which comprises the following steps: (a) carrying out reverse water-gas shift reaction on raw materials carbon dioxide and hydrogen to obtain a material I; (b) after the material I is subjected to gas-liquid separation, a material II containing carbon monoxide, carbon dioxide and hydrogen is obtained from a gas phase, and wastewater is discharged from a liquid phase; (c) reacting the material II to generate methanol and water, carrying out gas-liquid separation on reaction discharge to obtain a material III containing carbon monoxide, carbon dioxide and hydrogen, and obtaining a material IV containing methanol and water from a liquid phase; (d) the material IV enters a methanol refining system, a refined methanol product is obtained, a low-temperature methanol circulating material V serving as a carbon dioxide absorbent is extracted, a material containing carbon monoxide and hydrogen is obtained and returned to the step (c), and VI is obtained at the same time; and (f) desorbing the material VI, and returning the obtained tower top carbon dioxide material to the step (a). The gas circulation amount of the reaction system can be remarkably reduced, and the methanol yield is increased."
+                },
+                {
+                    "p": "本发明涉及甲醇合成领域，具体提供一种二氧化碳加氢生产甲醇的方法，该方法包括：(a)原料二氧化碳、氢气进行逆水煤气变换反应，得到物料I；(b)物料I经气液分离后，气相得到含一氧化碳、二氧化碳和氢气的物料II，液相排出废水；(c)物料II反应生成甲醇、水，反应出料经气液分离得到含一氧化碳、二氧化碳和氢气的物料III，液相得到含甲醇、水的物料IV；(d)物料IV进入甲醇精制系统，得到精甲醇产品，并采出一股作为二氧化碳吸收剂的低温甲醇循环物料V，得到含一氧化碳、氢气的物料返回步骤(c)，同时得到VI；(f)物料VI进行解吸，得到的塔顶二氧化碳物料返回步骤(a)。本发明可显著降低反应系统的气体循环量，提升甲醇收率。"
+                }
+            ]
+        }
+    }
+}

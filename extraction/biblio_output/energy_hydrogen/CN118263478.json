@@ -1,0 +1,198 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118263478",
+                            "kind": "A",
+                            "date": "20240628"
+                        },
+                        {
+                            "doc-number": "CN118263478",
+                            "date": "20240628"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "H01M   8/   008            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04223            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04228            A I                    "
+                        },
+                        {
+                            "text": "H01M   8/ 04303            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "008",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04228",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04231",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "H",
+                            "class": "01",
+                            "subclass": "M",
+                            "main-group": "8",
+                            "subgroup": "04303",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "Y",
+                            "class": "02",
+                            "subclass": "E",
+                            "main-group": "60",
+                            "subgroup": "50",
+                            "classification-value": "A",
+                            "generating-office": "EP"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410419459",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410419459",
+                            "date": "20240409"
+                        },
+                        {
+                            "doc-number": "202410419459.9"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410419459",
+                            "date": "20240409"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "WEICHAI BALADE HYDROGEN ENERGY TECH CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "潍柴巴拉德氢能科技有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "FU PENG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " LIU ZHIQIANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " BU DEGANG"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " MIAO LINQING"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": " WANG HUAWEI"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "傅鹏, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "刘志强, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "卜德刚, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "苗林青, "
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "王化伟"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Control method and device of fuel cell system and fuel cell system",
+                    "一种燃料电池系统的控制方法、装置及燃料电池系统"
+                ]
+            },
+            "abstract": [
+                {
+                    "p": "The invention discloses a control method and device of a fuel cell system and the fuel cell system. The method comprises the following steps: judging whether a shutdown instruction is received or not; if yes, obtaining the air-to-air starting frequency and the service life of the fuel cell stack; judging whether the air-to-air starting times in a preset time period meet an air-to-air starting time preset condition or not; if yes, acquiring a voltage attenuation rate, and/or a resistance value change rate, and/or a resistance value of the fuel cell stack within a first preset time; judging whether the voltage attenuation rate of the fuel cell stack is greater than a first preset value, and/or whether the resistance change rate is greater than a second preset value, and/or whether the resistance is greater than a third preset value; and if yes, executing a hydrogen pollution recovery strategy to shut down the fuel cell system. According to the method, pollutants adsorbed on the catalyst on the hydrogen side of the fuel cell are removed in the air-to-air starting process as far as possible, the performance can be recovered, and the service life is prolonged."
+                },
+                {
+                    "p": "本发明公开了一种燃料电池系统的控制方法、装置及燃料电池系统，该方法包括：判断是否收到关机指令；若是，获取燃料电池堆的空空启动次数和寿命；判断预设时间段内空空启动次数是否满足空空启动次数预设条件；若是，获取燃料电池堆在第一预设时间内的电压衰减率，和/或阻值变化率，和/或阻值；判断燃料电池堆的电压衰减率是否大于第一预设值，和/或阻值变化率是否大于第二预设值，和/或阻值是否大于第三预设值；若是，执行氢气污染恢复策略使燃料电池系统关机。本发明的方法在尽可能避免空空启动的过程中去除燃料电池氢气侧催化剂上吸附的污染物，能恢复性能，提高使用寿命。"
+                }
+            ]
+        }
+    }
+}

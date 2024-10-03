@@ -1,0 +1,374 @@
+{
+    "exchange-documents": {
+        "exchange-document": {
+            "bibliographic-data": {
+                "publication-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "118223058",
+                            "kind": "A",
+                            "date": "20240621"
+                        },
+                        {
+                            "doc-number": "CN118223058",
+                            "date": "20240621"
+                        }
+                    ]
+                },
+                "classifications-ipcr": {
+                    "classification-ipcr": [
+                        {
+                            "text": "C25B   1/    04            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    21            A I                    "
+                        },
+                        {
+                            "text": "C25B   9/    60            A I                    "
+                        },
+                        {
+                            "text": "C25B  11/    02            A I                    "
+                        },
+                        {
+                            "text": "C25B  11/   036            A I                    "
+                        }
+                    ]
+                },
+                "patent-classifications": {
+                    "patent-classification": [
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "1",
+                            "subgroup": "04",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "21",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "9",
+                            "subgroup": "60",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "11",
+                            "subgroup": "02",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        },
+                        {
+                            "classification-scheme": null,
+                            "section": "C",
+                            "class": "25",
+                            "subclass": "B",
+                            "main-group": "11",
+                            "subgroup": "036",
+                            "classification-value": "I",
+                            "generating-office": "CN"
+                        }
+                    ]
+                },
+                "application-reference": {
+                    "document-id": [
+                        {
+                            "country": "CN",
+                            "doc-number": "202410660128",
+                            "kind": "A"
+                        },
+                        {
+                            "doc-number": "CN202410660128",
+                            "date": "20240527"
+                        },
+                        {
+                            "doc-number": "202410660128.4"
+                        }
+                    ]
+                },
+                "priority-claims": {
+                    "priority-claim": {
+                        "document-id": {
+                            "doc-number": "CN202410660128",
+                            "date": "20240527"
+                        }
+                    }
+                },
+                "parties": {
+                    "applicants": {
+                        "applicant": [
+                            {
+                                "applicant-name": {
+                                    "name": "CUMMINS HYDROGEN ENERGY SHANGHAI CO LTD"
+                                }
+                            },
+                            {
+                                "applicant-name": {
+                                    "name": "康明斯氢能（上海）有限公司"
+                                }
+                            }
+                        ]
+                    },
+                    "inventors": {
+                        "inventor": [
+                            {
+                                "inventor-name": {
+                                    "name": "LI YIXUAN"
+                                }
+                            },
+                            {
+                                "inventor-name": {
+                                    "name": "李宜轩"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "invention-title": [
+                    "Bipolar plate structure for electrolytic bath and electrolytic bath",
+                    "用于电解槽的双极板结构及电解槽"
+                ],
+                "references-cited": {
+                    "citation": [
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "DE10301052",
+                                        "name": "DAIMLER CHRYSLER AG [DE]",
+                                        "date": "20040722"
+                                    },
+                                    {
+                                        "country": "DE",
+                                        "doc-number": "10301052",
+                                        "kind": "A1",
+                                        "name": "DAIMLER CHRYSLER AG [DE]",
+                                        "date": "20040722"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "US2007207366",
+                                        "name": "SOMMER STEFAN [DE], et al",
+                                        "date": "20070906"
+                                    },
+                                    {
+                                        "country": "US",
+                                        "doc-number": "2007207366",
+                                        "kind": "A1",
+                                        "name": "SOMMER STEFAN [DE], et al",
+                                        "date": "20070906"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN211238391U",
+                                        "name": "SINOCAT ENVIRONMENTAL TECH CO LTD",
+                                        "date": "20200811"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "211238391",
+                                        "kind": "U",
+                                        "name": "SINOCAT ENVIRONMENTAL TECH CO LTD",
+                                        "date": "20200811"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "DE102022106498",
+                                        "name": "SCHAEFFLER TECHNOLOGIES AG [DE]",
+                                        "date": "20221013"
+                                    },
+                                    {
+                                        "country": "DE",
+                                        "doc-number": "102022106498",
+                                        "kind": "A1",
+                                        "name": "SCHAEFFLER TECHNOLOGIES AG [DE]",
+                                        "date": "20221013"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116397253",
+                                        "name": "SHANGHAI SUNWISE NEW ENERGY SYSTEMS CO LTD",
+                                        "date": "20230707"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116397253",
+                                        "kind": "A",
+                                        "name": "SHANGHAI SUNWISE NEW ENERGY SYSTEMS CO LTD",
+                                        "date": "20230707"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN116949475",
+                                        "name": "SHANGHAI ZHIZHEN NEW ENERGY CO LTD",
+                                        "date": "20231027"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "116949475",
+                                        "kind": "A",
+                                        "name": "SHANGHAI ZHIZHEN NEW ENERGY CO LTD",
+                                        "date": "20231027"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117210847",
+                                        "name": "SANY HYDROGEN ENERGY CO LTD",
+                                        "date": "20231212"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117210847",
+                                        "kind": "A",
+                                        "name": "SANY HYDROGEN ENERGY CO LTD",
+                                        "date": "20231212"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117230467",
+                                        "name": "SANY HYDROGEN ENERGY CO LTD",
+                                        "date": "20231215"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117230467",
+                                        "kind": "A",
+                                        "name": "SANY HYDROGEN ENERGY CO LTD",
+                                        "date": "20231215"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117248233",
+                                        "name": "SANY HYDROGEN ENERGY CO LTD",
+                                        "date": "20231219"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117248233",
+                                        "kind": "A",
+                                        "name": "SANY HYDROGEN ENERGY CO LTD",
+                                        "date": "20231219"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117448858",
+                                        "name": "SANY HYDROGEN ENERGY CO LTD",
+                                        "date": "20240126"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117448858",
+                                        "kind": "A",
+                                        "name": "SANY HYDROGEN ENERGY CO LTD",
+                                        "date": "20240126"
+                                    }
+                                ]
+                            },
+                            "category": "A"
+                        },
+                        {
+                            "patcit": {
+                                "document-id": [
+                                    {
+                                        "doc-number": "CN117568839",
+                                        "name": "SANY HYDROGEN ENERGY CO LTD",
+                                        "date": "20240220"
+                                    },
+                                    {
+                                        "country": "CN",
+                                        "doc-number": "117568839",
+                                        "kind": "A",
+                                        "name": "SANY HYDROGEN ENERGY CO LTD",
+                                        "date": "20240220"
+                                    }
+                                ]
+                            },
+                            "category": "Y"
+                        }
+                    ]
+                }
+            },
+            "abstract": [
+                {
+                    "p": "The bipolar plate structure comprises a plurality of first bipolar plates and a plurality of second bipolar plates, wherein the first bipolar plates and the second bipolar plates are alternately arranged; the plurality of membrane electrode assemblies are arranged between any first bipolar plate and any second bipolar plate; the two ends of each bipolar plate are respectively provided with a plurality of cavity openings, and each cavity opening is respectively provided with a sealing groove which is used for surrounding each cavity opening and accommodating a sealing strip on the anode side and the cathode side of each bipolar plate; each sealing strip arranged on the anode side of any bipolar plate and each sealing strip arranged on the cathode side of the adjacent bipolar plate are symmetrically sealed relative to one membrane electrode assembly; each sealing strip arranged on the cathode side of any bipolar plate and each sealing strip arranged on the anode side of the adjacent bipolar plate are symmetrically sealed relative to one membrane electrode assembly; and the positions of the plurality of cavity openings in the first bipolar plate are opposite to those of the plurality of cavity openings in the second bipolar plate."
+                },
+                {
+                    "p": "本申请公开了一种用于电解槽的双极板结构，包括：交替布置的多个第一双极板和多个第二双极板；及设置在任意一个第一双极板和任意一个第二双极板之间的多个膜电极组件；在每个双极板的两端处均分别设置有多个腔口，每个腔口在每个双极板的阳极侧上和阴极侧上均分别设置有用于围绕每个腔口并容纳密封条的密封槽；设置在任意一个双极板的阳极侧上的每个密封条与设置在相邻双极板的阴极侧上的每个密封条相对于一个膜电极组件对称地密封，且设置在任意一个双极板的阴极侧上的每个密封条与设置在相邻双极板的阳极侧上的每个密封条相对于一个膜电极组件对称地密封；第一双极板的多个腔口的位置与第二双极板中的多个腔口的位置相反。"
+                }
+            ]
+        }
+    }
+}
