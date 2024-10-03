@@ -110,31 +110,40 @@ print(f'Non isolated patents shape: {non_isolated_patents_df.shape}')
 path = '../extraction/biblio_output/'
 patents = utils.get_patents_citations(path)
 abstract_dict = {patent['patent_number']: patent.get('abstract', 'Unavailable information') for patent in patents}
+invention_title_dict = {patent['patent_number']: patent.get('invention_title', 'Unavailable information') for patent in patents}
 
 # Load the graph
 G_to_plot = nx.read_edgelist("graphs/non_isolated_graph.edgelist", create_using=nx.DiGraph())
 
-# Add the abstract to the nodes
+# Add the abstract and title to the nodes
 for node in G_to_plot.nodes():
     if G_to_plot.nodes[node].get('abstract', 'Unavailable information') == 'Unavailable information':
         if node in abstract_dict:
             G_to_plot.nodes[node]['abstract'] = abstract_dict[node]
+    if G_to_plot.nodes[node].get('invention_title', 'Unavailable information') == 'Unavailable information':
+        if node in invention_title_dict:
+            G_to_plot.nodes[node]['invention_title'] = invention_title_dict[node]
 
 # Generate the interactive plot
 net = Network(notebook=True, height="1000px", width="100%", directed=True)
 for node, degree in G_to_plot.nodes(data=True):
-    title = G_to_plot.nodes[node].get('invention_title', 'Unavailable information')
+    title = "Title: " + G_to_plot.nodes[node].get('invention_title', 'Unavailable information')
     abstract = G_to_plot.nodes[node].get('abstract', 'Unavailable information')
     wrapped_title = "\n".join(textwrap.wrap(title, width=80))
-    truncated_abstract = utils.truncate_text(abstract, 100)
+    truncated_abstract = utils.truncate_text("Abstract: " + abstract, 70)
+    wrapped_abstract = "\n".join(textwrap.wrap(truncated_abstract, width=80))
+    in_degree = G_to_plot.in_degree(node)
+    out_degree = G_to_plot.out_degree(node)
+    patents_cited = 'patent' if in_degree == 1 else 'patents'
+    patents_citing = 'patent' if out_degree == 1 else 'patents'
     info_node = (
-        f"Title: {title}<br>"
-        f"Cited by {G_to_plot.in_degree(node)} patents<br>"
-        f"Citing {G_to_plot.out_degree(node)} patents<br>"
-        f"Abstract: <span data-truncated='{truncated_abstract}' data-fulltext='{abstract}'>{truncated_abstract}</span>"
+        f"{wrapped_title}\n"
+        f"Cited by {in_degree} {patents_cited}\n"
+        f"Citing {out_degree} {patents_citing}\n"
+        f"{wrapped_abstract}"
     )
-    G_to_plot.nodes[node]['size'] = len(list(G_to_plot.neighbors(node))) * 3
-    size = len(list(G_to_plot.neighbors(node))) * 3 if G_to_plot.out_degree(node) > 0 else 10
+    size = len(list(G_to_plot.neighbors(node))) * 3 if out_degree > 0 else 10
+    G_to_plot.nodes[node]['size'] = size
     net.add_node(node, label=node, title=info_node, size=size)
 for source, target in G_to_plot.edges():
     net.add_edge(source, target)
@@ -143,6 +152,6 @@ net.show("interactive_plots/interactive_plot.html")
 with open("interactive_plots/interactive_plot.html", "r") as f:
     html_content = f.read()
 title_html = "<h1 style='text-align: center;'>Citation Network of Patents (Filtered: Non-Isolated)</h1>\n"
-html_content = html_content.replace("<body>", f"<body>\n{title_html}\n{utils.expandable_script}")
+html_content = html_content.replace("<body>", f"<body>\n{title_html}")
 with open("interactive_plots/interactive_plot.html", "w") as f:
     f.write(html_content)

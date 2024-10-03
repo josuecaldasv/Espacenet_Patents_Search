@@ -179,8 +179,7 @@ def normalize_text(text):
 def truncate_text(text, word_limit):
     words = text.split()
     if len(words) > word_limit:
-        truncated = " ".join(words[:word_limit])
-        return truncated + " <a href='#' onclick='toggleAbstract(event)'>...</a>"
+        return " ".join(words[:word_limit]) + " [...]"
     return text
 
 
